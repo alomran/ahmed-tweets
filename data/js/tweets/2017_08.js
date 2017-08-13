@@ -1,6 +1,3362 @@
 Grailbird.data.tweets_2017_08 = 
 [
 	{
+		"created_at": "Sun Aug 13 21:13:43 +0000 2017",
+		"id": 896842222888403000,
+		"id_str": "896842222888402944",
+		"text": "Vox analyzed 17 months of “Fox &amp; Friends” transcripts. They found it far weirder than state-run media https://t.co/0GZM6y2QwZ",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/0GZM6y2QwZ",
+					"expanded_url": "https://www.vox.com/2017/8/7/16083122/breakfast-club-fox-and-friends",
+					"display_url": "vox.com/2017/8/7/16083…",
+					"indices": [
+						106,
+						129
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 5242,
+			"id_str": "5242",
+			"name": "Ahmed Al Omran",
+			"screen_name": "ahmed",
+			"location": "Saudi Arabia",
+			"description": "Journalist · Ex-@WSJ Saudi correspondent · Columbia J-School alum · Email: alomran (at) gmail dot com",
+			"url": "http://t.co/1tckurrksd",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/1tckurrksd",
+							"expanded_url": "http://alomran.me",
+							"display_url": "alomran.me",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 126125,
+			"friends_count": 1943,
+			"listed_count": 2490,
+			"created_at": "Mon Sep 04 00:18:12 +0000 2006",
+			"favourites_count": 4956,
+			"utc_offset": 10800,
+			"time_zone": "Riyadh",
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 91338,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "CCCCCC",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000169043951/1sV3etUz.png",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000169043951/1sV3etUz.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/896469551990194176/8TYichsC_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/896469551990194176/8TYichsC_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/5242/1471042749",
+			"profile_link_color": "0790EB",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "99CC33",
+			"profile_text_color": "3E4415",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 5,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Sun Aug 13 20:08:48 +0000 2017",
+		"id": 896825886892331000,
+		"id_str": "896825886892331008",
+		"text": "Not enough contrast https://t.co/PZUKY90NW4",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 896825855271465000,
+					"id_str": "896825855271464960",
+					"indices": [
+						20,
+						43
+					],
+					"media_url": "http://pbs.twimg.com/media/DHIqXSDXcAAxOr5.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DHIqXSDXcAAxOr5.jpg",
+					"url": "https://t.co/PZUKY90NW4",
+					"display_url": "pic.twitter.com/PZUKY90NW4",
+					"expanded_url": "https://twitter.com/ahmed/status/896825886892331008/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 896825855271465000,
+					"id_str": "896825855271464960",
+					"indices": [
+						20,
+						43
+					],
+					"media_url": "http://pbs.twimg.com/media/DHIqXSDXcAAxOr5.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DHIqXSDXcAAxOr5.jpg",
+					"url": "https://t.co/PZUKY90NW4",
+					"display_url": "pic.twitter.com/PZUKY90NW4",
+					"expanded_url": "https://twitter.com/ahmed/status/896825886892331008/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 5242,
+			"id_str": "5242",
+			"name": "Ahmed Al Omran",
+			"screen_name": "ahmed",
+			"location": "Saudi Arabia",
+			"description": "Journalist · Ex-@WSJ Saudi correspondent · Columbia J-School alum · Email: alomran (at) gmail dot com",
+			"url": "http://t.co/1tckurrksd",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/1tckurrksd",
+							"expanded_url": "http://alomran.me",
+							"display_url": "alomran.me",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 126125,
+			"friends_count": 1943,
+			"listed_count": 2490,
+			"created_at": "Mon Sep 04 00:18:12 +0000 2006",
+			"favourites_count": 4956,
+			"utc_offset": 10800,
+			"time_zone": "Riyadh",
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 91338,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "CCCCCC",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000169043951/1sV3etUz.png",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000169043951/1sV3etUz.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/896469551990194176/8TYichsC_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/896469551990194176/8TYichsC_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/5242/1471042749",
+			"profile_link_color": "0790EB",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "99CC33",
+			"profile_text_color": "3E4415",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Sun Aug 13 20:06:04 +0000 2017",
+		"id": 896825201203306500,
+		"id_str": "896825201203306497",
+		"text": "Why is Real Madrid wearing their third kit? This is confusing https://t.co/B1nWBqV4sc",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 896825169234321400,
+					"id_str": "896825169234321409",
+					"indices": [
+						62,
+						85
+					],
+					"media_url": "http://pbs.twimg.com/media/DHIpvWXXYAEZhuC.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DHIpvWXXYAEZhuC.jpg",
+					"url": "https://t.co/B1nWBqV4sc",
+					"display_url": "pic.twitter.com/B1nWBqV4sc",
+					"expanded_url": "https://twitter.com/ahmed/status/896825201203306497/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 896825169234321400,
+					"id_str": "896825169234321409",
+					"indices": [
+						62,
+						85
+					],
+					"media_url": "http://pbs.twimg.com/media/DHIpvWXXYAEZhuC.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DHIpvWXXYAEZhuC.jpg",
+					"url": "https://t.co/B1nWBqV4sc",
+					"display_url": "pic.twitter.com/B1nWBqV4sc",
+					"expanded_url": "https://twitter.com/ahmed/status/896825201203306497/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 5242,
+			"id_str": "5242",
+			"name": "Ahmed Al Omran",
+			"screen_name": "ahmed",
+			"location": "Saudi Arabia",
+			"description": "Journalist · Ex-@WSJ Saudi correspondent · Columbia J-School alum · Email: alomran (at) gmail dot com",
+			"url": "http://t.co/1tckurrksd",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/1tckurrksd",
+							"expanded_url": "http://alomran.me",
+							"display_url": "alomran.me",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 126125,
+			"friends_count": 1943,
+			"listed_count": 2490,
+			"created_at": "Mon Sep 04 00:18:12 +0000 2006",
+			"favourites_count": 4956,
+			"utc_offset": 10800,
+			"time_zone": "Riyadh",
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 91338,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "CCCCCC",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000169043951/1sV3etUz.png",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000169043951/1sV3etUz.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/896469551990194176/8TYichsC_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/896469551990194176/8TYichsC_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/5242/1471042749",
+			"profile_link_color": "0790EB",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "99CC33",
+			"profile_text_color": "3E4415",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Sun Aug 13 20:00:05 +0000 2017",
+		"id": 896823693225021400,
+		"id_str": "896823693225021440",
+		"text": "Twitter is testing out Night Mode on its desktop website https://t.co/4mTr35SGVF",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/4mTr35SGVF",
+					"expanded_url": "https://9to5mac.com/2017/08/08/twitter-night-mode-desktop/",
+					"display_url": "9to5mac.com/2017/08/08/twi…",
+					"indices": [
+						57,
+						80
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 5242,
+			"id_str": "5242",
+			"name": "Ahmed Al Omran",
+			"screen_name": "ahmed",
+			"location": "Saudi Arabia",
+			"description": "Journalist · Ex-@WSJ Saudi correspondent · Columbia J-School alum · Email: alomran (at) gmail dot com",
+			"url": "http://t.co/1tckurrksd",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/1tckurrksd",
+							"expanded_url": "http://alomran.me",
+							"display_url": "alomran.me",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 126125,
+			"friends_count": 1943,
+			"listed_count": 2490,
+			"created_at": "Mon Sep 04 00:18:12 +0000 2006",
+			"favourites_count": 4956,
+			"utc_offset": 10800,
+			"time_zone": "Riyadh",
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 91338,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "CCCCCC",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000169043951/1sV3etUz.png",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000169043951/1sV3etUz.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/896469551990194176/8TYichsC_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/896469551990194176/8TYichsC_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/5242/1471042749",
+			"profile_link_color": "0790EB",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "99CC33",
+			"profile_text_color": "3E4415",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Sun Aug 13 19:39:06 +0000 2017",
+		"id": 896818411530895400,
+		"id_str": "896818411530895360",
+		"text": "Fans of Bill Simmons, fear not: @ringer isn’t pivoting to video anytime soon https://t.co/q6nbZa1W2o",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "ringer",
+					"name": "The Ringer",
+					"id": 4760694445,
+					"id_str": "4760694445",
+					"indices": [
+						32,
+						39
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/q6nbZa1W2o",
+					"expanded_url": "http://www.poynter.org/2017/with-its-new-site-the-ringer-is-giving-more-real-estate-to-podcasts-and-video-but-keeping-writing-front-and-center/469890/",
+					"display_url": "poynter.org/2017/with-its-…",
+					"indices": [
+						77,
+						100
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 5242,
+			"id_str": "5242",
+			"name": "Ahmed Al Omran",
+			"screen_name": "ahmed",
+			"location": "Saudi Arabia",
+			"description": "Journalist · Ex-@WSJ Saudi correspondent · Columbia J-School alum · Email: alomran (at) gmail dot com",
+			"url": "http://t.co/1tckurrksd",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/1tckurrksd",
+							"expanded_url": "http://alomran.me",
+							"display_url": "alomran.me",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 126125,
+			"friends_count": 1943,
+			"listed_count": 2490,
+			"created_at": "Mon Sep 04 00:18:12 +0000 2006",
+			"favourites_count": 4956,
+			"utc_offset": 10800,
+			"time_zone": "Riyadh",
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 91338,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "CCCCCC",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000169043951/1sV3etUz.png",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000169043951/1sV3etUz.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/896469551990194176/8TYichsC_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/896469551990194176/8TYichsC_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/5242/1471042749",
+			"profile_link_color": "0790EB",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "99CC33",
+			"profile_text_color": "3E4415",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Sun Aug 13 19:25:40 +0000 2017",
+		"id": 896815034298323000,
+		"id_str": "896815034298322944",
+		"text": "UK saw Kuwait invasion as “unparalleled opportunity” to sell arms to Gulf states, declassified documents show https://t.co/4uMkYlJlnp",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/4uMkYlJlnp",
+					"expanded_url": "https://www.theguardian.com/world/2017/aug/12/arms-trade-margaret-thatcher-kuwait-saddam-hussein",
+					"display_url": "theguardian.com/world/2017/aug…",
+					"indices": [
+						110,
+						133
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 5242,
+			"id_str": "5242",
+			"name": "Ahmed Al Omran",
+			"screen_name": "ahmed",
+			"location": "Saudi Arabia",
+			"description": "Journalist · Ex-@WSJ Saudi correspondent · Columbia J-School alum · Email: alomran (at) gmail dot com",
+			"url": "http://t.co/1tckurrksd",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/1tckurrksd",
+							"expanded_url": "http://alomran.me",
+							"display_url": "alomran.me",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 126125,
+			"friends_count": 1943,
+			"listed_count": 2490,
+			"created_at": "Mon Sep 04 00:18:12 +0000 2006",
+			"favourites_count": 4956,
+			"utc_offset": 10800,
+			"time_zone": "Riyadh",
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 91338,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "CCCCCC",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000169043951/1sV3etUz.png",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000169043951/1sV3etUz.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/896469551990194176/8TYichsC_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/896469551990194176/8TYichsC_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/5242/1471042749",
+			"profile_link_color": "0790EB",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "99CC33",
+			"profile_text_color": "3E4415",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 12,
+		"favorite_count": 7,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Sun Aug 13 19:20:50 +0000 2017",
+		"id": 896813815437738000,
+		"id_str": "896813815437737985",
+		"text": "Lessons that @SamiTokhais learned when he took a month-long social media detox https://t.co/zDUF6lEEav",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "SamiTokhais",
+					"name": "Sami T.",
+					"id": 15446804,
+					"id_str": "15446804",
+					"indices": [
+						13,
+						25
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/zDUF6lEEav",
+					"expanded_url": "http://samitphotography.com/blog/2017/8/12/social-media-detox-lessons-learned",
+					"display_url": "samitphotography.com/blog/2017/8/12…",
+					"indices": [
+						79,
+						102
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 5242,
+			"id_str": "5242",
+			"name": "Ahmed Al Omran",
+			"screen_name": "ahmed",
+			"location": "Saudi Arabia",
+			"description": "Journalist · Ex-@WSJ Saudi correspondent · Columbia J-School alum · Email: alomran (at) gmail dot com",
+			"url": "http://t.co/1tckurrksd",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/1tckurrksd",
+							"expanded_url": "http://alomran.me",
+							"display_url": "alomran.me",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 126125,
+			"friends_count": 1943,
+			"listed_count": 2490,
+			"created_at": "Mon Sep 04 00:18:12 +0000 2006",
+			"favourites_count": 4956,
+			"utc_offset": 10800,
+			"time_zone": "Riyadh",
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 91338,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "CCCCCC",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000169043951/1sV3etUz.png",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000169043951/1sV3etUz.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/896469551990194176/8TYichsC_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/896469551990194176/8TYichsC_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/5242/1471042749",
+			"profile_link_color": "0790EB",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "99CC33",
+			"profile_text_color": "3E4415",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Sun Aug 13 19:09:33 +0000 2017",
+		"id": 896810975583547400,
+		"id_str": "896810975583547392",
+		"text": "Member of UAE ruling family injured in Yemen helicopter crash https://t.co/qMOm0t10T1",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/qMOm0t10T1",
+					"expanded_url": "https://www.thenational.ae/uae/prayers-for-the-swift-recovery-of-sheikh-zayed-bin-hamdan-and-other-soldiers-injured-in-yemen-helicopter-crash-1.619229",
+					"display_url": "thenational.ae/uae/prayers-fo…",
+					"indices": [
+						62,
+						85
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 5242,
+			"id_str": "5242",
+			"name": "Ahmed Al Omran",
+			"screen_name": "ahmed",
+			"location": "Saudi Arabia",
+			"description": "Journalist · Ex-@WSJ Saudi correspondent · Columbia J-School alum · Email: alomran (at) gmail dot com",
+			"url": "http://t.co/1tckurrksd",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/1tckurrksd",
+							"expanded_url": "http://alomran.me",
+							"display_url": "alomran.me",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 126125,
+			"friends_count": 1943,
+			"listed_count": 2490,
+			"created_at": "Mon Sep 04 00:18:12 +0000 2006",
+			"favourites_count": 4956,
+			"utc_offset": 10800,
+			"time_zone": "Riyadh",
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 91338,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "CCCCCC",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000169043951/1sV3etUz.png",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000169043951/1sV3etUz.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/896469551990194176/8TYichsC_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/896469551990194176/8TYichsC_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/5242/1471042749",
+			"profile_link_color": "0790EB",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "99CC33",
+			"profile_text_color": "3E4415",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Sun Aug 13 17:20:08 +0000 2017",
+		"id": 896783440615317500,
+		"id_str": "896783440615317504",
+		"text": "Syria’s Assad has become an unexpected icon of the far right in America https://t.co/h5ox0OwCqp",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/h5ox0OwCqp",
+					"expanded_url": "http://wapo.st/2wUDGN1",
+					"display_url": "wapo.st/2wUDGN1",
+					"indices": [
+						72,
+						95
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 5242,
+			"id_str": "5242",
+			"name": "Ahmed Al Omran",
+			"screen_name": "ahmed",
+			"location": "Saudi Arabia",
+			"description": "Journalist · Ex-@WSJ Saudi correspondent · Columbia J-School alum · Email: alomran (at) gmail dot com",
+			"url": "http://t.co/1tckurrksd",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/1tckurrksd",
+							"expanded_url": "http://alomran.me",
+							"display_url": "alomran.me",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 126125,
+			"friends_count": 1943,
+			"listed_count": 2490,
+			"created_at": "Mon Sep 04 00:18:12 +0000 2006",
+			"favourites_count": 4956,
+			"utc_offset": 10800,
+			"time_zone": "Riyadh",
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 91338,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "CCCCCC",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000169043951/1sV3etUz.png",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000169043951/1sV3etUz.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/896469551990194176/8TYichsC_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/896469551990194176/8TYichsC_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/5242/1471042749",
+			"profile_link_color": "0790EB",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "99CC33",
+			"profile_text_color": "3E4415",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Sun Aug 13 17:18:19 +0000 2017",
+		"id": 896782985550221300,
+		"id_str": "896782985550221312",
+		"text": "How Saudi-made app Sarahah is becoming a self-esteem machine https://t.co/JtHa3qCGmW",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/JtHa3qCGmW",
+					"expanded_url": "https://www.theverge.com/2017/8/13/16127170/sarahah-app-anonymous-messages-feedback",
+					"display_url": "theverge.com/2017/8/13/1612…",
+					"indices": [
+						61,
+						84
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 5242,
+			"id_str": "5242",
+			"name": "Ahmed Al Omran",
+			"screen_name": "ahmed",
+			"location": "Saudi Arabia",
+			"description": "Journalist · Ex-@WSJ Saudi correspondent · Columbia J-School alum · Email: alomran (at) gmail dot com",
+			"url": "http://t.co/1tckurrksd",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/1tckurrksd",
+							"expanded_url": "http://alomran.me",
+							"display_url": "alomran.me",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 126125,
+			"friends_count": 1943,
+			"listed_count": 2490,
+			"created_at": "Mon Sep 04 00:18:12 +0000 2006",
+			"favourites_count": 4956,
+			"utc_offset": 10800,
+			"time_zone": "Riyadh",
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 91338,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "CCCCCC",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000169043951/1sV3etUz.png",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000169043951/1sV3etUz.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/896469551990194176/8TYichsC_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/896469551990194176/8TYichsC_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/5242/1471042749",
+			"profile_link_color": "0790EB",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "99CC33",
+			"profile_text_color": "3E4415",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Sun Aug 13 17:16:06 +0000 2017",
+		"id": 896782424272588800,
+		"id_str": "896782424272588805",
+		"text": "Hezbollah says US can't hurt it, dismisses sanctions https://t.co/LfZ6hAXfKG",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/LfZ6hAXfKG",
+					"expanded_url": "https://reut.rs/2wG9GoR",
+					"display_url": "reut.rs/2wG9GoR",
+					"indices": [
+						53,
+						76
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 5242,
+			"id_str": "5242",
+			"name": "Ahmed Al Omran",
+			"screen_name": "ahmed",
+			"location": "Saudi Arabia",
+			"description": "Journalist · Ex-@WSJ Saudi correspondent · Columbia J-School alum · Email: alomran (at) gmail dot com",
+			"url": "http://t.co/1tckurrksd",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/1tckurrksd",
+							"expanded_url": "http://alomran.me",
+							"display_url": "alomran.me",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 126125,
+			"friends_count": 1943,
+			"listed_count": 2490,
+			"created_at": "Mon Sep 04 00:18:12 +0000 2006",
+			"favourites_count": 4956,
+			"utc_offset": 10800,
+			"time_zone": "Riyadh",
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 91338,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "CCCCCC",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000169043951/1sV3etUz.png",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000169043951/1sV3etUz.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/896469551990194176/8TYichsC_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/896469551990194176/8TYichsC_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/5242/1471042749",
+			"profile_link_color": "0790EB",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "99CC33",
+			"profile_text_color": "3E4415",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Sun Aug 13 17:05:00 +0000 2017",
+		"id": 896779632736845800,
+		"id_str": "896779632736845825",
+		"text": "For Trump, there is no past; only himself, rising as a self-creation out of the mist. https://t.co/DuHDxyMKdZ",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/DuHDxyMKdZ",
+					"expanded_url": "http://politi.co/2wUZDvF",
+					"display_url": "politi.co/2wUZDvF",
+					"indices": [
+						86,
+						109
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 5242,
+			"id_str": "5242",
+			"name": "Ahmed Al Omran",
+			"screen_name": "ahmed",
+			"location": "Saudi Arabia",
+			"description": "Journalist · Ex-@WSJ Saudi correspondent · Columbia J-School alum · Email: alomran (at) gmail dot com",
+			"url": "http://t.co/1tckurrksd",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/1tckurrksd",
+							"expanded_url": "http://alomran.me",
+							"display_url": "alomran.me",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 126125,
+			"friends_count": 1943,
+			"listed_count": 2490,
+			"created_at": "Mon Sep 04 00:18:12 +0000 2006",
+			"favourites_count": 4956,
+			"utc_offset": 10800,
+			"time_zone": "Riyadh",
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 91338,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "CCCCCC",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000169043951/1sV3etUz.png",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000169043951/1sV3etUz.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/896469551990194176/8TYichsC_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/896469551990194176/8TYichsC_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/5242/1471042749",
+			"profile_link_color": "0790EB",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "99CC33",
+			"profile_text_color": "3E4415",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Sun Aug 13 16:20:24 +0000 2017",
+		"id": 896768409223942100,
+		"id_str": "896768409223942144",
+		"text": "Iraqi cleric Muqtada al-Sadr plans to visit UAE today following his visit to Saudi Arabia last month https://t.co/J0Cc8YG2Sf",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/J0Cc8YG2Sf",
+					"expanded_url": "https://reut.rs/2uSlrX5",
+					"display_url": "reut.rs/2uSlrX5",
+					"indices": [
+						101,
+						124
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 5242,
+			"id_str": "5242",
+			"name": "Ahmed Al Omran",
+			"screen_name": "ahmed",
+			"location": "Saudi Arabia",
+			"description": "Journalist · Ex-@WSJ Saudi correspondent · Columbia J-School alum · Email: alomran (at) gmail dot com",
+			"url": "http://t.co/1tckurrksd",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/1tckurrksd",
+							"expanded_url": "http://alomran.me",
+							"display_url": "alomran.me",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 126125,
+			"friends_count": 1943,
+			"listed_count": 2490,
+			"created_at": "Mon Sep 04 00:18:12 +0000 2006",
+			"favourites_count": 4956,
+			"utc_offset": 10800,
+			"time_zone": "Riyadh",
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 91338,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "CCCCCC",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000169043951/1sV3etUz.png",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000169043951/1sV3etUz.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/896469551990194176/8TYichsC_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/896469551990194176/8TYichsC_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/5242/1471042749",
+			"profile_link_color": "0790EB",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "99CC33",
+			"profile_text_color": "3E4415",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 10,
+		"favorite_count": 7,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Sun Aug 13 16:17:19 +0000 2017",
+		"id": 896767635064410100,
+		"id_str": "896767635064410112",
+		"text": "23 things Americans don’t realize are weird https://t.co/NdzjzKgRUw",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/NdzjzKgRUw",
+					"expanded_url": "http://bzfd.it/2uAlefV",
+					"display_url": "bzfd.it/2uAlefV",
+					"indices": [
+						44,
+						67
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 5242,
+			"id_str": "5242",
+			"name": "Ahmed Al Omran",
+			"screen_name": "ahmed",
+			"location": "Saudi Arabia",
+			"description": "Journalist · Ex-@WSJ Saudi correspondent · Columbia J-School alum · Email: alomran (at) gmail dot com",
+			"url": "http://t.co/1tckurrksd",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/1tckurrksd",
+							"expanded_url": "http://alomran.me",
+							"display_url": "alomran.me",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 126125,
+			"friends_count": 1943,
+			"listed_count": 2490,
+			"created_at": "Mon Sep 04 00:18:12 +0000 2006",
+			"favourites_count": 4956,
+			"utc_offset": 10800,
+			"time_zone": "Riyadh",
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 91338,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "CCCCCC",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000169043951/1sV3etUz.png",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000169043951/1sV3etUz.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/896469551990194176/8TYichsC_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/896469551990194176/8TYichsC_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/5242/1471042749",
+			"profile_link_color": "0790EB",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "99CC33",
+			"profile_text_color": "3E4415",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 5,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Sun Aug 13 16:11:26 +0000 2017",
+		"id": 896766151413215200,
+		"id_str": "896766151413215232",
+		"text": "Shirtless McDonald’s customer punches worker over wait for fries https://t.co/JCEhTUAw97",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/JCEhTUAw97",
+					"expanded_url": "http://fxn.ws/2wHvxeQ",
+					"display_url": "fxn.ws/2wHvxeQ",
+					"indices": [
+						65,
+						88
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 5242,
+			"id_str": "5242",
+			"name": "Ahmed Al Omran",
+			"screen_name": "ahmed",
+			"location": "Saudi Arabia",
+			"description": "Journalist · Ex-@WSJ Saudi correspondent · Columbia J-School alum · Email: alomran (at) gmail dot com",
+			"url": "http://t.co/1tckurrksd",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/1tckurrksd",
+							"expanded_url": "http://alomran.me",
+							"display_url": "alomran.me",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 126125,
+			"friends_count": 1943,
+			"listed_count": 2490,
+			"created_at": "Mon Sep 04 00:18:12 +0000 2006",
+			"favourites_count": 4956,
+			"utc_offset": 10800,
+			"time_zone": "Riyadh",
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 91338,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "CCCCCC",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000169043951/1sV3etUz.png",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000169043951/1sV3etUz.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/896469551990194176/8TYichsC_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/896469551990194176/8TYichsC_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/5242/1471042749",
+			"profile_link_color": "0790EB",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "99CC33",
+			"profile_text_color": "3E4415",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Sun Aug 13 15:05:14 +0000 2017",
+		"id": 896749493604896800,
+		"id_str": "896749493604896768",
+		"text": "Saudi-led bloc sent a letter to Tillerson reassuring him that US companies won’t be punished for working in Qatar https://t.co/OiZfAFa3l8",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/OiZfAFa3l8",
+					"expanded_url": "http://reut.rs/2uAj6Vs",
+					"display_url": "reut.rs/2uAj6Vs",
+					"indices": [
+						114,
+						137
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 5242,
+			"id_str": "5242",
+			"name": "Ahmed Al Omran",
+			"screen_name": "ahmed",
+			"location": "Saudi Arabia",
+			"description": "Journalist · Ex-@WSJ Saudi correspondent · Columbia J-School alum · Email: alomran (at) gmail dot com",
+			"url": "http://t.co/1tckurrksd",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/1tckurrksd",
+							"expanded_url": "http://alomran.me",
+							"display_url": "alomran.me",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 126125,
+			"friends_count": 1943,
+			"listed_count": 2490,
+			"created_at": "Mon Sep 04 00:18:12 +0000 2006",
+			"favourites_count": 4956,
+			"utc_offset": 10800,
+			"time_zone": "Riyadh",
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 91338,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "CCCCCC",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000169043951/1sV3etUz.png",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000169043951/1sV3etUz.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/896469551990194176/8TYichsC_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/896469551990194176/8TYichsC_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/5242/1471042749",
+			"profile_link_color": "0790EB",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "99CC33",
+			"profile_text_color": "3E4415",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Sun Aug 13 14:18:18 +0000 2017",
+		"id": 896737682751012900,
+		"id_str": "896737682751012864",
+		"text": "Best super-sub: Giroud is the rare football player whose most dangerous position might be on the bench https://t.co/2yqk4yQKKE",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/2yqk4yQKKE",
+					"expanded_url": "http://on.wsj.com/2uAbhiw",
+					"display_url": "on.wsj.com/2uAbhiw",
+					"indices": [
+						103,
+						126
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 5242,
+			"id_str": "5242",
+			"name": "Ahmed Al Omran",
+			"screen_name": "ahmed",
+			"location": "Saudi Arabia",
+			"description": "Journalist · Ex-@WSJ Saudi correspondent · Columbia J-School alum · Email: alomran (at) gmail dot com",
+			"url": "http://t.co/1tckurrksd",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/1tckurrksd",
+							"expanded_url": "http://alomran.me",
+							"display_url": "alomran.me",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 126125,
+			"friends_count": 1943,
+			"listed_count": 2490,
+			"created_at": "Mon Sep 04 00:18:12 +0000 2006",
+			"favourites_count": 4956,
+			"utc_offset": 10800,
+			"time_zone": "Riyadh",
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 91338,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "CCCCCC",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000169043951/1sV3etUz.png",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000169043951/1sV3etUz.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/896469551990194176/8TYichsC_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/896469551990194176/8TYichsC_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/5242/1471042749",
+			"profile_link_color": "0790EB",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "99CC33",
+			"profile_text_color": "3E4415",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Sun Aug 13 13:28:53 +0000 2017",
+		"id": 896725245846995000,
+		"id_str": "896725245846994945",
+		"text": "Saudi Twitter users called in for questioning over tweets that allegedly “affect moderate ideology of society” https://t.co/2BMKf0gBE2",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/2BMKf0gBE2",
+					"expanded_url": "http://www.alriyadh.com/1616205",
+					"display_url": "alriyadh.com/1616205",
+					"indices": [
+						111,
+						134
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 896699312653992000,
+		"in_reply_to_status_id_str": "896699312653991937",
+		"in_reply_to_user_id": 5242,
+		"in_reply_to_user_id_str": "5242",
+		"in_reply_to_screen_name": "ahmed",
+		"user": {
+			"id": 5242,
+			"id_str": "5242",
+			"name": "Ahmed Al Omran",
+			"screen_name": "ahmed",
+			"location": "Saudi Arabia",
+			"description": "Journalist · Ex-@WSJ Saudi correspondent · Columbia J-School alum · Email: alomran (at) gmail dot com",
+			"url": "http://t.co/1tckurrksd",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/1tckurrksd",
+							"expanded_url": "http://alomran.me",
+							"display_url": "alomran.me",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 126125,
+			"friends_count": 1943,
+			"listed_count": 2490,
+			"created_at": "Mon Sep 04 00:18:12 +0000 2006",
+			"favourites_count": 4956,
+			"utc_offset": 10800,
+			"time_zone": "Riyadh",
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 91338,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "CCCCCC",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000169043951/1sV3etUz.png",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000169043951/1sV3etUz.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/896469551990194176/8TYichsC_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/896469551990194176/8TYichsC_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/5242/1471042749",
+			"profile_link_color": "0790EB",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "99CC33",
+			"profile_text_color": "3E4415",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 11,
+		"favorite_count": 6,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Sun Aug 13 12:56:56 +0000 2017",
+		"id": 896717206481850400,
+		"id_str": "896717206481850369",
+		"text": "Emergency workers are battling to contain an oil spill near a joint Kuwaiti-Saudi oilfield in the Gulf https://t.co/DUqxoPz3W0",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/DUqxoPz3W0",
+					"expanded_url": "http://gulfnews.com/news/gulf/kuwait/emergency-teams-battle-oil-spill-off-kuwait-1.2073226",
+					"display_url": "gulfnews.com/news/gulf/kuwa…",
+					"indices": [
+						103,
+						126
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 5242,
+			"id_str": "5242",
+			"name": "Ahmed Al Omran",
+			"screen_name": "ahmed",
+			"location": "Saudi Arabia",
+			"description": "Journalist · Ex-@WSJ Saudi correspondent · Columbia J-School alum · Email: alomran (at) gmail dot com",
+			"url": "http://t.co/1tckurrksd",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/1tckurrksd",
+							"expanded_url": "http://alomran.me",
+							"display_url": "alomran.me",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 126125,
+			"friends_count": 1943,
+			"listed_count": 2490,
+			"created_at": "Mon Sep 04 00:18:12 +0000 2006",
+			"favourites_count": 4956,
+			"utc_offset": 10800,
+			"time_zone": "Riyadh",
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 91338,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "CCCCCC",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000169043951/1sV3etUz.png",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000169043951/1sV3etUz.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/896469551990194176/8TYichsC_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/896469551990194176/8TYichsC_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/5242/1471042749",
+			"profile_link_color": "0790EB",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "99CC33",
+			"profile_text_color": "3E4415",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Sun Aug 13 12:50:28 +0000 2017",
+		"id": 896715578970263600,
+		"id_str": "896715578970263554",
+		"text": "@thomas looking forward to the Pownce revival :)",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "thomas",
+					"name": "Thomas Marban",
+					"id": 11472,
+					"id_str": "11472",
+					"indices": [
+						0,
+						7
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": 11472,
+		"in_reply_to_user_id_str": "11472",
+		"in_reply_to_screen_name": "thomas",
+		"user": {
+			"id": 5242,
+			"id_str": "5242",
+			"name": "Ahmed Al Omran",
+			"screen_name": "ahmed",
+			"location": "Saudi Arabia",
+			"description": "Journalist · Ex-@WSJ Saudi correspondent · Columbia J-School alum · Email: alomran (at) gmail dot com",
+			"url": "http://t.co/1tckurrksd",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/1tckurrksd",
+							"expanded_url": "http://alomran.me",
+							"display_url": "alomran.me",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 126125,
+			"friends_count": 1943,
+			"listed_count": 2490,
+			"created_at": "Mon Sep 04 00:18:12 +0000 2006",
+			"favourites_count": 4956,
+			"utc_offset": 10800,
+			"time_zone": "Riyadh",
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 91338,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "CCCCCC",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000169043951/1sV3etUz.png",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000169043951/1sV3etUz.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/896469551990194176/8TYichsC_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/896469551990194176/8TYichsC_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/5242/1471042749",
+			"profile_link_color": "0790EB",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "99CC33",
+			"profile_text_color": "3E4415",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Sun Aug 13 12:26:36 +0000 2017",
+		"id": 896709572471046100,
+		"id_str": "896709572471046144",
+		"text": "Read the news like it’s 2006 https://t.co/Ifzoix021m",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Ifzoix021m",
+					"expanded_url": "https://medium.com/@thomas/popurls-goes-hvper-2867b1b6b2bd",
+					"display_url": "medium.com/@thomas/popurl…",
+					"indices": [
+						29,
+						52
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 5242,
+			"id_str": "5242",
+			"name": "Ahmed Al Omran",
+			"screen_name": "ahmed",
+			"location": "Saudi Arabia",
+			"description": "Journalist · Ex-@WSJ Saudi correspondent · Columbia J-School alum · Email: alomran (at) gmail dot com",
+			"url": "http://t.co/1tckurrksd",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/1tckurrksd",
+							"expanded_url": "http://alomran.me",
+							"display_url": "alomran.me",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 126125,
+			"friends_count": 1943,
+			"listed_count": 2490,
+			"created_at": "Mon Sep 04 00:18:12 +0000 2006",
+			"favourites_count": 4956,
+			"utc_offset": 10800,
+			"time_zone": "Riyadh",
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 91338,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "CCCCCC",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000169043951/1sV3etUz.png",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000169043951/1sV3etUz.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/896469551990194176/8TYichsC_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/896469551990194176/8TYichsC_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/5242/1471042749",
+			"profile_link_color": "0790EB",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "99CC33",
+			"profile_text_color": "3E4415",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Sun Aug 13 12:14:40 +0000 2017",
+		"id": 896706569601032200,
+		"id_str": "896706569601032192",
+		"text": "Remedy to hate speech is more speech, not enforced silence.",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 5242,
+			"id_str": "5242",
+			"name": "Ahmed Al Omran",
+			"screen_name": "ahmed",
+			"location": "Saudi Arabia",
+			"description": "Journalist · Ex-@WSJ Saudi correspondent · Columbia J-School alum · Email: alomran (at) gmail dot com",
+			"url": "http://t.co/1tckurrksd",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/1tckurrksd",
+							"expanded_url": "http://alomran.me",
+							"display_url": "alomran.me",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 126125,
+			"friends_count": 1943,
+			"listed_count": 2490,
+			"created_at": "Mon Sep 04 00:18:12 +0000 2006",
+			"favourites_count": 4956,
+			"utc_offset": 10800,
+			"time_zone": "Riyadh",
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 91338,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "CCCCCC",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000169043951/1sV3etUz.png",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000169043951/1sV3etUz.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/896469551990194176/8TYichsC_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/896469551990194176/8TYichsC_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/5242/1471042749",
+			"profile_link_color": "0790EB",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "99CC33",
+			"profile_text_color": "3E4415",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 11,
+		"favorite_count": 12,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Sun Aug 13 12:07:42 +0000 2017",
+		"id": 896704814578491400,
+		"id_str": "896704814578491393",
+		"text": "Saudi finance minister “confident” as Q2 report shows budget deficit shrank from year ago due to higher oil prices https://t.co/QDvuzjizor",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/QDvuzjizor",
+					"expanded_url": "http://reut.rs/2wUswrH",
+					"display_url": "reut.rs/2wUswrH",
+					"indices": [
+						115,
+						138
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 5242,
+			"id_str": "5242",
+			"name": "Ahmed Al Omran",
+			"screen_name": "ahmed",
+			"location": "Saudi Arabia",
+			"description": "Journalist · Ex-@WSJ Saudi correspondent · Columbia J-School alum · Email: alomran (at) gmail dot com",
+			"url": "http://t.co/1tckurrksd",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/1tckurrksd",
+							"expanded_url": "http://alomran.me",
+							"display_url": "alomran.me",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 126125,
+			"friends_count": 1943,
+			"listed_count": 2490,
+			"created_at": "Mon Sep 04 00:18:12 +0000 2006",
+			"favourites_count": 4956,
+			"utc_offset": 10800,
+			"time_zone": "Riyadh",
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 91338,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "CCCCCC",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000169043951/1sV3etUz.png",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000169043951/1sV3etUz.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/896469551990194176/8TYichsC_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/896469551990194176/8TYichsC_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/5242/1471042749",
+			"profile_link_color": "0790EB",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "99CC33",
+			"profile_text_color": "3E4415",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Sun Aug 13 11:45:50 +0000 2017",
+		"id": 896699312653992000,
+		"id_str": "896699312653991937",
+		"text": "Saudi public prosecutor to seek action against those who post statements that “damage society” in social media https://t.co/NytlGsl6Qr",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/NytlGsl6Qr",
+					"expanded_url": "http://www.spa.gov.sa/1656162",
+					"display_url": "spa.gov.sa/1656162",
+					"indices": [
+						111,
+						134
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 5242,
+			"id_str": "5242",
+			"name": "Ahmed Al Omran",
+			"screen_name": "ahmed",
+			"location": "Saudi Arabia",
+			"description": "Journalist · Ex-@WSJ Saudi correspondent · Columbia J-School alum · Email: alomran (at) gmail dot com",
+			"url": "http://t.co/1tckurrksd",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/1tckurrksd",
+							"expanded_url": "http://alomran.me",
+							"display_url": "alomran.me",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 126125,
+			"friends_count": 1943,
+			"listed_count": 2490,
+			"created_at": "Mon Sep 04 00:18:12 +0000 2006",
+			"favourites_count": 4956,
+			"utc_offset": 10800,
+			"time_zone": "Riyadh",
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 91338,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "CCCCCC",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000169043951/1sV3etUz.png",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000169043951/1sV3etUz.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/896469551990194176/8TYichsC_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/896469551990194176/8TYichsC_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/5242/1471042749",
+			"profile_link_color": "0790EB",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "99CC33",
+			"profile_text_color": "3E4415",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 16,
+		"favorite_count": 5,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Sun Aug 13 08:29:01 +0000 2017",
+		"id": 896649779517820900,
+		"id_str": "896649779517820928",
+		"text": "Reengineering elevators could transform 21st-century cities https://t.co/H7QSvFrFxQ",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/H7QSvFrFxQ",
+					"expanded_url": "https://theconversation.com/reengineering-elevators-could-transform-21st-century-cities-81439",
+					"display_url": "theconversation.com/reengineering-…",
+					"indices": [
+						60,
+						83
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 5242,
+			"id_str": "5242",
+			"name": "Ahmed Al Omran",
+			"screen_name": "ahmed",
+			"location": "Saudi Arabia",
+			"description": "Journalist · Ex-@WSJ Saudi correspondent · Columbia J-School alum · Email: alomran (at) gmail dot com",
+			"url": "http://t.co/1tckurrksd",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/1tckurrksd",
+							"expanded_url": "http://alomran.me",
+							"display_url": "alomran.me",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 126125,
+			"friends_count": 1943,
+			"listed_count": 2490,
+			"created_at": "Mon Sep 04 00:18:12 +0000 2006",
+			"favourites_count": 4956,
+			"utc_offset": 10800,
+			"time_zone": "Riyadh",
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 91338,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "CCCCCC",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000169043951/1sV3etUz.png",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000169043951/1sV3etUz.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/896469551990194176/8TYichsC_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/896469551990194176/8TYichsC_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/5242/1471042749",
+			"profile_link_color": "0790EB",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "99CC33",
+			"profile_text_color": "3E4415",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 5,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Sun Aug 13 00:05:20 +0000 2017",
+		"id": 896523026535075800,
+		"id_str": "896523026535075844",
+		"text": "Abdulhussain Abdulredha, the Gulf’s most prominent actor and comedian, dies at age 78 https://t.co/9czqddJN7k",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/9czqddJN7k",
+					"expanded_url": "https://apnews.com/5a37b7f5469440e1a9691cff2232d051/State-run-KUNA:-Kuwaiti-actor-Abdulredha-dies-at-age-78",
+					"display_url": "apnews.com/5a37b7f5469440…",
+					"indices": [
+						86,
+						109
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 5242,
+			"id_str": "5242",
+			"name": "Ahmed Al Omran",
+			"screen_name": "ahmed",
+			"location": "Saudi Arabia",
+			"description": "Journalist · Ex-@WSJ Saudi correspondent · Columbia J-School alum · Email: alomran (at) gmail dot com",
+			"url": "http://t.co/1tckurrksd",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/1tckurrksd",
+							"expanded_url": "http://alomran.me",
+							"display_url": "alomran.me",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 126125,
+			"friends_count": 1943,
+			"listed_count": 2490,
+			"created_at": "Mon Sep 04 00:18:12 +0000 2006",
+			"favourites_count": 4956,
+			"utc_offset": 10800,
+			"time_zone": "Riyadh",
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 91338,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "CCCCCC",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000169043951/1sV3etUz.png",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000169043951/1sV3etUz.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/896469551990194176/8TYichsC_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/896469551990194176/8TYichsC_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/5242/1471042749",
+			"profile_link_color": "0790EB",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "99CC33",
+			"profile_text_color": "3E4415",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 6,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Sat Aug 12 23:52:43 +0000 2017",
+		"id": 896519849836372000,
+		"id_str": "896519849836371968",
+		"text": "Saudi regulator shutters main retail outlets of of STC, Mobily and Zain over violation of consumer protection rights https://t.co/QMbrd15nYz",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/QMbrd15nYz",
+					"expanded_url": "http://www.arabnews.com/node/1143891/saudi-arabia",
+					"display_url": "arabnews.com/node/1143891/s…",
+					"indices": [
+						117,
+						140
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 5242,
+			"id_str": "5242",
+			"name": "Ahmed Al Omran",
+			"screen_name": "ahmed",
+			"location": "Saudi Arabia",
+			"description": "Journalist · Ex-@WSJ Saudi correspondent · Columbia J-School alum · Email: alomran (at) gmail dot com",
+			"url": "http://t.co/1tckurrksd",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/1tckurrksd",
+							"expanded_url": "http://alomran.me",
+							"display_url": "alomran.me",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 126125,
+			"friends_count": 1943,
+			"listed_count": 2490,
+			"created_at": "Mon Sep 04 00:18:12 +0000 2006",
+			"favourites_count": 4956,
+			"utc_offset": 10800,
+			"time_zone": "Riyadh",
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 91338,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "CCCCCC",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000169043951/1sV3etUz.png",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000169043951/1sV3etUz.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/896469551990194176/8TYichsC_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/896469551990194176/8TYichsC_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/5242/1471042749",
+			"profile_link_color": "0790EB",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "99CC33",
+			"profile_text_color": "3E4415",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Sat Aug 12 23:35:09 +0000 2017",
+		"id": 896515427962044400,
+		"id_str": "896515427962044416",
+		"text": "Welcome back https://t.co/0tRcWj7JEk",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/0tRcWj7JEk",
+					"expanded_url": "https://twitter.com/JKhashoggi/status/896515210135179265",
+					"display_url": "twitter.com/JKhashoggi/sta…",
+					"indices": [
+						13,
+						36
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 5242,
+			"id_str": "5242",
+			"name": "Ahmed Al Omran",
+			"screen_name": "ahmed",
+			"location": "Saudi Arabia",
+			"description": "Journalist · Ex-@WSJ Saudi correspondent · Columbia J-School alum · Email: alomran (at) gmail dot com",
+			"url": "http://t.co/1tckurrksd",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/1tckurrksd",
+							"expanded_url": "http://alomran.me",
+							"display_url": "alomran.me",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 126125,
+			"friends_count": 1943,
+			"listed_count": 2490,
+			"created_at": "Mon Sep 04 00:18:12 +0000 2006",
+			"favourites_count": 4956,
+			"utc_offset": 10800,
+			"time_zone": "Riyadh",
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 91338,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "CCCCCC",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000169043951/1sV3etUz.png",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000169043951/1sV3etUz.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/896469551990194176/8TYichsC_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/896469551990194176/8TYichsC_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/5242/1471042749",
+			"profile_link_color": "0790EB",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "99CC33",
+			"profile_text_color": "3E4415",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 896515210135179300,
+		"quoted_status_id_str": "896515210135179265",
+		"quoted_status": {
+			"created_at": "Sat Aug 12 23:34:17 +0000 2017",
+			"id": 896515210135179300,
+			"id_str": "896515210135179265",
+			"text": "اعود للكتابة والتغريد، الشكر لمعالي وزير الاعلام لمساعيه الطيبة والشكر والولاء متصلان لسمو ولي العهد لا كُسر في عهده قلمٌ حر ولا سكت مغرد .",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 34239289,
+				"id_str": "34239289",
+				"name": "جمال خاشقجي",
+				"screen_name": "JKhashoggi",
+				"location": "",
+				"description": "صحفي    Journalist",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1367881,
+				"friends_count": 608,
+				"listed_count": 3148,
+				"created_at": "Wed Apr 22 10:46:22 +0000 2009",
+				"favourites_count": 2848,
+				"utc_offset": 10800,
+				"time_zone": "Riyadh",
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 45725,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "022330",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/795246750260985857/3xMoxMdN_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/795246750260985857/3xMoxMdN_normal.jpg",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "A8C7F7",
+				"profile_sidebar_fill_color": "C0DFEC",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "regular"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 3927,
+			"favorite_count": 2602,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "ar"
+		},
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Sat Aug 12 23:27:49 +0000 2017",
+		"id": 896513583839719400,
+		"id_str": "896513583839719424",
+		"text": "@PersianGulfOnly yes, reacting to the Bolt injury",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "PersianGulfOnly",
+					"name": "Persian Gulf",
+					"id": 824983188598571000,
+					"id_str": "824983188598571009",
+					"indices": [
+						0,
+						16
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 896481510076944400,
+		"in_reply_to_status_id_str": "896481510076944384",
+		"in_reply_to_user_id": 824983188598571000,
+		"in_reply_to_user_id_str": "824983188598571009",
+		"in_reply_to_screen_name": "PersianGulfOnly",
+		"user": {
+			"id": 5242,
+			"id_str": "5242",
+			"name": "Ahmed Al Omran",
+			"screen_name": "ahmed",
+			"location": "Saudi Arabia",
+			"description": "Journalist · Ex-@WSJ Saudi correspondent · Columbia J-School alum · Email: alomran (at) gmail dot com",
+			"url": "http://t.co/1tckurrksd",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/1tckurrksd",
+							"expanded_url": "http://alomran.me",
+							"display_url": "alomran.me",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 126125,
+			"friends_count": 1943,
+			"listed_count": 2490,
+			"created_at": "Mon Sep 04 00:18:12 +0000 2006",
+			"favourites_count": 4956,
+			"utc_offset": 10800,
+			"time_zone": "Riyadh",
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 91338,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "CCCCCC",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000169043951/1sV3etUz.png",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000169043951/1sV3etUz.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/896469551990194176/8TYichsC_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/896469551990194176/8TYichsC_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/5242/1471042749",
+			"profile_link_color": "0790EB",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "99CC33",
+			"profile_text_color": "3E4415",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Sat Aug 12 21:28:02 +0000 2017",
+		"id": 896483441109213200,
+		"id_str": "896483441109213184",
+		"text": "Saudi Arabia increases quota of Russian Muslims joining the hajj pilgrimage to 23,500 this year https://t.co/VuP0kC8ZG2",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/VuP0kC8ZG2",
+					"expanded_url": "https://www.rferl.org/a/saudi-arabia-increases-quota-russian-muslims-joining-hajj-7500-23500/28672548.html",
+					"display_url": "rferl.org/a/saudi-arabia…",
+					"indices": [
+						96,
+						119
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 5242,
+			"id_str": "5242",
+			"name": "Ahmed Al Omran",
+			"screen_name": "ahmed",
+			"location": "Saudi Arabia",
+			"description": "Journalist · Ex-@WSJ Saudi correspondent · Columbia J-School alum · Email: alomran (at) gmail dot com",
+			"url": "http://t.co/1tckurrksd",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/1tckurrksd",
+							"expanded_url": "http://alomran.me",
+							"display_url": "alomran.me",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 126125,
+			"friends_count": 1943,
+			"listed_count": 2490,
+			"created_at": "Mon Sep 04 00:18:12 +0000 2006",
+			"favourites_count": 4956,
+			"utc_offset": 10800,
+			"time_zone": "Riyadh",
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 91338,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "CCCCCC",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000169043951/1sV3etUz.png",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000169043951/1sV3etUz.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/896469551990194176/8TYichsC_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/896469551990194176/8TYichsC_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/5242/1471042749",
+			"profile_link_color": "0790EB",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "99CC33",
+			"profile_text_color": "3E4415",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 6,
+		"favorite_count": 6,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Sat Aug 12 21:17:26 +0000 2017",
+		"id": 896480772172861400,
+		"id_str": "896480772172861440",
+		"text": "Heartbreak for Bolt in his final race https://t.co/Upno5svXwg",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Upno5svXwg",
+					"expanded_url": "http://bbc.in/2uy9ivs",
+					"display_url": "bbc.in/2uy9ivs",
+					"indices": [
+						38,
+						61
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 5242,
+			"id_str": "5242",
+			"name": "Ahmed Al Omran",
+			"screen_name": "ahmed",
+			"location": "Saudi Arabia",
+			"description": "Journalist · Ex-@WSJ Saudi correspondent · Columbia J-School alum · Email: alomran (at) gmail dot com",
+			"url": "http://t.co/1tckurrksd",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/1tckurrksd",
+							"expanded_url": "http://alomran.me",
+							"display_url": "alomran.me",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 126125,
+			"friends_count": 1943,
+			"listed_count": 2490,
+			"created_at": "Mon Sep 04 00:18:12 +0000 2006",
+			"favourites_count": 4956,
+			"utc_offset": 10800,
+			"time_zone": "Riyadh",
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 91338,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "CCCCCC",
+			"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000169043951/1sV3etUz.png",
+			"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000169043951/1sV3etUz.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/896469551990194176/8TYichsC_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/896469551990194176/8TYichsC_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/5242/1471042749",
+			"profile_link_color": "0790EB",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "99CC33",
+			"profile_text_color": "3E4415",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Sat Aug 12 21:07:07 +0000 2017",
 		"id": 896478177010307100,
 		"id_str": "896478177010307073",
