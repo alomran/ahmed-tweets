@@ -1,6 +1,379 @@
 Grailbird.data.tweets_2018_09 = 
 [
 	{
+		"created_at": "Thu Sep 06 16:29:15 +0000 2018",
+		"id": 1037739516663091200,
+		"id_str": "1037739516663091200",
+		"text": "American trainer working with Saudi National Guard killed in helicopter crash in Riyadh https://t.co/xBWYTHyfdf",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/xBWYTHyfdf",
+					"expanded_url": "https://twitter.com/sanggovsa/status/1037651876488065025",
+					"display_url": "twitter.com/sanggovsa/stat…",
+					"indices": [
+						88,
+						111
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 5242,
+			"id_str": "5242",
+			"name": "Ahmed Al Omran",
+			"screen_name": "ahmed",
+			"location": "Saudi Arabia",
+			"description": "Reporter for @FT covering Saudi Arabia · Formerly with @WSJ and @NPR · Columbia J-School alum · Email: ahmed.alomran [at] ftdotcom",
+			"url": "http://t.co/1tckurrksd",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/1tckurrksd",
+							"expanded_url": "http://alomran.me",
+							"display_url": "alomran.me",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 149447,
+			"friends_count": 1930,
+			"listed_count": 2618,
+			"created_at": "Mon Sep 04 00:18:12 +0000 2006",
+			"favourites_count": 5317,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 97082,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "CCCCCC",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme5/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme5/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/981288787660689408/ORCJwxJV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/981288787660689408/ORCJwxJV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/5242/1471042749",
+			"profile_link_color": "0790EB",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "99CC33",
+			"profile_text_color": "3E4415",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1037651876488065000,
+		"quoted_status_id_str": "1037651876488065025",
+		"quoted_status": {
+			"created_at": "Thu Sep 06 10:41:00 +0000 2018",
+			"id": 1037651876488065000,
+			"id_str": "1037651876488065025",
+			"text": "بيان بخصوص سقوط طائرة تدريب صباح اليوم . https://t.co/WLBR2VXnTA",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1037651854447059000,
+						"id_str": "1037651854447058944",
+						"indices": [
+							41,
+							64
+						],
+						"media_url": "http://pbs.twimg.com/media/DmZ63SjXoAAY2T5.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DmZ63SjXoAAY2T5.jpg",
+						"url": "https://t.co/WLBR2VXnTA",
+						"display_url": "pic.twitter.com/WLBR2VXnTA",
+						"expanded_url": "https://twitter.com/sanggovsa/status/1037651876488065025/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 750,
+								"h": 715,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 750,
+								"h": 715,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 648,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1037651854447059000,
+						"id_str": "1037651854447058944",
+						"indices": [
+							41,
+							64
+						],
+						"media_url": "http://pbs.twimg.com/media/DmZ63SjXoAAY2T5.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DmZ63SjXoAAY2T5.jpg",
+						"url": "https://t.co/WLBR2VXnTA",
+						"display_url": "pic.twitter.com/WLBR2VXnTA",
+						"expanded_url": "https://twitter.com/sanggovsa/status/1037651876488065025/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 750,
+								"h": 715,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 750,
+								"h": 715,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 648,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 3140121900,
+				"id_str": "3140121900",
+				"name": "وزارة الحرس الوطني",
+				"screen_name": "sanggovsa",
+				"location": "الرياض",
+				"description": "الحساب الرسمي لوزارة الحرس الوطني السعودي",
+				"url": "https://t.co/XGa0XRKQJm",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/XGa0XRKQJm",
+								"expanded_url": "http://www.sang.gov.sa",
+								"display_url": "sang.gov.sa",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 451475,
+				"friends_count": 5,
+				"listed_count": 344,
+				"created_at": "Sun Apr 05 11:03:35 +0000 2015",
+				"favourites_count": 0,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 1334,
+				"lang": "ar",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "78AD7C",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/587144765633728512/xNdTzfwZ_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/587144765633728512/xNdTzfwZ_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/3140121900/1536226036",
+				"profile_link_color": "4A913C",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 405,
+			"favorite_count": 141,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "ar"
+		},
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Thu Sep 06 16:15:55 +0000 2018",
+		"id": 1037736160565624800,
+		"id_str": "1037736160565624832",
+		"text": "Houthi rebels say the UN must meet a list of conditions before they will travel to Geneva for Yemen peace talks https://t.co/wBFlG8SiQt",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/wBFlG8SiQt",
+					"expanded_url": "https://www.france24.com/en/20180906-yemen-peace-talks-balance-parties-trade-ultimatums",
+					"display_url": "france24.com/en/20180906-ye…",
+					"indices": [
+						112,
+						135
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 5242,
+			"id_str": "5242",
+			"name": "Ahmed Al Omran",
+			"screen_name": "ahmed",
+			"location": "Saudi Arabia",
+			"description": "Reporter for @FT covering Saudi Arabia · Formerly with @WSJ and @NPR · Columbia J-School alum · Email: ahmed.alomran [at] ftdotcom",
+			"url": "http://t.co/1tckurrksd",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/1tckurrksd",
+							"expanded_url": "http://alomran.me",
+							"display_url": "alomran.me",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 149447,
+			"friends_count": 1930,
+			"listed_count": 2618,
+			"created_at": "Mon Sep 04 00:18:12 +0000 2006",
+			"favourites_count": 5317,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 97082,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "CCCCCC",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme5/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme5/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/981288787660689408/ORCJwxJV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/981288787660689408/ORCJwxJV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/5242/1471042749",
+			"profile_link_color": "0790EB",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "99CC33",
+			"profile_text_color": "3E4415",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Wed Sep 05 20:38:51 +0000 2018",
 		"id": 1037439941918302200,
 		"id_str": "1037439941918302208",
