@@ -1,6 +1,1322 @@
 Grailbird.data.tweets_2018_10 = 
 [
 	{
+		"created_at": "Thu Oct 18 17:02:15 +0000 2018",
+		"id": 1052968109139583000,
+		"id_str": "1052968109139582976",
+		"full_text": "Uber is developing a new short-term staffing business, dubbed Uber Works, that would help to diversify its business ahead of next year’s IPO https://t.co/CzM5u6Y41d",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			164
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/CzM5u6Y41d",
+					"expanded_url": "https://www.ft.com/content/4f56aa7c-d2df-11e8-a9f2-7574db66bcd5",
+					"display_url": "ft.com/content/4f56aa…",
+					"indices": [
+						141,
+						164
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 5242,
+			"id_str": "5242",
+			"name": "Ahmed Al Omran",
+			"screen_name": "ahmed",
+			"location": "Saudi Arabia",
+			"description": "Reporter for @FT covering Saudi Arabia · Formerly with @WSJ and @NPR · Columbia J-School alum · Email: ahmed.alomran [at] ftdotcom",
+			"url": "http://t.co/1tckurrksd",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/1tckurrksd",
+							"expanded_url": "http://alomran.me",
+							"display_url": "alomran.me",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 151325,
+			"friends_count": 1920,
+			"listed_count": 2635,
+			"created_at": "Mon Sep 04 00:18:12 +0000 2006",
+			"favourites_count": 5297,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 97510,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "CCCCCC",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme5/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme5/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/981288787660689408/ORCJwxJV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/981288787660689408/ORCJwxJV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/5242/1537629476",
+			"profile_link_color": "0790EB",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "99CC33",
+			"profile_text_color": "3E4415",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 7,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Uber is developing a new short-term staffing business, dubbed Uber Works, that would help to diversify its business ahead of next year’s IPO https://t.co/CzM5u6Y41d"
+	},
+	{
+		"created_at": "Thu Oct 18 16:46:10 +0000 2018",
+		"id": 1052964064727511000,
+		"id_str": "1052964064727511040",
+		"full_text": "@lrozen NSO",
+		"truncated": false,
+		"display_text_range": [
+			8,
+			11
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "lrozen",
+					"name": "Laura Rozen",
+					"id": 47455112,
+					"id_str": "47455112",
+					"indices": [
+						0,
+						7
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 1052963894854078500,
+		"in_reply_to_status_id_str": "1052963894854078464",
+		"in_reply_to_user_id": 47455112,
+		"in_reply_to_user_id_str": "47455112",
+		"in_reply_to_screen_name": "lrozen",
+		"user": {
+			"id": 5242,
+			"id_str": "5242",
+			"name": "Ahmed Al Omran",
+			"screen_name": "ahmed",
+			"location": "Saudi Arabia",
+			"description": "Reporter for @FT covering Saudi Arabia · Formerly with @WSJ and @NPR · Columbia J-School alum · Email: ahmed.alomran [at] ftdotcom",
+			"url": "http://t.co/1tckurrksd",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/1tckurrksd",
+							"expanded_url": "http://alomran.me",
+							"display_url": "alomran.me",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 151325,
+			"friends_count": 1920,
+			"listed_count": 2635,
+			"created_at": "Mon Sep 04 00:18:12 +0000 2006",
+			"favourites_count": 5297,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 97510,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "CCCCCC",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme5/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme5/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/981288787660689408/ORCJwxJV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/981288787660689408/ORCJwxJV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/5242/1537629476",
+			"profile_link_color": "0790EB",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "99CC33",
+			"profile_text_color": "3E4415",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "und",
+		"text": "@lrozen NSO"
+	},
+	{
+		"created_at": "Thu Oct 18 15:33:27 +0000 2018",
+		"id": 1052945765314830300,
+		"id_str": "1052945765314830336",
+		"full_text": "Mnuchin out https://t.co/LoLNrb9R3L",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			11
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/LoLNrb9R3L",
+					"expanded_url": "https://twitter.com/stevenmnuchin1/status/1052944784355205120",
+					"display_url": "twitter.com/stevenmnuchin1…",
+					"indices": [
+						12,
+						35
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 5242,
+			"id_str": "5242",
+			"name": "Ahmed Al Omran",
+			"screen_name": "ahmed",
+			"location": "Saudi Arabia",
+			"description": "Reporter for @FT covering Saudi Arabia · Formerly with @WSJ and @NPR · Columbia J-School alum · Email: ahmed.alomran [at] ftdotcom",
+			"url": "http://t.co/1tckurrksd",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/1tckurrksd",
+							"expanded_url": "http://alomran.me",
+							"display_url": "alomran.me",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 151325,
+			"friends_count": 1920,
+			"listed_count": 2635,
+			"created_at": "Mon Sep 04 00:18:12 +0000 2006",
+			"favourites_count": 5297,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 97510,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "CCCCCC",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme5/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme5/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/981288787660689408/ORCJwxJV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/981288787660689408/ORCJwxJV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/5242/1537629476",
+			"profile_link_color": "0790EB",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "99CC33",
+			"profile_text_color": "3E4415",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1052944784355205100,
+		"quoted_status_id_str": "1052944784355205120",
+		"quoted_status_permalink": {
+			"url": "https://t.co/LoLNrb9R3L",
+			"expanded": "https://twitter.com/stevenmnuchin1/status/1052944784355205120",
+			"display": "twitter.com/stevenmnuchin1…"
+		},
+		"quoted_status": {
+			"created_at": "Thu Oct 18 15:29:34 +0000 2018",
+			"id": 1052944784355205100,
+			"id_str": "1052944784355205120",
+			"full_text": "Just met with @realDonaldTrump and @SecPompeo and we have decided, I will not be participating in the Future Investment Initiative summit in Saudi Arabia.",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				154
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "realDonaldTrump",
+						"name": "Donald J. Trump",
+						"id": 25073877,
+						"id_str": "25073877",
+						"indices": [
+							14,
+							30
+						]
+					},
+					{
+						"screen_name": "SecPompeo",
+						"name": "Secretary Pompeo",
+						"id": 988573326376427500,
+						"id_str": "988573326376427520",
+						"indices": [
+							35,
+							45
+						]
+					}
+				],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 799764016885329900,
+				"id_str": "799764016885329921",
+				"name": "Steven Mnuchin",
+				"screen_name": "stevenmnuchin1",
+				"location": "Washington, DC",
+				"description": "77th Secretary of the Treasury | Information, policies and notices at: https://t.co/vHM9nGinuJ",
+				"url": "https://t.co/VuTlH3bc7R",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/VuTlH3bc7R",
+								"expanded_url": "http://www.treasury.gov",
+								"display_url": "treasury.gov",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/vHM9nGinuJ",
+								"expanded_url": "http://go.usa.gov/x9uXb",
+								"display_url": "go.usa.gov/x9uXb",
+								"indices": [
+									71,
+									94
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 98776,
+				"friends_count": 82,
+				"listed_count": 1382,
+				"created_at": "Fri Nov 18 23:59:35 +0000 2016",
+				"favourites_count": 15,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 584,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/800371128094990336/qKH1fi_-_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/800371128094990336/qKH1fi_-_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/799764016885329921/1480525793",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 3890,
+			"favorite_count": 10591,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		"retweet_count": 3,
+		"favorite_count": 6,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Mnuchin out https://t.co/LoLNrb9R3L"
+	},
+	{
+		"created_at": "Thu Oct 18 15:17:20 +0000 2018",
+		"id": 1052941706935619600,
+		"id_str": "1052941706935619584",
+		"full_text": "Senior investment bankers from HSBC, Societe Generale and Credit Suisse are planning to attend Saudi investment forum even though their chief executives have said they’ve canceled appearances there https://t.co/xnDUflqiVu",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			221
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/xnDUflqiVu",
+					"expanded_url": "https://www.bloomberg.com/news/articles/2018-10-17/top-bankers-quietly-prep-for-saudi-while-their-bosses-skip-forum",
+					"display_url": "bloomberg.com/news/articles/…",
+					"indices": [
+						198,
+						221
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 5242,
+			"id_str": "5242",
+			"name": "Ahmed Al Omran",
+			"screen_name": "ahmed",
+			"location": "Saudi Arabia",
+			"description": "Reporter for @FT covering Saudi Arabia · Formerly with @WSJ and @NPR · Columbia J-School alum · Email: ahmed.alomran [at] ftdotcom",
+			"url": "http://t.co/1tckurrksd",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/1tckurrksd",
+							"expanded_url": "http://alomran.me",
+							"display_url": "alomran.me",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 151325,
+			"friends_count": 1920,
+			"listed_count": 2635,
+			"created_at": "Mon Sep 04 00:18:12 +0000 2006",
+			"favourites_count": 5297,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 97510,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "CCCCCC",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme5/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme5/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/981288787660689408/ORCJwxJV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/981288787660689408/ORCJwxJV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/5242/1537629476",
+			"profile_link_color": "0790EB",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "99CC33",
+			"profile_text_color": "3E4415",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 12,
+		"favorite_count": 12,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Senior investment bankers from HSBC, Societe Generale and Credit Suisse are planning to attend Saudi investment forum even though their chief executives have said they’ve canceled appearances there https://t.co/xnDUflqiVu"
+	},
+	{
+		"created_at": "Thu Oct 18 15:10:43 +0000 2018",
+		"id": 1052940041624916000,
+		"id_str": "1052940041624915968",
+		"full_text": "Putin says there is no reason to deteriorate relations with Saudi Arabia without a full investigation into the disappearance of Khashoggi https://t.co/KtLv3lGYYp",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			161
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/KtLv3lGYYp",
+					"expanded_url": "https://www.ft.com/content/59172af6-d2de-11e8-a9f2-7574db66bcd5",
+					"display_url": "ft.com/content/59172a…",
+					"indices": [
+						138,
+						161
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 5242,
+			"id_str": "5242",
+			"name": "Ahmed Al Omran",
+			"screen_name": "ahmed",
+			"location": "Saudi Arabia",
+			"description": "Reporter for @FT covering Saudi Arabia · Formerly with @WSJ and @NPR · Columbia J-School alum · Email: ahmed.alomran [at] ftdotcom",
+			"url": "http://t.co/1tckurrksd",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/1tckurrksd",
+							"expanded_url": "http://alomran.me",
+							"display_url": "alomran.me",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 151325,
+			"friends_count": 1920,
+			"listed_count": 2635,
+			"created_at": "Mon Sep 04 00:18:12 +0000 2006",
+			"favourites_count": 5297,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 97510,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "CCCCCC",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme5/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme5/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/981288787660689408/ORCJwxJV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/981288787660689408/ORCJwxJV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/5242/1537629476",
+			"profile_link_color": "0790EB",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "99CC33",
+			"profile_text_color": "3E4415",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 64,
+		"favorite_count": 64,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Putin says there is no reason to deteriorate relations with Saudi Arabia without a full investigation into the disappearance of Khashoggi https://t.co/KtLv3lGYYp"
+	},
+	{
+		"created_at": "Thu Oct 18 08:00:25 +0000 2018",
+		"id": 1052831755441385500,
+		"id_str": "1052831755441385473",
+		"full_text": "Careem secures $200 million in funding from Japanese e-commerce company Rakuten and 3 other existing Saudi investors https://t.co/bRcb9GQvRe",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			140
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/bRcb9GQvRe",
+					"expanded_url": "https://reut.rs/2Agn4DS",
+					"display_url": "reut.rs/2Agn4DS",
+					"indices": [
+						117,
+						140
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 5242,
+			"id_str": "5242",
+			"name": "Ahmed Al Omran",
+			"screen_name": "ahmed",
+			"location": "Saudi Arabia",
+			"description": "Reporter for @FT covering Saudi Arabia · Formerly with @WSJ and @NPR · Columbia J-School alum · Email: ahmed.alomran [at] ftdotcom",
+			"url": "http://t.co/1tckurrksd",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/1tckurrksd",
+							"expanded_url": "http://alomran.me",
+							"display_url": "alomran.me",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 151325,
+			"friends_count": 1920,
+			"listed_count": 2635,
+			"created_at": "Mon Sep 04 00:18:12 +0000 2006",
+			"favourites_count": 5297,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 97510,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "CCCCCC",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme5/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme5/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/981288787660689408/ORCJwxJV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/981288787660689408/ORCJwxJV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/5242/1537629476",
+			"profile_link_color": "0790EB",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "99CC33",
+			"profile_text_color": "3E4415",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 6,
+		"favorite_count": 9,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Careem secures $200 million in funding from Japanese e-commerce company Rakuten and 3 other existing Saudi investors https://t.co/bRcb9GQvRe"
+	},
+	{
+		"created_at": "Wed Oct 17 22:26:40 +0000 2018",
+		"id": 1052687364563165200,
+		"id_str": "1052687364563165184",
+		"full_text": "US midterm elections overview by @Dimi: Republicans hope a buoyant economy will be a bulwark against Democrats energised by fierce opposition to Trump https://t.co/QpbF5Zib4G",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			174
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Dimi",
+					"name": "Demetri Sevastopulo",
+					"id": 59936143,
+					"id_str": "59936143",
+					"indices": [
+						33,
+						38
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/QpbF5Zib4G",
+					"expanded_url": "https://www.ft.com/content/b6907d3e-d05b-11e8-a9f2-7574db66bcd5",
+					"display_url": "ft.com/content/b6907d…",
+					"indices": [
+						151,
+						174
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 5242,
+			"id_str": "5242",
+			"name": "Ahmed Al Omran",
+			"screen_name": "ahmed",
+			"location": "Saudi Arabia",
+			"description": "Reporter for @FT covering Saudi Arabia · Formerly with @WSJ and @NPR · Columbia J-School alum · Email: ahmed.alomran [at] ftdotcom",
+			"url": "http://t.co/1tckurrksd",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/1tckurrksd",
+							"expanded_url": "http://alomran.me",
+							"display_url": "alomran.me",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 151325,
+			"friends_count": 1920,
+			"listed_count": 2635,
+			"created_at": "Mon Sep 04 00:18:12 +0000 2006",
+			"favourites_count": 5297,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 97510,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "CCCCCC",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme5/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme5/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/981288787660689408/ORCJwxJV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/981288787660689408/ORCJwxJV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/5242/1537629476",
+			"profile_link_color": "0790EB",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "99CC33",
+			"profile_text_color": "3E4415",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5,
+		"favorite_count": 12,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "US midterm elections overview by @Dimi: Republicans hope a buoyant economy will be a bulwark against Democrats energised by fierce opposition to Trump https://t.co/QpbF5Zib4G"
+	},
+	{
+		"created_at": "Wed Oct 17 21:43:07 +0000 2018",
+		"id": 1052676405484347400,
+		"id_str": "1052676405484347392",
+		"full_text": "Saudi chief of staff in Washington https://t.co/GOGT6hpaCO",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			34
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/GOGT6hpaCO",
+					"expanded_url": "https://twitter.com/thejointstaff/status/1052675778045972481",
+					"display_url": "twitter.com/thejointstaff/…",
+					"indices": [
+						35,
+						58
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 5242,
+			"id_str": "5242",
+			"name": "Ahmed Al Omran",
+			"screen_name": "ahmed",
+			"location": "Saudi Arabia",
+			"description": "Reporter for @FT covering Saudi Arabia · Formerly with @WSJ and @NPR · Columbia J-School alum · Email: ahmed.alomran [at] ftdotcom",
+			"url": "http://t.co/1tckurrksd",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/1tckurrksd",
+							"expanded_url": "http://alomran.me",
+							"display_url": "alomran.me",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 151325,
+			"friends_count": 1920,
+			"listed_count": 2635,
+			"created_at": "Mon Sep 04 00:18:12 +0000 2006",
+			"favourites_count": 5297,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 97510,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "CCCCCC",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme5/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme5/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/981288787660689408/ORCJwxJV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/981288787660689408/ORCJwxJV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/5242/1537629476",
+			"profile_link_color": "0790EB",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "99CC33",
+			"profile_text_color": "3E4415",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1052675778045972500,
+		"quoted_status_id_str": "1052675778045972481",
+		"quoted_status_permalink": {
+			"url": "https://t.co/GOGT6hpaCO",
+			"expanded": "https://twitter.com/thejointstaff/status/1052675778045972481",
+			"display": "twitter.com/thejointstaff/…"
+		},
+		"quoted_status": {
+			"created_at": "Wed Oct 17 21:40:37 +0000 2018",
+			"id": 1052675778045972500,
+			"id_str": "1052675778045972481",
+			"full_text": "#GenDunford met with #SaudiArabia Chief of the General Staff Gen. Fayyad Al-Ruwayli today in the #Pentagon. The two leaders discussed several issues of mutual interest in the #MiddleEast. \n\nHere's the full readout: https://t.co/R08iTM5nWr https://t.co/k1r0fRA2Nx",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				238
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "GenDunford",
+						"indices": [
+							0,
+							11
+						]
+					},
+					{
+						"text": "SaudiArabia",
+						"indices": [
+							21,
+							33
+						]
+					},
+					{
+						"text": "Pentagon",
+						"indices": [
+							97,
+							106
+						]
+					},
+					{
+						"text": "MiddleEast",
+						"indices": [
+							175,
+							186
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/R08iTM5nWr",
+						"expanded_url": "https://go.usa.gov/xPRRr",
+						"display_url": "go.usa.gov/xPRRr",
+						"indices": [
+							215,
+							238
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1052674647693525000,
+						"id_str": "1052674647693524992",
+						"indices": [
+							239,
+							262
+						],
+						"media_url": "http://pbs.twimg.com/media/DpvaA8fVAAA2TJM.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DpvaA8fVAAA2TJM.jpg",
+						"url": "https://t.co/k1r0fRA2Nx",
+						"display_url": "pic.twitter.com/k1r0fRA2Nx",
+						"expanded_url": "https://twitter.com/thejointstaff/status/1052675778045972481/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 486,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 2048,
+								"h": 1463,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 857,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1052674647693525000,
+						"id_str": "1052674647693524992",
+						"indices": [
+							239,
+							262
+						],
+						"media_url": "http://pbs.twimg.com/media/DpvaA8fVAAA2TJM.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DpvaA8fVAAA2TJM.jpg",
+						"url": "https://t.co/k1r0fRA2Nx",
+						"display_url": "pic.twitter.com/k1r0fRA2Nx",
+						"expanded_url": "https://twitter.com/thejointstaff/status/1052675778045972481/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 486,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 2048,
+								"h": 1463,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 857,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 28576135,
+				"id_str": "28576135",
+				"name": "The Joint Staff",
+				"screen_name": "thejointstaff",
+				"location": "The Pentagon, Washington D.C.",
+				"description": "The official account for news on the #JointForce, #GenDunford, #GenSelva and Joint Staff services. (Following, RTs and links ≠ endorsement by @DeptofDefense)",
+				"url": "https://t.co/MLk31C5oih",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/MLk31C5oih",
+								"expanded_url": "http://www.jcs.mil",
+								"display_url": "jcs.mil",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 266691,
+				"friends_count": 259,
+				"listed_count": 5162,
+				"created_at": "Fri Apr 03 14:43:51 +0000 2009",
+				"favourites_count": 1589,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 5296,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "131516",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/459045440063672320/SOEE5LHU_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/459045440063672320/SOEE5LHU_normal.png",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/28576135/1539881710",
+				"profile_link_color": "1B95E0",
+				"profile_sidebar_border_color": "EEEEEE",
+				"profile_sidebar_fill_color": "EFEFEF",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 304,
+			"favorite_count": 320,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 20,
+		"favorite_count": 24,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Saudi chief of staff in Washington https://t.co/GOGT6hpaCO"
+	},
+	{
+		"created_at": "Wed Oct 17 12:39:02 +0000 2018",
+		"id": 1052539481931173900,
+		"id_str": "1052539481931173894",
+		"full_text": "This story on Reuters about firing the Saudi consul in Istanbul is wrong. The agency fell for a fake website https://t.co/iDpC0CXiNr",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			132
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/iDpC0CXiNr",
+					"expanded_url": "https://www.reuters.com/article/us-saudi-dissident-investigation-consul/saudi-consul-in-istanbul-relieved-of-post-to-be-investigated-report-idUSKCN1MR1SG",
+					"display_url": "reuters.com/article/us-sau…",
+					"indices": [
+						109,
+						132
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 5242,
+			"id_str": "5242",
+			"name": "Ahmed Al Omran",
+			"screen_name": "ahmed",
+			"location": "Saudi Arabia",
+			"description": "Reporter for @FT covering Saudi Arabia · Formerly with @WSJ and @NPR · Columbia J-School alum · Email: ahmed.alomran [at] ftdotcom",
+			"url": "http://t.co/1tckurrksd",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/1tckurrksd",
+							"expanded_url": "http://alomran.me",
+							"display_url": "alomran.me",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 151325,
+			"friends_count": 1920,
+			"listed_count": 2635,
+			"created_at": "Mon Sep 04 00:18:12 +0000 2006",
+			"favourites_count": 5297,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 97510,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "CCCCCC",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme5/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme5/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/981288787660689408/ORCJwxJV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/981288787660689408/ORCJwxJV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/5242/1537629476",
+			"profile_link_color": "0790EB",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "99CC33",
+			"profile_text_color": "3E4415",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1143,
+		"favorite_count": 561,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "This story on Reuters about firing the Saudi consul in Istanbul is wrong. The agency fell for a fake website https://t.co/iDpC0CXiNr"
+	},
+	{
 		"created_at": "Wed Oct 17 21:12:59 +0000 2018",
 		"id": 1052668821817909200,
 		"id_str": "1052668821817909248",
