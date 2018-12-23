@@ -1,6 +1,1474 @@
 Grailbird.data.tweets_2018_12 = 
 [
 	{
+		"created_at": "Sun Dec 23 21:08:02 +0000 2018",
+		"id": 1076947564656767000,
+		"id_str": "1076947564656766976",
+		"full_text": "All I want for Christmas is this https://t.co/13xxT4CQFC",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			56
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/13xxT4CQFC",
+					"expanded_url": "https://www.cambridge.org/us/academic/archive-editions/history/middle-east-history/aramco-reports-al-hasa-and-oman-19501955?format=WW&isbn=9781852072254",
+					"display_url": "cambridge.org/us/academic/ar…",
+					"indices": [
+						33,
+						56
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 5242,
+			"id_str": "5242",
+			"name": "Ahmed Al Omran",
+			"screen_name": "ahmed",
+			"location": "Saudi Arabia",
+			"description": "Reporter for @FT covering Saudi Arabia · Formerly with @WSJ and @NPR · Columbia J-School alum · Email: ahmed.alomran [at] ftdotcom",
+			"url": "http://t.co/1tckurrksd",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/1tckurrksd",
+							"expanded_url": "http://alomran.me",
+							"display_url": "alomran.me",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 147086,
+			"friends_count": 1920,
+			"listed_count": 2679,
+			"created_at": "Mon Sep 04 00:18:12 +0000 2006",
+			"favourites_count": 5255,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 98091,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "CCCCCC",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme5/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme5/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/981288787660689408/ORCJwxJV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/981288787660689408/ORCJwxJV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/5242/1537629476",
+			"profile_link_color": "0790EB",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "99CC33",
+			"profile_text_color": "3E4415",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "All I want for Christmas is this https://t.co/13xxT4CQFC"
+	},
+	{
+		"created_at": "Sun Dec 23 18:35:40 +0000 2018",
+		"id": 1076909218593148900,
+		"id_str": "1076909218593148928",
+		"full_text": "Trump abruptly removes Mattis two months before his planned departure and appoints Shanahan as acting defense secretary https://t.co/OwA2kXO7pG",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			143
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/OwA2kXO7pG",
+					"expanded_url": "https://wapo.st/2QP305q",
+					"display_url": "wapo.st/2QP305q",
+					"indices": [
+						120,
+						143
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 5242,
+			"id_str": "5242",
+			"name": "Ahmed Al Omran",
+			"screen_name": "ahmed",
+			"location": "Saudi Arabia",
+			"description": "Reporter for @FT covering Saudi Arabia · Formerly with @WSJ and @NPR · Columbia J-School alum · Email: ahmed.alomran [at] ftdotcom",
+			"url": "http://t.co/1tckurrksd",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/1tckurrksd",
+							"expanded_url": "http://alomran.me",
+							"display_url": "alomran.me",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 147086,
+			"friends_count": 1920,
+			"listed_count": 2679,
+			"created_at": "Mon Sep 04 00:18:12 +0000 2006",
+			"favourites_count": 5255,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 98091,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "CCCCCC",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme5/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme5/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/981288787660689408/ORCJwxJV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/981288787660689408/ORCJwxJV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/5242/1537629476",
+			"profile_link_color": "0790EB",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "99CC33",
+			"profile_text_color": "3E4415",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 5,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Trump abruptly removes Mattis two months before his planned departure and appoints Shanahan as acting defense secretary https://t.co/OwA2kXO7pG"
+	},
+	{
+		"created_at": "Sun Dec 23 18:30:03 +0000 2018",
+		"id": 1076907805351833600,
+		"id_str": "1076907805351833601",
+		"full_text": "Turkey military deploys hundreds of vehicles and troops around Manbij https://t.co/R3Cui3zfxX",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			93
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/R3Cui3zfxX",
+					"expanded_url": "https://bloom.bg/2QQVBTh",
+					"display_url": "bloom.bg/2QQVBTh",
+					"indices": [
+						70,
+						93
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 5242,
+			"id_str": "5242",
+			"name": "Ahmed Al Omran",
+			"screen_name": "ahmed",
+			"location": "Saudi Arabia",
+			"description": "Reporter for @FT covering Saudi Arabia · Formerly with @WSJ and @NPR · Columbia J-School alum · Email: ahmed.alomran [at] ftdotcom",
+			"url": "http://t.co/1tckurrksd",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/1tckurrksd",
+							"expanded_url": "http://alomran.me",
+							"display_url": "alomran.me",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 147086,
+			"friends_count": 1920,
+			"listed_count": 2679,
+			"created_at": "Mon Sep 04 00:18:12 +0000 2006",
+			"favourites_count": 5255,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 98091,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "CCCCCC",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme5/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme5/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/981288787660689408/ORCJwxJV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/981288787660689408/ORCJwxJV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/5242/1537629476",
+			"profile_link_color": "0790EB",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "99CC33",
+			"profile_text_color": "3E4415",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Turkey military deploys hundreds of vehicles and troops around Manbij https://t.co/R3Cui3zfxX"
+	},
+	{
+		"created_at": "Sun Dec 23 18:17:32 +0000 2018",
+		"id": 1076904654485770200,
+		"id_str": "1076904654485770243",
+		"full_text": "Saudi Prince Talal bin Abdulaziz was laid to rest in Riyadh today. In 2009 he spoke to @FT about succession, reform and the role of religion in the kingdom https://t.co/IgFn2BFUqa",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			179
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "FT",
+					"name": "Financial Times",
+					"id": 18949452,
+					"id_str": "18949452",
+					"indices": [
+						87,
+						90
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/IgFn2BFUqa",
+					"expanded_url": "https://on.ft.com/2QK3bPH",
+					"display_url": "on.ft.com/2QK3bPH",
+					"indices": [
+						156,
+						179
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 5242,
+			"id_str": "5242",
+			"name": "Ahmed Al Omran",
+			"screen_name": "ahmed",
+			"location": "Saudi Arabia",
+			"description": "Reporter for @FT covering Saudi Arabia · Formerly with @WSJ and @NPR · Columbia J-School alum · Email: ahmed.alomran [at] ftdotcom",
+			"url": "http://t.co/1tckurrksd",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/1tckurrksd",
+							"expanded_url": "http://alomran.me",
+							"display_url": "alomran.me",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 147086,
+			"friends_count": 1920,
+			"listed_count": 2679,
+			"created_at": "Mon Sep 04 00:18:12 +0000 2006",
+			"favourites_count": 5255,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 98091,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "CCCCCC",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme5/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme5/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/981288787660689408/ORCJwxJV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/981288787660689408/ORCJwxJV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/5242/1537629476",
+			"profile_link_color": "0790EB",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "99CC33",
+			"profile_text_color": "3E4415",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 11,
+		"favorite_count": 17,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Saudi Prince Talal bin Abdulaziz was laid to rest in Riyadh today. In 2009 he spoke to @FT about succession, reform and the role of religion in the kingdom https://t.co/IgFn2BFUqa"
+	},
+	{
+		"created_at": "Sun Dec 23 17:57:07 +0000 2018",
+		"id": 1076899518921224200,
+		"id_str": "1076899518921224192",
+		"full_text": "UN team led by Dutch officer arrives at Hodeida to monitor Yemen cease-fire https://t.co/Cq00TVWf0i",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			99
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Cq00TVWf0i",
+					"expanded_url": "https://apnews.com/1ca02cf85af14fbd8f79da70f7aaf3be",
+					"display_url": "apnews.com/1ca02cf85af14f…",
+					"indices": [
+						76,
+						99
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 5242,
+			"id_str": "5242",
+			"name": "Ahmed Al Omran",
+			"screen_name": "ahmed",
+			"location": "Saudi Arabia",
+			"description": "Reporter for @FT covering Saudi Arabia · Formerly with @WSJ and @NPR · Columbia J-School alum · Email: ahmed.alomran [at] ftdotcom",
+			"url": "http://t.co/1tckurrksd",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/1tckurrksd",
+							"expanded_url": "http://alomran.me",
+							"display_url": "alomran.me",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 147086,
+			"friends_count": 1920,
+			"listed_count": 2679,
+			"created_at": "Mon Sep 04 00:18:12 +0000 2006",
+			"favourites_count": 5255,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 98091,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "CCCCCC",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme5/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme5/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/981288787660689408/ORCJwxJV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/981288787660689408/ORCJwxJV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/5242/1537629476",
+			"profile_link_color": "0790EB",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "99CC33",
+			"profile_text_color": "3E4415",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 6,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "UN team led by Dutch officer arrives at Hodeida to monitor Yemen cease-fire https://t.co/Cq00TVWf0i"
+	},
+	{
+		"created_at": "Sun Dec 23 16:11:02 +0000 2018",
+		"id": 1076872822553755600,
+		"id_str": "1076872822553755649",
+		"full_text": "Egypt appoints Maj Gen Khaled Megawer to lead the country’s military intelligence service https://t.co/fkQIXPzcg0",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			113
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/fkQIXPzcg0",
+					"expanded_url": "https://reut.rs/2QORTJK",
+					"display_url": "reut.rs/2QORTJK",
+					"indices": [
+						90,
+						113
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 5242,
+			"id_str": "5242",
+			"name": "Ahmed Al Omran",
+			"screen_name": "ahmed",
+			"location": "Saudi Arabia",
+			"description": "Reporter for @FT covering Saudi Arabia · Formerly with @WSJ and @NPR · Columbia J-School alum · Email: ahmed.alomran [at] ftdotcom",
+			"url": "http://t.co/1tckurrksd",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/1tckurrksd",
+							"expanded_url": "http://alomran.me",
+							"display_url": "alomran.me",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 147086,
+			"friends_count": 1920,
+			"listed_count": 2679,
+			"created_at": "Mon Sep 04 00:18:12 +0000 2006",
+			"favourites_count": 5255,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 98091,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "CCCCCC",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme5/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme5/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/981288787660689408/ORCJwxJV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/981288787660689408/ORCJwxJV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/5242/1537629476",
+			"profile_link_color": "0790EB",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "99CC33",
+			"profile_text_color": "3E4415",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Egypt appoints Maj Gen Khaled Megawer to lead the country’s military intelligence service https://t.co/fkQIXPzcg0"
+	},
+	{
+		"created_at": "Sun Dec 23 14:41:05 +0000 2018",
+		"id": 1076850184456425500,
+		"id_str": "1076850184456425474",
+		"full_text": "Saudi Crown Prince Mohammed bin Salman and his uncle Prince Ahmed bin Abdulaziz during Prince Talal’s funeral earlier today in Riyadh —SPA https://t.co/ORe15HeFmX",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			138
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1076849892281196500,
+					"id_str": "1076849892281196544",
+					"indices": [
+						139,
+						162
+					],
+					"media_url": "http://pbs.twimg.com/media/DvG9RYnWoAATXFu.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DvG9RYnWoAATXFu.jpg",
+					"url": "https://t.co/ORe15HeFmX",
+					"display_url": "pic.twitter.com/ORe15HeFmX",
+					"expanded_url": "https://twitter.com/ahmed/status/1076850184456425474/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 509,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1280,
+							"h": 959,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 899,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1076849892281196500,
+					"id_str": "1076849892281196544",
+					"indices": [
+						139,
+						162
+					],
+					"media_url": "http://pbs.twimg.com/media/DvG9RYnWoAATXFu.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DvG9RYnWoAATXFu.jpg",
+					"url": "https://t.co/ORe15HeFmX",
+					"display_url": "pic.twitter.com/ORe15HeFmX",
+					"expanded_url": "https://twitter.com/ahmed/status/1076850184456425474/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 509,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1280,
+							"h": 959,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 899,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 5242,
+			"id_str": "5242",
+			"name": "Ahmed Al Omran",
+			"screen_name": "ahmed",
+			"location": "Saudi Arabia",
+			"description": "Reporter for @FT covering Saudi Arabia · Formerly with @WSJ and @NPR · Columbia J-School alum · Email: ahmed.alomran [at] ftdotcom",
+			"url": "http://t.co/1tckurrksd",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/1tckurrksd",
+							"expanded_url": "http://alomran.me",
+							"display_url": "alomran.me",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 147086,
+			"friends_count": 1920,
+			"listed_count": 2679,
+			"created_at": "Mon Sep 04 00:18:12 +0000 2006",
+			"favourites_count": 5255,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 98091,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "CCCCCC",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme5/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme5/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/981288787660689408/ORCJwxJV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/981288787660689408/ORCJwxJV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/5242/1537629476",
+			"profile_link_color": "0790EB",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "99CC33",
+			"profile_text_color": "3E4415",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 39,
+		"favorite_count": 42,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Saudi Crown Prince Mohammed bin Salman and his uncle Prince Ahmed bin Abdulaziz during Prince Talal’s funeral earlier today in Riyadh —SPA https://t.co/ORe15HeFmX"
+	},
+	{
+		"created_at": "Sun Dec 23 14:25:41 +0000 2018",
+		"id": 1076846310307889200,
+		"id_str": "1076846310307889152",
+		"full_text": "Anti-government demonstrations in Sudan over rising food prices have led to deadly clashes between state security forces and protesters in what may be the biggest popular challenge yet to the 29-year rule of president Omar al-Bashir https://t.co/LKVZMDDZte",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			256
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/LKVZMDDZte",
+					"expanded_url": "https://on.ft.com/2BDQbR6",
+					"display_url": "on.ft.com/2BDQbR6",
+					"indices": [
+						233,
+						256
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 5242,
+			"id_str": "5242",
+			"name": "Ahmed Al Omran",
+			"screen_name": "ahmed",
+			"location": "Saudi Arabia",
+			"description": "Reporter for @FT covering Saudi Arabia · Formerly with @WSJ and @NPR · Columbia J-School alum · Email: ahmed.alomran [at] ftdotcom",
+			"url": "http://t.co/1tckurrksd",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/1tckurrksd",
+							"expanded_url": "http://alomran.me",
+							"display_url": "alomran.me",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 147086,
+			"friends_count": 1920,
+			"listed_count": 2679,
+			"created_at": "Mon Sep 04 00:18:12 +0000 2006",
+			"favourites_count": 5255,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 98091,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "CCCCCC",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme5/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme5/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/981288787660689408/ORCJwxJV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/981288787660689408/ORCJwxJV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/5242/1537629476",
+			"profile_link_color": "0790EB",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "99CC33",
+			"profile_text_color": "3E4415",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 13,
+		"favorite_count": 9,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Anti-government demonstrations in Sudan over rising food prices have led to deadly clashes between state security forces and protesters in what may be the biggest popular challenge yet to the 29-year rule of president Omar al-Bashir https://t.co/LKVZMDDZte"
+	},
+	{
+		"created_at": "Sun Dec 23 12:59:04 +0000 2018",
+		"id": 1076824511641722900,
+		"id_str": "1076824511641722882",
+		"full_text": "@Faiyla pretty normal. It is phrased that way because in some cases the men and women 3aza can be held in two different locations",
+		"truncated": false,
+		"display_text_range": [
+			8,
+			129
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Faiyla",
+					"name": "Youssef Cherif",
+					"id": 45776574,
+					"id_str": "45776574",
+					"indices": [
+						0,
+						7
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 1076824081935282200,
+		"in_reply_to_status_id_str": "1076824081935282176",
+		"in_reply_to_user_id": 45776574,
+		"in_reply_to_user_id_str": "45776574",
+		"in_reply_to_screen_name": "Faiyla",
+		"user": {
+			"id": 5242,
+			"id_str": "5242",
+			"name": "Ahmed Al Omran",
+			"screen_name": "ahmed",
+			"location": "Saudi Arabia",
+			"description": "Reporter for @FT covering Saudi Arabia · Formerly with @WSJ and @NPR · Columbia J-School alum · Email: ahmed.alomran [at] ftdotcom",
+			"url": "http://t.co/1tckurrksd",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/1tckurrksd",
+							"expanded_url": "http://alomran.me",
+							"display_url": "alomran.me",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 147086,
+			"friends_count": 1920,
+			"listed_count": 2679,
+			"created_at": "Mon Sep 04 00:18:12 +0000 2006",
+			"favourites_count": 5255,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 98091,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "CCCCCC",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme5/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme5/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/981288787660689408/ORCJwxJV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/981288787660689408/ORCJwxJV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/5242/1537629476",
+			"profile_link_color": "0790EB",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "99CC33",
+			"profile_text_color": "3E4415",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@Faiyla pretty normal. It is phrased that way because in some cases the men and women 3aza can be held in two different locations"
+	},
+	{
+		"created_at": "Sun Dec 23 12:12:03 +0000 2018",
+		"id": 1076812679896092700,
+		"id_str": "1076812679896092673",
+		"full_text": "Juventus extends Adidas deal until 2027, securing at least another €408 million from the sportswear company https://t.co/3pzTMl11dh",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			131
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/3pzTMl11dh",
+					"expanded_url": "https://hypebeast.com/2018/12/juventus-adidas-extension-465-million-usd-deal",
+					"display_url": "hypebeast.com/2018/12/juvent…",
+					"indices": [
+						108,
+						131
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 5242,
+			"id_str": "5242",
+			"name": "Ahmed Al Omran",
+			"screen_name": "ahmed",
+			"location": "Saudi Arabia",
+			"description": "Reporter for @FT covering Saudi Arabia · Formerly with @WSJ and @NPR · Columbia J-School alum · Email: ahmed.alomran [at] ftdotcom",
+			"url": "http://t.co/1tckurrksd",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/1tckurrksd",
+							"expanded_url": "http://alomran.me",
+							"display_url": "alomran.me",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 147086,
+			"friends_count": 1920,
+			"listed_count": 2679,
+			"created_at": "Mon Sep 04 00:18:12 +0000 2006",
+			"favourites_count": 5255,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 98091,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "CCCCCC",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme5/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme5/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/981288787660689408/ORCJwxJV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/981288787660689408/ORCJwxJV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/5242/1537629476",
+			"profile_link_color": "0790EB",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "99CC33",
+			"profile_text_color": "3E4415",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Juventus extends Adidas deal until 2027, securing at least another €408 million from the sportswear company https://t.co/3pzTMl11dh"
+	},
+	{
+		"created_at": "Sun Dec 23 11:33:26 +0000 2018",
+		"id": 1076802961638969300,
+		"id_str": "1076802961638969344",
+		"full_text": "Careem and Dubai government to launch JV that will operate 11,000 taxis in the emirate https://t.co/tSo0thSbEv",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			110
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/tSo0thSbEv",
+					"expanded_url": "https://reut.rs/2QJAFO9",
+					"display_url": "reut.rs/2QJAFO9",
+					"indices": [
+						87,
+						110
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 5242,
+			"id_str": "5242",
+			"name": "Ahmed Al Omran",
+			"screen_name": "ahmed",
+			"location": "Saudi Arabia",
+			"description": "Reporter for @FT covering Saudi Arabia · Formerly with @WSJ and @NPR · Columbia J-School alum · Email: ahmed.alomran [at] ftdotcom",
+			"url": "http://t.co/1tckurrksd",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/1tckurrksd",
+							"expanded_url": "http://alomran.me",
+							"display_url": "alomran.me",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 147086,
+			"friends_count": 1920,
+			"listed_count": 2679,
+			"created_at": "Mon Sep 04 00:18:12 +0000 2006",
+			"favourites_count": 5255,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 98091,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "CCCCCC",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme5/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme5/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/981288787660689408/ORCJwxJV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/981288787660689408/ORCJwxJV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/5242/1537629476",
+			"profile_link_color": "0790EB",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "99CC33",
+			"profile_text_color": "3E4415",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Careem and Dubai government to launch JV that will operate 11,000 taxis in the emirate https://t.co/tSo0thSbEv"
+	},
+	{
+		"created_at": "Sun Dec 23 10:39:59 +0000 2018",
+		"id": 1076789511504494600,
+		"id_str": "1076789511504494592",
+		"full_text": "Saudi editor @FAlhamid says US Congress members who voted for anti-KSA legislation “are either ignorant or ignoring that the new Saudi Arabia would not hesitate to take any measure to protect its political and economic interests” https://t.co/rVVBlP1Nsy",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			253
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "FAlhamid",
+					"name": "فهيم الحامد",
+					"id": 431094463,
+					"id_str": "431094463",
+					"indices": [
+						13,
+						22
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/rVVBlP1Nsy",
+					"expanded_url": "https://www.okaz.com.sa/article/1694305",
+					"display_url": "okaz.com.sa/article/1694305",
+					"indices": [
+						230,
+						253
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 5242,
+			"id_str": "5242",
+			"name": "Ahmed Al Omran",
+			"screen_name": "ahmed",
+			"location": "Saudi Arabia",
+			"description": "Reporter for @FT covering Saudi Arabia · Formerly with @WSJ and @NPR · Columbia J-School alum · Email: ahmed.alomran [at] ftdotcom",
+			"url": "http://t.co/1tckurrksd",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/1tckurrksd",
+							"expanded_url": "http://alomran.me",
+							"display_url": "alomran.me",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 147086,
+			"friends_count": 1920,
+			"listed_count": 2679,
+			"created_at": "Mon Sep 04 00:18:12 +0000 2006",
+			"favourites_count": 5255,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 98091,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "CCCCCC",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme5/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme5/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/981288787660689408/ORCJwxJV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/981288787660689408/ORCJwxJV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/5242/1537629476",
+			"profile_link_color": "0790EB",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "99CC33",
+			"profile_text_color": "3E4415",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 7,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Saudi editor @FAlhamid says US Congress members who voted for anti-KSA legislation “are either ignorant or ignoring that the new Saudi Arabia would not hesitate to take any measure to protect its political and economic interests” https://t.co/rVVBlP1Nsy"
+	},
+	{
+		"created_at": "Sun Dec 23 07:46:14 +0000 2018",
+		"id": 1076745785818132500,
+		"id_str": "1076745785818132480",
+		"full_text": "Saudi Aramco, Japan’s Mitsui and Russian sovereign wealth fund RDIF are in talks to buy stakes in Novatek’s Arctic LNG 2 project https://t.co/ofQNf0MdIo",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			152
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/ofQNf0MdIo",
+					"expanded_url": "https://reut.rs/2BxPvga",
+					"display_url": "reut.rs/2BxPvga",
+					"indices": [
+						129,
+						152
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 5242,
+			"id_str": "5242",
+			"name": "Ahmed Al Omran",
+			"screen_name": "ahmed",
+			"location": "Saudi Arabia",
+			"description": "Reporter for @FT covering Saudi Arabia · Formerly with @WSJ and @NPR · Columbia J-School alum · Email: ahmed.alomran [at] ftdotcom",
+			"url": "http://t.co/1tckurrksd",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/1tckurrksd",
+							"expanded_url": "http://alomran.me",
+							"display_url": "alomran.me",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 147086,
+			"friends_count": 1920,
+			"listed_count": 2679,
+			"created_at": "Mon Sep 04 00:18:12 +0000 2006",
+			"favourites_count": 5255,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 98091,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "CCCCCC",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme5/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme5/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/981288787660689408/ORCJwxJV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/981288787660689408/ORCJwxJV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/5242/1537629476",
+			"profile_link_color": "0790EB",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "99CC33",
+			"profile_text_color": "3E4415",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 11,
+		"favorite_count": 15,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Saudi Aramco, Japan’s Mitsui and Russian sovereign wealth fund RDIF are in talks to buy stakes in Novatek’s Arctic LNG 2 project https://t.co/ofQNf0MdIo"
+	},
+	{
 		"created_at": "Sat Dec 22 20:56:17 +0000 2018",
 		"id": 1076582217550315500,
 		"id_str": "1076582217550315521",
