@@ -1,6 +1,748 @@
 Grailbird.data.tweets_2019_01 = 
 [
 	{
+		"created_at": "Wed Jan 09 21:15:09 +0000 2019",
+		"id": 1083109949541036000,
+		"id_str": "1083109949541036032",
+		"full_text": "Saudi state security says it foiled a plot for “criminal act” in Qatif in operation that left 6 people dead https://t.co/lKcF5pB28n",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			131
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/lKcF5pB28n",
+					"expanded_url": "http://www.spa.gov.sa/1872800",
+					"display_url": "spa.gov.sa/1872800",
+					"indices": [
+						108,
+						131
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 5242,
+			"id_str": "5242",
+			"name": "Ahmed Al Omran",
+			"screen_name": "ahmed",
+			"location": "Saudi Arabia",
+			"description": "Reporter for @FT covering Saudi Arabia · Formerly with @WSJ and @NPR · Columbia J-School alum · Email: ahmed.alomran [at] ftdotcom",
+			"url": "http://t.co/1tckurrksd",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/1tckurrksd",
+							"expanded_url": "http://alomran.me",
+							"display_url": "alomran.me",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 147754,
+			"friends_count": 1918,
+			"listed_count": 2693,
+			"created_at": "Mon Sep 04 00:18:12 +0000 2006",
+			"favourites_count": 5253,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 98383,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "CCCCCC",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme5/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme5/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/981288787660689408/ORCJwxJV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/981288787660689408/ORCJwxJV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/5242/1537629476",
+			"profile_link_color": "0790EB",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "99CC33",
+			"profile_text_color": "3E4415",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Saudi state security says it foiled a plot for “criminal act” in Qatif in operation that left 6 people dead https://t.co/lKcF5pB28n"
+	},
+	{
+		"created_at": "Wed Jan 09 20:35:40 +0000 2019",
+		"id": 1083100013159276500,
+		"id_str": "1083100013159276544",
+		"full_text": "AFC says it will take legal action in Saudi Arabia against beoutQ https://t.co/OxufBZvtjp",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			89
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/OxufBZvtjp",
+					"expanded_url": "https://reut.rs/2RioVSX",
+					"display_url": "reut.rs/2RioVSX",
+					"indices": [
+						66,
+						89
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 5242,
+			"id_str": "5242",
+			"name": "Ahmed Al Omran",
+			"screen_name": "ahmed",
+			"location": "Saudi Arabia",
+			"description": "Reporter for @FT covering Saudi Arabia · Formerly with @WSJ and @NPR · Columbia J-School alum · Email: ahmed.alomran [at] ftdotcom",
+			"url": "http://t.co/1tckurrksd",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/1tckurrksd",
+							"expanded_url": "http://alomran.me",
+							"display_url": "alomran.me",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 147754,
+			"friends_count": 1918,
+			"listed_count": 2693,
+			"created_at": "Mon Sep 04 00:18:12 +0000 2006",
+			"favourites_count": 5253,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 98383,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "CCCCCC",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme5/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme5/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/981288787660689408/ORCJwxJV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/981288787660689408/ORCJwxJV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/5242/1537629476",
+			"profile_link_color": "0790EB",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "99CC33",
+			"profile_text_color": "3E4415",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "AFC says it will take legal action in Saudi Arabia against beoutQ https://t.co/OxufBZvtjp"
+	},
+	{
+		"created_at": "Wed Jan 09 19:37:51 +0000 2019",
+		"id": 1083085463680884700,
+		"id_str": "1083085463680884736",
+		"full_text": "Oil rises above $60 after Saudis vow to stabilise market https://t.co/XSqEsqlvL5",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			80
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/XSqEsqlvL5",
+					"expanded_url": "https://www.ft.com/content/5397bc28-1427-11e9-a581-4ff78404524e",
+					"display_url": "ft.com/content/5397bc…",
+					"indices": [
+						57,
+						80
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 5242,
+			"id_str": "5242",
+			"name": "Ahmed Al Omran",
+			"screen_name": "ahmed",
+			"location": "Saudi Arabia",
+			"description": "Reporter for @FT covering Saudi Arabia · Formerly with @WSJ and @NPR · Columbia J-School alum · Email: ahmed.alomran [at] ftdotcom",
+			"url": "http://t.co/1tckurrksd",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/1tckurrksd",
+							"expanded_url": "http://alomran.me",
+							"display_url": "alomran.me",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 147754,
+			"friends_count": 1918,
+			"listed_count": 2693,
+			"created_at": "Mon Sep 04 00:18:12 +0000 2006",
+			"favourites_count": 5253,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 98383,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "CCCCCC",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme5/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme5/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/981288787660689408/ORCJwxJV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/981288787660689408/ORCJwxJV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/5242/1537629476",
+			"profile_link_color": "0790EB",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "99CC33",
+			"profile_text_color": "3E4415",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 8,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Oil rises above $60 after Saudis vow to stabilise market https://t.co/XSqEsqlvL5"
+	},
+	{
+		"created_at": "Wed Jan 09 08:54:48 +0000 2019",
+		"id": 1082923633968926700,
+		"id_str": "1082923633968926720",
+		"full_text": "AFC condemns beoutQ piracy of Asian Cup matches https://t.co/VezdD2D0hX",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			71
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/VezdD2D0hX",
+					"expanded_url": "https://apnews.com/4b0408380ba14997924162e37a5e276e",
+					"display_url": "apnews.com/4b0408380ba149…",
+					"indices": [
+						48,
+						71
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 5242,
+			"id_str": "5242",
+			"name": "Ahmed Al Omran",
+			"screen_name": "ahmed",
+			"location": "Saudi Arabia",
+			"description": "Reporter for @FT covering Saudi Arabia · Formerly with @WSJ and @NPR · Columbia J-School alum · Email: ahmed.alomran [at] ftdotcom",
+			"url": "http://t.co/1tckurrksd",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/1tckurrksd",
+							"expanded_url": "http://alomran.me",
+							"display_url": "alomran.me",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 147754,
+			"friends_count": 1918,
+			"listed_count": 2693,
+			"created_at": "Mon Sep 04 00:18:12 +0000 2006",
+			"favourites_count": 5253,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 98383,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "CCCCCC",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme5/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme5/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/981288787660689408/ORCJwxJV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/981288787660689408/ORCJwxJV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/5242/1537629476",
+			"profile_link_color": "0790EB",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "99CC33",
+			"profile_text_color": "3E4415",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "AFC condemns beoutQ piracy of Asian Cup matches https://t.co/VezdD2D0hX"
+	},
+	{
+		"created_at": "Wed Jan 09 07:04:37 +0000 2019",
+		"id": 1082895902610645000,
+		"id_str": "1082895902610644992",
+		"full_text": "@husseinshoboksh this item is from June 2017",
+		"truncated": false,
+		"display_text_range": [
+			17,
+			44
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "husseinshoboksh",
+					"name": "حسين شبكشي",
+					"id": 259162548,
+					"id_str": "259162548",
+					"indices": [
+						0,
+						16
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 1082895672880164900,
+		"in_reply_to_status_id_str": "1082895672880164864",
+		"in_reply_to_user_id": 259162548,
+		"in_reply_to_user_id_str": "259162548",
+		"in_reply_to_screen_name": "husseinshoboksh",
+		"user": {
+			"id": 5242,
+			"id_str": "5242",
+			"name": "Ahmed Al Omran",
+			"screen_name": "ahmed",
+			"location": "Saudi Arabia",
+			"description": "Reporter for @FT covering Saudi Arabia · Formerly with @WSJ and @NPR · Columbia J-School alum · Email: ahmed.alomran [at] ftdotcom",
+			"url": "http://t.co/1tckurrksd",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/1tckurrksd",
+							"expanded_url": "http://alomran.me",
+							"display_url": "alomran.me",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 147754,
+			"friends_count": 1918,
+			"listed_count": 2693,
+			"created_at": "Mon Sep 04 00:18:12 +0000 2006",
+			"favourites_count": 5253,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 98383,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "CCCCCC",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme5/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme5/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/981288787660689408/ORCJwxJV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/981288787660689408/ORCJwxJV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/5242/1537629476",
+			"profile_link_color": "0790EB",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "99CC33",
+			"profile_text_color": "3E4415",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@husseinshoboksh this item is from June 2017"
+	},
+	{
+		"created_at": "Wed Jan 09 06:39:46 +0000 2019",
+		"id": 1082889652724355100,
+		"id_str": "1082889652724355072",
+		"full_text": "Saudi minister of state for foreign affairs Nizar Madani retires https://t.co/y3yxrw2IuD",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			88
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/y3yxrw2IuD",
+					"expanded_url": "http://www.arabnews.com/node/1432631/saudi-arabia",
+					"display_url": "arabnews.com/node/1432631/s…",
+					"indices": [
+						65,
+						88
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 5242,
+			"id_str": "5242",
+			"name": "Ahmed Al Omran",
+			"screen_name": "ahmed",
+			"location": "Saudi Arabia",
+			"description": "Reporter for @FT covering Saudi Arabia · Formerly with @WSJ and @NPR · Columbia J-School alum · Email: ahmed.alomran [at] ftdotcom",
+			"url": "http://t.co/1tckurrksd",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/1tckurrksd",
+							"expanded_url": "http://alomran.me",
+							"display_url": "alomran.me",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 147754,
+			"friends_count": 1918,
+			"listed_count": 2693,
+			"created_at": "Mon Sep 04 00:18:12 +0000 2006",
+			"favourites_count": 5253,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 98383,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "CCCCCC",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme5/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme5/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/981288787660689408/ORCJwxJV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/981288787660689408/ORCJwxJV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/5242/1537629476",
+			"profile_link_color": "0790EB",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "99CC33",
+			"profile_text_color": "3E4415",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 7,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Saudi minister of state for foreign affairs Nizar Madani retires https://t.co/y3yxrw2IuD"
+	},
+	{
+		"created_at": "Wed Jan 09 05:58:43 +0000 2019",
+		"id": 1082879319758692400,
+		"id_str": "1082879319758692352",
+		"full_text": "Trump calls wall only solution to border crisis but his scripted remarks contained little that was new as he stopped short of declaring a national emergency https://t.co/LhZwS4bvLD",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			180
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/LhZwS4bvLD",
+					"expanded_url": "https://wapo.st/2RgeOOw",
+					"display_url": "wapo.st/2RgeOOw",
+					"indices": [
+						157,
+						180
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 5242,
+			"id_str": "5242",
+			"name": "Ahmed Al Omran",
+			"screen_name": "ahmed",
+			"location": "Saudi Arabia",
+			"description": "Reporter for @FT covering Saudi Arabia · Formerly with @WSJ and @NPR · Columbia J-School alum · Email: ahmed.alomran [at] ftdotcom",
+			"url": "http://t.co/1tckurrksd",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/1tckurrksd",
+							"expanded_url": "http://alomran.me",
+							"display_url": "alomran.me",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 147754,
+			"friends_count": 1918,
+			"listed_count": 2693,
+			"created_at": "Mon Sep 04 00:18:12 +0000 2006",
+			"favourites_count": 5253,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 98383,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "CCCCCC",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme5/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme5/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/981288787660689408/ORCJwxJV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/981288787660689408/ORCJwxJV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/5242/1537629476",
+			"profile_link_color": "0790EB",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "99CC33",
+			"profile_text_color": "3E4415",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Trump calls wall only solution to border crisis but his scripted remarks contained little that was new as he stopped short of declaring a national emergency https://t.co/LhZwS4bvLD"
+	},
+	{
 		"created_at": "Tue Jan 08 20:37:36 +0000 2019",
 		"id": 1082738109773635600,
 		"id_str": "1082738109773635584",
