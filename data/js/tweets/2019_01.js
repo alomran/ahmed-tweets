@@ -1,6 +1,1805 @@
 Grailbird.data.tweets_2019_01 = 
 [
 	{
+		"created_at": "Thu Jan 17 21:17:03 +0000 2019",
+		"id": 1086009530566230000,
+		"id_str": "1086009530566230021",
+		"full_text": "Iran calls on US to release Press TV journalist https://t.co/ACe7jqCcPQ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			71
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/ACe7jqCcPQ",
+					"expanded_url": "https://n.pr/2DhaWV0",
+					"display_url": "n.pr/2DhaWV0",
+					"indices": [
+						48,
+						71
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 5242,
+			"id_str": "5242",
+			"name": "Ahmed Al Omran",
+			"screen_name": "ahmed",
+			"location": "Saudi Arabia",
+			"description": "Reporter for @FT covering Saudi Arabia · Formerly with @WSJ and @NPR · Columbia J-School alum · Email: ahmed.alomran [at] ftdotcom",
+			"url": "http://t.co/1tckurrksd",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/1tckurrksd",
+							"expanded_url": "http://alomran.me",
+							"display_url": "alomran.me",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 147796,
+			"friends_count": 1916,
+			"listed_count": 2696,
+			"created_at": "Mon Sep 04 00:18:12 +0000 2006",
+			"favourites_count": 5245,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 98411,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "CCCCCC",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme5/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme5/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/981288787660689408/ORCJwxJV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/981288787660689408/ORCJwxJV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/5242/1537629476",
+			"profile_link_color": "0790EB",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "99CC33",
+			"profile_text_color": "3E4415",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Iran calls on US to release Press TV journalist https://t.co/ACe7jqCcPQ"
+	},
+	{
+		"created_at": "Thu Jan 17 20:50:04 +0000 2019",
+		"id": 1086002739006586900,
+		"id_str": "1086002739006586884",
+		"full_text": "US federal court rules that police cannot force suspects to unlock their phones using biometrics https://t.co/z4bjwmJY7B",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			120
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/z4bjwmJY7B",
+					"expanded_url": "https://thenextweb.com/us/2019/01/15/us-police-cant-force-you-to-unlock-your-phone-with-fingerprints-or-face-recognition/",
+					"display_url": "thenextweb.com/us/2019/01/15/…",
+					"indices": [
+						97,
+						120
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 5242,
+			"id_str": "5242",
+			"name": "Ahmed Al Omran",
+			"screen_name": "ahmed",
+			"location": "Saudi Arabia",
+			"description": "Reporter for @FT covering Saudi Arabia · Formerly with @WSJ and @NPR · Columbia J-School alum · Email: ahmed.alomran [at] ftdotcom",
+			"url": "http://t.co/1tckurrksd",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/1tckurrksd",
+							"expanded_url": "http://alomran.me",
+							"display_url": "alomran.me",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 147796,
+			"friends_count": 1916,
+			"listed_count": 2696,
+			"created_at": "Mon Sep 04 00:18:12 +0000 2006",
+			"favourites_count": 5245,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 98411,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "CCCCCC",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme5/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme5/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/981288787660689408/ORCJwxJV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/981288787660689408/ORCJwxJV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/5242/1537629476",
+			"profile_link_color": "0790EB",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "99CC33",
+			"profile_text_color": "3E4415",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "US federal court rules that police cannot force suspects to unlock their phones using biometrics https://t.co/z4bjwmJY7B"
+	},
+	{
+		"created_at": "Thu Jan 17 20:35:31 +0000 2019",
+		"id": 1085999074984247300,
+		"id_str": "1085999074984247296",
+		"full_text": "We need to approach our interactions with technology mindful of the data we generate and how it can be used at scale https://t.co/3qnpvyfvov",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			140
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/3qnpvyfvov",
+					"expanded_url": "https://www.wired.com/story/facebook-10-year-meme-challenge/",
+					"display_url": "wired.com/story/facebook…",
+					"indices": [
+						117,
+						140
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 5242,
+			"id_str": "5242",
+			"name": "Ahmed Al Omran",
+			"screen_name": "ahmed",
+			"location": "Saudi Arabia",
+			"description": "Reporter for @FT covering Saudi Arabia · Formerly with @WSJ and @NPR · Columbia J-School alum · Email: ahmed.alomran [at] ftdotcom",
+			"url": "http://t.co/1tckurrksd",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/1tckurrksd",
+							"expanded_url": "http://alomran.me",
+							"display_url": "alomran.me",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 147796,
+			"friends_count": 1916,
+			"listed_count": 2696,
+			"created_at": "Mon Sep 04 00:18:12 +0000 2006",
+			"favourites_count": 5245,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 98411,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "CCCCCC",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme5/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme5/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/981288787660689408/ORCJwxJV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/981288787660689408/ORCJwxJV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/5242/1537629476",
+			"profile_link_color": "0790EB",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "99CC33",
+			"profile_text_color": "3E4415",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 6,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "We need to approach our interactions with technology mindful of the data we generate and how it can be used at scale https://t.co/3qnpvyfvov"
+	},
+	{
+		"created_at": "Thu Jan 17 19:44:51 +0000 2019",
+		"id": 1085986325638074400,
+		"id_str": "1085986325638074369",
+		"full_text": "From @TheEconomist: “Only practical and principled way out of [Brexit] mess is to go back to the people, and ask.” https://t.co/QbQKaU3KMJ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			138
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "TheEconomist",
+					"name": "The Economist",
+					"id": 5988062,
+					"id_str": "5988062",
+					"indices": [
+						5,
+						18
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/QbQKaU3KMJ",
+					"expanded_url": "https://econ.st/2DiJztx",
+					"display_url": "econ.st/2DiJztx",
+					"indices": [
+						115,
+						138
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 5242,
+			"id_str": "5242",
+			"name": "Ahmed Al Omran",
+			"screen_name": "ahmed",
+			"location": "Saudi Arabia",
+			"description": "Reporter for @FT covering Saudi Arabia · Formerly with @WSJ and @NPR · Columbia J-School alum · Email: ahmed.alomran [at] ftdotcom",
+			"url": "http://t.co/1tckurrksd",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/1tckurrksd",
+							"expanded_url": "http://alomran.me",
+							"display_url": "alomran.me",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 147796,
+			"friends_count": 1916,
+			"listed_count": 2696,
+			"created_at": "Mon Sep 04 00:18:12 +0000 2006",
+			"favourites_count": 5245,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 98411,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "CCCCCC",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme5/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme5/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/981288787660689408/ORCJwxJV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/981288787660689408/ORCJwxJV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/5242/1537629476",
+			"profile_link_color": "0790EB",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "99CC33",
+			"profile_text_color": "3E4415",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "From @TheEconomist: “Only practical and principled way out of [Brexit] mess is to go back to the people, and ask.” https://t.co/QbQKaU3KMJ"
+	},
+	{
+		"created_at": "Thu Jan 17 18:03:41 +0000 2019",
+		"id": 1085960865982107600,
+		"id_str": "1085960865982107650",
+		"full_text": "WeWork CEO makes millions of dollars by leasing multiple properties he co-owns back to the company in potential conflict of interest https://t.co/K9awqsM3iI",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			156
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/K9awqsM3iI",
+					"expanded_url": "https://on.wsj.com/2FHMD3Z",
+					"display_url": "on.wsj.com/2FHMD3Z",
+					"indices": [
+						133,
+						156
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 5242,
+			"id_str": "5242",
+			"name": "Ahmed Al Omran",
+			"screen_name": "ahmed",
+			"location": "Saudi Arabia",
+			"description": "Reporter for @FT covering Saudi Arabia · Formerly with @WSJ and @NPR · Columbia J-School alum · Email: ahmed.alomran [at] ftdotcom",
+			"url": "http://t.co/1tckurrksd",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/1tckurrksd",
+							"expanded_url": "http://alomran.me",
+							"display_url": "alomran.me",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 147796,
+			"friends_count": 1916,
+			"listed_count": 2696,
+			"created_at": "Mon Sep 04 00:18:12 +0000 2006",
+			"favourites_count": 5245,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 98411,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "CCCCCC",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme5/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme5/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/981288787660689408/ORCJwxJV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/981288787660689408/ORCJwxJV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/5242/1537629476",
+			"profile_link_color": "0790EB",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "99CC33",
+			"profile_text_color": "3E4415",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "WeWork CEO makes millions of dollars by leasing multiple properties he co-owns back to the company in potential conflict of interest https://t.co/K9awqsM3iI"
+	},
+	{
+		"created_at": "Thu Jan 17 18:00:46 +0000 2019",
+		"id": 1085960134956892200,
+		"id_str": "1085960134956892160",
+		"full_text": "Saudi NCB hires JPMorgan to advise on its proposed merger with Riyad Bank https://t.co/C7Ag7HDKge",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			97
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/C7Ag7HDKge",
+					"expanded_url": "https://bloom.bg/2FGl7E8",
+					"display_url": "bloom.bg/2FGl7E8",
+					"indices": [
+						74,
+						97
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 5242,
+			"id_str": "5242",
+			"name": "Ahmed Al Omran",
+			"screen_name": "ahmed",
+			"location": "Saudi Arabia",
+			"description": "Reporter for @FT covering Saudi Arabia · Formerly with @WSJ and @NPR · Columbia J-School alum · Email: ahmed.alomran [at] ftdotcom",
+			"url": "http://t.co/1tckurrksd",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/1tckurrksd",
+							"expanded_url": "http://alomran.me",
+							"display_url": "alomran.me",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 147796,
+			"friends_count": 1916,
+			"listed_count": 2696,
+			"created_at": "Mon Sep 04 00:18:12 +0000 2006",
+			"favourites_count": 5245,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 98411,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "CCCCCC",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme5/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme5/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/981288787660689408/ORCJwxJV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/981288787660689408/ORCJwxJV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/5242/1537629476",
+			"profile_link_color": "0790EB",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "99CC33",
+			"profile_text_color": "3E4415",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5,
+		"favorite_count": 10,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Saudi NCB hires JPMorgan to advise on its proposed merger with Riyad Bank https://t.co/C7Ag7HDKge"
+	},
+	{
+		"created_at": "Thu Jan 17 17:51:09 +0000 2019",
+		"id": 1085957711752294400,
+		"id_str": "1085957711752294401",
+		"full_text": "FT: 🇸🇦 0-2 🇶🇦 — Qatar tops the group and heads to meet Iraq in the next round while Saudi Arabia will face Japan",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			112
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 1085954662245777400,
+		"in_reply_to_status_id_str": "1085954662245777408",
+		"in_reply_to_user_id": 5242,
+		"in_reply_to_user_id_str": "5242",
+		"in_reply_to_screen_name": "ahmed",
+		"user": {
+			"id": 5242,
+			"id_str": "5242",
+			"name": "Ahmed Al Omran",
+			"screen_name": "ahmed",
+			"location": "Saudi Arabia",
+			"description": "Reporter for @FT covering Saudi Arabia · Formerly with @WSJ and @NPR · Columbia J-School alum · Email: ahmed.alomran [at] ftdotcom",
+			"url": "http://t.co/1tckurrksd",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/1tckurrksd",
+							"expanded_url": "http://alomran.me",
+							"display_url": "alomran.me",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 147796,
+			"friends_count": 1916,
+			"listed_count": 2696,
+			"created_at": "Mon Sep 04 00:18:12 +0000 2006",
+			"favourites_count": 5245,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 98411,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "CCCCCC",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme5/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme5/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/981288787660689408/ORCJwxJV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/981288787660689408/ORCJwxJV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/5242/1537629476",
+			"profile_link_color": "0790EB",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "99CC33",
+			"profile_text_color": "3E4415",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 7,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "FT: 🇸🇦 0-2 🇶🇦 — Qatar tops the group and heads to meet Iraq in the next round while Saudi Arabia will face Japan"
+	},
+	{
+		"created_at": "Thu Jan 17 17:39:02 +0000 2019",
+		"id": 1085954662245777400,
+		"id_str": "1085954662245777408",
+		"full_text": "Qatar scores again with 10 minutes to go. Almoez Ali with a free header from corner",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			83
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 1085942873328111600,
+		"in_reply_to_status_id_str": "1085942873328111616",
+		"in_reply_to_user_id": 5242,
+		"in_reply_to_user_id_str": "5242",
+		"in_reply_to_screen_name": "ahmed",
+		"user": {
+			"id": 5242,
+			"id_str": "5242",
+			"name": "Ahmed Al Omran",
+			"screen_name": "ahmed",
+			"location": "Saudi Arabia",
+			"description": "Reporter for @FT covering Saudi Arabia · Formerly with @WSJ and @NPR · Columbia J-School alum · Email: ahmed.alomran [at] ftdotcom",
+			"url": "http://t.co/1tckurrksd",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/1tckurrksd",
+							"expanded_url": "http://alomran.me",
+							"display_url": "alomran.me",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 147796,
+			"friends_count": 1916,
+			"listed_count": 2696,
+			"created_at": "Mon Sep 04 00:18:12 +0000 2006",
+			"favourites_count": 5245,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 98411,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "CCCCCC",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme5/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme5/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/981288787660689408/ORCJwxJV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/981288787660689408/ORCJwxJV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/5242/1537629476",
+			"profile_link_color": "0790EB",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "99CC33",
+			"profile_text_color": "3E4415",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "Qatar scores again with 10 minutes to go. Almoez Ali with a free header from corner"
+	},
+	{
+		"created_at": "Thu Jan 17 17:25:36 +0000 2019",
+		"id": 1085951284841234400,
+		"id_str": "1085951284841234434",
+		"full_text": "FT editorial board says “it may well be time to go back to the people” for a second referendum on Brexit https://t.co/IVs6RxMV7M",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			128
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/IVs6RxMV7M",
+					"expanded_url": "https://on.ft.com/2FGiAtn",
+					"display_url": "on.ft.com/2FGiAtn",
+					"indices": [
+						105,
+						128
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 5242,
+			"id_str": "5242",
+			"name": "Ahmed Al Omran",
+			"screen_name": "ahmed",
+			"location": "Saudi Arabia",
+			"description": "Reporter for @FT covering Saudi Arabia · Formerly with @WSJ and @NPR · Columbia J-School alum · Email: ahmed.alomran [at] ftdotcom",
+			"url": "http://t.co/1tckurrksd",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/1tckurrksd",
+							"expanded_url": "http://alomran.me",
+							"display_url": "alomran.me",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 147796,
+			"friends_count": 1916,
+			"listed_count": 2696,
+			"created_at": "Mon Sep 04 00:18:12 +0000 2006",
+			"favourites_count": 5245,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 98411,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "CCCCCC",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme5/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme5/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/981288787660689408/ORCJwxJV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/981288787660689408/ORCJwxJV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/5242/1537629476",
+			"profile_link_color": "0790EB",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "99CC33",
+			"profile_text_color": "3E4415",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5,
+		"favorite_count": 5,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "FT editorial board says “it may well be time to go back to the people” for a second referendum on Brexit https://t.co/IVs6RxMV7M"
+	},
+	{
+		"created_at": "Thu Jan 17 16:52:11 +0000 2019",
+		"id": 1085942873328111600,
+		"id_str": "1085942873328111616",
+		"full_text": "Mourinho is analysing the KSA-Qatar game on beIN Sports https://t.co/8CtmqOPaNT",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			55
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1085942851979145200,
+					"id_str": "1085942851979145217",
+					"indices": [
+						56,
+						79
+					],
+					"media_url": "http://pbs.twimg.com/media/DxILRTKXcAEauX4.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DxILRTKXcAEauX4.jpg",
+					"url": "https://t.co/8CtmqOPaNT",
+					"display_url": "pic.twitter.com/8CtmqOPaNT",
+					"expanded_url": "https://twitter.com/ahmed/status/1085942873328111616/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 373,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1028,
+							"h": 564,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1028,
+							"h": 564,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1085942851979145200,
+					"id_str": "1085942851979145217",
+					"indices": [
+						56,
+						79
+					],
+					"media_url": "http://pbs.twimg.com/media/DxILRTKXcAEauX4.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DxILRTKXcAEauX4.jpg",
+					"url": "https://t.co/8CtmqOPaNT",
+					"display_url": "pic.twitter.com/8CtmqOPaNT",
+					"expanded_url": "https://twitter.com/ahmed/status/1085942873328111616/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 373,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1028,
+							"h": 564,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1028,
+							"h": 564,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 1085941511777407000,
+		"in_reply_to_status_id_str": "1085941511777406977",
+		"in_reply_to_user_id": 5242,
+		"in_reply_to_user_id_str": "5242",
+		"in_reply_to_screen_name": "ahmed",
+		"user": {
+			"id": 5242,
+			"id_str": "5242",
+			"name": "Ahmed Al Omran",
+			"screen_name": "ahmed",
+			"location": "Saudi Arabia",
+			"description": "Reporter for @FT covering Saudi Arabia · Formerly with @WSJ and @NPR · Columbia J-School alum · Email: ahmed.alomran [at] ftdotcom",
+			"url": "http://t.co/1tckurrksd",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/1tckurrksd",
+							"expanded_url": "http://alomran.me",
+							"display_url": "alomran.me",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 147796,
+			"friends_count": 1916,
+			"listed_count": 2696,
+			"created_at": "Mon Sep 04 00:18:12 +0000 2006",
+			"favourites_count": 5245,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 98411,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "CCCCCC",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme5/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme5/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/981288787660689408/ORCJwxJV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/981288787660689408/ORCJwxJV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/5242/1537629476",
+			"profile_link_color": "0790EB",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "99CC33",
+			"profile_text_color": "3E4415",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Mourinho is analysing the KSA-Qatar game on beIN Sports https://t.co/8CtmqOPaNT"
+	},
+	{
+		"created_at": "Thu Jan 17 16:46:46 +0000 2019",
+		"id": 1085941511777407000,
+		"id_str": "1085941511777406977",
+		"full_text": "Qatar scores at the last minute before the half-time break after a Saudi defensive blunder",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			90
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 1085940719120990200,
+		"in_reply_to_status_id_str": "1085940719120990210",
+		"in_reply_to_user_id": 5242,
+		"in_reply_to_user_id_str": "5242",
+		"in_reply_to_screen_name": "ahmed",
+		"user": {
+			"id": 5242,
+			"id_str": "5242",
+			"name": "Ahmed Al Omran",
+			"screen_name": "ahmed",
+			"location": "Saudi Arabia",
+			"description": "Reporter for @FT covering Saudi Arabia · Formerly with @WSJ and @NPR · Columbia J-School alum · Email: ahmed.alomran [at] ftdotcom",
+			"url": "http://t.co/1tckurrksd",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/1tckurrksd",
+							"expanded_url": "http://alomran.me",
+							"display_url": "alomran.me",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 147796,
+			"friends_count": 1916,
+			"listed_count": 2696,
+			"created_at": "Mon Sep 04 00:18:12 +0000 2006",
+			"favourites_count": 5245,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 98411,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "CCCCCC",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme5/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme5/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/981288787660689408/ORCJwxJV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/981288787660689408/ORCJwxJV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/5242/1537629476",
+			"profile_link_color": "0790EB",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "99CC33",
+			"profile_text_color": "3E4415",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 5,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "Qatar scores at the last minute before the half-time break after a Saudi defensive blunder"
+	},
+	{
+		"created_at": "Thu Jan 17 16:43:37 +0000 2019",
+		"id": 1085940719120990200,
+		"id_str": "1085940719120990210",
+		"full_text": "Saudi keeper saves penalty at 41",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			32
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 1085852497485410300,
+		"in_reply_to_status_id_str": "1085852497485410304",
+		"in_reply_to_user_id": 5242,
+		"in_reply_to_user_id_str": "5242",
+		"in_reply_to_screen_name": "ahmed",
+		"user": {
+			"id": 5242,
+			"id_str": "5242",
+			"name": "Ahmed Al Omran",
+			"screen_name": "ahmed",
+			"location": "Saudi Arabia",
+			"description": "Reporter for @FT covering Saudi Arabia · Formerly with @WSJ and @NPR · Columbia J-School alum · Email: ahmed.alomran [at] ftdotcom",
+			"url": "http://t.co/1tckurrksd",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/1tckurrksd",
+							"expanded_url": "http://alomran.me",
+							"display_url": "alomran.me",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 147796,
+			"friends_count": 1916,
+			"listed_count": 2696,
+			"created_at": "Mon Sep 04 00:18:12 +0000 2006",
+			"favourites_count": 5245,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 98411,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "CCCCCC",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme5/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme5/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/981288787660689408/ORCJwxJV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/981288787660689408/ORCJwxJV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/5242/1537629476",
+			"profile_link_color": "0790EB",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "99CC33",
+			"profile_text_color": "3E4415",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "Saudi keeper saves penalty at 41"
+	},
+	{
+		"created_at": "Thu Jan 17 10:53:04 +0000 2019",
+		"id": 1085852497485410300,
+		"id_str": "1085852497485410304",
+		"full_text": "Saudi Arabia and Qatar clash today to decide who wins Group E in the Asian Cup. Kick-off at 4pm GMT https://t.co/iIefSFOQ9p",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			99
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1085852290865643500,
+					"id_str": "1085852290865643520",
+					"indices": [
+						100,
+						123
+					],
+					"media_url": "http://pbs.twimg.com/media/DxG458uXQAAIJzn.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DxG458uXQAAIJzn.jpg",
+					"url": "https://t.co/iIefSFOQ9p",
+					"display_url": "pic.twitter.com/iIefSFOQ9p",
+					"expanded_url": "https://twitter.com/ahmed/status/1085852497485410304/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 247,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1496,
+							"h": 544,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 436,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1085852290865643500,
+					"id_str": "1085852290865643520",
+					"indices": [
+						100,
+						123
+					],
+					"media_url": "http://pbs.twimg.com/media/DxG458uXQAAIJzn.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DxG458uXQAAIJzn.jpg",
+					"url": "https://t.co/iIefSFOQ9p",
+					"display_url": "pic.twitter.com/iIefSFOQ9p",
+					"expanded_url": "https://twitter.com/ahmed/status/1085852497485410304/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 247,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1496,
+							"h": 544,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 436,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 5242,
+			"id_str": "5242",
+			"name": "Ahmed Al Omran",
+			"screen_name": "ahmed",
+			"location": "Saudi Arabia",
+			"description": "Reporter for @FT covering Saudi Arabia · Formerly with @WSJ and @NPR · Columbia J-School alum · Email: ahmed.alomran [at] ftdotcom",
+			"url": "http://t.co/1tckurrksd",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/1tckurrksd",
+							"expanded_url": "http://alomran.me",
+							"display_url": "alomran.me",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 147796,
+			"friends_count": 1916,
+			"listed_count": 2696,
+			"created_at": "Mon Sep 04 00:18:12 +0000 2006",
+			"favourites_count": 5245,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 98411,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "CCCCCC",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme5/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme5/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/981288787660689408/ORCJwxJV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/981288787660689408/ORCJwxJV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/5242/1537629476",
+			"profile_link_color": "0790EB",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "99CC33",
+			"profile_text_color": "3E4415",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 11,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Saudi Arabia and Qatar clash today to decide who wins Group E in the Asian Cup. Kick-off at 4pm GMT https://t.co/iIefSFOQ9p"
+	},
+	{
+		"created_at": "Thu Jan 17 10:41:25 +0000 2019",
+		"id": 1085849567545970700,
+		"id_str": "1085849567545970688",
+		"full_text": "Saudi crown prince approves Neom Bay, the first urban area in the $500bn megaproject with a focus on luxurious living including high-end hotels and villas https://t.co/5Xxp3SCJlh",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			178
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/5Xxp3SCJlh",
+					"expanded_url": "http://www.arabnews.com/node/1436436/business-economy",
+					"display_url": "arabnews.com/node/1436436/b…",
+					"indices": [
+						155,
+						178
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 5242,
+			"id_str": "5242",
+			"name": "Ahmed Al Omran",
+			"screen_name": "ahmed",
+			"location": "Saudi Arabia",
+			"description": "Reporter for @FT covering Saudi Arabia · Formerly with @WSJ and @NPR · Columbia J-School alum · Email: ahmed.alomran [at] ftdotcom",
+			"url": "http://t.co/1tckurrksd",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/1tckurrksd",
+							"expanded_url": "http://alomran.me",
+							"display_url": "alomran.me",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 147796,
+			"friends_count": 1916,
+			"listed_count": 2696,
+			"created_at": "Mon Sep 04 00:18:12 +0000 2006",
+			"favourites_count": 5245,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 98411,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "CCCCCC",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme5/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme5/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/981288787660689408/ORCJwxJV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/981288787660689408/ORCJwxJV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/5242/1537629476",
+			"profile_link_color": "0790EB",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "99CC33",
+			"profile_text_color": "3E4415",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 17,
+		"favorite_count": 34,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Saudi crown prince approves Neom Bay, the first urban area in the $500bn megaproject with a focus on luxurious living including high-end hotels and villas https://t.co/5Xxp3SCJlh"
+	},
+	{
+		"created_at": "Thu Jan 17 10:27:42 +0000 2019",
+		"id": 1085846113524031500,
+		"id_str": "1085846113524031489",
+		"full_text": "Members of US Congress warn about Huawei selling hackable solar panels to US consumers https://t.co/M5Wh4DsssM",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			110
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/M5Wh4DsssM",
+					"expanded_url": "https://on.ft.com/2DfTAre",
+					"display_url": "on.ft.com/2DfTAre",
+					"indices": [
+						87,
+						110
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 5242,
+			"id_str": "5242",
+			"name": "Ahmed Al Omran",
+			"screen_name": "ahmed",
+			"location": "Saudi Arabia",
+			"description": "Reporter for @FT covering Saudi Arabia · Formerly with @WSJ and @NPR · Columbia J-School alum · Email: ahmed.alomran [at] ftdotcom",
+			"url": "http://t.co/1tckurrksd",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/1tckurrksd",
+							"expanded_url": "http://alomran.me",
+							"display_url": "alomran.me",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 147796,
+			"friends_count": 1916,
+			"listed_count": 2696,
+			"created_at": "Mon Sep 04 00:18:12 +0000 2006",
+			"favourites_count": 5245,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 98411,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "CCCCCC",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme5/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme5/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/981288787660689408/ORCJwxJV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/981288787660689408/ORCJwxJV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/5242/1537629476",
+			"profile_link_color": "0790EB",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "99CC33",
+			"profile_text_color": "3E4415",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Members of US Congress warn about Huawei selling hackable solar panels to US consumers https://t.co/M5Wh4DsssM"
+	},
+	{
+		"created_at": "Thu Jan 17 10:07:08 +0000 2019",
+		"id": 1085840937694175200,
+		"id_str": "1085840937694175232",
+		"full_text": "Former Toronto Transit Commission chairman is now working for Saptco in Saudi Arabia https://t.co/XbaGntmSUa",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			108
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/XbaGntmSUa",
+					"expanded_url": "https://politi.co/2DfonV8",
+					"display_url": "politi.co/2DfonV8",
+					"indices": [
+						85,
+						108
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 5242,
+			"id_str": "5242",
+			"name": "Ahmed Al Omran",
+			"screen_name": "ahmed",
+			"location": "Saudi Arabia",
+			"description": "Reporter for @FT covering Saudi Arabia · Formerly with @WSJ and @NPR · Columbia J-School alum · Email: ahmed.alomran [at] ftdotcom",
+			"url": "http://t.co/1tckurrksd",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/1tckurrksd",
+							"expanded_url": "http://alomran.me",
+							"display_url": "alomran.me",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 147796,
+			"friends_count": 1916,
+			"listed_count": 2696,
+			"created_at": "Mon Sep 04 00:18:12 +0000 2006",
+			"favourites_count": 5245,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 98411,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "CCCCCC",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme5/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme5/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/981288787660689408/ORCJwxJV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/981288787660689408/ORCJwxJV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/5242/1537629476",
+			"profile_link_color": "0790EB",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "99CC33",
+			"profile_text_color": "3E4415",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 6,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Former Toronto Transit Commission chairman is now working for Saptco in Saudi Arabia https://t.co/XbaGntmSUa"
+	},
+	{
 		"created_at": "Wed Jan 16 21:02:02 +0000 2019",
 		"id": 1085643362789703700,
 		"id_str": "1085643362789703697",
