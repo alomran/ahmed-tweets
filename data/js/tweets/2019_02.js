@@ -1,6 +1,143 @@
 Grailbird.data.tweets_2019_02 = 
 [
 	{
+		"created_at": "Sun Feb 10 10:39:38 +0000 2019",
+		"id": 1094546426913325000,
+		"id_str": "1094546426913325058",
+		"full_text": "@AlArabiya @TurkiAldakhil Saudi royal court just announced the appointment. @FaisalbinFarhan named new envoy to Germany, along with ambassadors to Switzerland and Japan. Job of ambassador to UK remains vacant https://t.co/W3JdDJLJ2Q",
+		"truncated": false,
+		"display_text_range": [
+			26,
+			232
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "AlArabiya",
+					"name": "العربية",
+					"id": 148711787,
+					"id_str": "148711787",
+					"indices": [
+						0,
+						10
+					]
+				},
+				{
+					"screen_name": "TurkiAldakhil",
+					"name": "#تركي_الدخيل",
+					"id": 46636018,
+					"id_str": "46636018",
+					"indices": [
+						11,
+						25
+					]
+				},
+				{
+					"screen_name": "FaisalbinFarhan",
+					"name": "فيصل بن فرحان",
+					"id": 364425413,
+					"id_str": "364425413",
+					"indices": [
+						76,
+						92
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/W3JdDJLJ2Q",
+					"expanded_url": "http://www.spa.gov.sa/1883858",
+					"display_url": "spa.gov.sa/1883858",
+					"indices": [
+						209,
+						232
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1094545055472406500,
+		"in_reply_to_status_id_str": "1094545055472406528",
+		"in_reply_to_user_id": 5242,
+		"in_reply_to_user_id_str": "5242",
+		"in_reply_to_screen_name": "ahmed",
+		"user": {
+			"id": 5242,
+			"id_str": "5242",
+			"name": "Ahmed Al Omran",
+			"screen_name": "ahmed",
+			"location": "Saudi Arabia",
+			"description": "Reporter for @FT covering Saudi Arabia · Formerly with @WSJ and @NPR · Columbia J-School alum · Email: ahmed.alomran [at] ftdotcom",
+			"url": "http://t.co/1tckurrksd",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/1tckurrksd",
+							"expanded_url": "http://alomran.me",
+							"display_url": "alomran.me",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 147775,
+			"friends_count": 1919,
+			"listed_count": 2692,
+			"created_at": "Mon Sep 04 00:18:12 +0000 2006",
+			"favourites_count": 5259,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 98779,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "CCCCCC",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme5/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme5/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/981288787660689408/ORCJwxJV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/981288787660689408/ORCJwxJV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/5242/1537629476",
+			"profile_link_color": "0790EB",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "99CC33",
+			"profile_text_color": "3E4415",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@AlArabiya @TurkiAldakhil Saudi royal court just announced the appointment. @FaisalbinFarhan named new envoy to Germany, along with ambassadors to Switzerland and Japan. Job of ambassador to UK remains vacant https://t.co/W3JdDJLJ2Q"
+	},
+	{
 		"created_at": "Thu Feb 07 05:12:01 +0000 2019",
 		"id": 1093376815090016300,
 		"id_str": "1093376815090016256",
