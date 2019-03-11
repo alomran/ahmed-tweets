@@ -1,6 +1,242 @@
 Grailbird.data.tweets_2019_03 = 
 [
 	{
+		"created_at": "Mon Mar 11 18:12:08 +0000 2019",
+		"id": 1105169551002648600,
+		"id_str": "1105169551002648576",
+		"full_text": "Zizou is back https://t.co/95oWarP27u",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			13
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/95oWarP27u",
+					"expanded_url": "https://twitter.com/realmadriden/status/1105162224128135168",
+					"display_url": "twitter.com/realmadriden/s…",
+					"indices": [
+						14,
+						37
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 5242,
+			"id_str": "5242",
+			"name": "Ahmed Al Omran",
+			"screen_name": "ahmed",
+			"location": "Saudi Arabia",
+			"description": "Reporter for @FT covering Saudi Arabia · Formerly with @WSJ and @NPR · Email: ahmed.alomran@ft.com · Subscribe to my newsletter: https://t.co/frBcpb6RwY",
+			"url": "http://t.co/1tckurrksd",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/1tckurrksd",
+							"expanded_url": "http://alomran.me",
+							"display_url": "alomran.me",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/frBcpb6RwY",
+							"expanded_url": "https://ahmed.substack.com/",
+							"display_url": "ahmed.substack.com",
+							"indices": [
+								129,
+								152
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 148114,
+			"friends_count": 1918,
+			"listed_count": 2696,
+			"created_at": "Mon Sep 04 00:18:12 +0000 2006",
+			"favourites_count": 5274,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 99114,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "CCCCCC",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme5/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme5/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/981288787660689408/ORCJwxJV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/981288787660689408/ORCJwxJV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/5242/1537629476",
+			"profile_link_color": "0790EB",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "99CC33",
+			"profile_text_color": "3E4415",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1105162224128135200,
+		"quoted_status_id_str": "1105162224128135168",
+		"quoted_status_permalink": {
+			"url": "https://t.co/95oWarP27u",
+			"expanded": "https://twitter.com/realmadriden/status/1105162224128135168",
+			"display": "twitter.com/realmadriden/s…"
+		},
+		"quoted_status": {
+			"created_at": "Mon Mar 11 17:43:01 +0000 2019",
+			"id": 1105162224128135200,
+			"id_str": "1105162224128135168",
+			"full_text": "Official Announcement.\n#RealMadrid\n\nhttps://t.co/VzxKiYY0Uk",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				59
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "RealMadrid",
+						"indices": [
+							23,
+							34
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/VzxKiYY0Uk",
+						"expanded_url": "http://bit.ly/AnnouncementSolari",
+						"display_url": "bit.ly/AnnouncementSo…",
+						"indices": [
+							36,
+							59
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 452155423,
+				"id_str": "452155423",
+				"name": "Real Madrid C.F. 🇬🇧🇺🇸",
+				"screen_name": "realmadriden",
+				"location": "Madrid, Spain",
+				"description": "⚽️ Official account of Real Madrid C.F. 🏆@realmadrid: 🇪🇸. @realmadridfra: 🇫🇷. @realmadridarab: العربيه. @realmadridjapan: 🇯🇵.",
+				"url": "https://t.co/stTGx3maNd",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/stTGx3maNd",
+								"expanded_url": "http://realmadrid.com",
+								"display_url": "realmadrid.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 10157020,
+				"friends_count": 54,
+				"listed_count": 9858,
+				"created_at": "Sun Jan 01 13:52:31 +0000 2012",
+				"favourites_count": 116,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 39564,
+				"lang": "en-gb",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": true,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1053405721566633984/YxZtNoNT_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1053405721566633984/YxZtNoNT_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/452155423/1545507803",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "regular"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 4310,
+			"favorite_count": 11486,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "nl",
+		"text": "Zizou is back https://t.co/95oWarP27u"
+	},
+	{
 		"created_at": "Sun Mar 10 20:38:46 +0000 2019",
 		"id": 1104844065198223400,
 		"id_str": "1104844065198223360",
