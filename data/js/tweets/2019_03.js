@@ -1,6 +1,1176 @@
 Grailbird.data.tweets_2019_03 = 
 [
 	{
+		"created_at": "Tue Mar 19 20:41:13 +0000 2019",
+		"id": 1108106170936356900,
+		"id_str": "1108106170936356864",
+		"full_text": "Saudi Arabia takes first step into foreign equity benchmarks https://t.co/CQwOgCnY9r",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			84
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/CQwOgCnY9r",
+					"expanded_url": "https://on.ft.com/2Jnaolj",
+					"display_url": "on.ft.com/2Jnaolj",
+					"indices": [
+						61,
+						84
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 5242,
+			"id_str": "5242",
+			"name": "Ahmed Al Omran",
+			"screen_name": "ahmed",
+			"location": "Saudi Arabia",
+			"description": "Reporter for @FT covering Saudi Arabia · Formerly with @WSJ and @NPR · Email: ahmed.alomran@ft.com · Subscribe to my newsletter: https://t.co/frBcpb6RwY",
+			"url": "http://t.co/1tckurrksd",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/1tckurrksd",
+							"expanded_url": "http://alomran.me",
+							"display_url": "alomran.me",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/frBcpb6RwY",
+							"expanded_url": "https://ahmed.substack.com/",
+							"display_url": "ahmed.substack.com",
+							"indices": [
+								129,
+								152
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 148168,
+			"friends_count": 1916,
+			"listed_count": 2693,
+			"created_at": "Mon Sep 04 00:18:12 +0000 2006",
+			"favourites_count": 5281,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 99239,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "CCCCCC",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme5/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme5/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/981288787660689408/ORCJwxJV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/981288787660689408/ORCJwxJV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/5242/1537629476",
+			"profile_link_color": "0790EB",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "99CC33",
+			"profile_text_color": "3E4415",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 5,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Saudi Arabia takes first step into foreign equity benchmarks https://t.co/CQwOgCnY9r"
+	},
+	{
+		"created_at": "Tue Mar 19 20:33:03 +0000 2019",
+		"id": 1108104115035336700,
+		"id_str": "1108104115035336704",
+		"full_text": "Instagram takes major step to become a full-fledged commerce business by adding a checkout feature to its mobile app https://t.co/r9kCzn9Oj8",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			140
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/r9kCzn9Oj8",
+					"expanded_url": "https://www.theverge.com/2019/3/19/18271840/instagram-checkout-shopping-facebook-business",
+					"display_url": "theverge.com/2019/3/19/1827…",
+					"indices": [
+						117,
+						140
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 5242,
+			"id_str": "5242",
+			"name": "Ahmed Al Omran",
+			"screen_name": "ahmed",
+			"location": "Saudi Arabia",
+			"description": "Reporter for @FT covering Saudi Arabia · Formerly with @WSJ and @NPR · Email: ahmed.alomran@ft.com · Subscribe to my newsletter: https://t.co/frBcpb6RwY",
+			"url": "http://t.co/1tckurrksd",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/1tckurrksd",
+							"expanded_url": "http://alomran.me",
+							"display_url": "alomran.me",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/frBcpb6RwY",
+							"expanded_url": "https://ahmed.substack.com/",
+							"display_url": "ahmed.substack.com",
+							"indices": [
+								129,
+								152
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 148168,
+			"friends_count": 1916,
+			"listed_count": 2693,
+			"created_at": "Mon Sep 04 00:18:12 +0000 2006",
+			"favourites_count": 5281,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 99239,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "CCCCCC",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme5/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme5/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/981288787660689408/ORCJwxJV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/981288787660689408/ORCJwxJV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/5242/1537629476",
+			"profile_link_color": "0790EB",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "99CC33",
+			"profile_text_color": "3E4415",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Instagram takes major step to become a full-fledged commerce business by adding a checkout feature to its mobile app https://t.co/r9kCzn9Oj8"
+	},
+	{
+		"created_at": "Tue Mar 19 14:38:58 +0000 2019",
+		"id": 1108015008707805200,
+		"id_str": "1108015008707805184",
+		"full_text": "Saudi Arabia has cut its own oil output to well below its targets to compensate for other producers but Falih said this would not “continue indefinitely” https://t.co/kPrCMOtUo0",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			177
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/kPrCMOtUo0",
+					"expanded_url": "https://reut.rs/2TdxLO1",
+					"display_url": "reut.rs/2TdxLO1",
+					"indices": [
+						154,
+						177
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 5242,
+			"id_str": "5242",
+			"name": "Ahmed Al Omran",
+			"screen_name": "ahmed",
+			"location": "Saudi Arabia",
+			"description": "Reporter for @FT covering Saudi Arabia · Formerly with @WSJ and @NPR · Email: ahmed.alomran@ft.com · Subscribe to my newsletter: https://t.co/frBcpb6RwY",
+			"url": "http://t.co/1tckurrksd",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/1tckurrksd",
+							"expanded_url": "http://alomran.me",
+							"display_url": "alomran.me",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/frBcpb6RwY",
+							"expanded_url": "https://ahmed.substack.com/",
+							"display_url": "ahmed.substack.com",
+							"indices": [
+								129,
+								152
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 148168,
+			"friends_count": 1916,
+			"listed_count": 2693,
+			"created_at": "Mon Sep 04 00:18:12 +0000 2006",
+			"favourites_count": 5281,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 99239,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "CCCCCC",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme5/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme5/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/981288787660689408/ORCJwxJV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/981288787660689408/ORCJwxJV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/5242/1537629476",
+			"profile_link_color": "0790EB",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "99CC33",
+			"profile_text_color": "3E4415",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Saudi Arabia has cut its own oil output to well below its targets to compensate for other producers but Falih said this would not “continue indefinitely” https://t.co/kPrCMOtUo0"
+	},
+	{
+		"created_at": "Tue Mar 19 13:02:04 +0000 2019",
+		"id": 1107990624144375800,
+		"id_str": "1107990624144375809",
+		"full_text": "King Salman Park will be 4 times bigger than New York’s Central Park; project will also house the new Royal Academy of Art https://t.co/0YJV3iwGBE",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			122
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/0YJV3iwGBE",
+					"expanded_url": "https://twitter.com/ahmed/status/1107986284520398848",
+					"display_url": "twitter.com/ahmed/status/1…",
+					"indices": [
+						123,
+						146
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 5242,
+			"id_str": "5242",
+			"name": "Ahmed Al Omran",
+			"screen_name": "ahmed",
+			"location": "Saudi Arabia",
+			"description": "Reporter for @FT covering Saudi Arabia · Formerly with @WSJ and @NPR · Email: ahmed.alomran@ft.com · Subscribe to my newsletter: https://t.co/frBcpb6RwY",
+			"url": "http://t.co/1tckurrksd",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/1tckurrksd",
+							"expanded_url": "http://alomran.me",
+							"display_url": "alomran.me",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/frBcpb6RwY",
+							"expanded_url": "https://ahmed.substack.com/",
+							"display_url": "ahmed.substack.com",
+							"indices": [
+								129,
+								152
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 148168,
+			"friends_count": 1916,
+			"listed_count": 2693,
+			"created_at": "Mon Sep 04 00:18:12 +0000 2006",
+			"favourites_count": 5281,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 99239,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "CCCCCC",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme5/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme5/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/981288787660689408/ORCJwxJV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/981288787660689408/ORCJwxJV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/5242/1537629476",
+			"profile_link_color": "0790EB",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "99CC33",
+			"profile_text_color": "3E4415",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1107986284520398800,
+		"quoted_status_id_str": "1107986284520398848",
+		"quoted_status_permalink": {
+			"url": "https://t.co/0YJV3iwGBE",
+			"expanded": "https://twitter.com/ahmed/status/1107986284520398848",
+			"display": "twitter.com/ahmed/status/1…"
+		},
+		"quoted_status": {
+			"created_at": "Tue Mar 19 12:44:50 +0000 2019",
+			"id": 1107986284520398800,
+			"id_str": "1107986284520398848",
+			"full_text": "Saudi Arabia announces plans to increase green spaces in the capital, including plan to convert Riyadh air base into a major park https://t.co/7MtDSJlR65",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				129
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1107986086201118700,
+						"id_str": "1107986086201118720",
+						"indices": [
+							130,
+							153
+						],
+						"media_url": "http://pbs.twimg.com/media/D2BbeZwX0AA4C4D.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/D2BbeZwX0AA4C4D.jpg",
+						"url": "https://t.co/7MtDSJlR65",
+						"display_url": "pic.twitter.com/7MtDSJlR65",
+						"expanded_url": "https://twitter.com/ahmed/status/1107986284520398848/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 1200,
+								"h": 847,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 2048,
+								"h": 1446,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 480,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1107986086201118700,
+						"id_str": "1107986086201118720",
+						"indices": [
+							130,
+							153
+						],
+						"media_url": "http://pbs.twimg.com/media/D2BbeZwX0AA4C4D.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/D2BbeZwX0AA4C4D.jpg",
+						"url": "https://t.co/7MtDSJlR65",
+						"display_url": "pic.twitter.com/7MtDSJlR65",
+						"expanded_url": "https://twitter.com/ahmed/status/1107986284520398848/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 1200,
+								"h": 847,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 2048,
+								"h": 1446,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 480,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 1107986086213664800,
+						"id_str": "1107986086213664768",
+						"indices": [
+							130,
+							153
+						],
+						"media_url": "http://pbs.twimg.com/media/D2BbeZzXQAAaX0d.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/D2BbeZzXQAAaX0d.jpg",
+						"url": "https://t.co/7MtDSJlR65",
+						"display_url": "pic.twitter.com/7MtDSJlR65",
+						"expanded_url": "https://twitter.com/ahmed/status/1107986284520398848/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 482,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 2048,
+								"h": 1453,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 851,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 1107986086314369000,
+						"id_str": "1107986086314369025",
+						"indices": [
+							130,
+							153
+						],
+						"media_url": "http://pbs.twimg.com/media/D2BbeaLX4AEPYJO.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/D2BbeaLX4AEPYJO.jpg",
+						"url": "https://t.co/7MtDSJlR65",
+						"display_url": "pic.twitter.com/7MtDSJlR65",
+						"expanded_url": "https://twitter.com/ahmed/status/1107986284520398848/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 2048,
+								"h": 1446,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 480,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 847,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 1107986086217822200,
+						"id_str": "1107986086217822209",
+						"indices": [
+							130,
+							153
+						],
+						"media_url": "http://pbs.twimg.com/media/D2BbeZ0WsAEVbWX.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/D2BbeZ0WsAEVbWX.jpg",
+						"url": "https://t.co/7MtDSJlR65",
+						"display_url": "pic.twitter.com/7MtDSJlR65",
+						"expanded_url": "https://twitter.com/ahmed/status/1107986284520398848/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 851,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 2048,
+								"h": 1452,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 482,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 5242,
+				"id_str": "5242",
+				"name": "Ahmed Al Omran",
+				"screen_name": "ahmed",
+				"location": "Saudi Arabia",
+				"description": "Reporter for @FT covering Saudi Arabia · Formerly with @WSJ and @NPR · Email: ahmed.alomran@ft.com · Subscribe to my newsletter: https://t.co/frBcpb6RwY",
+				"url": "http://t.co/1tckurrksd",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/1tckurrksd",
+								"expanded_url": "http://alomran.me",
+								"display_url": "alomran.me",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/frBcpb6RwY",
+								"expanded_url": "https://ahmed.substack.com/",
+								"display_url": "ahmed.substack.com",
+								"indices": [
+									129,
+									152
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 148168,
+				"friends_count": 1916,
+				"listed_count": 2693,
+				"created_at": "Mon Sep 04 00:18:12 +0000 2006",
+				"favourites_count": 5281,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 99239,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "CCCCCC",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme5/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme5/bg.gif",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/981288787660689408/ORCJwxJV_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/981288787660689408/ORCJwxJV_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/5242/1537629476",
+				"profile_link_color": "0790EB",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "99CC33",
+				"profile_text_color": "3E4415",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "regular"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 160,
+			"favorite_count": 207,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 129,
+		"favorite_count": 133,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "King Salman Park will be 4 times bigger than New York’s Central Park; project will also house the new Royal Academy of Art https://t.co/0YJV3iwGBE"
+	},
+	{
+		"created_at": "Tue Mar 19 12:44:50 +0000 2019",
+		"id": 1107986284520398800,
+		"id_str": "1107986284520398848",
+		"full_text": "Saudi Arabia announces plans to increase green spaces in the capital, including plan to convert Riyadh air base into a major park https://t.co/7MtDSJlR65",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			129
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1107986086201118700,
+					"id_str": "1107986086201118720",
+					"indices": [
+						130,
+						153
+					],
+					"media_url": "http://pbs.twimg.com/media/D2BbeZwX0AA4C4D.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D2BbeZwX0AA4C4D.jpg",
+					"url": "https://t.co/7MtDSJlR65",
+					"display_url": "pic.twitter.com/7MtDSJlR65",
+					"expanded_url": "https://twitter.com/ahmed/status/1107986284520398848/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 847,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1446,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 480,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1107986086201118700,
+					"id_str": "1107986086201118720",
+					"indices": [
+						130,
+						153
+					],
+					"media_url": "http://pbs.twimg.com/media/D2BbeZwX0AA4C4D.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D2BbeZwX0AA4C4D.jpg",
+					"url": "https://t.co/7MtDSJlR65",
+					"display_url": "pic.twitter.com/7MtDSJlR65",
+					"expanded_url": "https://twitter.com/ahmed/status/1107986284520398848/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 847,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1446,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 480,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1107986086213664800,
+					"id_str": "1107986086213664768",
+					"indices": [
+						130,
+						153
+					],
+					"media_url": "http://pbs.twimg.com/media/D2BbeZzXQAAaX0d.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D2BbeZzXQAAaX0d.jpg",
+					"url": "https://t.co/7MtDSJlR65",
+					"display_url": "pic.twitter.com/7MtDSJlR65",
+					"expanded_url": "https://twitter.com/ahmed/status/1107986284520398848/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 482,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1453,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 851,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1107986086314369000,
+					"id_str": "1107986086314369025",
+					"indices": [
+						130,
+						153
+					],
+					"media_url": "http://pbs.twimg.com/media/D2BbeaLX4AEPYJO.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D2BbeaLX4AEPYJO.jpg",
+					"url": "https://t.co/7MtDSJlR65",
+					"display_url": "pic.twitter.com/7MtDSJlR65",
+					"expanded_url": "https://twitter.com/ahmed/status/1107986284520398848/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1446,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 480,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 847,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1107986086217822200,
+					"id_str": "1107986086217822209",
+					"indices": [
+						130,
+						153
+					],
+					"media_url": "http://pbs.twimg.com/media/D2BbeZ0WsAEVbWX.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D2BbeZ0WsAEVbWX.jpg",
+					"url": "https://t.co/7MtDSJlR65",
+					"display_url": "pic.twitter.com/7MtDSJlR65",
+					"expanded_url": "https://twitter.com/ahmed/status/1107986284520398848/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 851,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1452,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 482,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 5242,
+			"id_str": "5242",
+			"name": "Ahmed Al Omran",
+			"screen_name": "ahmed",
+			"location": "Saudi Arabia",
+			"description": "Reporter for @FT covering Saudi Arabia · Formerly with @WSJ and @NPR · Email: ahmed.alomran@ft.com · Subscribe to my newsletter: https://t.co/frBcpb6RwY",
+			"url": "http://t.co/1tckurrksd",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/1tckurrksd",
+							"expanded_url": "http://alomran.me",
+							"display_url": "alomran.me",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/frBcpb6RwY",
+							"expanded_url": "https://ahmed.substack.com/",
+							"display_url": "ahmed.substack.com",
+							"indices": [
+								129,
+								152
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 148168,
+			"friends_count": 1916,
+			"listed_count": 2693,
+			"created_at": "Mon Sep 04 00:18:12 +0000 2006",
+			"favourites_count": 5281,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 99239,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "CCCCCC",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme5/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme5/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/981288787660689408/ORCJwxJV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/981288787660689408/ORCJwxJV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/5242/1537629476",
+			"profile_link_color": "0790EB",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "99CC33",
+			"profile_text_color": "3E4415",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 160,
+		"favorite_count": 207,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Saudi Arabia announces plans to increase green spaces in the capital, including plan to convert Riyadh air base into a major park https://t.co/7MtDSJlR65"
+	},
+	{
+		"created_at": "Tue Mar 19 11:55:57 +0000 2019",
+		"id": 1107973984123916300,
+		"id_str": "1107973984123916288",
+		"full_text": "Netflix CEO says the company won’t be selling subscriptions to its video service through a hub that Apple plans on launching https://t.co/uPxyiv9Lkb",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			148
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/uPxyiv9Lkb",
+					"expanded_url": "https://www.recode.net/2019/3/18/18271916/netflix-apple-reed-hastings-video-plans-tech-company-regulation-press-conference-ted-sarandos",
+					"display_url": "recode.net/2019/3/18/1827…",
+					"indices": [
+						125,
+						148
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 5242,
+			"id_str": "5242",
+			"name": "Ahmed Al Omran",
+			"screen_name": "ahmed",
+			"location": "Saudi Arabia",
+			"description": "Reporter for @FT covering Saudi Arabia · Formerly with @WSJ and @NPR · Email: ahmed.alomran@ft.com · Subscribe to my newsletter: https://t.co/frBcpb6RwY",
+			"url": "http://t.co/1tckurrksd",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/1tckurrksd",
+							"expanded_url": "http://alomran.me",
+							"display_url": "alomran.me",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/frBcpb6RwY",
+							"expanded_url": "https://ahmed.substack.com/",
+							"display_url": "ahmed.substack.com",
+							"indices": [
+								129,
+								152
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 148168,
+			"friends_count": 1916,
+			"listed_count": 2693,
+			"created_at": "Mon Sep 04 00:18:12 +0000 2006",
+			"favourites_count": 5281,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 99239,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "CCCCCC",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme5/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme5/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/981288787660689408/ORCJwxJV_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/981288787660689408/ORCJwxJV_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/5242/1537629476",
+			"profile_link_color": "0790EB",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "99CC33",
+			"profile_text_color": "3E4415",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Netflix CEO says the company won’t be selling subscriptions to its video service through a hub that Apple plans on launching https://t.co/uPxyiv9Lkb"
+	},
+	{
 		"created_at": "Mon Mar 18 17:51:22 +0000 2019",
 		"id": 1107701040827101200,
 		"id_str": "1107701040827101184",
