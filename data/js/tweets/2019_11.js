@@ -1,6 +1,1638 @@
 Grailbird.data.tweets_2019_11 = 
 [
 	{
+		"created_at": "Fri Nov 29 18:33:36 +0000 2019",
+		"id": 1200482962615292000,
+		"id_str": "1200482962615291904",
+		"full_text": "Manchester City’s owner acquires India’s Mumbai City football club https://t.co/BBqEKkEzTz",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			90
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/BBqEKkEzTz",
+					"expanded_url": "https://www.ft.com/content/8abd039c-11ca-11ea-a225-db2f231cfeae",
+					"display_url": "ft.com/content/8abd03…",
+					"indices": [
+						67,
+						90
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 5242,
+			"id_str": "5242",
+			"name": "Ahmed Al Omran",
+			"screen_name": "ahmed",
+			"location": "Saudi Arabia",
+			"description": "Reporter for @FT covering Saudi Arabia · Formerly with @WSJ and @NPR · Email: ahmed.alomran@ft.com · Subscribe to my newsletter: https://t.co/i1MM95asPq",
+			"url": "http://t.co/1tckurrksd",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/1tckurrksd",
+							"expanded_url": "http://alomran.me",
+							"display_url": "alomran.me",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/i1MM95asPq",
+							"expanded_url": "http://riyadhbureau.com",
+							"display_url": "riyadhbureau.com",
+							"indices": [
+								129,
+								152
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 149276,
+			"friends_count": 1920,
+			"listed_count": 2670,
+			"created_at": "Mon Sep 04 00:18:12 +0000 2006",
+			"favourites_count": 5314,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 102293,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "CCCCCC",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme5/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme5/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1175469297675714562/QUWgZ3Gk_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1175469297675714562/QUWgZ3Gk_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/5242/1569089262",
+			"profile_link_color": "002FA7",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "99CC33",
+			"profile_text_color": "3E4415",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": false,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Manchester City’s owner acquires India’s Mumbai City football club https://t.co/BBqEKkEzTz"
+	},
+	{
+		"created_at": "Fri Nov 29 18:32:18 +0000 2019",
+		"id": 1200482632255103000,
+		"id_str": "1200482632255102978",
+		"full_text": "New Arsenal head coach @freddie and I have something in common: we both belong to the first-name Twitter handle club https://t.co/ssdbh07s6z",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			116
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "freddie",
+					"name": "Freddie Ljungberg",
+					"id": 1354277102,
+					"id_str": "1354277102",
+					"indices": [
+						23,
+						31
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/ssdbh07s6z",
+					"expanded_url": "https://twitter.com/freddie/status/1200401047572897792",
+					"display_url": "twitter.com/freddie/status…",
+					"indices": [
+						117,
+						140
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 5242,
+			"id_str": "5242",
+			"name": "Ahmed Al Omran",
+			"screen_name": "ahmed",
+			"location": "Saudi Arabia",
+			"description": "Reporter for @FT covering Saudi Arabia · Formerly with @WSJ and @NPR · Email: ahmed.alomran@ft.com · Subscribe to my newsletter: https://t.co/i1MM95asPq",
+			"url": "http://t.co/1tckurrksd",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/1tckurrksd",
+							"expanded_url": "http://alomran.me",
+							"display_url": "alomran.me",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/i1MM95asPq",
+							"expanded_url": "http://riyadhbureau.com",
+							"display_url": "riyadhbureau.com",
+							"indices": [
+								129,
+								152
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 149276,
+			"friends_count": 1920,
+			"listed_count": 2670,
+			"created_at": "Mon Sep 04 00:18:12 +0000 2006",
+			"favourites_count": 5314,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 102293,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "CCCCCC",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme5/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme5/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1175469297675714562/QUWgZ3Gk_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1175469297675714562/QUWgZ3Gk_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/5242/1569089262",
+			"profile_link_color": "002FA7",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "99CC33",
+			"profile_text_color": "3E4415",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": false,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1200401047572897800,
+		"quoted_status_id_str": "1200401047572897792",
+		"quoted_status_permalink": {
+			"url": "https://t.co/ssdbh07s6z",
+			"expanded": "https://twitter.com/freddie/status/1200401047572897792",
+			"display": "twitter.com/freddie/status…"
+		},
+		"quoted_status": {
+			"created_at": "Fri Nov 29 13:08:06 +0000 2019",
+			"id": 1200401047572897800,
+			"id_str": "1200401047572897792",
+			"full_text": "However long I oversee @Arsenal for I will give everything I have to put smiles on faces again. We have a busy few weeks ahead and the team needs your support. Let’s get to work! https://t.co/WdekcA4h5G",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				178
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "Arsenal",
+						"name": "Arsenal",
+						"id": 34613288,
+						"id_str": "34613288",
+						"indices": [
+							23,
+							31
+						]
+					}
+				],
+				"urls": [],
+				"media": [
+					{
+						"id": 1200401043521228800,
+						"id_str": "1200401043521228800",
+						"indices": [
+							179,
+							202
+						],
+						"media_url": "http://pbs.twimg.com/media/EKiuY5sXUAA1S9N.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EKiuY5sXUAA1S9N.jpg",
+						"url": "https://t.co/WdekcA4h5G",
+						"display_url": "pic.twitter.com/WdekcA4h5G",
+						"expanded_url": "https://twitter.com/freddie/status/1200401047572897792/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 544,
+								"h": 680,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 960,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1280,
+								"h": 1600,
+								"resize": "fit"
+							}
+						},
+						"features": {
+							"small": {
+								"faces": [
+									{
+										"x": 263,
+										"y": 84,
+										"h": 51,
+										"w": 51
+									},
+									{
+										"x": 327,
+										"y": 270,
+										"h": 63,
+										"w": 63
+									}
+								]
+							},
+							"medium": {
+								"faces": [
+									{
+										"x": 465,
+										"y": 148,
+										"h": 90,
+										"w": 90
+									},
+									{
+										"x": 578,
+										"y": 477,
+										"h": 112,
+										"w": 112
+									}
+								]
+							},
+							"orig": {
+								"faces": [
+									{
+										"x": 620,
+										"y": 198,
+										"h": 120,
+										"w": 120
+									},
+									{
+										"x": 771,
+										"y": 637,
+										"h": 150,
+										"w": 150
+									}
+								]
+							},
+							"large": {
+								"faces": [
+									{
+										"x": 620,
+										"y": 198,
+										"h": 120,
+										"w": 120
+									},
+									{
+										"x": 771,
+										"y": 637,
+										"h": 150,
+										"w": 150
+									}
+								]
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1200401043521228800,
+						"id_str": "1200401043521228800",
+						"indices": [
+							179,
+							202
+						],
+						"media_url": "http://pbs.twimg.com/media/EKiuY5sXUAA1S9N.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EKiuY5sXUAA1S9N.jpg",
+						"url": "https://t.co/WdekcA4h5G",
+						"display_url": "pic.twitter.com/WdekcA4h5G",
+						"expanded_url": "https://twitter.com/freddie/status/1200401047572897792/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 544,
+								"h": 680,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 960,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1280,
+								"h": 1600,
+								"resize": "fit"
+							}
+						},
+						"features": {
+							"small": {
+								"faces": [
+									{
+										"x": 263,
+										"y": 84,
+										"h": 51,
+										"w": 51
+									},
+									{
+										"x": 327,
+										"y": 270,
+										"h": 63,
+										"w": 63
+									}
+								]
+							},
+							"medium": {
+								"faces": [
+									{
+										"x": 465,
+										"y": 148,
+										"h": 90,
+										"w": 90
+									},
+									{
+										"x": 578,
+										"y": 477,
+										"h": 112,
+										"w": 112
+									}
+								]
+							},
+							"orig": {
+								"faces": [
+									{
+										"x": 620,
+										"y": 198,
+										"h": 120,
+										"w": 120
+									},
+									{
+										"x": 771,
+										"y": 637,
+										"h": 150,
+										"w": 150
+									}
+								]
+							},
+							"large": {
+								"faces": [
+									{
+										"x": 620,
+										"y": 198,
+										"h": 120,
+										"w": 120
+									},
+									{
+										"x": 771,
+										"y": 637,
+										"h": 150,
+										"w": 150
+									}
+								]
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1354277102,
+				"id_str": "1354277102",
+				"name": "Freddie Ljungberg",
+				"screen_name": "freddie",
+				"location": "",
+				"description": "Insta:freddieljungberg",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 257853,
+				"friends_count": 46,
+				"listed_count": 1153,
+				"created_at": "Mon Apr 15 12:43:05 +0000 2013",
+				"favourites_count": 73,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 335,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "131516",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/378800000645200054/e2b59637e6504d317808538ab8906e51_normal.jpeg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000645200054/e2b59637e6504d317808538ab8906e51_normal.jpeg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1354277102/1382700099",
+				"profile_link_color": "707070",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"can_media_tag": true,
+				"followed_by": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 32615,
+			"favorite_count": 123198,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "New Arsenal head coach @freddie and I have something in common: we both belong to the first-name Twitter handle club https://t.co/ssdbh07s6z"
+	},
+	{
+		"created_at": "Fri Nov 29 17:55:07 +0000 2019",
+		"id": 1200473275643641900,
+		"id_str": "1200473275643641856",
+		"full_text": "Twitter halts plan to remove inactive accounts until it can memorialise dead users https://t.co/K1VbQbgAq0",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			106
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/K1VbQbgAq0",
+					"expanded_url": "https://www.theverge.com/2019/11/27/20986084/twitter-inactive-accounts-usernames-memorialize-deceased-users-not-removing",
+					"display_url": "theverge.com/2019/11/27/209…",
+					"indices": [
+						83,
+						106
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 5242,
+			"id_str": "5242",
+			"name": "Ahmed Al Omran",
+			"screen_name": "ahmed",
+			"location": "Saudi Arabia",
+			"description": "Reporter for @FT covering Saudi Arabia · Formerly with @WSJ and @NPR · Email: ahmed.alomran@ft.com · Subscribe to my newsletter: https://t.co/i1MM95asPq",
+			"url": "http://t.co/1tckurrksd",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/1tckurrksd",
+							"expanded_url": "http://alomran.me",
+							"display_url": "alomran.me",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/i1MM95asPq",
+							"expanded_url": "http://riyadhbureau.com",
+							"display_url": "riyadhbureau.com",
+							"indices": [
+								129,
+								152
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 149276,
+			"friends_count": 1920,
+			"listed_count": 2670,
+			"created_at": "Mon Sep 04 00:18:12 +0000 2006",
+			"favourites_count": 5314,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 102293,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "CCCCCC",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme5/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme5/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1175469297675714562/QUWgZ3Gk_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1175469297675714562/QUWgZ3Gk_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/5242/1569089262",
+			"profile_link_color": "002FA7",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "99CC33",
+			"profile_text_color": "3E4415",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": false,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 5,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Twitter halts plan to remove inactive accounts until it can memorialise dead users https://t.co/K1VbQbgAq0"
+	},
+	{
+		"created_at": "Fri Nov 29 17:54:26 +0000 2019",
+		"id": 1200473105358999600,
+		"id_str": "1200473105358999553",
+		"full_text": "Saudi Embassy in Cairo says comments attributed to ambassador @OsamaNugali about protesters setting fire to Iran’s consulate in Najaf are fabricated https://t.co/Aafcg8PizE",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			148
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "OsamaNugali",
+					"name": "أسامة بن أحمد نقلي",
+					"id": 243759553,
+					"id_str": "243759553",
+					"indices": [
+						62,
+						74
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/Aafcg8PizE",
+					"expanded_url": "https://twitter.com/KSAembassyEG/status/1200073344290369536",
+					"display_url": "twitter.com/KSAembassyEG/s…",
+					"indices": [
+						149,
+						172
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 5242,
+			"id_str": "5242",
+			"name": "Ahmed Al Omran",
+			"screen_name": "ahmed",
+			"location": "Saudi Arabia",
+			"description": "Reporter for @FT covering Saudi Arabia · Formerly with @WSJ and @NPR · Email: ahmed.alomran@ft.com · Subscribe to my newsletter: https://t.co/i1MM95asPq",
+			"url": "http://t.co/1tckurrksd",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/1tckurrksd",
+							"expanded_url": "http://alomran.me",
+							"display_url": "alomran.me",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/i1MM95asPq",
+							"expanded_url": "http://riyadhbureau.com",
+							"display_url": "riyadhbureau.com",
+							"indices": [
+								129,
+								152
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 149276,
+			"friends_count": 1920,
+			"listed_count": 2670,
+			"created_at": "Mon Sep 04 00:18:12 +0000 2006",
+			"favourites_count": 5314,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 102293,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "CCCCCC",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme5/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme5/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1175469297675714562/QUWgZ3Gk_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1175469297675714562/QUWgZ3Gk_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/5242/1569089262",
+			"profile_link_color": "002FA7",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "99CC33",
+			"profile_text_color": "3E4415",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": false,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1200073344290369500,
+		"quoted_status_id_str": "1200073344290369536",
+		"quoted_status_permalink": {
+			"url": "https://t.co/Aafcg8PizE",
+			"expanded": "https://twitter.com/KSAembassyEG/status/1200073344290369536",
+			"display": "twitter.com/KSAembassyEG/s…"
+		},
+		"quoted_status": {
+			"created_at": "Thu Nov 28 15:25:56 +0000 2019",
+			"id": 1200073344290369500,
+			"id_str": "1200073344290369536",
+			"full_text": "بيان| سفير #خادم_الحرمين_الشريفين لدى #جمهورية_مصر_العربية ومندوب #المملكة الدائم لدى الجامعة العربية، #أسامة_نقلي ينفي إدلائه بتصريح صحفي لأي صحيفة او وسيلة إعلامية مصرية أو أجنبية بشكل منفرد أو جماعي.. https://t.co/XRR7ABzYVF",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				203
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "خادم_الحرمين_الشريفين",
+						"indices": [
+							11,
+							33
+						]
+					},
+					{
+						"text": "جمهورية_مصر_العربية",
+						"indices": [
+							38,
+							58
+						]
+					},
+					{
+						"text": "المملكة",
+						"indices": [
+							66,
+							74
+						]
+					},
+					{
+						"text": "أسامة_نقلي",
+						"indices": [
+							103,
+							114
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1200073323901849600,
+						"id_str": "1200073323901849601",
+						"indices": [
+							204,
+							227
+						],
+						"media_url": "http://pbs.twimg.com/media/EKeEVG-XkAEX4SS.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EKeEVG-XkAEX4SS.jpg",
+						"url": "https://t.co/XRR7ABzYVF",
+						"display_url": "pic.twitter.com/XRR7ABzYVF",
+						"expanded_url": "https://twitter.com/KSAembassyEG/status/1200073344290369536/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 917,
+								"h": 1024,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 917,
+								"h": 1024,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 609,
+								"h": 680,
+								"resize": "fit"
+							}
+						},
+						"features": {
+							"large": {
+								"faces": []
+							},
+							"medium": {
+								"faces": []
+							},
+							"orig": {
+								"faces": []
+							},
+							"small": {
+								"faces": []
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1200073323901849600,
+						"id_str": "1200073323901849601",
+						"indices": [
+							204,
+							227
+						],
+						"media_url": "http://pbs.twimg.com/media/EKeEVG-XkAEX4SS.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EKeEVG-XkAEX4SS.jpg",
+						"url": "https://t.co/XRR7ABzYVF",
+						"display_url": "pic.twitter.com/XRR7ABzYVF",
+						"expanded_url": "https://twitter.com/KSAembassyEG/status/1200073344290369536/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 917,
+								"h": 1024,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 917,
+								"h": 1024,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 609,
+								"h": 680,
+								"resize": "fit"
+							}
+						},
+						"features": {
+							"large": {
+								"faces": []
+							},
+							"medium": {
+								"faces": []
+							},
+							"orig": {
+								"faces": []
+							},
+							"small": {
+								"faces": []
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 2186765586,
+				"id_str": "2186765586",
+				"name": "السفارة في القاهرة",
+				"screen_name": "KSAembassyEG",
+				"location": "Cairo, Egypt",
+				"description": "الحساب الرسمي لسفارة المملكة العربية السعودية لدى جمهورية مصر العربية فيسبوك: @KSAembassyEG التواصل في حالات الطوارئ للمواطنين السعوديين: 01145331197",
+				"url": "https://t.co/R7CQ72fQ3u",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/R7CQ72fQ3u",
+								"expanded_url": "http://embassies.mofa.gov.sa/sites/Egypt/AR/Pages/default.aspx",
+								"display_url": "embassies.mofa.gov.sa/sites/Egypt/AR…",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 40428,
+				"friends_count": 119,
+				"listed_count": 140,
+				"created_at": "Sun Nov 10 17:23:38 +0000 2013",
+				"favourites_count": 145,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 3599,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/958305163009196032/0IjLTBz8_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/958305163009196032/0IjLTBz8_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/2186765586/1568914917",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"can_media_tag": false,
+				"followed_by": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 19,
+			"favorite_count": 17,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "ar"
+		},
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Saudi Embassy in Cairo says comments attributed to ambassador @OsamaNugali about protesters setting fire to Iran’s consulate in Najaf are fabricated https://t.co/Aafcg8PizE"
+	},
+	{
+		"created_at": "Fri Nov 29 17:17:13 +0000 2019",
+		"id": 1200463740203937800,
+		"id_str": "1200463740203937792",
+		"full_text": "Is there any available coach who is _not_ linked with Arsenal at this point? https://t.co/8OivOCIZEL",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			100
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/8OivOCIZEL",
+					"expanded_url": "https://theathletic.com/1419640/2019/11/29/arsenal-emery-pochettino-spurs/",
+					"display_url": "theathletic.com/1419640/2019/1…",
+					"indices": [
+						77,
+						100
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 5242,
+			"id_str": "5242",
+			"name": "Ahmed Al Omran",
+			"screen_name": "ahmed",
+			"location": "Saudi Arabia",
+			"description": "Reporter for @FT covering Saudi Arabia · Formerly with @WSJ and @NPR · Email: ahmed.alomran@ft.com · Subscribe to my newsletter: https://t.co/i1MM95asPq",
+			"url": "http://t.co/1tckurrksd",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/1tckurrksd",
+							"expanded_url": "http://alomran.me",
+							"display_url": "alomran.me",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/i1MM95asPq",
+							"expanded_url": "http://riyadhbureau.com",
+							"display_url": "riyadhbureau.com",
+							"indices": [
+								129,
+								152
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 149276,
+			"friends_count": 1920,
+			"listed_count": 2670,
+			"created_at": "Mon Sep 04 00:18:12 +0000 2006",
+			"favourites_count": 5314,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 102293,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "CCCCCC",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme5/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme5/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1175469297675714562/QUWgZ3Gk_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1175469297675714562/QUWgZ3Gk_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/5242/1569089262",
+			"profile_link_color": "002FA7",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "99CC33",
+			"profile_text_color": "3E4415",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": false,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Is there any available coach who is _not_ linked with Arsenal at this point? https://t.co/8OivOCIZEL"
+	},
+	{
+		"created_at": "Fri Nov 29 16:23:44 +0000 2019",
+		"id": 1200450281265418200,
+		"id_str": "1200450281265418242",
+		"full_text": "@RyanJSuto consumerism is global. Black Friday is now an event in the Gulf for example (but local retailers call it “White Friday” instead)",
+		"truncated": false,
+		"display_text_range": [
+			11,
+			139
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "RyanJSuto",
+					"name": "Abu Kareem",
+					"id": 25596553,
+					"id_str": "25596553",
+					"indices": [
+						0,
+						10
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 1200438335526838300,
+		"in_reply_to_status_id_str": "1200438335526838272",
+		"in_reply_to_user_id": 25596553,
+		"in_reply_to_user_id_str": "25596553",
+		"in_reply_to_screen_name": "RyanJSuto",
+		"user": {
+			"id": 5242,
+			"id_str": "5242",
+			"name": "Ahmed Al Omran",
+			"screen_name": "ahmed",
+			"location": "Saudi Arabia",
+			"description": "Reporter for @FT covering Saudi Arabia · Formerly with @WSJ and @NPR · Email: ahmed.alomran@ft.com · Subscribe to my newsletter: https://t.co/i1MM95asPq",
+			"url": "http://t.co/1tckurrksd",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/1tckurrksd",
+							"expanded_url": "http://alomran.me",
+							"display_url": "alomran.me",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/i1MM95asPq",
+							"expanded_url": "http://riyadhbureau.com",
+							"display_url": "riyadhbureau.com",
+							"indices": [
+								129,
+								152
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 149276,
+			"friends_count": 1920,
+			"listed_count": 2670,
+			"created_at": "Mon Sep 04 00:18:12 +0000 2006",
+			"favourites_count": 5314,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 102293,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "CCCCCC",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme5/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme5/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1175469297675714562/QUWgZ3Gk_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1175469297675714562/QUWgZ3Gk_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/5242/1569089262",
+			"profile_link_color": "002FA7",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "99CC33",
+			"profile_text_color": "3E4415",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": false,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@RyanJSuto consumerism is global. Black Friday is now an event in the Gulf for example (but local retailers call it “White Friday” instead)"
+	},
+	{
+		"created_at": "Fri Nov 29 10:50:11 +0000 2019",
+		"id": 1200366337987666000,
+		"id_str": "1200366337987665920",
+		"full_text": "@NutmegRadio #ReadyforFreddie",
+		"truncated": false,
+		"display_text_range": [
+			13,
+			29
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "ReadyforFreddie",
+					"indices": [
+						13,
+						29
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "NutmegRadio",
+					"name": "Miriti Murungi",
+					"id": 68542597,
+					"id_str": "68542597",
+					"indices": [
+						0,
+						12
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 1200366044096925700,
+		"in_reply_to_status_id_str": "1200366044096925696",
+		"in_reply_to_user_id": 68542597,
+		"in_reply_to_user_id_str": "68542597",
+		"in_reply_to_screen_name": "NutmegRadio",
+		"user": {
+			"id": 5242,
+			"id_str": "5242",
+			"name": "Ahmed Al Omran",
+			"screen_name": "ahmed",
+			"location": "Saudi Arabia",
+			"description": "Reporter for @FT covering Saudi Arabia · Formerly with @WSJ and @NPR · Email: ahmed.alomran@ft.com · Subscribe to my newsletter: https://t.co/i1MM95asPq",
+			"url": "http://t.co/1tckurrksd",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/1tckurrksd",
+							"expanded_url": "http://alomran.me",
+							"display_url": "alomran.me",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/i1MM95asPq",
+							"expanded_url": "http://riyadhbureau.com",
+							"display_url": "riyadhbureau.com",
+							"indices": [
+								129,
+								152
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 149276,
+			"friends_count": 1920,
+			"listed_count": 2670,
+			"created_at": "Mon Sep 04 00:18:12 +0000 2006",
+			"favourites_count": 5314,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 102293,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "CCCCCC",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme5/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme5/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1175469297675714562/QUWgZ3Gk_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1175469297675714562/QUWgZ3Gk_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/5242/1569089262",
+			"profile_link_color": "002FA7",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "99CC33",
+			"profile_text_color": "3E4415",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": false,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "und",
+		"text": "@NutmegRadio #ReadyforFreddie"
+	},
+	{
+		"created_at": "Fri Nov 29 10:46:29 +0000 2019",
+		"id": 1200365407397392400,
+		"id_str": "1200365407397392384",
+		"full_text": "Arsenal should now move quick to take advantage of Black Friday sales and get a good deal on the new coach",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			106
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 5242,
+			"id_str": "5242",
+			"name": "Ahmed Al Omran",
+			"screen_name": "ahmed",
+			"location": "Saudi Arabia",
+			"description": "Reporter for @FT covering Saudi Arabia · Formerly with @WSJ and @NPR · Email: ahmed.alomran@ft.com · Subscribe to my newsletter: https://t.co/i1MM95asPq",
+			"url": "http://t.co/1tckurrksd",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/1tckurrksd",
+							"expanded_url": "http://alomran.me",
+							"display_url": "alomran.me",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/i1MM95asPq",
+							"expanded_url": "http://riyadhbureau.com",
+							"display_url": "riyadhbureau.com",
+							"indices": [
+								129,
+								152
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 149276,
+			"friends_count": 1920,
+			"listed_count": 2670,
+			"created_at": "Mon Sep 04 00:18:12 +0000 2006",
+			"favourites_count": 5314,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 102293,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "CCCCCC",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme5/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme5/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1175469297675714562/QUWgZ3Gk_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1175469297675714562/QUWgZ3Gk_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/5242/1569089262",
+			"profile_link_color": "002FA7",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "99CC33",
+			"profile_text_color": "3E4415",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": false,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5,
+		"favorite_count": 13,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "Arsenal should now move quick to take advantage of Black Friday sales and get a good deal on the new coach"
+	},
+	{
+		"created_at": "Fri Nov 29 10:11:06 +0000 2019",
+		"id": 1200356502856450000,
+		"id_str": "1200356502856450050",
+		"full_text": "EMERY OUT https://t.co/86JakgczVw",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			33
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/86JakgczVw",
+					"expanded_url": "https://www.arsenal.com/news/unai-emery-leaves-club",
+					"display_url": "arsenal.com/news/unai-emer…",
+					"indices": [
+						10,
+						33
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 5242,
+			"id_str": "5242",
+			"name": "Ahmed Al Omran",
+			"screen_name": "ahmed",
+			"location": "Saudi Arabia",
+			"description": "Reporter for @FT covering Saudi Arabia · Formerly with @WSJ and @NPR · Email: ahmed.alomran@ft.com · Subscribe to my newsletter: https://t.co/i1MM95asPq",
+			"url": "http://t.co/1tckurrksd",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/1tckurrksd",
+							"expanded_url": "http://alomran.me",
+							"display_url": "alomran.me",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/i1MM95asPq",
+							"expanded_url": "http://riyadhbureau.com",
+							"display_url": "riyadhbureau.com",
+							"indices": [
+								129,
+								152
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 149276,
+			"friends_count": 1920,
+			"listed_count": 2670,
+			"created_at": "Mon Sep 04 00:18:12 +0000 2006",
+			"favourites_count": 5314,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 102293,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "CCCCCC",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme5/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme5/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1175469297675714562/QUWgZ3Gk_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1175469297675714562/QUWgZ3Gk_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/5242/1569089262",
+			"profile_link_color": "002FA7",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "99CC33",
+			"profile_text_color": "3E4415",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": false,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "EMERY OUT https://t.co/86JakgczVw"
+	},
+	{
 		"created_at": "Wed Nov 27 22:02:05 +0000 2019",
 		"id": 1199810651054649300,
 		"id_str": "1199810651054649345",
