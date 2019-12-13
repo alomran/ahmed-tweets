@@ -1,6 +1,392 @@
 Grailbird.data.tweets_2019_12 = 
 [
 	{
+		"created_at": "Fri Dec 13 15:32:13 +0000 2019",
+		"id": 1205456613643038700,
+		"id_str": "1205510745221468160",
+		"full_text": "So along with everything else last night our amazing journalists produced this FREE election tabloid which is hot off the press and available today from all big London stations #GE2019 https://t.co/BJafIURqMM",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			184
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "GE2019",
+					"indices": [
+						177,
+						184
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1205456606286286800,
+					"id_str": "1205456606286286851",
+					"indices": [
+						185,
+						208
+					],
+					"media_url": "http://pbs.twimg.com/media/ELqkZYnXkAMHHu6.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ELqkZYnXkAMHHu6.jpg",
+					"url": "https://t.co/BJafIURqMM",
+					"display_url": "pic.twitter.com/BJafIURqMM",
+					"expanded_url": "https://twitter.com/MattGarrahan/status/1205456613643038724/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"large": {
+							"faces": [
+								{
+									"x": 738,
+									"y": 542,
+									"h": 360,
+									"w": 360
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 432,
+									"y": 317,
+									"h": 210,
+									"w": 210
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 245,
+									"y": 179,
+									"h": 119,
+									"w": 119
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 738,
+									"y": 542,
+									"h": 360,
+									"w": 360
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1205456606286286800,
+					"id_str": "1205456606286286851",
+					"indices": [
+						185,
+						208
+					],
+					"media_url": "http://pbs.twimg.com/media/ELqkZYnXkAMHHu6.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ELqkZYnXkAMHHu6.jpg",
+					"url": "https://t.co/BJafIURqMM",
+					"display_url": "pic.twitter.com/BJafIURqMM",
+					"expanded_url": "https://twitter.com/MattGarrahan/status/1205456613643038724/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"large": {
+							"faces": [
+								{
+									"x": 738,
+									"y": 542,
+									"h": 360,
+									"w": 360
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 432,
+									"y": 317,
+									"h": 210,
+									"w": 210
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 245,
+									"y": 179,
+									"h": 119,
+									"w": 119
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 738,
+									"y": 542,
+									"h": 360,
+									"w": 360
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14519041,
+			"id_str": "14519041",
+			"name": "Matthew Garrahan",
+			"screen_name": "MattGarrahan",
+			"location": "",
+			"description": "FT news editor. Business journalist of the year 2018, 2019 UK Press Awards. Arts & entertainment reporter of the year, British Journalism Awards",
+			"url": "https://t.co/177fJYUUBM",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/177fJYUUBM",
+							"expanded_url": "http://www.ft.com",
+							"display_url": "ft.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 18849,
+			"friends_count": 2195,
+			"listed_count": 737,
+			"created_at": "Thu Apr 24 22:45:20 +0000 2008",
+			"favourites_count": 5139,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 1904,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "2E2635",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme5/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme5/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1170301297188380672/sFpADIzb_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1170301297188380672/sFpADIzb_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14519041/1412543618",
+			"profile_link_color": "281A1B",
+			"profile_sidebar_border_color": "5E929D",
+			"profile_sidebar_fill_color": "3396CC",
+			"profile_text_color": "201544",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": false,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 30,
+		"favorite_count": 58,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "So along with everything else last night our amazing journalists produced this FREE election tabloid which is hot off the press and available today from all big London stations #GE2019 https://t.co/BJafIURqMM"
+	},
+	{
+		"created_at": "Fri Dec 13 10:08:40 +0000 2019",
+		"id": 1205429320367267800,
+		"id_str": "1205429320367267841",
+		"full_text": "“I hope you enjoy your Airbnb stay at my home, a place i have never resided nor visited…” https://t.co/fWOQ9PatQL",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			113
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/fWOQ9PatQL",
+					"expanded_url": "https://www.mcsweeneys.net/articles/i-hope-you-enjoy-your-airbnb-stay-at-my-home-a-place-i-have-never-resided-nor-visited",
+					"display_url": "mcsweeneys.net/articles/i-hop…",
+					"indices": [
+						90,
+						113
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 5242,
+			"id_str": "5242",
+			"name": "Ahmed Al Omran",
+			"screen_name": "ahmed",
+			"location": "Saudi Arabia",
+			"description": "Reporter for @FT covering Saudi Arabia · Formerly with @WSJ and @NPR · Email: ahmed.alomran@ft.com · Subscribe to my newsletter: https://t.co/i1MM95asPq",
+			"url": "http://t.co/1tckurrksd",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/1tckurrksd",
+							"expanded_url": "http://alomran.me",
+							"display_url": "alomran.me",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/i1MM95asPq",
+							"expanded_url": "http://riyadhbureau.com",
+							"display_url": "riyadhbureau.com",
+							"indices": [
+								129,
+								152
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 149208,
+			"friends_count": 1920,
+			"listed_count": 2663,
+			"created_at": "Mon Sep 04 00:18:12 +0000 2006",
+			"favourites_count": 5318,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 102396,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "CCCCCC",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme5/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme5/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1175469297675714562/QUWgZ3Gk_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1175469297675714562/QUWgZ3Gk_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/5242/1569089262",
+			"profile_link_color": "002FA7",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "99CC33",
+			"profile_text_color": "3E4415",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": false,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 9,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "“I hope you enjoy your Airbnb stay at my home, a place i have never resided nor visited…” https://t.co/fWOQ9PatQL"
+	},
+	{
 		"created_at": "Thu Dec 12 18:25:19 +0000 2019",
 		"id": 1205191920386859000,
 		"id_str": "1205191920386859009",
