@@ -1,6 +1,2658 @@
 Grailbird.data.tweets_2019_12 = 
 [
 	{
+		"created_at": "Sat Dec 21 19:26:18 +0000 2019",
+		"id": 1208468755292004400,
+		"id_str": "1208468755292004359",
+		"full_text": "West Brom rejects £3.4m offer from Saudi side @ittihad for Egyptian defender Ahmed Hegazi https://t.co/xW7mwP5nPf",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			113
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "ittihad",
+					"name": "نادي الاتحاد السعودي",
+					"id": 332566057,
+					"id_str": "332566057",
+					"indices": [
+						46,
+						54
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/xW7mwP5nPf",
+					"expanded_url": "https://www.skysports.com/football/news/11698/11892392/ahmed-hegazi-west-brom-reject-bid-from-saudi-arabian-side-for-defender",
+					"display_url": "skysports.com/football/news/…",
+					"indices": [
+						90,
+						113
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 5242,
+			"id_str": "5242",
+			"name": "Ahmed Al Omran",
+			"screen_name": "ahmed",
+			"location": "Saudi Arabia",
+			"description": "Reporter for @FT covering Saudi Arabia · Formerly with @WSJ and @NPR · Email: ahmed.alomran@ft.com · Subscribe to my newsletter: https://t.co/i1MM95asPq",
+			"url": "http://t.co/1tckurrksd",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/1tckurrksd",
+							"expanded_url": "http://alomran.me",
+							"display_url": "alomran.me",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/i1MM95asPq",
+							"expanded_url": "http://riyadhbureau.com",
+							"display_url": "riyadhbureau.com",
+							"indices": [
+								129,
+								152
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 149197,
+			"friends_count": 1922,
+			"listed_count": 2660,
+			"created_at": "Mon Sep 04 00:18:12 +0000 2006",
+			"favourites_count": 5323,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 102495,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "CCCCCC",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme5/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme5/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1175469297675714562/QUWgZ3Gk_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1175469297675714562/QUWgZ3Gk_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/5242/1569089262",
+			"profile_link_color": "002FA7",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "99CC33",
+			"profile_text_color": "3E4415",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": false,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "West Brom rejects £3.4m offer from Saudi side @ittihad for Egyptian defender Ahmed Hegazi https://t.co/xW7mwP5nPf"
+	},
+	{
+		"created_at": "Sat Dec 21 18:53:36 +0000 2019",
+		"id": 1208460529213288400,
+		"id_str": "1208460529213288450",
+		"full_text": "Emirates making a killing from the army of consultants flying between Dubai and Riyadh https://t.co/qT0Wy0fFWh",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			110
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/qT0Wy0fFWh",
+					"expanded_url": "https://www.bloomberg.com/news/articles/2019-12-20/emirates-squeezes-profits-from-a-two-hour-flight-to-riyadh",
+					"display_url": "bloomberg.com/news/articles/…",
+					"indices": [
+						87,
+						110
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 5242,
+			"id_str": "5242",
+			"name": "Ahmed Al Omran",
+			"screen_name": "ahmed",
+			"location": "Saudi Arabia",
+			"description": "Reporter for @FT covering Saudi Arabia · Formerly with @WSJ and @NPR · Email: ahmed.alomran@ft.com · Subscribe to my newsletter: https://t.co/i1MM95asPq",
+			"url": "http://t.co/1tckurrksd",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/1tckurrksd",
+							"expanded_url": "http://alomran.me",
+							"display_url": "alomran.me",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/i1MM95asPq",
+							"expanded_url": "http://riyadhbureau.com",
+							"display_url": "riyadhbureau.com",
+							"indices": [
+								129,
+								152
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 149197,
+			"friends_count": 1922,
+			"listed_count": 2660,
+			"created_at": "Mon Sep 04 00:18:12 +0000 2006",
+			"favourites_count": 5323,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 102495,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "CCCCCC",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme5/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme5/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1175469297675714562/QUWgZ3Gk_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1175469297675714562/QUWgZ3Gk_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/5242/1569089262",
+			"profile_link_color": "002FA7",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "99CC33",
+			"profile_text_color": "3E4415",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": false,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 11,
+		"favorite_count": 25,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Emirates making a killing from the army of consultants flying between Dubai and Riyadh https://t.co/qT0Wy0fFWh"
+	},
+	{
+		"created_at": "Sat Dec 21 17:46:20 +0000 2019",
+		"id": 1208443599072960500,
+		"id_str": "1208443599072960513",
+		"full_text": "Boeing airliner believed to have been chartered to pick up wealthy Saudis from Paris came close to disaster, grounding a wing and its tail as its pilots bungled an attempt to land https://t.co/EwgDZi8Q47",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			203
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/EwgDZi8Q47",
+					"expanded_url": "https://www.thetimes.co.uk/article/crew-failure-led-to-close-call-for-saudi-jet-xqw3s9td3",
+					"display_url": "thetimes.co.uk/article/crew-f…",
+					"indices": [
+						180,
+						203
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 5242,
+			"id_str": "5242",
+			"name": "Ahmed Al Omran",
+			"screen_name": "ahmed",
+			"location": "Saudi Arabia",
+			"description": "Reporter for @FT covering Saudi Arabia · Formerly with @WSJ and @NPR · Email: ahmed.alomran@ft.com · Subscribe to my newsletter: https://t.co/i1MM95asPq",
+			"url": "http://t.co/1tckurrksd",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/1tckurrksd",
+							"expanded_url": "http://alomran.me",
+							"display_url": "alomran.me",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/i1MM95asPq",
+							"expanded_url": "http://riyadhbureau.com",
+							"display_url": "riyadhbureau.com",
+							"indices": [
+								129,
+								152
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 149197,
+			"friends_count": 1922,
+			"listed_count": 2660,
+			"created_at": "Mon Sep 04 00:18:12 +0000 2006",
+			"favourites_count": 5323,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 102495,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "CCCCCC",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme5/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme5/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1175469297675714562/QUWgZ3Gk_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1175469297675714562/QUWgZ3Gk_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/5242/1569089262",
+			"profile_link_color": "002FA7",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "99CC33",
+			"profile_text_color": "3E4415",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": false,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Boeing airliner believed to have been chartered to pick up wealthy Saudis from Paris came close to disaster, grounding a wing and its tail as its pilots bungled an attempt to land https://t.co/EwgDZi8Q47"
+	},
+	{
+		"created_at": "Sat Dec 21 17:41:50 +0000 2019",
+		"id": 1208442467420385300,
+		"id_str": "1208442467420385281",
+		"full_text": "@blondearabist @TheAtlantic just emailed you",
+		"truncated": false,
+		"display_text_range": [
+			28,
+			44
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "blondearabist",
+					"name": "Niamh McBurney",
+					"id": 220821598,
+					"id_str": "220821598",
+					"indices": [
+						0,
+						14
+					]
+				},
+				{
+					"screen_name": "TheAtlantic",
+					"name": "The Atlantic",
+					"id": 35773039,
+					"id_str": "35773039",
+					"indices": [
+						15,
+						27
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 1208441903483695000,
+		"in_reply_to_status_id_str": "1208441903483695105",
+		"in_reply_to_user_id": 220821598,
+		"in_reply_to_user_id_str": "220821598",
+		"in_reply_to_screen_name": "blondearabist",
+		"user": {
+			"id": 5242,
+			"id_str": "5242",
+			"name": "Ahmed Al Omran",
+			"screen_name": "ahmed",
+			"location": "Saudi Arabia",
+			"description": "Reporter for @FT covering Saudi Arabia · Formerly with @WSJ and @NPR · Email: ahmed.alomran@ft.com · Subscribe to my newsletter: https://t.co/i1MM95asPq",
+			"url": "http://t.co/1tckurrksd",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/1tckurrksd",
+							"expanded_url": "http://alomran.me",
+							"display_url": "alomran.me",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/i1MM95asPq",
+							"expanded_url": "http://riyadhbureau.com",
+							"display_url": "riyadhbureau.com",
+							"indices": [
+								129,
+								152
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 149197,
+			"friends_count": 1922,
+			"listed_count": 2660,
+			"created_at": "Mon Sep 04 00:18:12 +0000 2006",
+			"favourites_count": 5323,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 102495,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "CCCCCC",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme5/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme5/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1175469297675714562/QUWgZ3Gk_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1175469297675714562/QUWgZ3Gk_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/5242/1569089262",
+			"profile_link_color": "002FA7",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "99CC33",
+			"profile_text_color": "3E4415",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": false,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@blondearabist @TheAtlantic just emailed you"
+	},
+	{
+		"created_at": "Sat Dec 21 17:14:20 +0000 2019",
+		"id": 1208435546252546000,
+		"id_str": "1208435546252546055",
+		"full_text": "Korea Shipbuilding to set up engine JV with Saudi Aramco https://t.co/c3n6bXUUqZ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			80
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/c3n6bXUUqZ",
+					"expanded_url": "https://en.yna.co.kr/view/AEN20191220008800320",
+					"display_url": "en.yna.co.kr/view/AEN201912…",
+					"indices": [
+						57,
+						80
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 5242,
+			"id_str": "5242",
+			"name": "Ahmed Al Omran",
+			"screen_name": "ahmed",
+			"location": "Saudi Arabia",
+			"description": "Reporter for @FT covering Saudi Arabia · Formerly with @WSJ and @NPR · Email: ahmed.alomran@ft.com · Subscribe to my newsletter: https://t.co/i1MM95asPq",
+			"url": "http://t.co/1tckurrksd",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/1tckurrksd",
+							"expanded_url": "http://alomran.me",
+							"display_url": "alomran.me",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/i1MM95asPq",
+							"expanded_url": "http://riyadhbureau.com",
+							"display_url": "riyadhbureau.com",
+							"indices": [
+								129,
+								152
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 149197,
+			"friends_count": 1922,
+			"listed_count": 2660,
+			"created_at": "Mon Sep 04 00:18:12 +0000 2006",
+			"favourites_count": 5323,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 102495,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "CCCCCC",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme5/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme5/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1175469297675714562/QUWgZ3Gk_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1175469297675714562/QUWgZ3Gk_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/5242/1569089262",
+			"profile_link_color": "002FA7",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "99CC33",
+			"profile_text_color": "3E4415",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": false,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 5,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Korea Shipbuilding to set up engine JV with Saudi Aramco https://t.co/c3n6bXUUqZ"
+	},
+	{
+		"created_at": "Sat Dec 21 17:11:56 +0000 2019",
+		"id": 1208434943812100000,
+		"id_str": "1208434943812100096",
+		"full_text": "Lockheed awarded $1.96 billion contract to build 4 multi-mission surface combatants for Saudi Arabia by Wisconsin-based unit https://t.co/8pBBcl1utg",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			148
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/8pBBcl1utg",
+					"expanded_url": "https://www.defensenews.com/naval/2019/12/20/lockheed-inks-2-billion-contract-for-saudi-frigate/",
+					"display_url": "defensenews.com/naval/2019/12/…",
+					"indices": [
+						125,
+						148
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 5242,
+			"id_str": "5242",
+			"name": "Ahmed Al Omran",
+			"screen_name": "ahmed",
+			"location": "Saudi Arabia",
+			"description": "Reporter for @FT covering Saudi Arabia · Formerly with @WSJ and @NPR · Email: ahmed.alomran@ft.com · Subscribe to my newsletter: https://t.co/i1MM95asPq",
+			"url": "http://t.co/1tckurrksd",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/1tckurrksd",
+							"expanded_url": "http://alomran.me",
+							"display_url": "alomran.me",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/i1MM95asPq",
+							"expanded_url": "http://riyadhbureau.com",
+							"display_url": "riyadhbureau.com",
+							"indices": [
+								129,
+								152
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 149197,
+			"friends_count": 1922,
+			"listed_count": 2660,
+			"created_at": "Mon Sep 04 00:18:12 +0000 2006",
+			"favourites_count": 5323,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 102495,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "CCCCCC",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme5/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme5/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1175469297675714562/QUWgZ3Gk_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1175469297675714562/QUWgZ3Gk_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/5242/1569089262",
+			"profile_link_color": "002FA7",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "99CC33",
+			"profile_text_color": "3E4415",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": false,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 10,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Lockheed awarded $1.96 billion contract to build 4 multi-mission surface combatants for Saudi Arabia by Wisconsin-based unit https://t.co/8pBBcl1utg"
+	},
+	{
+		"created_at": "Sat Dec 21 17:06:15 +0000 2019",
+		"id": 1208433512279421000,
+		"id_str": "1208433512279420932",
+		"full_text": "الانجليز يقررون أخيرا تبني الشماغ المصنوع في انجلترا https://t.co/tk0kT2Ccit",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			52
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/tk0kT2Ccit",
+					"expanded_url": "https://twitter.com/RobHarris/status/1208432880726237186",
+					"display_url": "twitter.com/RobHarris/stat…",
+					"indices": [
+						53,
+						76
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 5242,
+			"id_str": "5242",
+			"name": "Ahmed Al Omran",
+			"screen_name": "ahmed",
+			"location": "Saudi Arabia",
+			"description": "Reporter for @FT covering Saudi Arabia · Formerly with @WSJ and @NPR · Email: ahmed.alomran@ft.com · Subscribe to my newsletter: https://t.co/i1MM95asPq",
+			"url": "http://t.co/1tckurrksd",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/1tckurrksd",
+							"expanded_url": "http://alomran.me",
+							"display_url": "alomran.me",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/i1MM95asPq",
+							"expanded_url": "http://riyadhbureau.com",
+							"display_url": "riyadhbureau.com",
+							"indices": [
+								129,
+								152
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 149197,
+			"friends_count": 1922,
+			"listed_count": 2660,
+			"created_at": "Mon Sep 04 00:18:12 +0000 2006",
+			"favourites_count": 5323,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 102495,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "CCCCCC",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme5/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme5/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1175469297675714562/QUWgZ3Gk_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1175469297675714562/QUWgZ3Gk_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/5242/1569089262",
+			"profile_link_color": "002FA7",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "99CC33",
+			"profile_text_color": "3E4415",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": false,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1208432880726237200,
+		"quoted_status_id_str": "1208432880726237186",
+		"quoted_status_permalink": {
+			"url": "https://t.co/tk0kT2Ccit",
+			"expanded": "https://twitter.com/RobHarris/status/1208432880726237186",
+			"display": "twitter.com/RobHarris/stat…"
+		},
+		"quoted_status": {
+			"created_at": "Sat Dec 21 17:03:45 +0000 2019",
+			"id": 1208432880726237200,
+			"id_str": "1208432880726237186",
+			"full_text": "Liverpool fans in local headdress at #clubwc final https://t.co/AK8LMocNDO",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				50
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "clubwc",
+						"indices": [
+							37,
+							44
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1208432843103363000,
+						"id_str": "1208432843103363073",
+						"indices": [
+							51,
+							74
+						],
+						"media_url": "http://pbs.twimg.com/media/EMU3RKwXYAEcxCn.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EMU3RKwXYAEcxCn.jpg",
+						"url": "https://t.co/AK8LMocNDO",
+						"display_url": "pic.twitter.com/AK8LMocNDO",
+						"expanded_url": "https://twitter.com/RobHarris/status/1208432880726237186/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 2048,
+								"h": 1536,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 510,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 900,
+								"resize": "fit"
+							}
+						},
+						"features": {
+							"orig": {
+								"faces": [
+									{
+										"x": 1586,
+										"y": 744,
+										"h": 88,
+										"w": 88
+									},
+									{
+										"x": 1864,
+										"y": 674,
+										"h": 80,
+										"w": 80
+									},
+									{
+										"x": 1376,
+										"y": 736,
+										"h": 140,
+										"w": 140
+									},
+									{
+										"x": 1010,
+										"y": 1204,
+										"h": 110,
+										"w": 110
+									},
+									{
+										"x": 988,
+										"y": 856,
+										"h": 114,
+										"w": 114
+									},
+									{
+										"x": 1390,
+										"y": 788,
+										"h": 142,
+										"w": 142
+									},
+									{
+										"x": 482,
+										"y": 802,
+										"h": 196,
+										"w": 196
+									}
+								]
+							},
+							"large": {
+								"faces": [
+									{
+										"x": 1586,
+										"y": 744,
+										"h": 88,
+										"w": 88
+									},
+									{
+										"x": 1864,
+										"y": 674,
+										"h": 80,
+										"w": 80
+									},
+									{
+										"x": 1376,
+										"y": 736,
+										"h": 140,
+										"w": 140
+									},
+									{
+										"x": 1010,
+										"y": 1204,
+										"h": 110,
+										"w": 110
+									},
+									{
+										"x": 988,
+										"y": 856,
+										"h": 114,
+										"w": 114
+									},
+									{
+										"x": 1390,
+										"y": 788,
+										"h": 142,
+										"w": 142
+									},
+									{
+										"x": 482,
+										"y": 802,
+										"h": 196,
+										"w": 196
+									}
+								]
+							},
+							"small": {
+								"faces": [
+									{
+										"x": 526,
+										"y": 247,
+										"h": 29,
+										"w": 29
+									},
+									{
+										"x": 618,
+										"y": 223,
+										"h": 26,
+										"w": 26
+									},
+									{
+										"x": 456,
+										"y": 244,
+										"h": 46,
+										"w": 46
+									},
+									{
+										"x": 335,
+										"y": 399,
+										"h": 36,
+										"w": 36
+									},
+									{
+										"x": 328,
+										"y": 284,
+										"h": 37,
+										"w": 37
+									},
+									{
+										"x": 461,
+										"y": 261,
+										"h": 47,
+										"w": 47
+									},
+									{
+										"x": 160,
+										"y": 266,
+										"h": 65,
+										"w": 65
+									}
+								]
+							},
+							"medium": {
+								"faces": [
+									{
+										"x": 929,
+										"y": 435,
+										"h": 51,
+										"w": 51
+									},
+									{
+										"x": 1092,
+										"y": 394,
+										"h": 46,
+										"w": 46
+									},
+									{
+										"x": 806,
+										"y": 431,
+										"h": 82,
+										"w": 82
+									},
+									{
+										"x": 591,
+										"y": 705,
+										"h": 64,
+										"w": 64
+									},
+									{
+										"x": 578,
+										"y": 501,
+										"h": 66,
+										"w": 66
+									},
+									{
+										"x": 814,
+										"y": 461,
+										"h": 83,
+										"w": 83
+									},
+									{
+										"x": 282,
+										"y": 469,
+										"h": 114,
+										"w": 114
+									}
+								]
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1208432843103363000,
+						"id_str": "1208432843103363073",
+						"indices": [
+							51,
+							74
+						],
+						"media_url": "http://pbs.twimg.com/media/EMU3RKwXYAEcxCn.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EMU3RKwXYAEcxCn.jpg",
+						"url": "https://t.co/AK8LMocNDO",
+						"display_url": "pic.twitter.com/AK8LMocNDO",
+						"expanded_url": "https://twitter.com/RobHarris/status/1208432880726237186/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 2048,
+								"h": 1536,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 510,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 900,
+								"resize": "fit"
+							}
+						},
+						"features": {
+							"orig": {
+								"faces": [
+									{
+										"x": 1586,
+										"y": 744,
+										"h": 88,
+										"w": 88
+									},
+									{
+										"x": 1864,
+										"y": 674,
+										"h": 80,
+										"w": 80
+									},
+									{
+										"x": 1376,
+										"y": 736,
+										"h": 140,
+										"w": 140
+									},
+									{
+										"x": 1010,
+										"y": 1204,
+										"h": 110,
+										"w": 110
+									},
+									{
+										"x": 988,
+										"y": 856,
+										"h": 114,
+										"w": 114
+									},
+									{
+										"x": 1390,
+										"y": 788,
+										"h": 142,
+										"w": 142
+									},
+									{
+										"x": 482,
+										"y": 802,
+										"h": 196,
+										"w": 196
+									}
+								]
+							},
+							"large": {
+								"faces": [
+									{
+										"x": 1586,
+										"y": 744,
+										"h": 88,
+										"w": 88
+									},
+									{
+										"x": 1864,
+										"y": 674,
+										"h": 80,
+										"w": 80
+									},
+									{
+										"x": 1376,
+										"y": 736,
+										"h": 140,
+										"w": 140
+									},
+									{
+										"x": 1010,
+										"y": 1204,
+										"h": 110,
+										"w": 110
+									},
+									{
+										"x": 988,
+										"y": 856,
+										"h": 114,
+										"w": 114
+									},
+									{
+										"x": 1390,
+										"y": 788,
+										"h": 142,
+										"w": 142
+									},
+									{
+										"x": 482,
+										"y": 802,
+										"h": 196,
+										"w": 196
+									}
+								]
+							},
+							"small": {
+								"faces": [
+									{
+										"x": 526,
+										"y": 247,
+										"h": 29,
+										"w": 29
+									},
+									{
+										"x": 618,
+										"y": 223,
+										"h": 26,
+										"w": 26
+									},
+									{
+										"x": 456,
+										"y": 244,
+										"h": 46,
+										"w": 46
+									},
+									{
+										"x": 335,
+										"y": 399,
+										"h": 36,
+										"w": 36
+									},
+									{
+										"x": 328,
+										"y": 284,
+										"h": 37,
+										"w": 37
+									},
+									{
+										"x": 461,
+										"y": 261,
+										"h": 47,
+										"w": 47
+									},
+									{
+										"x": 160,
+										"y": 266,
+										"h": 65,
+										"w": 65
+									}
+								]
+							},
+							"medium": {
+								"faces": [
+									{
+										"x": 929,
+										"y": 435,
+										"h": 51,
+										"w": 51
+									},
+									{
+										"x": 1092,
+										"y": 394,
+										"h": 46,
+										"w": 46
+									},
+									{
+										"x": 806,
+										"y": 431,
+										"h": 82,
+										"w": 82
+									},
+									{
+										"x": 591,
+										"y": 705,
+										"h": 64,
+										"w": 64
+									},
+									{
+										"x": 578,
+										"y": 501,
+										"h": 66,
+										"w": 66
+									},
+									{
+										"x": 814,
+										"y": 461,
+										"h": 83,
+										"w": 83
+									},
+									{
+										"x": 282,
+										"y": 469,
+										"h": 114,
+										"w": 114
+									}
+								]
+							}
+						}
+					},
+					{
+						"id": 1208432843107524600,
+						"id_str": "1208432843107524610",
+						"indices": [
+							51,
+							74
+						],
+						"media_url": "http://pbs.twimg.com/media/EMU3RKxW4AI4HBT.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EMU3RKxW4AI4HBT.jpg",
+						"url": "https://t.co/AK8LMocNDO",
+						"display_url": "pic.twitter.com/AK8LMocNDO",
+						"expanded_url": "https://twitter.com/RobHarris/status/1208432880726237186/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1536,
+								"h": 2048,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 510,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 900,
+								"h": 1200,
+								"resize": "fit"
+							}
+						},
+						"features": {
+							"orig": {
+								"faces": []
+							},
+							"large": {
+								"faces": []
+							},
+							"small": {
+								"faces": []
+							},
+							"medium": {
+								"faces": []
+							}
+						}
+					},
+					{
+						"id": 1208432843107524600,
+						"id_str": "1208432843107524612",
+						"indices": [
+							51,
+							74
+						],
+						"media_url": "http://pbs.twimg.com/media/EMU3RKxW4AQkfaN.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EMU3RKxW4AQkfaN.jpg",
+						"url": "https://t.co/AK8LMocNDO",
+						"display_url": "pic.twitter.com/AK8LMocNDO",
+						"expanded_url": "https://twitter.com/RobHarris/status/1208432880726237186/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 1200,
+								"h": 900,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 510,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 2048,
+								"h": 1536,
+								"resize": "fit"
+							}
+						},
+						"features": {
+							"medium": {
+								"faces": [
+									{
+										"x": 536,
+										"y": 516,
+										"h": 45,
+										"w": 45
+									},
+									{
+										"x": 721,
+										"y": 520,
+										"h": 48,
+										"w": 48
+									},
+									{
+										"x": 298,
+										"y": 555,
+										"h": 45,
+										"w": 45
+									},
+									{
+										"x": 1096,
+										"y": 425,
+										"h": 53,
+										"w": 53
+									},
+									{
+										"x": 342,
+										"y": 554,
+										"h": 80,
+										"w": 80
+									},
+									{
+										"x": 560,
+										"y": 605,
+										"h": 84,
+										"w": 84
+									}
+								]
+							},
+							"orig": {
+								"faces": [
+									{
+										"x": 916,
+										"y": 882,
+										"h": 78,
+										"w": 78
+									},
+									{
+										"x": 1232,
+										"y": 888,
+										"h": 82,
+										"w": 82
+									},
+									{
+										"x": 510,
+										"y": 948,
+										"h": 78,
+										"w": 78
+									},
+									{
+										"x": 1872,
+										"y": 726,
+										"h": 92,
+										"w": 92
+									},
+									{
+										"x": 584,
+										"y": 946,
+										"h": 138,
+										"w": 138
+									},
+									{
+										"x": 956,
+										"y": 1034,
+										"h": 144,
+										"w": 144
+									}
+								]
+							},
+							"small": {
+								"faces": [
+									{
+										"x": 304,
+										"y": 292,
+										"h": 25,
+										"w": 25
+									},
+									{
+										"x": 409,
+										"y": 294,
+										"h": 27,
+										"w": 27
+									},
+									{
+										"x": 169,
+										"y": 314,
+										"h": 25,
+										"w": 25
+									},
+									{
+										"x": 621,
+										"y": 241,
+										"h": 30,
+										"w": 30
+									},
+									{
+										"x": 193,
+										"y": 314,
+										"h": 45,
+										"w": 45
+									},
+									{
+										"x": 317,
+										"y": 343,
+										"h": 47,
+										"w": 47
+									}
+								]
+							},
+							"large": {
+								"faces": [
+									{
+										"x": 916,
+										"y": 882,
+										"h": 78,
+										"w": 78
+									},
+									{
+										"x": 1232,
+										"y": 888,
+										"h": 82,
+										"w": 82
+									},
+									{
+										"x": 510,
+										"y": 948,
+										"h": 78,
+										"w": 78
+									},
+									{
+										"x": 1872,
+										"y": 726,
+										"h": 92,
+										"w": 92
+									},
+									{
+										"x": 584,
+										"y": 946,
+										"h": 138,
+										"w": 138
+									},
+									{
+										"x": 956,
+										"y": 1034,
+										"h": 144,
+										"w": 144
+									}
+								]
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": 1208432157020106800,
+			"in_reply_to_status_id_str": "1208432157020106752",
+			"in_reply_to_user_id": 21754872,
+			"in_reply_to_user_id_str": "21754872",
+			"in_reply_to_screen_name": "RobHarris",
+			"user": {
+				"id": 21754872,
+				"id_str": "21754872",
+				"name": "Rob Harris",
+				"screen_name": "RobHarris",
+				"location": "UK-based",
+				"description": "@AP’s Global Sports Correspondent. Write & talk about sport, with focus on football https://t.co/9HAuvJBMnm https://t.co/gIN6rOEJB1",
+				"url": "https://t.co/iQCmeZYDpy",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/iQCmeZYDpy",
+								"expanded_url": "http://www.robharris.co.uk",
+								"display_url": "robharris.co.uk",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/9HAuvJBMnm",
+								"expanded_url": "http://Instagram.com/RobHarrisPix",
+								"display_url": "Instagram.com/RobHarrisPix",
+								"indices": [
+									84,
+									107
+								]
+							},
+							{
+								"url": "https://t.co/gIN6rOEJB1",
+								"expanded_url": "http://facebook.com/RobHarrisReports",
+								"display_url": "facebook.com/RobHarrisRepor…",
+								"indices": [
+									108,
+									131
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 144042,
+				"friends_count": 3049,
+				"listed_count": 2392,
+				"created_at": "Tue Feb 24 13:50:32 +0000 2009",
+				"favourites_count": 4267,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 61551,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1040627006029934592/-YMcDVGc_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1040627006029934592/-YMcDVGc_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/21754872/1529172592",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"can_media_tag": true,
+				"followed_by": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": {
+				"id": "0033b59d59056043",
+				"url": "https://api.twitter.com/1.1/geo/id/0033b59d59056043.json",
+				"place_type": "admin",
+				"name": "Al Rayyan",
+				"full_name": "Al Rayyan, Qatar",
+				"country_code": "QA",
+				"country": "Qatar",
+				"contained_within": [],
+				"bounding_box": {
+					"type": "Polygon",
+					"coordinates": [
+						[
+							[
+								50.7500758,
+								24.5673874
+							],
+							[
+								51.5443599,
+								24.5673874
+							],
+							[
+								51.5443599,
+								25.8080505
+							],
+							[
+								50.7500758,
+								25.8080505
+							]
+						]
+					]
+				},
+				"attributes": {}
+			},
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 5,
+			"favorite_count": 8,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 2,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ar",
+		"text": "الانجليز يقررون أخيرا تبني الشماغ المصنوع في انجلترا https://t.co/tk0kT2Ccit"
+	},
+	{
+		"created_at": "Sat Dec 21 16:49:03 +0000 2019",
+		"id": 1208429182692286500,
+		"id_str": "1208429182692286467",
+		"full_text": "Juventus to wear special edition shirt with the names and numbers written in Arabic for Super Cup game in Saudi Arabia https://t.co/Aa03k7bilM",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			118
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Aa03k7bilM",
+					"expanded_url": "https://twitter.com/juventusfcen/status/1208373850951634944",
+					"display_url": "twitter.com/juventusfcen/s…",
+					"indices": [
+						119,
+						142
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 5242,
+			"id_str": "5242",
+			"name": "Ahmed Al Omran",
+			"screen_name": "ahmed",
+			"location": "Saudi Arabia",
+			"description": "Reporter for @FT covering Saudi Arabia · Formerly with @WSJ and @NPR · Email: ahmed.alomran@ft.com · Subscribe to my newsletter: https://t.co/i1MM95asPq",
+			"url": "http://t.co/1tckurrksd",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/1tckurrksd",
+							"expanded_url": "http://alomran.me",
+							"display_url": "alomran.me",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/i1MM95asPq",
+							"expanded_url": "http://riyadhbureau.com",
+							"display_url": "riyadhbureau.com",
+							"indices": [
+								129,
+								152
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 149197,
+			"friends_count": 1922,
+			"listed_count": 2660,
+			"created_at": "Mon Sep 04 00:18:12 +0000 2006",
+			"favourites_count": 5323,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 102495,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "CCCCCC",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme5/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme5/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1175469297675714562/QUWgZ3Gk_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1175469297675714562/QUWgZ3Gk_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/5242/1569089262",
+			"profile_link_color": "002FA7",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "99CC33",
+			"profile_text_color": "3E4415",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": false,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1208373850951635000,
+		"quoted_status_id_str": "1208373850951634944",
+		"quoted_status_permalink": {
+			"url": "https://t.co/Aa03k7bilM",
+			"expanded": "https://twitter.com/juventusfcen/status/1208373850951634944",
+			"display": "twitter.com/juventusfcen/s…"
+		},
+		"quoted_status": {
+			"created_at": "Sat Dec 21 13:09:11 +0000 2019",
+			"id": 1208373850951635000,
+			"id_str": "1208373850951634944",
+			"full_text": "The Riyadh Edition home shirt, another special jersey sold out within hours! 🙌\n\n➡️ https://t.co/QSzNPMV0KP \n\n#SupercoppaItaliana #LiveAhead https://t.co/fFNpYIAy7P",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				139
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "SupercoppaItaliana",
+						"indices": [
+							109,
+							128
+						]
+					},
+					{
+						"text": "LiveAhead",
+						"indices": [
+							129,
+							139
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/QSzNPMV0KP",
+						"expanded_url": "http://juve.it/TFFm30q3Vr0",
+						"display_url": "juve.it/TFFm30q3Vr0",
+						"indices": [
+							83,
+							106
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1208373653576048600,
+						"id_str": "1208373653576048640",
+						"indices": [
+							140,
+							163
+						],
+						"media_url": "http://pbs.twimg.com/media/EMUBb4lXYAAndF6.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EMUBb4lXYAAndF6.jpg",
+						"url": "https://t.co/fFNpYIAy7P",
+						"display_url": "pic.twitter.com/fFNpYIAy7P",
+						"expanded_url": "https://twitter.com/juventusfcen/status/1208373850951634944/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 1200,
+								"h": 800,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 453,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1400,
+								"h": 933,
+								"resize": "fit"
+							}
+						},
+						"features": {
+							"medium": {
+								"faces": []
+							},
+							"orig": {
+								"faces": []
+							},
+							"small": {
+								"faces": []
+							},
+							"large": {
+								"faces": []
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1208373653576048600,
+						"id_str": "1208373653576048640",
+						"indices": [
+							140,
+							163
+						],
+						"media_url": "http://pbs.twimg.com/media/EMUBb4lXYAAndF6.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EMUBb4lXYAAndF6.jpg",
+						"url": "https://t.co/fFNpYIAy7P",
+						"display_url": "pic.twitter.com/fFNpYIAy7P",
+						"expanded_url": "https://twitter.com/juventusfcen/status/1208373850951634944/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 1200,
+								"h": 800,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 453,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1400,
+								"h": 933,
+								"resize": "fit"
+							}
+						},
+						"features": {
+							"medium": {
+								"faces": []
+							},
+							"orig": {
+								"faces": []
+							},
+							"small": {
+								"faces": []
+							},
+							"large": {
+								"faces": []
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1638021792,
+				"id_str": "1638021792",
+				"name": "JuventusFC",
+				"screen_name": "juventusfcen",
+				"location": "Allianz Stadium",
+				"description": "Official Juventus FC English Twitter feed. Follow us 🇮🇹@juventusfc 🇪🇸@juventusfces العربية @juventusfcar 🇵🇹🇧🇷 @juventusfcpt 🇮🇩 @juventusfcid",
+				"url": "https://t.co/Bsw8Hp5pQI",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/Bsw8Hp5pQI",
+								"expanded_url": "http://www.juventus.com/en",
+								"display_url": "juventus.com/en",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1728344,
+				"friends_count": 58,
+				"listed_count": 3621,
+				"created_at": "Thu Aug 01 14:02:49 +0000 2013",
+				"favourites_count": 887,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 60821,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1202225645721391109/16SvvmtN_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1202225645721391109/16SvvmtN_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1638021792/1576943215",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"can_media_tag": true,
+				"followed_by": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 90,
+			"favorite_count": 694,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 3,
+		"favorite_count": 5,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Juventus to wear special edition shirt with the names and numbers written in Arabic for Super Cup game in Saudi Arabia https://t.co/Aa03k7bilM"
+	},
+	{
+		"created_at": "Sat Dec 21 16:44:25 +0000 2019",
+		"id": 1208428017397227500,
+		"id_str": "1208428017397227525",
+		"full_text": "Indian governments seeks to stop Reliance from selling stake to Saudi Aramco https://t.co/DDv9lsnnyf",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			100
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/DDv9lsnnyf",
+					"expanded_url": "https://timesofindia.indiatimes.com/business/india-business/govt-seeks-restraint-on-ril-assets-sale-to-aramco-demands-security-for-4-5-bn-arbitral-award/articleshow/72910001.cms",
+					"display_url": "timesofindia.indiatimes.com/business/india…",
+					"indices": [
+						77,
+						100
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 5242,
+			"id_str": "5242",
+			"name": "Ahmed Al Omran",
+			"screen_name": "ahmed",
+			"location": "Saudi Arabia",
+			"description": "Reporter for @FT covering Saudi Arabia · Formerly with @WSJ and @NPR · Email: ahmed.alomran@ft.com · Subscribe to my newsletter: https://t.co/i1MM95asPq",
+			"url": "http://t.co/1tckurrksd",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/1tckurrksd",
+							"expanded_url": "http://alomran.me",
+							"display_url": "alomran.me",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/i1MM95asPq",
+							"expanded_url": "http://riyadhbureau.com",
+							"display_url": "riyadhbureau.com",
+							"indices": [
+								129,
+								152
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 149197,
+			"friends_count": 1922,
+			"listed_count": 2660,
+			"created_at": "Mon Sep 04 00:18:12 +0000 2006",
+			"favourites_count": 5323,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 102495,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "CCCCCC",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme5/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme5/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1175469297675714562/QUWgZ3Gk_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1175469297675714562/QUWgZ3Gk_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/5242/1569089262",
+			"profile_link_color": "002FA7",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "99CC33",
+			"profile_text_color": "3E4415",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": false,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Indian governments seeks to stop Reliance from selling stake to Saudi Aramco https://t.co/DDv9lsnnyf"
+	},
+	{
+		"created_at": "Sat Dec 21 16:40:54 +0000 2019",
+		"id": 1208427131300143000,
+		"id_str": "1208427131300143104",
+		"full_text": "Saudi non-oil GDP to remain solid at 2.7% in 2020, IIF says https://t.co/9HF2AAUESN",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			83
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/9HF2AAUESN",
+					"expanded_url": "https://www.thenational.ae/business/saudi-arabia-s-non-oil-growth-to-remain-solid-at-2-7-in-2020-iif-says-1.954524",
+					"display_url": "thenational.ae/business/saudi…",
+					"indices": [
+						60,
+						83
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 5242,
+			"id_str": "5242",
+			"name": "Ahmed Al Omran",
+			"screen_name": "ahmed",
+			"location": "Saudi Arabia",
+			"description": "Reporter for @FT covering Saudi Arabia · Formerly with @WSJ and @NPR · Email: ahmed.alomran@ft.com · Subscribe to my newsletter: https://t.co/i1MM95asPq",
+			"url": "http://t.co/1tckurrksd",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/1tckurrksd",
+							"expanded_url": "http://alomran.me",
+							"display_url": "alomran.me",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/i1MM95asPq",
+							"expanded_url": "http://riyadhbureau.com",
+							"display_url": "riyadhbureau.com",
+							"indices": [
+								129,
+								152
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 149197,
+			"friends_count": 1922,
+			"listed_count": 2660,
+			"created_at": "Mon Sep 04 00:18:12 +0000 2006",
+			"favourites_count": 5323,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 102495,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "CCCCCC",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme5/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme5/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1175469297675714562/QUWgZ3Gk_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1175469297675714562/QUWgZ3Gk_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/5242/1569089262",
+			"profile_link_color": "002FA7",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "99CC33",
+			"profile_text_color": "3E4415",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": false,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 6,
+		"favorite_count": 6,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Saudi non-oil GDP to remain solid at 2.7% in 2020, IIF says https://t.co/9HF2AAUESN"
+	},
+	{
+		"created_at": "Sat Dec 21 16:33:45 +0000 2019",
+		"id": 1208425331733999600,
+		"id_str": "1208425331733999617",
+		"full_text": "Saudi woman and her Indonesian mother reunited after a separation of more than 20 years https://t.co/fhz2qZp4oT",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			111
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/fhz2qZp4oT",
+					"expanded_url": "https://gulfnews.com/world/gulf/saudi/saudi-girl-indonesian-mum-reunited-after-20-years-1.68616278",
+					"display_url": "gulfnews.com/world/gulf/sau…",
+					"indices": [
+						88,
+						111
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 5242,
+			"id_str": "5242",
+			"name": "Ahmed Al Omran",
+			"screen_name": "ahmed",
+			"location": "Saudi Arabia",
+			"description": "Reporter for @FT covering Saudi Arabia · Formerly with @WSJ and @NPR · Email: ahmed.alomran@ft.com · Subscribe to my newsletter: https://t.co/i1MM95asPq",
+			"url": "http://t.co/1tckurrksd",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/1tckurrksd",
+							"expanded_url": "http://alomran.me",
+							"display_url": "alomran.me",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/i1MM95asPq",
+							"expanded_url": "http://riyadhbureau.com",
+							"display_url": "riyadhbureau.com",
+							"indices": [
+								129,
+								152
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 149197,
+			"friends_count": 1922,
+			"listed_count": 2660,
+			"created_at": "Mon Sep 04 00:18:12 +0000 2006",
+			"favourites_count": 5323,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 102495,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "CCCCCC",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme5/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme5/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1175469297675714562/QUWgZ3Gk_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1175469297675714562/QUWgZ3Gk_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/5242/1569089262",
+			"profile_link_color": "002FA7",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "99CC33",
+			"profile_text_color": "3E4415",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": false,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 5,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Saudi woman and her Indonesian mother reunited after a separation of more than 20 years https://t.co/fhz2qZp4oT"
+	},
+	{
+		"created_at": "Sat Dec 21 16:30:59 +0000 2019",
+		"id": 1208424637819961300,
+		"id_str": "1208424637819961344",
+		"full_text": "Flickr still in trouble even after the SmugMug acquisition https://t.co/X0g5a9NaFx",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			82
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/X0g5a9NaFx",
+					"expanded_url": "https://petapixel.com/2019/12/20/flickr-ceo-posts-public-plea-for-help-to-keep-the-flickr-dream-alive/",
+					"display_url": "petapixel.com/2019/12/20/fli…",
+					"indices": [
+						59,
+						82
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 5242,
+			"id_str": "5242",
+			"name": "Ahmed Al Omran",
+			"screen_name": "ahmed",
+			"location": "Saudi Arabia",
+			"description": "Reporter for @FT covering Saudi Arabia · Formerly with @WSJ and @NPR · Email: ahmed.alomran@ft.com · Subscribe to my newsletter: https://t.co/i1MM95asPq",
+			"url": "http://t.co/1tckurrksd",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/1tckurrksd",
+							"expanded_url": "http://alomran.me",
+							"display_url": "alomran.me",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/i1MM95asPq",
+							"expanded_url": "http://riyadhbureau.com",
+							"display_url": "riyadhbureau.com",
+							"indices": [
+								129,
+								152
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 149197,
+			"friends_count": 1922,
+			"listed_count": 2660,
+			"created_at": "Mon Sep 04 00:18:12 +0000 2006",
+			"favourites_count": 5323,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 102495,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "CCCCCC",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme5/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme5/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1175469297675714562/QUWgZ3Gk_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1175469297675714562/QUWgZ3Gk_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/5242/1569089262",
+			"profile_link_color": "002FA7",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "99CC33",
+			"profile_text_color": "3E4415",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": false,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Flickr still in trouble even after the SmugMug acquisition https://t.co/X0g5a9NaFx"
+	},
+	{
+		"created_at": "Sat Dec 21 16:14:22 +0000 2019",
+		"id": 1208420454777675800,
+		"id_str": "1208420454777675782",
+		"full_text": "Twitter suspends accounts linked to Saudi spying case https://t.co/31yyRfL5Vv",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			77
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/31yyRfL5Vv",
+					"expanded_url": "https://www.reuters.com/article/us-twitter-saudi-idUSKBN1YO1JT",
+					"display_url": "reuters.com/article/us-twi…",
+					"indices": [
+						54,
+						77
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 5242,
+			"id_str": "5242",
+			"name": "Ahmed Al Omran",
+			"screen_name": "ahmed",
+			"location": "Saudi Arabia",
+			"description": "Reporter for @FT covering Saudi Arabia · Formerly with @WSJ and @NPR · Email: ahmed.alomran@ft.com · Subscribe to my newsletter: https://t.co/i1MM95asPq",
+			"url": "http://t.co/1tckurrksd",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/1tckurrksd",
+							"expanded_url": "http://alomran.me",
+							"display_url": "alomran.me",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/i1MM95asPq",
+							"expanded_url": "http://riyadhbureau.com",
+							"display_url": "riyadhbureau.com",
+							"indices": [
+								129,
+								152
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 149197,
+			"friends_count": 1922,
+			"listed_count": 2660,
+			"created_at": "Mon Sep 04 00:18:12 +0000 2006",
+			"favourites_count": 5323,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 102495,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "CCCCCC",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme5/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme5/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1175469297675714562/QUWgZ3Gk_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1175469297675714562/QUWgZ3Gk_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/5242/1569089262",
+			"profile_link_color": "002FA7",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "99CC33",
+			"profile_text_color": "3E4415",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": false,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Twitter suspends accounts linked to Saudi spying case https://t.co/31yyRfL5Vv"
+	},
+	{
 		"created_at": "Fri Dec 20 14:31:00 +0000 2019",
 		"id": 1208032053188542500,
 		"id_str": "1208032053188542464",
