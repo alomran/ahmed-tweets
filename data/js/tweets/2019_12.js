@@ -1,6 +1,939 @@
 Grailbird.data.tweets_2019_12 = 
 [
 	{
+		"created_at": "Tue Dec 24 18:10:34 +0000 2019",
+		"id": 1209536860416069600,
+		"id_str": "1209536860416069632",
+		"full_text": "The original Baby Shark for kids born at the millennium start https://t.co/eRA9ILtPcL",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			85
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/eRA9ILtPcL",
+					"expanded_url": "https://www.youtube.com/watch?v=5CJWfloPnKY",
+					"display_url": "youtube.com/watch?v=5CJWfl…",
+					"indices": [
+						62,
+						85
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 5242,
+			"id_str": "5242",
+			"name": "Ahmed Al Omran",
+			"screen_name": "ahmed",
+			"location": "Saudi Arabia",
+			"description": "Reporter for @FT covering Saudi Arabia · Formerly with @WSJ and @NPR · Email: ahmed.alomran@ft.com · Subscribe to my newsletter: https://t.co/i1MM95asPq",
+			"url": "http://t.co/1tckurrksd",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/1tckurrksd",
+							"expanded_url": "http://alomran.me",
+							"display_url": "alomran.me",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/i1MM95asPq",
+							"expanded_url": "http://riyadhbureau.com",
+							"display_url": "riyadhbureau.com",
+							"indices": [
+								129,
+								152
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 149219,
+			"friends_count": 1923,
+			"listed_count": 2661,
+			"created_at": "Mon Sep 04 00:18:12 +0000 2006",
+			"favourites_count": 5322,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 102512,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "CCCCCC",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme5/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme5/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1175469297675714562/QUWgZ3Gk_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1175469297675714562/QUWgZ3Gk_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/5242/1569089262",
+			"profile_link_color": "002FA7",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "99CC33",
+			"profile_text_color": "3E4415",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": false,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "The original Baby Shark for kids born at the millennium start https://t.co/eRA9ILtPcL"
+	},
+	{
+		"created_at": "Tue Dec 24 17:13:30 +0000 2019",
+		"id": 1209522500612362200,
+		"id_str": "1209522500612362242",
+		"full_text": "Saudi police arrests 24 suspects for sexual harassment at recent music festival in Riyadh https://t.co/0GQOxMmJ1G",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			113
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/0GQOxMmJ1G",
+					"expanded_url": "https://www.spa.gov.sa/2014839",
+					"display_url": "spa.gov.sa/2014839",
+					"indices": [
+						90,
+						113
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 5242,
+			"id_str": "5242",
+			"name": "Ahmed Al Omran",
+			"screen_name": "ahmed",
+			"location": "Saudi Arabia",
+			"description": "Reporter for @FT covering Saudi Arabia · Formerly with @WSJ and @NPR · Email: ahmed.alomran@ft.com · Subscribe to my newsletter: https://t.co/i1MM95asPq",
+			"url": "http://t.co/1tckurrksd",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/1tckurrksd",
+							"expanded_url": "http://alomran.me",
+							"display_url": "alomran.me",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/i1MM95asPq",
+							"expanded_url": "http://riyadhbureau.com",
+							"display_url": "riyadhbureau.com",
+							"indices": [
+								129,
+								152
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 149219,
+			"friends_count": 1923,
+			"listed_count": 2661,
+			"created_at": "Mon Sep 04 00:18:12 +0000 2006",
+			"favourites_count": 5322,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 102512,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "CCCCCC",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme5/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme5/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1175469297675714562/QUWgZ3Gk_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1175469297675714562/QUWgZ3Gk_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/5242/1569089262",
+			"profile_link_color": "002FA7",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "99CC33",
+			"profile_text_color": "3E4415",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": false,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 9,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Saudi police arrests 24 suspects for sexual harassment at recent music festival in Riyadh https://t.co/0GQOxMmJ1G"
+	},
+	{
+		"created_at": "Tue Dec 24 15:32:21 +0000 2019",
+		"id": 1209497046031450000,
+		"id_str": "1209497046031450112",
+		"full_text": "Samba CEO Rania Nashar appointed to Saudi space agency board https://t.co/Y3axBZMuLA",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			84
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Y3axBZMuLA",
+					"expanded_url": "https://www.spa.gov.sa/2014780",
+					"display_url": "spa.gov.sa/2014780",
+					"indices": [
+						61,
+						84
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 5242,
+			"id_str": "5242",
+			"name": "Ahmed Al Omran",
+			"screen_name": "ahmed",
+			"location": "Saudi Arabia",
+			"description": "Reporter for @FT covering Saudi Arabia · Formerly with @WSJ and @NPR · Email: ahmed.alomran@ft.com · Subscribe to my newsletter: https://t.co/i1MM95asPq",
+			"url": "http://t.co/1tckurrksd",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/1tckurrksd",
+							"expanded_url": "http://alomran.me",
+							"display_url": "alomran.me",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/i1MM95asPq",
+							"expanded_url": "http://riyadhbureau.com",
+							"display_url": "riyadhbureau.com",
+							"indices": [
+								129,
+								152
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 149219,
+			"friends_count": 1923,
+			"listed_count": 2661,
+			"created_at": "Mon Sep 04 00:18:12 +0000 2006",
+			"favourites_count": 5322,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 102512,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "CCCCCC",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme5/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme5/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1175469297675714562/QUWgZ3Gk_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1175469297675714562/QUWgZ3Gk_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/5242/1569089262",
+			"profile_link_color": "002FA7",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "99CC33",
+			"profile_text_color": "3E4415",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": false,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 5,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Samba CEO Rania Nashar appointed to Saudi space agency board https://t.co/Y3axBZMuLA"
+	},
+	{
+		"created_at": "Tue Dec 24 13:59:44 +0000 2019",
+		"id": 1209473737524994000,
+		"id_str": "1209473737524994048",
+		"full_text": "Saudi Arabia arrests 9 women for breaking the public decency law https://t.co/MlWYYRblyR",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			88
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/MlWYYRblyR",
+					"expanded_url": "https://sabq.org/JQ7xkn",
+					"display_url": "sabq.org/JQ7xkn",
+					"indices": [
+						65,
+						88
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 5242,
+			"id_str": "5242",
+			"name": "Ahmed Al Omran",
+			"screen_name": "ahmed",
+			"location": "Saudi Arabia",
+			"description": "Reporter for @FT covering Saudi Arabia · Formerly with @WSJ and @NPR · Email: ahmed.alomran@ft.com · Subscribe to my newsletter: https://t.co/i1MM95asPq",
+			"url": "http://t.co/1tckurrksd",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/1tckurrksd",
+							"expanded_url": "http://alomran.me",
+							"display_url": "alomran.me",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/i1MM95asPq",
+							"expanded_url": "http://riyadhbureau.com",
+							"display_url": "riyadhbureau.com",
+							"indices": [
+								129,
+								152
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 149219,
+			"friends_count": 1923,
+			"listed_count": 2661,
+			"created_at": "Mon Sep 04 00:18:12 +0000 2006",
+			"favourites_count": 5322,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 102512,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "CCCCCC",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme5/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme5/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1175469297675714562/QUWgZ3Gk_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1175469297675714562/QUWgZ3Gk_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/5242/1569089262",
+			"profile_link_color": "002FA7",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "99CC33",
+			"profile_text_color": "3E4415",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": false,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 14,
+		"favorite_count": 6,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Saudi Arabia arrests 9 women for breaking the public decency law https://t.co/MlWYYRblyR"
+	},
+	{
+		"created_at": "Tue Dec 24 11:34:31 +0000 2019",
+		"id": 1209437193988714500,
+		"id_str": "1209437193988714497",
+		"full_text": "My kingdom for a device that automatically mutes TV commercials then unmutes sound when normal programming returns",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			114
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 5242,
+			"id_str": "5242",
+			"name": "Ahmed Al Omran",
+			"screen_name": "ahmed",
+			"location": "Saudi Arabia",
+			"description": "Reporter for @FT covering Saudi Arabia · Formerly with @WSJ and @NPR · Email: ahmed.alomran@ft.com · Subscribe to my newsletter: https://t.co/i1MM95asPq",
+			"url": "http://t.co/1tckurrksd",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/1tckurrksd",
+							"expanded_url": "http://alomran.me",
+							"display_url": "alomran.me",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/i1MM95asPq",
+							"expanded_url": "http://riyadhbureau.com",
+							"display_url": "riyadhbureau.com",
+							"indices": [
+								129,
+								152
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 149219,
+			"friends_count": 1923,
+			"listed_count": 2661,
+			"created_at": "Mon Sep 04 00:18:12 +0000 2006",
+			"favourites_count": 5322,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 102512,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "CCCCCC",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme5/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme5/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1175469297675714562/QUWgZ3Gk_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1175469297675714562/QUWgZ3Gk_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/5242/1569089262",
+			"profile_link_color": "002FA7",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "99CC33",
+			"profile_text_color": "3E4415",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": false,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 16,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "My kingdom for a device that automatically mutes TV commercials then unmutes sound when normal programming returns"
+	},
+	{
+		"created_at": "Tue Dec 24 11:18:04 +0000 2019",
+		"id": 1209433052054802400,
+		"id_str": "1209433052054802438",
+		"full_text": "WeWork’s dramatic fall cast a pall over other tech companies that had prioritised rapid growth over profitability https://t.co/wZzmXZ7zdR",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			137
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/wZzmXZ7zdR",
+					"expanded_url": "https://www.ft.com/content/3d315e24-1a81-11ea-97df-cc63de1d73f4",
+					"display_url": "ft.com/content/3d315e…",
+					"indices": [
+						114,
+						137
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 5242,
+			"id_str": "5242",
+			"name": "Ahmed Al Omran",
+			"screen_name": "ahmed",
+			"location": "Saudi Arabia",
+			"description": "Reporter for @FT covering Saudi Arabia · Formerly with @WSJ and @NPR · Email: ahmed.alomran@ft.com · Subscribe to my newsletter: https://t.co/i1MM95asPq",
+			"url": "http://t.co/1tckurrksd",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/1tckurrksd",
+							"expanded_url": "http://alomran.me",
+							"display_url": "alomran.me",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/i1MM95asPq",
+							"expanded_url": "http://riyadhbureau.com",
+							"display_url": "riyadhbureau.com",
+							"indices": [
+								129,
+								152
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 149219,
+			"friends_count": 1923,
+			"listed_count": 2661,
+			"created_at": "Mon Sep 04 00:18:12 +0000 2006",
+			"favourites_count": 5322,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 102512,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "CCCCCC",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme5/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme5/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1175469297675714562/QUWgZ3Gk_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1175469297675714562/QUWgZ3Gk_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/5242/1569089262",
+			"profile_link_color": "002FA7",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "99CC33",
+			"profile_text_color": "3E4415",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": false,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "WeWork’s dramatic fall cast a pall over other tech companies that had prioritised rapid growth over profitability https://t.co/wZzmXZ7zdR"
+	},
+	{
+		"created_at": "Tue Dec 24 11:11:41 +0000 2019",
+		"id": 1209431446395539500,
+		"id_str": "1209431446395539456",
+		"full_text": "“The Islamic Republic is in danger. Do whatever it takes to end it. You have my order,” Iran supreme leader told senior officials in response widespread protests https://t.co/R5zwYaU1k2",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			185
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/R5zwYaU1k2",
+					"expanded_url": "https://www.reuters.com/article/us-iran-protests-specialreport-idUSKBN1YR0QR",
+					"display_url": "reuters.com/article/us-ira…",
+					"indices": [
+						162,
+						185
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 5242,
+			"id_str": "5242",
+			"name": "Ahmed Al Omran",
+			"screen_name": "ahmed",
+			"location": "Saudi Arabia",
+			"description": "Reporter for @FT covering Saudi Arabia · Formerly with @WSJ and @NPR · Email: ahmed.alomran@ft.com · Subscribe to my newsletter: https://t.co/i1MM95asPq",
+			"url": "http://t.co/1tckurrksd",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/1tckurrksd",
+							"expanded_url": "http://alomran.me",
+							"display_url": "alomran.me",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/i1MM95asPq",
+							"expanded_url": "http://riyadhbureau.com",
+							"display_url": "riyadhbureau.com",
+							"indices": [
+								129,
+								152
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 149219,
+			"friends_count": 1923,
+			"listed_count": 2661,
+			"created_at": "Mon Sep 04 00:18:12 +0000 2006",
+			"favourites_count": 5322,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 102512,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "CCCCCC",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme5/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme5/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1175469297675714562/QUWgZ3Gk_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1175469297675714562/QUWgZ3Gk_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/5242/1569089262",
+			"profile_link_color": "002FA7",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "99CC33",
+			"profile_text_color": "3E4415",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": false,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5,
+		"favorite_count": 8,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "“The Islamic Republic is in danger. Do whatever it takes to end it. You have my order,” Iran supreme leader told senior officials in response widespread protests https://t.co/R5zwYaU1k2"
+	},
+	{
+		"created_at": "Tue Dec 24 11:08:57 +0000 2019",
+		"id": 1209430759641092000,
+		"id_str": "1209430759641092096",
+		"full_text": "Senior Ulema Council says sentences in Khashoggi case “confirm that the judiciary in the Kingdom of Saudi Arabia is pursuing justice and holding accountable anyone involved in this crime” https://t.co/4peXlktdyt",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			211
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/4peXlktdyt",
+					"expanded_url": "https://www.spa.gov.sa/2014504",
+					"display_url": "spa.gov.sa/2014504",
+					"indices": [
+						188,
+						211
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 5242,
+			"id_str": "5242",
+			"name": "Ahmed Al Omran",
+			"screen_name": "ahmed",
+			"location": "Saudi Arabia",
+			"description": "Reporter for @FT covering Saudi Arabia · Formerly with @WSJ and @NPR · Email: ahmed.alomran@ft.com · Subscribe to my newsletter: https://t.co/i1MM95asPq",
+			"url": "http://t.co/1tckurrksd",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/1tckurrksd",
+							"expanded_url": "http://alomran.me",
+							"display_url": "alomran.me",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/i1MM95asPq",
+							"expanded_url": "http://riyadhbureau.com",
+							"display_url": "riyadhbureau.com",
+							"indices": [
+								129,
+								152
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 149219,
+			"friends_count": 1923,
+			"listed_count": 2661,
+			"created_at": "Mon Sep 04 00:18:12 +0000 2006",
+			"favourites_count": 5322,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 102512,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "CCCCCC",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme5/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme5/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1175469297675714562/QUWgZ3Gk_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1175469297675714562/QUWgZ3Gk_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/5242/1569089262",
+			"profile_link_color": "002FA7",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "99CC33",
+			"profile_text_color": "3E4415",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": false,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Senior Ulema Council says sentences in Khashoggi case “confirm that the judiciary in the Kingdom of Saudi Arabia is pursuing justice and holding accountable anyone involved in this crime” https://t.co/4peXlktdyt"
+	},
+	{
 		"created_at": "Mon Dec 23 18:44:02 +0000 2019",
 		"id": 1209182897409872000,
 		"id_str": "1209182897409871875",
