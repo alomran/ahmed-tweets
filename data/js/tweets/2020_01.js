@@ -1,6 +1,1220 @@
 Grailbird.data.tweets_2020_01 = 
 [
 	{
+		"created_at": "Tue Jan 07 15:09:53 +0000 2020",
+		"id": 1214563515786154000,
+		"id_str": "1214564820034306050",
+		"full_text": "Upon directives from HRH the Crown Prince, I had the pleasure of meeting with @RealDonaldTrump yesterday to deliver a message from the Crown Prince, and review aspects of our bilateral cooperation, including efforts to confront regional and international challenges. https://t.co/q7uXlgSjx8",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			266
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "realDonaldTrump",
+					"name": "Donald J. Trump",
+					"id": 25073877,
+					"id_str": "25073877",
+					"indices": [
+						78,
+						94
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1214563509054238700,
+					"id_str": "1214563509054238722",
+					"indices": [
+						267,
+						290
+					],
+					"media_url": "http://pbs.twimg.com/media/ENr_E5JUcAIu1NH.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ENr_E5JUcAIu1NH.jpg",
+					"url": "https://t.co/q7uXlgSjx8",
+					"display_url": "pic.twitter.com/q7uXlgSjx8",
+					"expanded_url": "https://twitter.com/kbsalsaud/status/1214563515786153984/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1024,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1024,
+							"h": 680,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 452,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"medium": {
+							"faces": [
+								{
+									"x": 521,
+									"y": 176,
+									"h": 38,
+									"w": 38
+								},
+								{
+									"x": 421,
+									"y": 185,
+									"h": 36,
+									"w": 36
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 521,
+									"y": 176,
+									"h": 38,
+									"w": 38
+								},
+								{
+									"x": 421,
+									"y": 185,
+									"h": 36,
+									"w": 36
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 521,
+									"y": 176,
+									"h": 38,
+									"w": 38
+								},
+								{
+									"x": 421,
+									"y": 185,
+									"h": 36,
+									"w": 36
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 345,
+									"y": 116,
+									"h": 25,
+									"w": 25
+								},
+								{
+									"x": 279,
+									"y": 122,
+									"h": 23,
+									"w": 23
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1214563509054238700,
+					"id_str": "1214563509054238722",
+					"indices": [
+						267,
+						290
+					],
+					"media_url": "http://pbs.twimg.com/media/ENr_E5JUcAIu1NH.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ENr_E5JUcAIu1NH.jpg",
+					"url": "https://t.co/q7uXlgSjx8",
+					"display_url": "pic.twitter.com/q7uXlgSjx8",
+					"expanded_url": "https://twitter.com/kbsalsaud/status/1214563515786153984/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1024,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1024,
+							"h": 680,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 452,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"medium": {
+							"faces": [
+								{
+									"x": 521,
+									"y": 176,
+									"h": 38,
+									"w": 38
+								},
+								{
+									"x": 421,
+									"y": 185,
+									"h": 36,
+									"w": 36
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 521,
+									"y": 176,
+									"h": 38,
+									"w": 38
+								},
+								{
+									"x": 421,
+									"y": 185,
+									"h": 36,
+									"w": 36
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 521,
+									"y": 176,
+									"h": 38,
+									"w": 38
+								},
+								{
+									"x": 421,
+									"y": 185,
+									"h": 36,
+									"w": 36
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 345,
+									"y": 116,
+									"h": 25,
+									"w": 25
+								},
+								{
+									"x": 279,
+									"y": 122,
+									"h": 23,
+									"w": 23
+								}
+							]
+						}
+					}
+				},
+				{
+					"id": 1214563509054259200,
+					"id_str": "1214563509054259201",
+					"indices": [
+						267,
+						290
+					],
+					"media_url": "http://pbs.twimg.com/media/ENr_E5JUwAE1i2X.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ENr_E5JUwAE1i2X.jpg",
+					"url": "https://t.co/q7uXlgSjx8",
+					"display_url": "pic.twitter.com/q7uXlgSjx8",
+					"expanded_url": "https://twitter.com/kbsalsaud/status/1214563515786153984/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1021,
+							"h": 674,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1021,
+							"h": 674,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 449,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"medium": {
+							"faces": []
+						},
+						"orig": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						},
+						"small": {
+							"faces": []
+						}
+					}
+				},
+				{
+					"id": 1214563509142343700,
+					"id_str": "1214563509142343681",
+					"indices": [
+						267,
+						290
+					],
+					"media_url": "http://pbs.twimg.com/media/ENr_E5eU0AEi2Ny.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ENr_E5eU0AEi2Ny.jpg",
+					"url": "https://t.co/q7uXlgSjx8",
+					"display_url": "pic.twitter.com/q7uXlgSjx8",
+					"expanded_url": "https://twitter.com/kbsalsaud/status/1214563515786153984/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1012,
+							"h": 670,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 450,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1012,
+							"h": 670,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"large": {
+							"faces": [
+								{
+									"x": 824,
+									"y": 49,
+									"h": 34,
+									"w": 34
+								},
+								{
+									"x": 354,
+									"y": 186,
+									"h": 44,
+									"w": 44
+								},
+								{
+									"x": 951,
+									"y": 287,
+									"h": 56,
+									"w": 56
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 553,
+									"y": 32,
+									"h": 22,
+									"w": 22
+								},
+								{
+									"x": 237,
+									"y": 124,
+									"h": 29,
+									"w": 29
+								},
+								{
+									"x": 639,
+									"y": 192,
+									"h": 37,
+									"w": 37
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 824,
+									"y": 49,
+									"h": 34,
+									"w": 34
+								},
+								{
+									"x": 354,
+									"y": 186,
+									"h": 44,
+									"w": 44
+								},
+								{
+									"x": 951,
+									"y": 287,
+									"h": 56,
+									"w": 56
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 824,
+									"y": 49,
+									"h": 34,
+									"w": 34
+								},
+								{
+									"x": 354,
+									"y": 186,
+									"h": 44,
+									"w": 44
+								},
+								{
+									"x": 951,
+									"y": 287,
+									"h": 56,
+									"w": 56
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 975194850994851800,
+			"id_str": "975194850994851840",
+			"name": "Khalid bin Salman                  خالد بن سلمان",
+			"screen_name": "kbsalsaud",
+			"location": "",
+			"description": "نائب وزير الدفاع - Vice Minister of Defense",
+			"url": "https://t.co/eAh7zfXWVk",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/eAh7zfXWVk",
+							"expanded_url": "https://www.mod.gov.sa/Pages/default.aspx",
+							"display_url": "mod.gov.sa/Pages/default.…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 594804,
+			"friends_count": 85,
+			"listed_count": 725,
+			"created_at": "Sun Mar 18 02:19:05 +0000 2018",
+			"favourites_count": 0,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 514,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/976100949948358657/aKhxts4w_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/976100949948358657/aKhxts4w_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/975194850994851840/1550971220",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"can_media_tag": false,
+			"followed_by": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1866,
+		"favorite_count": 2481,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Upon directives from HRH the Crown Prince, I had the pleasure of meeting with @RealDonaldTrump yesterday to deliver a message from the Crown Prince, and review aspects of our bilateral cooperation, including efforts to confront regional and international challenges. https://t.co/q7uXlgSjx8"
+	},
+	{
+		"created_at": "Tue Jan 07 15:09:00 +0000 2020",
+		"id": 1214564600588324900,
+		"id_str": "1214564600588324868",
+		"full_text": "Saudi vice defense minister @kbsalsaud delivers message from the crown prince to Trump —state media https://t.co/HwtNxqbX6E",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			99
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "kbsalsaud",
+					"name": "Khalid bin Salman                  خالد بن سلمان",
+					"id": 975194850994851800,
+					"id_str": "975194850994851840",
+					"indices": [
+						28,
+						38
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/HwtNxqbX6E",
+					"expanded_url": "https://twitter.com/EKH_brk/status/1214564160815583241",
+					"display_url": "twitter.com/EKH_brk/status…",
+					"indices": [
+						100,
+						123
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 5242,
+			"id_str": "5242",
+			"name": "Ahmed Al Omran",
+			"screen_name": "ahmed",
+			"location": "Saudi Arabia",
+			"description": "Reporter for @FT covering Saudi Arabia · Formerly with @WSJ and @NPR · Email: ahmed.alomran@ft.com · Subscribe to my newsletter: https://t.co/i1MM95asPq",
+			"url": "http://t.co/1tckurrksd",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/1tckurrksd",
+							"expanded_url": "http://alomran.me",
+							"display_url": "alomran.me",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/i1MM95asPq",
+							"expanded_url": "http://riyadhbureau.com",
+							"display_url": "riyadhbureau.com",
+							"indices": [
+								129,
+								152
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 149224,
+			"friends_count": 1913,
+			"listed_count": 2659,
+			"created_at": "Mon Sep 04 00:18:12 +0000 2006",
+			"favourites_count": 5325,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 102645,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "CCCCCC",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme5/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme5/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1175469297675714562/QUWgZ3Gk_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1175469297675714562/QUWgZ3Gk_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/5242/1569089262",
+			"profile_link_color": "002FA7",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "99CC33",
+			"profile_text_color": "3E4415",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": false,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1214564160815583200,
+		"quoted_status_id_str": "1214564160815583241",
+		"quoted_status_permalink": {
+			"url": "https://t.co/HwtNxqbX6E",
+			"expanded": "https://twitter.com/EKH_brk/status/1214564160815583241",
+			"display": "twitter.com/EKH_brk/status…"
+		},
+		"quoted_status": {
+			"created_at": "Tue Jan 07 15:07:16 +0000 2020",
+			"id": 1214564160815583200,
+			"id_str": "1214564160815583241",
+			"full_text": "نائب وزير الدفاع الأمير خالد بن سلمان يسلم الرئيس الأمريكي رسالة من #ولي_العهد #الإخبارية_عاجل",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				94
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "ولي_العهد",
+						"indices": [
+							68,
+							78
+						]
+					},
+					{
+						"text": "الإخبارية_عاجل",
+						"indices": [
+							79,
+							94
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 4349033200,
+				"id_str": "4349033200",
+				"name": "الإخبارية عاجل",
+				"screen_name": "EKH_brk",
+				"location": "",
+				"description": "خدمة #الإخبارية للأخبار العاجلة على مدار الساعة، تابعوا حسابنا @alekhbariyatv",
+				"url": "https://t.co/D6k8Dv78ts",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/D6k8Dv78ts",
+								"expanded_url": "http://www.ekhbariyatv.sa/",
+								"display_url": "ekhbariyatv.sa",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 37849,
+				"friends_count": 11,
+				"listed_count": 111,
+				"created_at": "Wed Dec 02 09:05:49 +0000 2015",
+				"favourites_count": 0,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 8021,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1180718072497426433/kiFdzjsR_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1180718072497426433/kiFdzjsR_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/4349033200/1570340101",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": true,
+				"default_profile_image": false,
+				"can_media_tag": false,
+				"followed_by": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 25,
+			"favorite_count": 21,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "ar"
+		},
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Saudi vice defense minister @kbsalsaud delivers message from the crown prince to Trump —state media https://t.co/HwtNxqbX6E"
+	},
+	{
+		"created_at": "Tue Jan 07 09:21:26 +0000 2020",
+		"id": 1214477132539318300,
+		"id_str": "1214477132539318273",
+		"full_text": "Religious scholars in Indonesia’s Aceh province say they don’t have to follow Saudi footsteps by opening cinemas https://t.co/kvRB6C9GoR",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			136
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/kvRB6C9GoR",
+					"expanded_url": "https://coconuts.co/jakarta/lifestyle/aceh-ulemas-say-province-doesnt-have-to-follow-saudis-footsteps-by-opening-cinemas/",
+					"display_url": "coconuts.co/jakarta/lifest…",
+					"indices": [
+						113,
+						136
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 5242,
+			"id_str": "5242",
+			"name": "Ahmed Al Omran",
+			"screen_name": "ahmed",
+			"location": "Saudi Arabia",
+			"description": "Reporter for @FT covering Saudi Arabia · Formerly with @WSJ and @NPR · Email: ahmed.alomran@ft.com · Subscribe to my newsletter: https://t.co/i1MM95asPq",
+			"url": "http://t.co/1tckurrksd",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/1tckurrksd",
+							"expanded_url": "http://alomran.me",
+							"display_url": "alomran.me",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/i1MM95asPq",
+							"expanded_url": "http://riyadhbureau.com",
+							"display_url": "riyadhbureau.com",
+							"indices": [
+								129,
+								152
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 149224,
+			"friends_count": 1913,
+			"listed_count": 2659,
+			"created_at": "Mon Sep 04 00:18:12 +0000 2006",
+			"favourites_count": 5325,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 102645,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "CCCCCC",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme5/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme5/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1175469297675714562/QUWgZ3Gk_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1175469297675714562/QUWgZ3Gk_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/5242/1569089262",
+			"profile_link_color": "002FA7",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "99CC33",
+			"profile_text_color": "3E4415",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": false,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 6,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Religious scholars in Indonesia’s Aceh province say they don’t have to follow Saudi footsteps by opening cinemas https://t.co/kvRB6C9GoR"
+	},
+	{
+		"created_at": "Tue Jan 07 09:18:09 +0000 2020",
+		"id": 1214476305837645800,
+		"id_str": "1214476305837645825",
+		"full_text": "Twitter unveils new hub for academic researchers to more easily access information and support around its APIs https://t.co/YtiZyhu95Z",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			134
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/YtiZyhu95Z",
+					"expanded_url": "https://developer.twitter.com/en/use-cases/academic-researchers",
+					"display_url": "developer.twitter.com/en/use-cases/a…",
+					"indices": [
+						111,
+						134
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 5242,
+			"id_str": "5242",
+			"name": "Ahmed Al Omran",
+			"screen_name": "ahmed",
+			"location": "Saudi Arabia",
+			"description": "Reporter for @FT covering Saudi Arabia · Formerly with @WSJ and @NPR · Email: ahmed.alomran@ft.com · Subscribe to my newsletter: https://t.co/i1MM95asPq",
+			"url": "http://t.co/1tckurrksd",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/1tckurrksd",
+							"expanded_url": "http://alomran.me",
+							"display_url": "alomran.me",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/i1MM95asPq",
+							"expanded_url": "http://riyadhbureau.com",
+							"display_url": "riyadhbureau.com",
+							"indices": [
+								129,
+								152
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 149224,
+			"friends_count": 1913,
+			"listed_count": 2659,
+			"created_at": "Mon Sep 04 00:18:12 +0000 2006",
+			"favourites_count": 5325,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 102645,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "CCCCCC",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme5/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme5/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1175469297675714562/QUWgZ3Gk_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1175469297675714562/QUWgZ3Gk_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/5242/1569089262",
+			"profile_link_color": "002FA7",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "99CC33",
+			"profile_text_color": "3E4415",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": false,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 9,
+		"favorite_count": 16,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Twitter unveils new hub for academic researchers to more easily access information and support around its APIs https://t.co/YtiZyhu95Z"
+	},
+	{
+		"created_at": "Tue Jan 07 08:54:39 +0000 2020",
+		"id": 1214470390992507000,
+		"id_str": "1214470390992506880",
+		"full_text": "Pompeo told McConnell he does not plan to run for Senate in 2020 https://t.co/e1FFfKMF52",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			88
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/e1FFfKMF52",
+					"expanded_url": "https://www.nytimes.com/2020/01/06/us/politics/mike-pompeo-senate-kansas.html",
+					"display_url": "nytimes.com/2020/01/06/us/…",
+					"indices": [
+						65,
+						88
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 5242,
+			"id_str": "5242",
+			"name": "Ahmed Al Omran",
+			"screen_name": "ahmed",
+			"location": "Saudi Arabia",
+			"description": "Reporter for @FT covering Saudi Arabia · Formerly with @WSJ and @NPR · Email: ahmed.alomran@ft.com · Subscribe to my newsletter: https://t.co/i1MM95asPq",
+			"url": "http://t.co/1tckurrksd",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/1tckurrksd",
+							"expanded_url": "http://alomran.me",
+							"display_url": "alomran.me",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/i1MM95asPq",
+							"expanded_url": "http://riyadhbureau.com",
+							"display_url": "riyadhbureau.com",
+							"indices": [
+								129,
+								152
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 149224,
+			"friends_count": 1913,
+			"listed_count": 2659,
+			"created_at": "Mon Sep 04 00:18:12 +0000 2006",
+			"favourites_count": 5325,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 102645,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "CCCCCC",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme5/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme5/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1175469297675714562/QUWgZ3Gk_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1175469297675714562/QUWgZ3Gk_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/5242/1569089262",
+			"profile_link_color": "002FA7",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "99CC33",
+			"profile_text_color": "3E4415",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": false,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Pompeo told McConnell he does not plan to run for Senate in 2020 https://t.co/e1FFfKMF52"
+	},
+	{
+		"created_at": "Tue Jan 07 08:52:54 +0000 2020",
+		"id": 1214469951278518300,
+		"id_str": "1214469951278518273",
+		"full_text": "Trump administration blocks Zarif from addressing the UN Security Council https://t.co/5Oz4UFnErG",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			97
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/5Oz4UFnErG",
+					"expanded_url": "https://foreignpolicy.com/2020/01/06/trump-administration-blocks-iran-foreign-minister-zarif-addressing-un-security-council/",
+					"display_url": "foreignpolicy.com/2020/01/06/tru…",
+					"indices": [
+						74,
+						97
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 5242,
+			"id_str": "5242",
+			"name": "Ahmed Al Omran",
+			"screen_name": "ahmed",
+			"location": "Saudi Arabia",
+			"description": "Reporter for @FT covering Saudi Arabia · Formerly with @WSJ and @NPR · Email: ahmed.alomran@ft.com · Subscribe to my newsletter: https://t.co/i1MM95asPq",
+			"url": "http://t.co/1tckurrksd",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/1tckurrksd",
+							"expanded_url": "http://alomran.me",
+							"display_url": "alomran.me",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/i1MM95asPq",
+							"expanded_url": "http://riyadhbureau.com",
+							"display_url": "riyadhbureau.com",
+							"indices": [
+								129,
+								152
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 149224,
+			"friends_count": 1913,
+			"listed_count": 2659,
+			"created_at": "Mon Sep 04 00:18:12 +0000 2006",
+			"favourites_count": 5325,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 102645,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "CCCCCC",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme5/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme5/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1175469297675714562/QUWgZ3Gk_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1175469297675714562/QUWgZ3Gk_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/5242/1569089262",
+			"profile_link_color": "002FA7",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "99CC33",
+			"profile_text_color": "3E4415",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": false,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Trump administration blocks Zarif from addressing the UN Security Council https://t.co/5Oz4UFnErG"
+	},
+	{
 		"created_at": "Mon Jan 06 14:48:23 +0000 2020",
 		"id": 1214197023014043600,
 		"id_str": "1214197023014043649",
