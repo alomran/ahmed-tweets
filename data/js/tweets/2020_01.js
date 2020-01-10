@@ -1,6 +1,1027 @@
 Grailbird.data.tweets_2020_01 = 
 [
 	{
+		"created_at": "Fri Jan 10 21:07:01 +0000 2020",
+		"id": 1215741860536299500,
+		"id_str": "1215741860536299520",
+		"full_text": "@sondusjc they come from a very small town in Oregon that has a population of 16k people. I find it fascinating how these stories are covered in local media from such places",
+		"truncated": false,
+		"display_text_range": [
+			10,
+			173
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "sondusjc",
+					"name": "سندس بلو | Sondus Bellow",
+					"id": 197450563,
+					"id_str": "197450563",
+					"indices": [
+						0,
+						9
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 1215740553113088000,
+		"in_reply_to_status_id_str": "1215740553113088001",
+		"in_reply_to_user_id": 197450563,
+		"in_reply_to_user_id_str": "197450563",
+		"in_reply_to_screen_name": "sondusjc",
+		"user": {
+			"id": 5242,
+			"id_str": "5242",
+			"name": "Ahmed Al Omran",
+			"screen_name": "ahmed",
+			"location": "Saudi Arabia",
+			"description": "Reporter for @FT covering Saudi Arabia · Formerly with @WSJ and @NPR · Email: ahmed.alomran@ft.com · Subscribe to my newsletter: https://t.co/i1MM95asPq",
+			"url": "http://t.co/1tckurrksd",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/1tckurrksd",
+							"expanded_url": "http://alomran.me",
+							"display_url": "alomran.me",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/i1MM95asPq",
+							"expanded_url": "http://riyadhbureau.com",
+							"display_url": "riyadhbureau.com",
+							"indices": [
+								129,
+								152
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 149170,
+			"friends_count": 1910,
+			"listed_count": 2656,
+			"created_at": "Mon Sep 04 00:18:12 +0000 2006",
+			"favourites_count": 5325,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 102673,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "CCCCCC",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme5/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme5/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1175469297675714562/QUWgZ3Gk_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1175469297675714562/QUWgZ3Gk_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/5242/1569089262",
+			"profile_link_color": "002FA7",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "99CC33",
+			"profile_text_color": "3E4415",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": false,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@sondusjc they come from a very small town in Oregon that has a population of 16k people. I find it fascinating how these stories are covered in local media from such places"
+	},
+	{
+		"created_at": "Fri Jan 10 20:57:51 +0000 2020",
+		"id": 1215739551609737200,
+		"id_str": "1215739551609737221",
+		"full_text": "Saudi families enjoying snow in the northern parts of the kingdom this week —SPA https://t.co/7N4DTiuqmK",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			80
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1215739511977709600,
+					"id_str": "1215739511977709570",
+					"indices": [
+						81,
+						104
+					],
+					"media_url": "http://pbs.twimg.com/media/EN8spRbWkAI-XgO.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EN8spRbWkAI-XgO.jpg",
+					"url": "https://t.co/7N4DTiuqmK",
+					"display_url": "pic.twitter.com/7N4DTiuqmK",
+					"expanded_url": "https://twitter.com/ahmed/status/1215739551609737221/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 799,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1300,
+							"h": 866,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"medium": {
+							"faces": [
+								{
+									"x": 372,
+									"y": 497,
+									"h": 57,
+									"w": 57
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 210,
+									"y": 281,
+									"h": 32,
+									"w": 32
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 403,
+									"y": 539,
+									"h": 62,
+									"w": 62
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 403,
+									"y": 539,
+									"h": 62,
+									"w": 62
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1215739511977709600,
+					"id_str": "1215739511977709570",
+					"indices": [
+						81,
+						104
+					],
+					"media_url": "http://pbs.twimg.com/media/EN8spRbWkAI-XgO.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EN8spRbWkAI-XgO.jpg",
+					"url": "https://t.co/7N4DTiuqmK",
+					"display_url": "pic.twitter.com/7N4DTiuqmK",
+					"expanded_url": "https://twitter.com/ahmed/status/1215739551609737221/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 799,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1300,
+							"h": 866,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"medium": {
+							"faces": [
+								{
+									"x": 372,
+									"y": 497,
+									"h": 57,
+									"w": 57
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 210,
+									"y": 281,
+									"h": 32,
+									"w": 32
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 403,
+									"y": 539,
+									"h": 62,
+									"w": 62
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 403,
+									"y": 539,
+									"h": 62,
+									"w": 62
+								}
+							]
+						}
+					}
+				},
+				{
+					"id": 1215739511986163700,
+					"id_str": "1215739511986163715",
+					"indices": [
+						81,
+						104
+					],
+					"media_url": "http://pbs.twimg.com/media/EN8spRdXkAM7nNb.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EN8spRdXkAM7nNb.jpg",
+					"url": "https://t.co/7N4DTiuqmK",
+					"display_url": "pic.twitter.com/7N4DTiuqmK",
+					"expanded_url": "https://twitter.com/ahmed/status/1215739551609737221/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 799,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1300,
+							"h": 866,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"medium": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						},
+						"small": {
+							"faces": []
+						},
+						"orig": {
+							"faces": []
+						}
+					}
+				},
+				{
+					"id": 1215739511986163700,
+					"id_str": "1215739511986163712",
+					"indices": [
+						81,
+						104
+					],
+					"media_url": "http://pbs.twimg.com/media/EN8spRdXkAAfWwJ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EN8spRdXkAAfWwJ.jpg",
+					"url": "https://t.co/7N4DTiuqmK",
+					"display_url": "pic.twitter.com/7N4DTiuqmK",
+					"expanded_url": "https://twitter.com/ahmed/status/1215739551609737221/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 799,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1300,
+							"h": 866,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"medium": {
+							"faces": []
+						},
+						"orig": {
+							"faces": []
+						},
+						"small": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						}
+					}
+				},
+				{
+					"id": 1215739512023867400,
+					"id_str": "1215739512023867393",
+					"indices": [
+						81,
+						104
+					],
+					"media_url": "http://pbs.twimg.com/media/EN8spRmW4AENoWh.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EN8spRmW4AENoWh.jpg",
+					"url": "https://t.co/7N4DTiuqmK",
+					"display_url": "pic.twitter.com/7N4DTiuqmK",
+					"expanded_url": "https://twitter.com/ahmed/status/1215739551609737221/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 799,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1300,
+							"h": 866,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"small": {
+							"faces": []
+						},
+						"orig": {
+							"faces": []
+						},
+						"medium": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 5242,
+			"id_str": "5242",
+			"name": "Ahmed Al Omran",
+			"screen_name": "ahmed",
+			"location": "Saudi Arabia",
+			"description": "Reporter for @FT covering Saudi Arabia · Formerly with @WSJ and @NPR · Email: ahmed.alomran@ft.com · Subscribe to my newsletter: https://t.co/i1MM95asPq",
+			"url": "http://t.co/1tckurrksd",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/1tckurrksd",
+							"expanded_url": "http://alomran.me",
+							"display_url": "alomran.me",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/i1MM95asPq",
+							"expanded_url": "http://riyadhbureau.com",
+							"display_url": "riyadhbureau.com",
+							"indices": [
+								129,
+								152
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 149170,
+			"friends_count": 1910,
+			"listed_count": 2656,
+			"created_at": "Mon Sep 04 00:18:12 +0000 2006",
+			"favourites_count": 5325,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 102673,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "CCCCCC",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme5/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme5/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1175469297675714562/QUWgZ3Gk_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1175469297675714562/QUWgZ3Gk_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/5242/1569089262",
+			"profile_link_color": "002FA7",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "99CC33",
+			"profile_text_color": "3E4415",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": false,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 16,
+		"favorite_count": 32,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Saudi families enjoying snow in the northern parts of the kingdom this week —SPA https://t.co/7N4DTiuqmK"
+	},
+	{
+		"created_at": "Fri Jan 10 20:49:02 +0000 2020",
+		"id": 1215737333204627500,
+		"id_str": "1215737333204627458",
+		"full_text": "Story of an American who moved to teach math and science at Saudi Aramco camp. “They’ve been so incredibly welcoming,” he said. “We’re not looked at as strange foreigners, but rather welcome guests.” https://t.co/DW6yozFvcG",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			223
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/DW6yozFvcG",
+					"expanded_url": "https://www.eastoregonian.com/news/local/from-sunridge-to-saudi-arabia/article_fa3813b6-2cea-11ea-8a0f-df0e7d0dd489.html",
+					"display_url": "eastoregonian.com/news/local/fro…",
+					"indices": [
+						200,
+						223
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 5242,
+			"id_str": "5242",
+			"name": "Ahmed Al Omran",
+			"screen_name": "ahmed",
+			"location": "Saudi Arabia",
+			"description": "Reporter for @FT covering Saudi Arabia · Formerly with @WSJ and @NPR · Email: ahmed.alomran@ft.com · Subscribe to my newsletter: https://t.co/i1MM95asPq",
+			"url": "http://t.co/1tckurrksd",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/1tckurrksd",
+							"expanded_url": "http://alomran.me",
+							"display_url": "alomran.me",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/i1MM95asPq",
+							"expanded_url": "http://riyadhbureau.com",
+							"display_url": "riyadhbureau.com",
+							"indices": [
+								129,
+								152
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 149170,
+			"friends_count": 1910,
+			"listed_count": 2656,
+			"created_at": "Mon Sep 04 00:18:12 +0000 2006",
+			"favourites_count": 5325,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 102673,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "CCCCCC",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme5/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme5/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1175469297675714562/QUWgZ3Gk_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1175469297675714562/QUWgZ3Gk_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/5242/1569089262",
+			"profile_link_color": "002FA7",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "99CC33",
+			"profile_text_color": "3E4415",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": false,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 7,
+		"favorite_count": 14,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Story of an American who moved to teach math and science at Saudi Aramco camp. “They’ve been so incredibly welcoming,” he said. “We’re not looked at as strange foreigners, but rather welcome guests.” https://t.co/DW6yozFvcG"
+	},
+	{
+		"created_at": "Fri Jan 10 20:38:53 +0000 2020",
+		"id": 1215734782056894500,
+		"id_str": "1215734782056894464",
+		"full_text": "Mattress startup Casper files to go public https://t.co/Sc9uzsuN9L",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			66
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Sc9uzsuN9L",
+					"expanded_url": "https://www.cnbc.com/2020/01/10/casper-sleep-files-to-go-public.html",
+					"display_url": "cnbc.com/2020/01/10/cas…",
+					"indices": [
+						43,
+						66
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 5242,
+			"id_str": "5242",
+			"name": "Ahmed Al Omran",
+			"screen_name": "ahmed",
+			"location": "Saudi Arabia",
+			"description": "Reporter for @FT covering Saudi Arabia · Formerly with @WSJ and @NPR · Email: ahmed.alomran@ft.com · Subscribe to my newsletter: https://t.co/i1MM95asPq",
+			"url": "http://t.co/1tckurrksd",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/1tckurrksd",
+							"expanded_url": "http://alomran.me",
+							"display_url": "alomran.me",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/i1MM95asPq",
+							"expanded_url": "http://riyadhbureau.com",
+							"display_url": "riyadhbureau.com",
+							"indices": [
+								129,
+								152
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 149170,
+			"friends_count": 1910,
+			"listed_count": 2656,
+			"created_at": "Mon Sep 04 00:18:12 +0000 2006",
+			"favourites_count": 5325,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 102673,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "CCCCCC",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme5/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme5/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1175469297675714562/QUWgZ3Gk_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1175469297675714562/QUWgZ3Gk_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/5242/1569089262",
+			"profile_link_color": "002FA7",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "99CC33",
+			"profile_text_color": "3E4415",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": false,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Mattress startup Casper files to go public https://t.co/Sc9uzsuN9L"
+	},
+	{
+		"created_at": "Fri Jan 10 20:08:32 +0000 2020",
+		"id": 1215727142258069500,
+		"id_str": "1215727142258069505",
+		"full_text": "Saudi-owned Sheffield United extends contract of manager Chris Wilder until 2024. “Chris has played an integral role in our recent and current success and we want him at the helm in the future,” owner Prince @Saudi49er said https://t.co/Nf6gZdnS80",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			247
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Saudi49er",
+					"name": "Abdullah Bin Mosaad",
+					"id": 33194801,
+					"id_str": "33194801",
+					"indices": [
+						208,
+						218
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/Nf6gZdnS80",
+					"expanded_url": "https://www.sufc.co.uk/news/2020/january/wilder-signs/",
+					"display_url": "sufc.co.uk/news/2020/janu…",
+					"indices": [
+						224,
+						247
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 5242,
+			"id_str": "5242",
+			"name": "Ahmed Al Omran",
+			"screen_name": "ahmed",
+			"location": "Saudi Arabia",
+			"description": "Reporter for @FT covering Saudi Arabia · Formerly with @WSJ and @NPR · Email: ahmed.alomran@ft.com · Subscribe to my newsletter: https://t.co/i1MM95asPq",
+			"url": "http://t.co/1tckurrksd",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/1tckurrksd",
+							"expanded_url": "http://alomran.me",
+							"display_url": "alomran.me",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/i1MM95asPq",
+							"expanded_url": "http://riyadhbureau.com",
+							"display_url": "riyadhbureau.com",
+							"indices": [
+								129,
+								152
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 149170,
+			"friends_count": 1910,
+			"listed_count": 2656,
+			"created_at": "Mon Sep 04 00:18:12 +0000 2006",
+			"favourites_count": 5325,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 102673,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "CCCCCC",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme5/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme5/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1175469297675714562/QUWgZ3Gk_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1175469297675714562/QUWgZ3Gk_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/5242/1569089262",
+			"profile_link_color": "002FA7",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "99CC33",
+			"profile_text_color": "3E4415",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": false,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Saudi-owned Sheffield United extends contract of manager Chris Wilder until 2024. “Chris has played an integral role in our recent and current success and we want him at the helm in the future,” owner Prince @Saudi49er said https://t.co/Nf6gZdnS80"
+	},
+	{
+		"created_at": "Fri Jan 10 18:43:48 +0000 2020",
+		"id": 1215705819242778600,
+		"id_str": "1215705819242778624",
+		"full_text": "French football club Lille took a €140m in debt from hedge fund Elliott Management and plans to repay it through player sales like the Pépé deal to Arsenal. Risky? https://t.co/IU4pJWzBLW",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			187
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/IU4pJWzBLW",
+					"expanded_url": "https://www.ft.com/content/0032f8a2-2b20-11ea-a126-99756bd8f45e",
+					"display_url": "ft.com/content/0032f8…",
+					"indices": [
+						164,
+						187
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 5242,
+			"id_str": "5242",
+			"name": "Ahmed Al Omran",
+			"screen_name": "ahmed",
+			"location": "Saudi Arabia",
+			"description": "Reporter for @FT covering Saudi Arabia · Formerly with @WSJ and @NPR · Email: ahmed.alomran@ft.com · Subscribe to my newsletter: https://t.co/i1MM95asPq",
+			"url": "http://t.co/1tckurrksd",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/1tckurrksd",
+							"expanded_url": "http://alomran.me",
+							"display_url": "alomran.me",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/i1MM95asPq",
+							"expanded_url": "http://riyadhbureau.com",
+							"display_url": "riyadhbureau.com",
+							"indices": [
+								129,
+								152
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 149170,
+			"friends_count": 1910,
+			"listed_count": 2656,
+			"created_at": "Mon Sep 04 00:18:12 +0000 2006",
+			"favourites_count": 5325,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 102673,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "CCCCCC",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme5/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme5/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1175469297675714562/QUWgZ3Gk_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1175469297675714562/QUWgZ3Gk_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/5242/1569089262",
+			"profile_link_color": "002FA7",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "99CC33",
+			"profile_text_color": "3E4415",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": false,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "French football club Lille took a €140m in debt from hedge fund Elliott Management and plans to repay it through player sales like the Pépé deal to Arsenal. Risky? https://t.co/IU4pJWzBLW"
+	},
+	{
 		"created_at": "Thu Jan 09 12:30:03 +0000 2020",
 		"id": 1215249375007596500,
 		"id_str": "1215249375007596544",
