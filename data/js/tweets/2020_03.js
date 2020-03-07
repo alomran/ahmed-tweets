@@ -1,6 +1,238 @@
 Grailbird.data.tweets_2020_03 = 
 [
 	{
+		"created_at": "Sat Mar 07 12:51:04 +0000 2020",
+		"id": 1236273159529250800,
+		"id_str": "1236273159529250816",
+		"full_text": "Saudi Arabia confirms two more coronavirus cases, one in a woman who travelled to Iran and the other in a woman who travelled to Iraq. This brings the total number of confirmed coronavirus cases in the kingdom to seven. https://t.co/6YnRP38Nol",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			219
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/6YnRP38Nol",
+					"expanded_url": "https://twitter.com/SaudiMOH/status/1236264824847446017",
+					"display_url": "twitter.com/SaudiMOH/statu…",
+					"indices": [
+						220,
+						243
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 5242,
+			"id_str": "5242",
+			"name": "Ahmed Al Omran",
+			"screen_name": "ahmed",
+			"location": "Saudi Arabia",
+			"description": "Reporter for @FT covering Saudi Arabia · Formerly with @WSJ and @NPR · Email: ahmed.alomran@ft.com · Subscribe to my newsletter: https://t.co/i1MM95asPq",
+			"url": "http://t.co/1tckurrksd",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/1tckurrksd",
+							"expanded_url": "http://alomran.me",
+							"display_url": "alomran.me",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/i1MM95asPq",
+							"expanded_url": "http://riyadhbureau.com",
+							"display_url": "riyadhbureau.com",
+							"indices": [
+								129,
+								152
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 149495,
+			"friends_count": 1913,
+			"listed_count": 2654,
+			"created_at": "Mon Sep 04 00:18:12 +0000 2006",
+			"favourites_count": 5329,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 103233,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "CCCCCC",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme5/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme5/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1175469297675714562/QUWgZ3Gk_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1175469297675714562/QUWgZ3Gk_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/5242/1569089262",
+			"profile_link_color": "002FA7",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "99CC33",
+			"profile_text_color": "3E4415",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1236264824847446000,
+		"quoted_status_id_str": "1236264824847446017",
+		"quoted_status_permalink": {
+			"url": "https://t.co/6YnRP38Nol",
+			"expanded": "https://twitter.com/SaudiMOH/status/1236264824847446017",
+			"display": "twitter.com/SaudiMOH/statu…"
+		},
+		"quoted_status": {
+			"created_at": "Sat Mar 07 12:17:57 +0000 2020",
+			"id": 1236264824847446000,
+			"id_str": "1236264824847446017",
+			"full_text": "#الصحة تعلن تسجيل حالتين جديدتين بفيروس #كورونا الجديد (Covid19) لمواطنة قادمة من إيران عبر البحرين، والحالة الأخرى لمواطنة قادمة من النجف بالعراق عبر الإمارات وكلا الحالتين لم تفصحا عند المنفذ وبذلك تصل جميع الحالات المؤكدة إلى سبع حالات.",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				239
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "الصحة",
+						"indices": [
+							0,
+							6
+						]
+					},
+					{
+						"text": "كورونا",
+						"indices": [
+							40,
+							47
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 280172306,
+				"id_str": "280172306",
+				"name": "وزارة الصحة السعودية",
+				"screen_name": "SaudiMOH",
+				"location": "الرياض",
+				"description": "تتمثل رؤية وزارة الصحة في تحقيق الصحة بمفهومها الشامل على المستويات للفرد والأسرة والمجتمع مع العمل على مساعدة المسنين والأشخاص ذوي الإعاقة بما يمكنهم.",
+				"url": "https://t.co/2oIPCOOeva",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/2oIPCOOeva",
+								"expanded_url": "http://www.moh.gov.sa/",
+								"display_url": "moh.gov.sa",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 2432424,
+				"friends_count": 56,
+				"listed_count": 3187,
+				"created_at": "Sun Apr 10 19:57:37 +0000 2011",
+				"favourites_count": 1266,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 54250,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "EBEDFA",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme19/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme19/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1185892408711663618/YoM-_dIE_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1185892408711663618/YoM-_dIE_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/280172306/1583411086",
+				"profile_link_color": "305B76",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "D3EBDD",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 8382,
+			"favorite_count": 6874,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "ar"
+		},
+		"retweet_count": 8,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Saudi Arabia confirms two more coronavirus cases, one in a woman who travelled to Iran and the other in a woman who travelled to Iraq. This brings the total number of confirmed coronavirus cases in the kingdom to seven. https://t.co/6YnRP38Nol"
+	},
+	{
 		"created_at": "Fri Mar 06 21:00:29 +0000 2020",
 		"id": 1236033935538299000,
 		"id_str": "1236033935538298881",
