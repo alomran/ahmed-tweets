@@ -1,6 +1,1633 @@
 Grailbird.data.tweets_2020_04 = 
 [
 	{
+		"created_at": "Tue Apr 07 19:40:53 +0000 2020",
+		"id": 1247610316697096200,
+		"id_str": "1247610316697096192",
+		"full_text": "MODLY OUT https://t.co/0MQluO5D7z",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			33
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/0MQluO5D7z",
+					"expanded_url": "https://apnews.com/8694d4fbc3a8be04009ec6a575c7a839",
+					"display_url": "apnews.com/8694d4fbc3a8be…",
+					"indices": [
+						10,
+						33
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 5242,
+			"id_str": "5242",
+			"name": "Ahmed Al Omran",
+			"screen_name": "ahmed",
+			"location": "Saudi Arabia",
+			"description": "Reporter for @FT covering Saudi Arabia · Formerly with @WSJ and @NPR · Email: ahmed.alomran@ft.com · Subscribe to my newsletter: https://t.co/i1MM95asPq",
+			"url": "http://t.co/1tckurrksd",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/1tckurrksd",
+							"expanded_url": "http://alomran.me",
+							"display_url": "alomran.me",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/i1MM95asPq",
+							"expanded_url": "http://riyadhbureau.com",
+							"display_url": "riyadhbureau.com",
+							"indices": [
+								129,
+								152
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 149678,
+			"friends_count": 1919,
+			"listed_count": 2633,
+			"created_at": "Mon Sep 04 00:18:12 +0000 2006",
+			"favourites_count": 5217,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 103611,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "CCCCCC",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme5/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme5/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1175469297675714562/QUWgZ3Gk_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1175469297675714562/QUWgZ3Gk_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/5242/1569089262",
+			"profile_link_color": "002FA7",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "99CC33",
+			"profile_text_color": "3E4415",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "MODLY OUT https://t.co/0MQluO5D7z"
+	},
+	{
+		"created_at": "Tue Apr 07 19:36:40 +0000 2020",
+		"id": 1247609256200863700,
+		"id_str": "1247609256200863745",
+		"full_text": "WhatsApp is imposing stricter limits on forwarding messages to slow down the spread of coronavirus misinformation https://t.co/Mc0jSneg9s",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			137
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Mc0jSneg9s",
+					"expanded_url": "https://www.buzzfeednews.com/article/pranavdixit/coronavirus-whatsapp-forwarding-messages",
+					"display_url": "buzzfeednews.com/article/pranav…",
+					"indices": [
+						114,
+						137
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 5242,
+			"id_str": "5242",
+			"name": "Ahmed Al Omran",
+			"screen_name": "ahmed",
+			"location": "Saudi Arabia",
+			"description": "Reporter for @FT covering Saudi Arabia · Formerly with @WSJ and @NPR · Email: ahmed.alomran@ft.com · Subscribe to my newsletter: https://t.co/i1MM95asPq",
+			"url": "http://t.co/1tckurrksd",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/1tckurrksd",
+							"expanded_url": "http://alomran.me",
+							"display_url": "alomran.me",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/i1MM95asPq",
+							"expanded_url": "http://riyadhbureau.com",
+							"display_url": "riyadhbureau.com",
+							"indices": [
+								129,
+								152
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 149678,
+			"friends_count": 1919,
+			"listed_count": 2633,
+			"created_at": "Mon Sep 04 00:18:12 +0000 2006",
+			"favourites_count": 5217,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 103611,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "CCCCCC",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme5/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme5/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1175469297675714562/QUWgZ3Gk_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1175469297675714562/QUWgZ3Gk_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/5242/1569089262",
+			"profile_link_color": "002FA7",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "99CC33",
+			"profile_text_color": "3E4415",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5,
+		"favorite_count": 8,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "WhatsApp is imposing stricter limits on forwarding messages to slow down the spread of coronavirus misinformation https://t.co/Mc0jSneg9s"
+	},
+	{
+		"created_at": "Tue Apr 07 17:15:01 +0000 2020",
+		"id": 1247573606764351500,
+		"id_str": "1247573606764351489",
+		"full_text": "Saudi Arabia last week placed extra orders for barley; Algeria paid 8% more that it did a fortnight before for wheat https://t.co/gyAc1EyVv4",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			140
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/gyAc1EyVv4",
+					"expanded_url": "https://www.ft.com/content/5c8cbc60-aec0-4f3d-b0e2-a5e44f0c6f74",
+					"display_url": "ft.com/content/5c8cbc…",
+					"indices": [
+						117,
+						140
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 5242,
+			"id_str": "5242",
+			"name": "Ahmed Al Omran",
+			"screen_name": "ahmed",
+			"location": "Saudi Arabia",
+			"description": "Reporter for @FT covering Saudi Arabia · Formerly with @WSJ and @NPR · Email: ahmed.alomran@ft.com · Subscribe to my newsletter: https://t.co/i1MM95asPq",
+			"url": "http://t.co/1tckurrksd",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/1tckurrksd",
+							"expanded_url": "http://alomran.me",
+							"display_url": "alomran.me",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/i1MM95asPq",
+							"expanded_url": "http://riyadhbureau.com",
+							"display_url": "riyadhbureau.com",
+							"indices": [
+								129,
+								152
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 149678,
+			"friends_count": 1919,
+			"listed_count": 2633,
+			"created_at": "Mon Sep 04 00:18:12 +0000 2006",
+			"favourites_count": 5217,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 103611,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "CCCCCC",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme5/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme5/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1175469297675714562/QUWgZ3Gk_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1175469297675714562/QUWgZ3Gk_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/5242/1569089262",
+			"profile_link_color": "002FA7",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "99CC33",
+			"profile_text_color": "3E4415",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Saudi Arabia last week placed extra orders for barley; Algeria paid 8% more that it did a fortnight before for wheat https://t.co/gyAc1EyVv4"
+	},
+	{
+		"created_at": "Tue Apr 07 17:05:33 +0000 2020",
+		"id": 1247571225037209600,
+		"id_str": "1247571225037209601",
+		"full_text": "The death of APIs and rise of walled gardens https://t.co/jYen4Dyp4A",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			68
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/jYen4Dyp4A",
+					"expanded_url": "https://www.youtube.com/watch?v=BxV14h0kFs0",
+					"display_url": "youtube.com/watch?v=BxV14h…",
+					"indices": [
+						45,
+						68
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 5242,
+			"id_str": "5242",
+			"name": "Ahmed Al Omran",
+			"screen_name": "ahmed",
+			"location": "Saudi Arabia",
+			"description": "Reporter for @FT covering Saudi Arabia · Formerly with @WSJ and @NPR · Email: ahmed.alomran@ft.com · Subscribe to my newsletter: https://t.co/i1MM95asPq",
+			"url": "http://t.co/1tckurrksd",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/1tckurrksd",
+							"expanded_url": "http://alomran.me",
+							"display_url": "alomran.me",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/i1MM95asPq",
+							"expanded_url": "http://riyadhbureau.com",
+							"display_url": "riyadhbureau.com",
+							"indices": [
+								129,
+								152
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 149678,
+			"friends_count": 1919,
+			"listed_count": 2633,
+			"created_at": "Mon Sep 04 00:18:12 +0000 2006",
+			"favourites_count": 5217,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 103611,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "CCCCCC",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme5/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme5/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1175469297675714562/QUWgZ3Gk_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1175469297675714562/QUWgZ3Gk_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/5242/1569089262",
+			"profile_link_color": "002FA7",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "99CC33",
+			"profile_text_color": "3E4415",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "The death of APIs and rise of walled gardens https://t.co/jYen4Dyp4A"
+	},
+	{
+		"created_at": "Tue Apr 07 16:56:36 +0000 2020",
+		"id": 1247568973278969900,
+		"id_str": "1247568973278969858",
+		"full_text": "Oil price collapse means Iraq could be unable to pay half of its public sector salaries next month https://t.co/v1YjuPtUsO",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			122
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/v1YjuPtUsO",
+					"expanded_url": "https://www.ft.com/content/3afc240b-2a3d-49df-b3c5-f5427222a5d9",
+					"display_url": "ft.com/content/3afc24…",
+					"indices": [
+						99,
+						122
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 5242,
+			"id_str": "5242",
+			"name": "Ahmed Al Omran",
+			"screen_name": "ahmed",
+			"location": "Saudi Arabia",
+			"description": "Reporter for @FT covering Saudi Arabia · Formerly with @WSJ and @NPR · Email: ahmed.alomran@ft.com · Subscribe to my newsletter: https://t.co/i1MM95asPq",
+			"url": "http://t.co/1tckurrksd",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/1tckurrksd",
+							"expanded_url": "http://alomran.me",
+							"display_url": "alomran.me",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/i1MM95asPq",
+							"expanded_url": "http://riyadhbureau.com",
+							"display_url": "riyadhbureau.com",
+							"indices": [
+								129,
+								152
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 149678,
+			"friends_count": 1919,
+			"listed_count": 2633,
+			"created_at": "Mon Sep 04 00:18:12 +0000 2006",
+			"favourites_count": 5217,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 103611,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "CCCCCC",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme5/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme5/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1175469297675714562/QUWgZ3Gk_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1175469297675714562/QUWgZ3Gk_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/5242/1569089262",
+			"profile_link_color": "002FA7",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "99CC33",
+			"profile_text_color": "3E4415",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 9,
+		"favorite_count": 8,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Oil price collapse means Iraq could be unable to pay half of its public sector salaries next month https://t.co/v1YjuPtUsO"
+	},
+	{
+		"created_at": "Tue Apr 07 16:55:05 +0000 2020",
+		"id": 1247568590334763000,
+		"id_str": "1247568590334763008",
+		"full_text": "“The ambiguity shrouding this whole crisis makes it all the more difficult for the mind to adjust to. Runners can only pace themselves if they know how far the finish line is and yet in this race our finish line is just a prediction, an educated guess.” https://t.co/9UbDWSYVs6",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			277
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/9UbDWSYVs6",
+					"expanded_url": "https://www.gulftoday.ae/opinion/2020/04/06/the-virus-on-our-minds",
+					"display_url": "gulftoday.ae/opinion/2020/0…",
+					"indices": [
+						254,
+						277
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 5242,
+			"id_str": "5242",
+			"name": "Ahmed Al Omran",
+			"screen_name": "ahmed",
+			"location": "Saudi Arabia",
+			"description": "Reporter for @FT covering Saudi Arabia · Formerly with @WSJ and @NPR · Email: ahmed.alomran@ft.com · Subscribe to my newsletter: https://t.co/i1MM95asPq",
+			"url": "http://t.co/1tckurrksd",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/1tckurrksd",
+							"expanded_url": "http://alomran.me",
+							"display_url": "alomran.me",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/i1MM95asPq",
+							"expanded_url": "http://riyadhbureau.com",
+							"display_url": "riyadhbureau.com",
+							"indices": [
+								129,
+								152
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 149678,
+			"friends_count": 1919,
+			"listed_count": 2633,
+			"created_at": "Mon Sep 04 00:18:12 +0000 2006",
+			"favourites_count": 5217,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 103611,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "CCCCCC",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme5/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme5/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1175469297675714562/QUWgZ3Gk_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1175469297675714562/QUWgZ3Gk_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/5242/1569089262",
+			"profile_link_color": "002FA7",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "99CC33",
+			"profile_text_color": "3E4415",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 5,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "“The ambiguity shrouding this whole crisis makes it all the more difficult for the mind to adjust to. Runners can only pace themselves if they know how far the finish line is and yet in this race our finish line is just a prediction, an educated guess.” https://t.co/9UbDWSYVs6"
+	},
+	{
+		"created_at": "Tue Apr 07 16:51:29 +0000 2020",
+		"id": 1247567684553846800,
+		"id_str": "1247567684553846785",
+		"full_text": "Photographs of empty public spaces unmask the illusion that we are integral to existence https://t.co/DRBqaotTI2",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			112
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/DRBqaotTI2",
+					"expanded_url": "https://www.niemanlab.org/2020/03/the-uncanny-melancholy-of-empty-photographs-in-the-time-of-coronavirus/",
+					"display_url": "niemanlab.org/2020/03/the-un…",
+					"indices": [
+						89,
+						112
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 5242,
+			"id_str": "5242",
+			"name": "Ahmed Al Omran",
+			"screen_name": "ahmed",
+			"location": "Saudi Arabia",
+			"description": "Reporter for @FT covering Saudi Arabia · Formerly with @WSJ and @NPR · Email: ahmed.alomran@ft.com · Subscribe to my newsletter: https://t.co/i1MM95asPq",
+			"url": "http://t.co/1tckurrksd",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/1tckurrksd",
+							"expanded_url": "http://alomran.me",
+							"display_url": "alomran.me",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/i1MM95asPq",
+							"expanded_url": "http://riyadhbureau.com",
+							"display_url": "riyadhbureau.com",
+							"indices": [
+								129,
+								152
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 149678,
+			"friends_count": 1919,
+			"listed_count": 2633,
+			"created_at": "Mon Sep 04 00:18:12 +0000 2006",
+			"favourites_count": 5217,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 103611,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "CCCCCC",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme5/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme5/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1175469297675714562/QUWgZ3Gk_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1175469297675714562/QUWgZ3Gk_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/5242/1569089262",
+			"profile_link_color": "002FA7",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "99CC33",
+			"profile_text_color": "3E4415",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 9,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Photographs of empty public spaces unmask the illusion that we are integral to existence https://t.co/DRBqaotTI2"
+	},
+	{
+		"created_at": "Tue Apr 07 16:44:16 +0000 2020",
+		"id": 1247565868902613000,
+		"id_str": "1247565868902612993",
+		"full_text": "Kayleigh McEnany to replace Stephanie Grisham as White House press secretary https://t.co/dtyrUe5DIc",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			100
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/dtyrUe5DIc",
+					"expanded_url": "https://www.cnn.com/2020/04/07/politics/stephanie-grisham-press-secretary-briefing-melania-trump/index.html",
+					"display_url": "cnn.com/2020/04/07/pol…",
+					"indices": [
+						77,
+						100
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 5242,
+			"id_str": "5242",
+			"name": "Ahmed Al Omran",
+			"screen_name": "ahmed",
+			"location": "Saudi Arabia",
+			"description": "Reporter for @FT covering Saudi Arabia · Formerly with @WSJ and @NPR · Email: ahmed.alomran@ft.com · Subscribe to my newsletter: https://t.co/i1MM95asPq",
+			"url": "http://t.co/1tckurrksd",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/1tckurrksd",
+							"expanded_url": "http://alomran.me",
+							"display_url": "alomran.me",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/i1MM95asPq",
+							"expanded_url": "http://riyadhbureau.com",
+							"display_url": "riyadhbureau.com",
+							"indices": [
+								129,
+								152
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 149678,
+			"friends_count": 1919,
+			"listed_count": 2633,
+			"created_at": "Mon Sep 04 00:18:12 +0000 2006",
+			"favourites_count": 5217,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 103611,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "CCCCCC",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme5/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme5/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1175469297675714562/QUWgZ3Gk_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1175469297675714562/QUWgZ3Gk_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/5242/1569089262",
+			"profile_link_color": "002FA7",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "99CC33",
+			"profile_text_color": "3E4415",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Kayleigh McEnany to replace Stephanie Grisham as White House press secretary https://t.co/dtyrUe5DIc"
+	},
+	{
+		"created_at": "Tue Apr 07 13:58:29 +0000 2020",
+		"id": 1247304644641976300,
+		"id_str": "1247524146394750986",
+		"full_text": "Amidst this pandemic and climate change, we talk a lot about 'the new normal' but that term still gives us a false notion of future stability. https://t.co/6LNLKqC1pU",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			142
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1247303719936385000,
+					"id_str": "1247303719936385024",
+					"indices": [
+						143,
+						166
+					],
+					"media_url": "http://pbs.twimg.com/media/EU9QH_HU4AABMPr.png",
+					"media_url_https": "https://pbs.twimg.com/media/EU9QH_HU4AABMPr.png",
+					"url": "https://t.co/6LNLKqC1pU",
+					"display_url": "pic.twitter.com/6LNLKqC1pU",
+					"expanded_url": "https://twitter.com/KaiBrach/status/1247304644641976323/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 1068,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 605,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1660,
+							"h": 1478,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1247303719936385000,
+					"id_str": "1247303719936385024",
+					"indices": [
+						143,
+						166
+					],
+					"media_url": "http://pbs.twimg.com/media/EU9QH_HU4AABMPr.png",
+					"media_url_https": "https://pbs.twimg.com/media/EU9QH_HU4AABMPr.png",
+					"url": "https://t.co/6LNLKqC1pU",
+					"display_url": "pic.twitter.com/6LNLKqC1pU",
+					"expanded_url": "https://twitter.com/KaiBrach/status/1247304644641976323/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 1068,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 605,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1660,
+							"h": 1478,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14480376,
+			"id_str": "14480376",
+			"name": "Kai Brach 🌎🌱🚨",
+			"screen_name": "KaiBrach",
+			"location": "Melbourne (sometimes Berlin)",
+			"description": "Publisher & editor of @offscreenmag & @densediscovery, consultant at @heftwerk. Immigrant. Made in Germany. Big on small footprint living. Born: 342.54 ppm CO2",
+			"url": "https://t.co/Y8rhJhcgqn",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Y8rhJhcgqn",
+							"expanded_url": "http://www.brizk.com",
+							"display_url": "brizk.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7786,
+			"friends_count": 277,
+			"listed_count": 343,
+			"created_at": "Tue Apr 22 21:00:34 +0000 2008",
+			"favourites_count": 2659,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 2154,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "6B6B6B",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme12/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme12/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1146956967430066181/oRtbMSE8_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1146956967430066181/oRtbMSE8_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14480376/1506913016",
+			"profile_link_color": "45AF6F",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "183F4E",
+			"profile_text_color": "B8DFDD",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 16,
+		"favorite_count": 29,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Amidst this pandemic and climate change, we talk a lot about 'the new normal' but that term still gives us a false notion of future stability. https://t.co/6LNLKqC1pU"
+	},
+	{
+		"created_at": "Tue Apr 07 12:43:06 +0000 2020",
+		"id": 1247505176174395400,
+		"id_str": "1247505176174395394",
+		"full_text": "Saudi Arabia confirms 203 coronavirus cases on Tuesday, bringing the total in the kingdom to 2,795. Three more deaths reported, death toll stands at 41 —health ministry",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			168
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 5242,
+			"id_str": "5242",
+			"name": "Ahmed Al Omran",
+			"screen_name": "ahmed",
+			"location": "Saudi Arabia",
+			"description": "Reporter for @FT covering Saudi Arabia · Formerly with @WSJ and @NPR · Email: ahmed.alomran@ft.com · Subscribe to my newsletter: https://t.co/i1MM95asPq",
+			"url": "http://t.co/1tckurrksd",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/1tckurrksd",
+							"expanded_url": "http://alomran.me",
+							"display_url": "alomran.me",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/i1MM95asPq",
+							"expanded_url": "http://riyadhbureau.com",
+							"display_url": "riyadhbureau.com",
+							"indices": [
+								129,
+								152
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 149678,
+			"friends_count": 1919,
+			"listed_count": 2633,
+			"created_at": "Mon Sep 04 00:18:12 +0000 2006",
+			"favourites_count": 5217,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 103611,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "CCCCCC",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme5/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme5/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1175469297675714562/QUWgZ3Gk_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1175469297675714562/QUWgZ3Gk_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/5242/1569089262",
+			"profile_link_color": "002FA7",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "99CC33",
+			"profile_text_color": "3E4415",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 6,
+		"favorite_count": 13,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "Saudi Arabia confirms 203 coronavirus cases on Tuesday, bringing the total in the kingdom to 2,795. Three more deaths reported, death toll stands at 41 —health ministry"
+	},
+	{
+		"created_at": "Tue Apr 07 12:40:10 +0000 2020",
+		"id": 1247504437335208000,
+		"id_str": "1247504437335207938",
+		"full_text": "The minister says the lax attitude by some people could increase the number of coronavirus cases rapidly which threatens to collapse the healthcare system if the measures are not taken seriously /fin",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			199
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1247503983146610700,
+		"in_reply_to_status_id_str": "1247503983146610694",
+		"in_reply_to_user_id": 5242,
+		"in_reply_to_user_id_str": "5242",
+		"in_reply_to_screen_name": "ahmed",
+		"user": {
+			"id": 5242,
+			"id_str": "5242",
+			"name": "Ahmed Al Omran",
+			"screen_name": "ahmed",
+			"location": "Saudi Arabia",
+			"description": "Reporter for @FT covering Saudi Arabia · Formerly with @WSJ and @NPR · Email: ahmed.alomran@ft.com · Subscribe to my newsletter: https://t.co/i1MM95asPq",
+			"url": "http://t.co/1tckurrksd",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/1tckurrksd",
+							"expanded_url": "http://alomran.me",
+							"display_url": "alomran.me",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/i1MM95asPq",
+							"expanded_url": "http://riyadhbureau.com",
+							"display_url": "riyadhbureau.com",
+							"indices": [
+								129,
+								152
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 149678,
+			"friends_count": 1919,
+			"listed_count": 2633,
+			"created_at": "Mon Sep 04 00:18:12 +0000 2006",
+			"favourites_count": 5217,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 103611,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "CCCCCC",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme5/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme5/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1175469297675714562/QUWgZ3Gk_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1175469297675714562/QUWgZ3Gk_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/5242/1569089262",
+			"profile_link_color": "002FA7",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "99CC33",
+			"profile_text_color": "3E4415",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 9,
+		"favorite_count": 8,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "The minister says the lax attitude by some people could increase the number of coronavirus cases rapidly which threatens to collapse the healthcare system if the measures are not taken seriously /fin"
+	},
+	{
+		"created_at": "Tue Apr 07 12:38:21 +0000 2020",
+		"id": 1247503983146610700,
+		"id_str": "1247503983146610694",
+		"full_text": "Government approved additional funds to support the healthcare system in dealing with the coronavirus, the minister says. Total spending expected to reach $8.5 billion by the end of year, but not easy to acquire ventilators and test kits from the global market due to high demand",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			279
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1247503104305750000,
+		"in_reply_to_status_id_str": "1247503104305750019",
+		"in_reply_to_user_id": 5242,
+		"in_reply_to_user_id_str": "5242",
+		"in_reply_to_screen_name": "ahmed",
+		"user": {
+			"id": 5242,
+			"id_str": "5242",
+			"name": "Ahmed Al Omran",
+			"screen_name": "ahmed",
+			"location": "Saudi Arabia",
+			"description": "Reporter for @FT covering Saudi Arabia · Formerly with @WSJ and @NPR · Email: ahmed.alomran@ft.com · Subscribe to my newsletter: https://t.co/i1MM95asPq",
+			"url": "http://t.co/1tckurrksd",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/1tckurrksd",
+							"expanded_url": "http://alomran.me",
+							"display_url": "alomran.me",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/i1MM95asPq",
+							"expanded_url": "http://riyadhbureau.com",
+							"display_url": "riyadhbureau.com",
+							"indices": [
+								129,
+								152
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 149678,
+			"friends_count": 1919,
+			"listed_count": 2633,
+			"created_at": "Mon Sep 04 00:18:12 +0000 2006",
+			"favourites_count": 5217,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 103611,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "CCCCCC",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme5/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme5/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1175469297675714562/QUWgZ3Gk_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1175469297675714562/QUWgZ3Gk_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/5242/1569089262",
+			"profile_link_color": "002FA7",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "99CC33",
+			"profile_text_color": "3E4415",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 6,
+		"favorite_count": 11,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "Government approved additional funds to support the healthcare system in dealing with the coronavirus, the minister says. Total spending expected to reach $8.5 billion by the end of year, but not easy to acquire ventilators and test kits from the global market due to high demand"
+	},
+	{
+		"created_at": "Tue Apr 07 12:34:52 +0000 2020",
+		"id": 1247503104305750000,
+		"id_str": "1247503104305750019",
+		"full_text": "The minister says some people are not taking the pandemic seriously enough, which made the government yesterday announces all-day curfews in major cities after data showed that traffic was down only 46% compared with normal days before the crisis",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			246
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1247502547323158500,
+		"in_reply_to_status_id_str": "1247502547323158528",
+		"in_reply_to_user_id": 5242,
+		"in_reply_to_user_id_str": "5242",
+		"in_reply_to_screen_name": "ahmed",
+		"user": {
+			"id": 5242,
+			"id_str": "5242",
+			"name": "Ahmed Al Omran",
+			"screen_name": "ahmed",
+			"location": "Saudi Arabia",
+			"description": "Reporter for @FT covering Saudi Arabia · Formerly with @WSJ and @NPR · Email: ahmed.alomran@ft.com · Subscribe to my newsletter: https://t.co/i1MM95asPq",
+			"url": "http://t.co/1tckurrksd",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/1tckurrksd",
+							"expanded_url": "http://alomran.me",
+							"display_url": "alomran.me",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/i1MM95asPq",
+							"expanded_url": "http://riyadhbureau.com",
+							"display_url": "riyadhbureau.com",
+							"indices": [
+								129,
+								152
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 149678,
+			"friends_count": 1919,
+			"listed_count": 2633,
+			"created_at": "Mon Sep 04 00:18:12 +0000 2006",
+			"favourites_count": 5217,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 103611,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "CCCCCC",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme5/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme5/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1175469297675714562/QUWgZ3Gk_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1175469297675714562/QUWgZ3Gk_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/5242/1569089262",
+			"profile_link_color": "002FA7",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "99CC33",
+			"profile_text_color": "3E4415",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 7,
+		"favorite_count": 15,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "The minister says some people are not taking the pandemic seriously enough, which made the government yesterday announces all-day curfews in major cities after data showed that traffic was down only 46% compared with normal days before the crisis"
+	},
+	{
+		"created_at": "Tue Apr 07 12:32:39 +0000 2020",
+		"id": 1247502547323158500,
+		"id_str": "1247502547323158528",
+		"full_text": "[THREAD] Saudi health minister warns that the kingdom is facing a “critical moment” in dealing with the coronavirus. He says best case scenario forecast is 10,000 cases, worst case scenario around 200,000 cases",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			210
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 5242,
+			"id_str": "5242",
+			"name": "Ahmed Al Omran",
+			"screen_name": "ahmed",
+			"location": "Saudi Arabia",
+			"description": "Reporter for @FT covering Saudi Arabia · Formerly with @WSJ and @NPR · Email: ahmed.alomran@ft.com · Subscribe to my newsletter: https://t.co/i1MM95asPq",
+			"url": "http://t.co/1tckurrksd",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/1tckurrksd",
+							"expanded_url": "http://alomran.me",
+							"display_url": "alomran.me",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/i1MM95asPq",
+							"expanded_url": "http://riyadhbureau.com",
+							"display_url": "riyadhbureau.com",
+							"indices": [
+								129,
+								152
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 149678,
+			"friends_count": 1919,
+			"listed_count": 2633,
+			"created_at": "Mon Sep 04 00:18:12 +0000 2006",
+			"favourites_count": 5217,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 103611,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "CCCCCC",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme5/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme5/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1175469297675714562/QUWgZ3Gk_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1175469297675714562/QUWgZ3Gk_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/5242/1569089262",
+			"profile_link_color": "002FA7",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "99CC33",
+			"profile_text_color": "3E4415",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 50,
+		"favorite_count": 54,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "[THREAD] Saudi health minister warns that the kingdom is facing a “critical moment” in dealing with the coronavirus. He says best case scenario forecast is 10,000 cases, worst case scenario around 200,000 cases"
+	},
+	{
 		"created_at": "Mon Apr 06 19:26:54 +0000 2020",
 		"id": 1247244408682152000,
 		"id_str": "1247244408682151937",
