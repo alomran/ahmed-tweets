@@ -1,6 +1,1726 @@
 Grailbird.data.tweets_2020_05 = 
 [
 	{
+		"created_at": "Tue May 05 21:16:37 +0000 2020",
+		"id": 1257781268407816200,
+		"id_str": "1257781268407816193",
+		"full_text": "In 2006, CNN launched a clean look designed by @kemistrylondon for their international channel. Sadly it didn’t last long. The loud red theme of their American channel soon returned https://t.co/zYOv7BLvXJ https://t.co/qeqMBgFRwO",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			205
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "kemistrylondon",
+					"name": "Kemistry",
+					"id": 256450524,
+					"id_str": "256450524",
+					"indices": [
+						47,
+						62
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/zYOv7BLvXJ",
+					"expanded_url": "http://www.kemistry.co.uk/work/cnn-international/",
+					"display_url": "kemistry.co.uk/work/cnn-inter…",
+					"indices": [
+						182,
+						205
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1257780869907058700,
+					"id_str": "1257780869907058688",
+					"indices": [
+						206,
+						229
+					],
+					"media_url": "http://pbs.twimg.com/media/EXSJCYQXkAAlpef.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EXSJCYQXkAAlpef.jpg",
+					"url": "https://t.co/qeqMBgFRwO",
+					"display_url": "pic.twitter.com/qeqMBgFRwO",
+					"expanded_url": "https://twitter.com/ahmed/status/1257781268407816193/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 400,
+							"h": 300,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 400,
+							"h": 300,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 400,
+							"h": 300,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1257780869907058700,
+					"id_str": "1257780869907058688",
+					"indices": [
+						206,
+						229
+					],
+					"media_url": "http://pbs.twimg.com/media/EXSJCYQXkAAlpef.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EXSJCYQXkAAlpef.jpg",
+					"url": "https://t.co/qeqMBgFRwO",
+					"display_url": "pic.twitter.com/qeqMBgFRwO",
+					"expanded_url": "https://twitter.com/ahmed/status/1257781268407816193/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 400,
+							"h": 300,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 400,
+							"h": 300,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 400,
+							"h": 300,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1257780869898666000,
+					"id_str": "1257780869898665986",
+					"indices": [
+						206,
+						229
+					],
+					"media_url": "http://pbs.twimg.com/media/EXSJCYOXgAIgdsM.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EXSJCYOXgAIgdsM.jpg",
+					"url": "https://t.co/qeqMBgFRwO",
+					"display_url": "pic.twitter.com/qeqMBgFRwO",
+					"expanded_url": "https://twitter.com/ahmed/status/1257781268407816193/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 400,
+							"h": 300,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 400,
+							"h": 300,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 400,
+							"h": 300,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1257780869886075000,
+					"id_str": "1257780869886074893",
+					"indices": [
+						206,
+						229
+					],
+					"media_url": "http://pbs.twimg.com/media/EXSJCYLXYA0nyYV.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EXSJCYLXYA0nyYV.jpg",
+					"url": "https://t.co/qeqMBgFRwO",
+					"display_url": "pic.twitter.com/qeqMBgFRwO",
+					"expanded_url": "https://twitter.com/ahmed/status/1257781268407816193/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 640,
+							"h": 419,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 640,
+							"h": 419,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 640,
+							"h": 419,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 5242,
+			"id_str": "5242",
+			"name": "Ahmed Al Omran",
+			"screen_name": "ahmed",
+			"location": "Saudi Arabia",
+			"description": "Reporter for @FT covering Saudi Arabia · Formerly with @WSJ and @NPR · Email: ahmed.alomran@ft.com · Subscribe to my newsletter: https://t.co/i1MM95asPq",
+			"url": "http://t.co/1tckurrksd",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/1tckurrksd",
+							"expanded_url": "http://alomran.me",
+							"display_url": "alomran.me",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/i1MM95asPq",
+							"expanded_url": "http://riyadhbureau.com",
+							"display_url": "riyadhbureau.com",
+							"indices": [
+								129,
+								152
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 150052,
+			"friends_count": 1918,
+			"listed_count": 2619,
+			"created_at": "Mon Sep 04 00:18:12 +0000 2006",
+			"favourites_count": 5215,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 104076,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "CCCCCC",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme5/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme5/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1175469297675714562/QUWgZ3Gk_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1175469297675714562/QUWgZ3Gk_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/5242/1569089262",
+			"profile_link_color": "002FA7",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "99CC33",
+			"profile_text_color": "3E4415",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "In 2006, CNN launched a clean look designed by @kemistrylondon for their international channel. Sadly it didn’t last long. The loud red theme of their American channel soon returned https://t.co/zYOv7BLvXJ https://t.co/qeqMBgFRwO"
+	},
+	{
+		"created_at": "Tue May 05 14:37:31 +0000 2020",
+		"id": 1257680831847506000,
+		"id_str": "1257680831847505922",
+		"full_text": "@Naweini what if, hear me out, we call it “Riya”?",
+		"truncated": false,
+		"display_text_range": [
+			9,
+			49
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Naweini",
+					"name": "Nawal",
+					"id": 24253914,
+					"id_str": "24253914",
+					"indices": [
+						0,
+						8
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 1257680533884219400,
+		"in_reply_to_status_id_str": "1257680533884219393",
+		"in_reply_to_user_id": 24253914,
+		"in_reply_to_user_id_str": "24253914",
+		"in_reply_to_screen_name": "Naweini",
+		"user": {
+			"id": 5242,
+			"id_str": "5242",
+			"name": "Ahmed Al Omran",
+			"screen_name": "ahmed",
+			"location": "Saudi Arabia",
+			"description": "Reporter for @FT covering Saudi Arabia · Formerly with @WSJ and @NPR · Email: ahmed.alomran@ft.com · Subscribe to my newsletter: https://t.co/i1MM95asPq",
+			"url": "http://t.co/1tckurrksd",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/1tckurrksd",
+							"expanded_url": "http://alomran.me",
+							"display_url": "alomran.me",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/i1MM95asPq",
+							"expanded_url": "http://riyadhbureau.com",
+							"display_url": "riyadhbureau.com",
+							"indices": [
+								129,
+								152
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 150052,
+			"friends_count": 1918,
+			"listed_count": 2619,
+			"created_at": "Mon Sep 04 00:18:12 +0000 2006",
+			"favourites_count": 5215,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 104076,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "CCCCCC",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme5/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme5/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1175469297675714562/QUWgZ3Gk_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1175469297675714562/QUWgZ3Gk_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/5242/1569089262",
+			"profile_link_color": "002FA7",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "99CC33",
+			"profile_text_color": "3E4415",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@Naweini what if, hear me out, we call it “Riya”?"
+	},
+	{
+		"created_at": "Tue May 05 14:33:36 +0000 2020",
+		"id": 1257679844311281700,
+		"id_str": "1257679844311281665",
+		"full_text": "Saudi human rights group  @NSHRSA say they didn’t see a rise in domestic violence complaints during the lockdown https://t.co/ZZC0j4PAtW",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			136
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "NSHRSA",
+					"name": "جمعية حقوق الإنسان",
+					"id": 316343948,
+					"id_str": "316343948",
+					"indices": [
+						26,
+						33
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/ZZC0j4PAtW",
+					"expanded_url": "https://www.alwatan.com.sa/article/1045121",
+					"display_url": "alwatan.com.sa/article/1045121",
+					"indices": [
+						113,
+						136
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 5242,
+			"id_str": "5242",
+			"name": "Ahmed Al Omran",
+			"screen_name": "ahmed",
+			"location": "Saudi Arabia",
+			"description": "Reporter for @FT covering Saudi Arabia · Formerly with @WSJ and @NPR · Email: ahmed.alomran@ft.com · Subscribe to my newsletter: https://t.co/i1MM95asPq",
+			"url": "http://t.co/1tckurrksd",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/1tckurrksd",
+							"expanded_url": "http://alomran.me",
+							"display_url": "alomran.me",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/i1MM95asPq",
+							"expanded_url": "http://riyadhbureau.com",
+							"display_url": "riyadhbureau.com",
+							"indices": [
+								129,
+								152
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 150052,
+			"friends_count": 1918,
+			"listed_count": 2619,
+			"created_at": "Mon Sep 04 00:18:12 +0000 2006",
+			"favourites_count": 5215,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 104076,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "CCCCCC",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme5/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme5/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1175469297675714562/QUWgZ3Gk_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1175469297675714562/QUWgZ3Gk_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/5242/1569089262",
+			"profile_link_color": "002FA7",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "99CC33",
+			"profile_text_color": "3E4415",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 6,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Saudi human rights group  @NSHRSA say they didn’t see a rise in domestic violence complaints during the lockdown https://t.co/ZZC0j4PAtW"
+	},
+	{
+		"created_at": "Tue May 05 14:04:50 +0000 2020",
+		"id": 1257672607463346200,
+		"id_str": "1257672607463346176",
+		"full_text": "“I don’t expect divisions between the Syrian ruling elite to help bring a political transition soon,” former US envoy Robert Ford writes  https://t.co/6ay6mHY3sZ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			161
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/6ay6mHY3sZ",
+					"expanded_url": "https://aawsat.com/english/home/article/2268526/robert-ford/dinner-makhloufs",
+					"display_url": "aawsat.com/english/home/a…",
+					"indices": [
+						138,
+						161
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 5242,
+			"id_str": "5242",
+			"name": "Ahmed Al Omran",
+			"screen_name": "ahmed",
+			"location": "Saudi Arabia",
+			"description": "Reporter for @FT covering Saudi Arabia · Formerly with @WSJ and @NPR · Email: ahmed.alomran@ft.com · Subscribe to my newsletter: https://t.co/i1MM95asPq",
+			"url": "http://t.co/1tckurrksd",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/1tckurrksd",
+							"expanded_url": "http://alomran.me",
+							"display_url": "alomran.me",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/i1MM95asPq",
+							"expanded_url": "http://riyadhbureau.com",
+							"display_url": "riyadhbureau.com",
+							"indices": [
+								129,
+								152
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 150052,
+			"friends_count": 1918,
+			"listed_count": 2619,
+			"created_at": "Mon Sep 04 00:18:12 +0000 2006",
+			"favourites_count": 5215,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 104076,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "CCCCCC",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme5/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme5/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1175469297675714562/QUWgZ3Gk_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1175469297675714562/QUWgZ3Gk_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/5242/1569089262",
+			"profile_link_color": "002FA7",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "99CC33",
+			"profile_text_color": "3E4415",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "“I don’t expect divisions between the Syrian ruling elite to help bring a political transition soon,” former US envoy Robert Ford writes  https://t.co/6ay6mHY3sZ"
+	},
+	{
+		"created_at": "Tue May 05 13:23:03 +0000 2020",
+		"id": 1257662089662955500,
+		"id_str": "1257662089662955520",
+		"full_text": "Saudi police arrests citizen who verbally abused an Asian worker “on the pretext of inviting him to Islam” https://t.co/H7k4zgV4As",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			130
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/H7k4zgV4As",
+					"expanded_url": "https://www.spa.gov.sa/2082533",
+					"display_url": "spa.gov.sa/2082533",
+					"indices": [
+						107,
+						130
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 5242,
+			"id_str": "5242",
+			"name": "Ahmed Al Omran",
+			"screen_name": "ahmed",
+			"location": "Saudi Arabia",
+			"description": "Reporter for @FT covering Saudi Arabia · Formerly with @WSJ and @NPR · Email: ahmed.alomran@ft.com · Subscribe to my newsletter: https://t.co/i1MM95asPq",
+			"url": "http://t.co/1tckurrksd",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/1tckurrksd",
+							"expanded_url": "http://alomran.me",
+							"display_url": "alomran.me",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/i1MM95asPq",
+							"expanded_url": "http://riyadhbureau.com",
+							"display_url": "riyadhbureau.com",
+							"indices": [
+								129,
+								152
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 150052,
+			"friends_count": 1918,
+			"listed_count": 2619,
+			"created_at": "Mon Sep 04 00:18:12 +0000 2006",
+			"favourites_count": 5215,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 104076,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "CCCCCC",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme5/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme5/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1175469297675714562/QUWgZ3Gk_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1175469297675714562/QUWgZ3Gk_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/5242/1569089262",
+			"profile_link_color": "002FA7",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "99CC33",
+			"profile_text_color": "3E4415",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 14,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Saudi police arrests citizen who verbally abused an Asian worker “on the pretext of inviting him to Islam” https://t.co/H7k4zgV4As"
+	},
+	{
+		"created_at": "Tue May 05 12:46:20 +0000 2020",
+		"id": 1257652853226733600,
+		"id_str": "1257652853226733568",
+		"full_text": "Saudi Arabia confirms 1,595 coronavirus cases over the last 24 hours, bringing the total in the kingdom to 30,251. Death toll reaches 200 after reporting 9 more deaths —health ministry",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			184
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 5242,
+			"id_str": "5242",
+			"name": "Ahmed Al Omran",
+			"screen_name": "ahmed",
+			"location": "Saudi Arabia",
+			"description": "Reporter for @FT covering Saudi Arabia · Formerly with @WSJ and @NPR · Email: ahmed.alomran@ft.com · Subscribe to my newsletter: https://t.co/i1MM95asPq",
+			"url": "http://t.co/1tckurrksd",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/1tckurrksd",
+							"expanded_url": "http://alomran.me",
+							"display_url": "alomran.me",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/i1MM95asPq",
+							"expanded_url": "http://riyadhbureau.com",
+							"display_url": "riyadhbureau.com",
+							"indices": [
+								129,
+								152
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 150052,
+			"friends_count": 1918,
+			"listed_count": 2619,
+			"created_at": "Mon Sep 04 00:18:12 +0000 2006",
+			"favourites_count": 5215,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 104076,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "CCCCCC",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme5/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme5/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1175469297675714562/QUWgZ3Gk_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1175469297675714562/QUWgZ3Gk_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/5242/1569089262",
+			"profile_link_color": "002FA7",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "99CC33",
+			"profile_text_color": "3E4415",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "Saudi Arabia confirms 1,595 coronavirus cases over the last 24 hours, bringing the total in the kingdom to 30,251. Death toll reaches 200 after reporting 9 more deaths —health ministry"
+	},
+	{
+		"created_at": "Tue May 05 00:43:37 +0000 2020",
+		"id": 1257470529331695600,
+		"id_str": "1257470973542117377",
+		"full_text": "Yes lotsa polarization in the country, but 🎉 little progress where you find it: a fully Arabic language ad on prime time CNN about getting counted in #Census, probably first ever on American TV, this was the ad, below. https://t.co/QdRlJn3prN",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			218
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Census",
+					"indices": [
+						150,
+						157
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/QdRlJn3prN",
+					"expanded_url": "https://twitter.com/yallacountmein/status/1245452352015994880",
+					"display_url": "twitter.com/yallacountmein…",
+					"indices": [
+						219,
+						242
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 15705567,
+			"id_str": "15705567",
+			"name": "Rafat Ali, Media Owner & Operator",
+			"screen_name": "rafat",
+			"location": "New York City",
+			"description": "CEO/Founder, Skift (@skift). Founder, paidContent. Indo-Brit-American 🇺🇸🇮🇳🇬🇧Global Soul. Blog: https://t.co/ZcWcQCfEPw",
+			"url": "https://t.co/nLTVfbGHRm",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/nLTVfbGHRm",
+							"expanded_url": "http://skift.com",
+							"display_url": "skift.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/ZcWcQCfEPw",
+							"expanded_url": "http://rafat.org",
+							"display_url": "rafat.org",
+							"indices": [
+								95,
+								118
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 36578,
+			"friends_count": 142,
+			"listed_count": 2173,
+			"created_at": "Sat Aug 02 22:52:01 +0000 2008",
+			"favourites_count": 30099,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 72752,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "333330",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/948656565493608448/cimYc9H5_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/948656565493608448/cimYc9H5_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/15705567/1581985165",
+			"profile_link_color": "2FC2EF",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "00c39537733fa112",
+			"url": "https://api.twitter.com/1.1/geo/id/00c39537733fa112.json",
+			"place_type": "city",
+			"name": "Queens",
+			"full_name": "Queens, NY",
+			"country_code": "US",
+			"country": "United States",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							-73.962582,
+							40.541722
+						],
+						[
+							-73.699793,
+							40.541722
+						],
+						[
+							-73.699793,
+							40.8000371
+						],
+						[
+							-73.962582,
+							40.8000371
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1245452352015995000,
+		"quoted_status_id_str": "1245452352015994880",
+		"quoted_status_permalink": {
+			"url": "https://t.co/QdRlJn3prN",
+			"expanded": "https://twitter.com/yallacountmein/status/1245452352015994880",
+			"display": "twitter.com/yallacountmein…"
+		},
+		"quoted_status": {
+			"created_at": "Wed Apr 01 20:45:54 +0000 2020",
+			"id": 1245452352015995000,
+			"id_str": "1245452352015994880",
+			"full_text": "نضم إلى الأميركيين العرب في كل أنحاء البلاد من خلال قول \"يلا ضمني إلى التعداد\" عبر \nملء إستمارة التعداد ٢٠٢٠! بدءًا من اليوم، يمكنك ملء الإستمارة عبر الانترنت على موقع\nhttps://t.co/D35jYK2OwA #ضمني_الى_التعداد https://t.co/FyYzTZJPny",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				209
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "ضمني_الى_التعداد",
+						"indices": [
+							192,
+							209
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/D35jYK2OwA",
+						"expanded_url": "https://my2020census.gov/",
+						"display_url": "my2020census.gov",
+						"indices": [
+							168,
+							191
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1245449081171980300,
+						"id_str": "1245449081171980290",
+						"indices": [
+							210,
+							233
+						],
+						"media_url": "http://pbs.twimg.com/amplify_video_thumb/1245449081171980290/img/4mjrmgPMu3kxbVKW.jpg",
+						"media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1245449081171980290/img/4mjrmgPMu3kxbVKW.jpg",
+						"url": "https://t.co/FyYzTZJPny",
+						"display_url": "pic.twitter.com/FyYzTZJPny",
+						"expanded_url": "https://twitter.com/YallaCountMeIn/status/1245452352015994880/video/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1280,
+								"h": 720,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1245449081171980300,
+						"id_str": "1245449081171980290",
+						"indices": [
+							210,
+							233
+						],
+						"media_url": "http://pbs.twimg.com/amplify_video_thumb/1245449081171980290/img/4mjrmgPMu3kxbVKW.jpg",
+						"media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1245449081171980290/img/4mjrmgPMu3kxbVKW.jpg",
+						"url": "https://t.co/FyYzTZJPny",
+						"display_url": "pic.twitter.com/FyYzTZJPny",
+						"expanded_url": "https://twitter.com/YallaCountMeIn/status/1245452352015994880/video/1",
+						"type": "video",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1280,
+								"h": 720,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								16,
+								9
+							],
+							"duration_millis": 60000,
+							"variants": [
+								{
+									"bitrate": 2176000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/amplify_video/1245449081171980290/vid/1280x720/wVK3-OqsrGRZ9iYt.mp4?tag=13"
+								},
+								{
+									"bitrate": 288000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/amplify_video/1245449081171980290/vid/480x270/dDMlJhJQDTxmP6-M.mp4?tag=13"
+								},
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/amplify_video/1245449081171980290/pl/DPqjR_lea2ZtP0-b.m3u8?tag=13"
+								},
+								{
+									"bitrate": 832000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/amplify_video/1245449081171980290/vid/640x360/sfkgASIk--tEFLX-.mp4?tag=13"
+								}
+							]
+						},
+						"additional_media_info": {
+							"title": "",
+							"description": "",
+							"embeddable": true,
+							"monetizable": false
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1110282914040868900,
+				"id_str": "1110282914040868864",
+				"name": "Yalla Count Me In",
+				"screen_name": "YallaCountMeIn",
+				"location": "",
+				"description": "Ensuring a fair and accurate count in #2020Census.  Yalla, can we count YOU in? Fill out your 2020 Census here: https://t.co/XO26pVQBAX #YallaCountMeIn",
+				"url": "https://t.co/iyTiroW3cb",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/iyTiroW3cb",
+								"expanded_url": "http://www.yallacountmein.org",
+								"display_url": "yallacountmein.org",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/XO26pVQBAX",
+								"expanded_url": "http://my2020census.gov/",
+								"display_url": "my2020census.gov",
+								"indices": [
+									112,
+									135
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 282,
+				"friends_count": 223,
+				"listed_count": 2,
+				"created_at": "Mon Mar 25 20:50:49 +0000 2019",
+				"favourites_count": 499,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 487,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1111368139999268864/Onj8Q3k9_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1111368139999268864/Onj8Q3k9_normal.png",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1110282914040868864/1553802390",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 5,
+			"favorite_count": 7,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "ar"
+		},
+		"retweet_count": 2,
+		"favorite_count": 8,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Yes lotsa polarization in the country, but 🎉 little progress where you find it: a fully Arabic language ad on prime time CNN about getting counted in #Census, probably first ever on American TV, this was the ad, below. https://t.co/QdRlJn3prN"
+	},
+	{
+		"created_at": "Tue May 05 00:41:30 +0000 2020",
+		"id": 1257470441385590800,
+		"id_str": "1257470441385590794",
+		"full_text": "Unlike the PIF, Warren Buffett hasn’t found any attractive investments in the COVID-19 pandemic yet https://t.co/0Yi6fh8Sci",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			123
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/0Yi6fh8Sci",
+					"expanded_url": "https://www.cnbc.com/2020/05/02/buffett-on-why-he-hasnt-made-any-big-investments-we-dont-see-anything-that-attractive.html",
+					"display_url": "cnbc.com/2020/05/02/buf…",
+					"indices": [
+						100,
+						123
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 5242,
+			"id_str": "5242",
+			"name": "Ahmed Al Omran",
+			"screen_name": "ahmed",
+			"location": "Saudi Arabia",
+			"description": "Reporter for @FT covering Saudi Arabia · Formerly with @WSJ and @NPR · Email: ahmed.alomran@ft.com · Subscribe to my newsletter: https://t.co/i1MM95asPq",
+			"url": "http://t.co/1tckurrksd",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/1tckurrksd",
+							"expanded_url": "http://alomran.me",
+							"display_url": "alomran.me",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/i1MM95asPq",
+							"expanded_url": "http://riyadhbureau.com",
+							"display_url": "riyadhbureau.com",
+							"indices": [
+								129,
+								152
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 150052,
+			"friends_count": 1918,
+			"listed_count": 2619,
+			"created_at": "Mon Sep 04 00:18:12 +0000 2006",
+			"favourites_count": 5215,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 104076,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "CCCCCC",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme5/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme5/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1175469297675714562/QUWgZ3Gk_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1175469297675714562/QUWgZ3Gk_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/5242/1569089262",
+			"profile_link_color": "002FA7",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "99CC33",
+			"profile_text_color": "3E4415",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 12,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Unlike the PIF, Warren Buffett hasn’t found any attractive investments in the COVID-19 pandemic yet https://t.co/0Yi6fh8Sci"
+	},
+	{
+		"created_at": "Tue May 05 00:26:16 +0000 2020",
+		"id": 1257466606176866300,
+		"id_str": "1257466606176866307",
+		"full_text": "List of the 2020 Pulitzer Prize Winners https://t.co/8byu8npnYm",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			63
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/8byu8npnYm",
+					"expanded_url": "https://www.pulitzer.org/news/announcement-2020-pulitzer-prize-winners",
+					"display_url": "pulitzer.org/news/announcem…",
+					"indices": [
+						40,
+						63
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 5242,
+			"id_str": "5242",
+			"name": "Ahmed Al Omran",
+			"screen_name": "ahmed",
+			"location": "Saudi Arabia",
+			"description": "Reporter for @FT covering Saudi Arabia · Formerly with @WSJ and @NPR · Email: ahmed.alomran@ft.com · Subscribe to my newsletter: https://t.co/i1MM95asPq",
+			"url": "http://t.co/1tckurrksd",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/1tckurrksd",
+							"expanded_url": "http://alomran.me",
+							"display_url": "alomran.me",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/i1MM95asPq",
+							"expanded_url": "http://riyadhbureau.com",
+							"display_url": "riyadhbureau.com",
+							"indices": [
+								129,
+								152
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 150052,
+			"friends_count": 1918,
+			"listed_count": 2619,
+			"created_at": "Mon Sep 04 00:18:12 +0000 2006",
+			"favourites_count": 5215,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 104076,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "CCCCCC",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme5/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme5/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1175469297675714562/QUWgZ3Gk_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1175469297675714562/QUWgZ3Gk_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/5242/1569089262",
+			"profile_link_color": "002FA7",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "99CC33",
+			"profile_text_color": "3E4415",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 6,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "List of the 2020 Pulitzer Prize Winners https://t.co/8byu8npnYm"
+	},
+	{
+		"created_at": "Tue May 05 00:24:39 +0000 2020",
+		"id": 1257466199950180400,
+		"id_str": "1257466199950180353",
+		"full_text": "GAO says State and Energy departments should keep Congress informed about nuclear talks with Saudi Arabia https://t.co/K5ih7X7edq",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			129
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/K5ih7X7edq",
+					"expanded_url": "https://www.reuters.com/article/us-usa-saudi-nuclearpower-idUSKBN22G2XV",
+					"display_url": "reuters.com/article/us-usa…",
+					"indices": [
+						106,
+						129
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 5242,
+			"id_str": "5242",
+			"name": "Ahmed Al Omran",
+			"screen_name": "ahmed",
+			"location": "Saudi Arabia",
+			"description": "Reporter for @FT covering Saudi Arabia · Formerly with @WSJ and @NPR · Email: ahmed.alomran@ft.com · Subscribe to my newsletter: https://t.co/i1MM95asPq",
+			"url": "http://t.co/1tckurrksd",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/1tckurrksd",
+							"expanded_url": "http://alomran.me",
+							"display_url": "alomran.me",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/i1MM95asPq",
+							"expanded_url": "http://riyadhbureau.com",
+							"display_url": "riyadhbureau.com",
+							"indices": [
+								129,
+								152
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 150052,
+			"friends_count": 1918,
+			"listed_count": 2619,
+			"created_at": "Mon Sep 04 00:18:12 +0000 2006",
+			"favourites_count": 5215,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 104076,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "CCCCCC",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme5/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme5/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1175469297675714562/QUWgZ3Gk_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1175469297675714562/QUWgZ3Gk_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/5242/1569089262",
+			"profile_link_color": "002FA7",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "99CC33",
+			"profile_text_color": "3E4415",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "GAO says State and Energy departments should keep Congress informed about nuclear talks with Saudi Arabia https://t.co/K5ih7X7edq"
+	},
+	{
+		"created_at": "Tue May 05 00:20:03 +0000 2020",
+		"id": 1257465044377493500,
+		"id_str": "1257465044377493509",
+		"full_text": "Adam Neumann sues SoftBank over over canceled WeWork stock deal https://t.co/GwJYjdjlM4",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			87
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/GwJYjdjlM4",
+					"expanded_url": "https://www.bloomberg.com/news/articles/2020-05-04/wework-s-adam-neumann-sues-softbank-over-canceled-stock-deal",
+					"display_url": "bloomberg.com/news/articles/…",
+					"indices": [
+						64,
+						87
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 5242,
+			"id_str": "5242",
+			"name": "Ahmed Al Omran",
+			"screen_name": "ahmed",
+			"location": "Saudi Arabia",
+			"description": "Reporter for @FT covering Saudi Arabia · Formerly with @WSJ and @NPR · Email: ahmed.alomran@ft.com · Subscribe to my newsletter: https://t.co/i1MM95asPq",
+			"url": "http://t.co/1tckurrksd",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/1tckurrksd",
+							"expanded_url": "http://alomran.me",
+							"display_url": "alomran.me",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/i1MM95asPq",
+							"expanded_url": "http://riyadhbureau.com",
+							"display_url": "riyadhbureau.com",
+							"indices": [
+								129,
+								152
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 150052,
+			"friends_count": 1918,
+			"listed_count": 2619,
+			"created_at": "Mon Sep 04 00:18:12 +0000 2006",
+			"favourites_count": 5215,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 104076,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "CCCCCC",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme5/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme5/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1175469297675714562/QUWgZ3Gk_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1175469297675714562/QUWgZ3Gk_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/5242/1569089262",
+			"profile_link_color": "002FA7",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "99CC33",
+			"profile_text_color": "3E4415",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 7,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Adam Neumann sues SoftBank over over canceled WeWork stock deal https://t.co/GwJYjdjlM4"
+	},
+	{
 		"created_at": "Mon May 04 17:16:14 +0000 2020",
 		"id": 1257358386921955300,
 		"id_str": "1257358386921955329",
@@ -1427,7 +3147,7 @@ Grailbird.data.tweets_2020_05 =
 				"name": "المجموعة السعودية للبيانات",
 				"screen_name": "DataCommunitySA",
 				"location": "Kingdom of Saudi Arabia",
-				"description": "‏مهمتنا: ربط،تمكين،توعية،تنمية و تحفيز المهتمين بالبيانات عن طريق تقديم خدمات، أنشطة،برامج وفعاليات. نطمح ان نكون المجتمع الريادي الأول عربيا في مجال البيانات",
+				"description": "مهمتنا: ربط،تمكين،توعية،تنمية و تحفيز المهتمين بالبيانات عن طريق تقديم خدمات، أنشطة،برامج وفعاليات. نطمح ان نكون المجتمع الريادي الأول عربيا في مجال البيانات",
 				"url": "https://t.co/mcH4rTrpvo",
 				"entities": {
 					"url": {
@@ -1518,7 +3238,7 @@ Grailbird.data.tweets_2020_05 =
 			"user_mentions": [
 				{
 					"screen_name": "ubereatsksa",
-					"name": "أوبر إيتس السعودية‎‎",
+					"name": "أوبر إيتس السعودية",
 					"id": 983601935247970300,
 					"id_str": "983601935247970304",
 					"indices": [
