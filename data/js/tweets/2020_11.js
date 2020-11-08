@@ -1,6 +1,2107 @@
 Grailbird.data.tweets_2020_11 = 
 [
 	{
+		"created_at": "Sun Nov 08 19:39:08 +0000 2020",
+		"id": 1325523265952034800,
+		"id_str": "1325523265952034821",
+		"full_text": "Saudi king and crown prince congratulate Biden and Harris on winning the US election —state news agency",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			103
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 5242,
+			"id_str": "5242",
+			"name": "Ahmed Al Omran",
+			"screen_name": "ahmed",
+			"location": "the internet",
+			"description": "Saudi journalist · Formerly with @FT, @WSJ and @NPR · Email: alomran@hey.com · Subscribe to my @riyadhbureau newsletter: https://t.co/i1MM94SRXS",
+			"url": "http://t.co/1tckurrksd",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/1tckurrksd",
+							"expanded_url": "http://alomran.me",
+							"display_url": "alomran.me",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/i1MM94SRXS",
+							"expanded_url": "http://riyadhbureau.com",
+							"display_url": "riyadhbureau.com",
+							"indices": [
+								121,
+								144
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 150813,
+			"friends_count": 1952,
+			"listed_count": 2373,
+			"created_at": "Mon Sep 04 00:18:12 +0000 2006",
+			"favourites_count": 5327,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 105842,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "CCCCCC",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme5/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme5/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1325223421966479360/DJnkAtqN_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1325223421966479360/DJnkAtqN_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/5242/1569089262",
+			"profile_link_color": "002FA7",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "99CC33",
+			"profile_text_color": "3E4415",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 55,
+		"favorite_count": 140,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "Saudi king and crown prince congratulate Biden and Harris on winning the US election —state news agency"
+	},
+	{
+		"created_at": "Sun Nov 08 17:09:46 +0000 2020",
+		"id": 1325485679070081000,
+		"id_str": "1325485679070081025",
+		"full_text": "Saudi developer Dar Al Arkan is planning a 5 million-square-foot residential and hotel complex outside Sarajevo. The project will be the largest single real estate development in Bosnia and Herzegovina https://t.co/0BrxI6dSDb",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			225
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/0BrxI6dSDb",
+					"expanded_url": "https://therealdeal.com/2020/11/08/saudi-developer-plans-largest-real-estate-project-in-bosnia-and-herzegovina/",
+					"display_url": "therealdeal.com/2020/11/08/sau…",
+					"indices": [
+						202,
+						225
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 5242,
+			"id_str": "5242",
+			"name": "Ahmed Al Omran",
+			"screen_name": "ahmed",
+			"location": "the internet",
+			"description": "Saudi journalist · Formerly with @FT, @WSJ and @NPR · Email: alomran@hey.com · Subscribe to my @riyadhbureau newsletter: https://t.co/i1MM94SRXS",
+			"url": "http://t.co/1tckurrksd",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/1tckurrksd",
+							"expanded_url": "http://alomran.me",
+							"display_url": "alomran.me",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/i1MM94SRXS",
+							"expanded_url": "http://riyadhbureau.com",
+							"display_url": "riyadhbureau.com",
+							"indices": [
+								121,
+								144
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 150813,
+			"friends_count": 1952,
+			"listed_count": 2373,
+			"created_at": "Mon Sep 04 00:18:12 +0000 2006",
+			"favourites_count": 5327,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 105842,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "CCCCCC",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme5/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme5/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1325223421966479360/DJnkAtqN_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1325223421966479360/DJnkAtqN_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/5242/1569089262",
+			"profile_link_color": "002FA7",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "99CC33",
+			"profile_text_color": "3E4415",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5,
+		"favorite_count": 20,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Saudi developer Dar Al Arkan is planning a 5 million-square-foot residential and hotel complex outside Sarajevo. The project will be the largest single real estate development in Bosnia and Herzegovina https://t.co/0BrxI6dSDb"
+	},
+	{
+		"created_at": "Sun Nov 08 16:25:17 +0000 2020",
+		"id": 1325474483113701400,
+		"id_str": "1325474483113701376",
+		"full_text": "Plenty of low-hanging fruit for Biden after chaotic four years https://t.co/V3IURx4jp6",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			86
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/V3IURx4jp6",
+					"expanded_url": "https://www.ft.com/content/757213c7-2bf1-4195-af4a-2d4ac72546a2",
+					"display_url": "ft.com/content/757213…",
+					"indices": [
+						63,
+						86
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 5242,
+			"id_str": "5242",
+			"name": "Ahmed Al Omran",
+			"screen_name": "ahmed",
+			"location": "the internet",
+			"description": "Saudi journalist · Formerly with @FT, @WSJ and @NPR · Email: alomran@hey.com · Subscribe to my @riyadhbureau newsletter: https://t.co/i1MM94SRXS",
+			"url": "http://t.co/1tckurrksd",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/1tckurrksd",
+							"expanded_url": "http://alomran.me",
+							"display_url": "alomran.me",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/i1MM94SRXS",
+							"expanded_url": "http://riyadhbureau.com",
+							"display_url": "riyadhbureau.com",
+							"indices": [
+								121,
+								144
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 150813,
+			"friends_count": 1952,
+			"listed_count": 2373,
+			"created_at": "Mon Sep 04 00:18:12 +0000 2006",
+			"favourites_count": 5327,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 105842,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "CCCCCC",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme5/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme5/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1325223421966479360/DJnkAtqN_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1325223421966479360/DJnkAtqN_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/5242/1569089262",
+			"profile_link_color": "002FA7",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "99CC33",
+			"profile_text_color": "3E4415",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 6,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Plenty of low-hanging fruit for Biden after chaotic four years https://t.co/V3IURx4jp6"
+	},
+	{
+		"created_at": "Sun Nov 08 16:02:40 +0000 2020",
+		"id": 1325468792324038700,
+		"id_str": "1325468792324038657",
+		"full_text": "Kushner urges Trump to pursue “legal remedies” to the election and had not advised him to concede https://t.co/ubnXv8SFkf",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			121
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/ubnXv8SFkf",
+					"expanded_url": "https://www.axios.com/jared-kushner-trump-election-2a077b7d-6c55-4bad-97f7-ef8e7808a635.html",
+					"display_url": "axios.com/jared-kushner-…",
+					"indices": [
+						98,
+						121
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 5242,
+			"id_str": "5242",
+			"name": "Ahmed Al Omran",
+			"screen_name": "ahmed",
+			"location": "the internet",
+			"description": "Saudi journalist · Formerly with @FT, @WSJ and @NPR · Email: alomran@hey.com · Subscribe to my @riyadhbureau newsletter: https://t.co/i1MM94SRXS",
+			"url": "http://t.co/1tckurrksd",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/1tckurrksd",
+							"expanded_url": "http://alomran.me",
+							"display_url": "alomran.me",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/i1MM94SRXS",
+							"expanded_url": "http://riyadhbureau.com",
+							"display_url": "riyadhbureau.com",
+							"indices": [
+								121,
+								144
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 150813,
+			"friends_count": 1952,
+			"listed_count": 2373,
+			"created_at": "Mon Sep 04 00:18:12 +0000 2006",
+			"favourites_count": 5327,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 105842,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "CCCCCC",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme5/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme5/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1325223421966479360/DJnkAtqN_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1325223421966479360/DJnkAtqN_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/5242/1569089262",
+			"profile_link_color": "002FA7",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "99CC33",
+			"profile_text_color": "3E4415",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Kushner urges Trump to pursue “legal remedies” to the election and had not advised him to concede https://t.co/ubnXv8SFkf"
+	},
+	{
+		"created_at": "Sun Nov 08 15:57:30 +0000 2020",
+		"id": 1325467489657118700,
+		"id_str": "1325467489657118720",
+		"full_text": "Ritz-Carlton Hardware Store say they are ready to host Trump’s legal team next press conference",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			95
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 5242,
+			"id_str": "5242",
+			"name": "Ahmed Al Omran",
+			"screen_name": "ahmed",
+			"location": "the internet",
+			"description": "Saudi journalist · Formerly with @FT, @WSJ and @NPR · Email: alomran@hey.com · Subscribe to my @riyadhbureau newsletter: https://t.co/i1MM94SRXS",
+			"url": "http://t.co/1tckurrksd",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/1tckurrksd",
+							"expanded_url": "http://alomran.me",
+							"display_url": "alomran.me",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/i1MM94SRXS",
+							"expanded_url": "http://riyadhbureau.com",
+							"display_url": "riyadhbureau.com",
+							"indices": [
+								121,
+								144
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 150813,
+			"friends_count": 1952,
+			"listed_count": 2373,
+			"created_at": "Mon Sep 04 00:18:12 +0000 2006",
+			"favourites_count": 5327,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 105842,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "CCCCCC",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme5/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme5/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1325223421966479360/DJnkAtqN_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1325223421966479360/DJnkAtqN_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/5242/1569089262",
+			"profile_link_color": "002FA7",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "99CC33",
+			"profile_text_color": "3E4415",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 9,
+		"favorite_count": 48,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "Ritz-Carlton Hardware Store say they are ready to host Trump’s legal team next press conference"
+	},
+	{
+		"created_at": "Sun Nov 08 15:36:30 +0000 2020",
+		"id": 1325462205643575300,
+		"id_str": "1325462205643575296",
+		"full_text": "@KarlreMarks The inverted table?",
+		"truncated": false,
+		"display_text_range": [
+			13,
+			32
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "KarlreMarks",
+					"name": "Karl Sharro",
+					"id": 25058787,
+					"id_str": "25058787",
+					"indices": [
+						0,
+						12
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 1325462035719745500,
+		"in_reply_to_status_id_str": "1325462035719745536",
+		"in_reply_to_user_id": 25058787,
+		"in_reply_to_user_id_str": "25058787",
+		"in_reply_to_screen_name": "KarlreMarks",
+		"user": {
+			"id": 5242,
+			"id_str": "5242",
+			"name": "Ahmed Al Omran",
+			"screen_name": "ahmed",
+			"location": "the internet",
+			"description": "Saudi journalist · Formerly with @FT, @WSJ and @NPR · Email: alomran@hey.com · Subscribe to my @riyadhbureau newsletter: https://t.co/i1MM94SRXS",
+			"url": "http://t.co/1tckurrksd",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/1tckurrksd",
+							"expanded_url": "http://alomran.me",
+							"display_url": "alomran.me",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/i1MM94SRXS",
+							"expanded_url": "http://riyadhbureau.com",
+							"display_url": "riyadhbureau.com",
+							"indices": [
+								121,
+								144
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 150813,
+			"friends_count": 1952,
+			"listed_count": 2373,
+			"created_at": "Mon Sep 04 00:18:12 +0000 2006",
+			"favourites_count": 5327,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 105842,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "CCCCCC",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme5/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme5/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1325223421966479360/DJnkAtqN_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1325223421966479360/DJnkAtqN_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/5242/1569089262",
+			"profile_link_color": "002FA7",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "99CC33",
+			"profile_text_color": "3E4415",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@KarlreMarks The inverted table?"
+	},
+	{
+		"created_at": "Sun Nov 08 14:04:55 +0000 2020",
+		"id": 1325439159998279700,
+		"id_str": "1325439159998279681",
+		"full_text": "@asrartheone @OKAZ_online @aawsat_News @al_jazirah @Almadinanews @Saudi_Gazette has stopped printing but still available online. @arabnews continues to print and has been expanding in recent years with more foreign languages",
+		"truncated": false,
+		"display_text_range": [
+			65,
+			224
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "asrartheone",
+					"name": "Syed Asrarullah",
+					"id": 131205701,
+					"id_str": "131205701",
+					"indices": [
+						0,
+						12
+					]
+				},
+				{
+					"screen_name": "OKAZ_online",
+					"name": "عكاظ",
+					"id": 166522734,
+					"id_str": "166522734",
+					"indices": [
+						13,
+						25
+					]
+				},
+				{
+					"screen_name": "aawsat_News",
+					"name": "صحيفة الشرق الأوسط",
+					"id": 169108336,
+					"id_str": "169108336",
+					"indices": [
+						26,
+						38
+					]
+				},
+				{
+					"screen_name": "al_jazirah",
+					"name": "صـحـيـفـة الـجـزيـرة",
+					"id": 244775181,
+					"id_str": "244775181",
+					"indices": [
+						39,
+						50
+					]
+				},
+				{
+					"screen_name": "Almadinanews",
+					"name": "صحيفة المدينة",
+					"id": 65707334,
+					"id_str": "65707334",
+					"indices": [
+						51,
+						64
+					]
+				},
+				{
+					"screen_name": "Saudi_Gazette",
+					"name": "Saudi Gazette",
+					"id": 567289542,
+					"id_str": "567289542",
+					"indices": [
+						65,
+						79
+					]
+				},
+				{
+					"screen_name": "arabnews",
+					"name": "Arab News",
+					"id": 69172612,
+					"id_str": "69172612",
+					"indices": [
+						129,
+						138
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1325437138679197700,
+		"in_reply_to_status_id_str": "1325437138679197699",
+		"in_reply_to_user_id": 131205701,
+		"in_reply_to_user_id_str": "131205701",
+		"in_reply_to_screen_name": "asrartheone",
+		"user": {
+			"id": 5242,
+			"id_str": "5242",
+			"name": "Ahmed Al Omran",
+			"screen_name": "ahmed",
+			"location": "the internet",
+			"description": "Saudi journalist · Formerly with @FT, @WSJ and @NPR · Email: alomran@hey.com · Subscribe to my @riyadhbureau newsletter: https://t.co/i1MM94SRXS",
+			"url": "http://t.co/1tckurrksd",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/1tckurrksd",
+							"expanded_url": "http://alomran.me",
+							"display_url": "alomran.me",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/i1MM94SRXS",
+							"expanded_url": "http://riyadhbureau.com",
+							"display_url": "riyadhbureau.com",
+							"indices": [
+								121,
+								144
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 150813,
+			"friends_count": 1952,
+			"listed_count": 2373,
+			"created_at": "Mon Sep 04 00:18:12 +0000 2006",
+			"favourites_count": 5327,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 105842,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "CCCCCC",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme5/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme5/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1325223421966479360/DJnkAtqN_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1325223421966479360/DJnkAtqN_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/5242/1569089262",
+			"profile_link_color": "002FA7",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "99CC33",
+			"profile_text_color": "3E4415",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@asrartheone @OKAZ_online @aawsat_News @al_jazirah @Almadinanews @Saudi_Gazette has stopped printing but still available online. @arabnews continues to print and has been expanding in recent years with more foreign languages"
+	},
+	{
+		"created_at": "Sun Nov 08 14:03:40 +0000 2020",
+		"id": 1325438842577580000,
+		"id_str": "1325438842577580041",
+		"full_text": "@nycjim From Saudi Arabia: https://t.co/do6uSfkXtb",
+		"truncated": false,
+		"display_text_range": [
+			8,
+			50
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "nycjim",
+					"name": "Jim Roberts",
+					"id": 14940354,
+					"id_str": "14940354",
+					"indices": [
+						0,
+						7
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/do6uSfkXtb",
+					"expanded_url": "https://twitter.com/ahmed/status/1325434323621834752",
+					"display_url": "twitter.com/ahmed/status/1…",
+					"indices": [
+						27,
+						50
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 1325437048317218800,
+		"in_reply_to_status_id_str": "1325437048317218816",
+		"in_reply_to_user_id": 14940354,
+		"in_reply_to_user_id_str": "14940354",
+		"in_reply_to_screen_name": "nycjim",
+		"user": {
+			"id": 5242,
+			"id_str": "5242",
+			"name": "Ahmed Al Omran",
+			"screen_name": "ahmed",
+			"location": "the internet",
+			"description": "Saudi journalist · Formerly with @FT, @WSJ and @NPR · Email: alomran@hey.com · Subscribe to my @riyadhbureau newsletter: https://t.co/i1MM94SRXS",
+			"url": "http://t.co/1tckurrksd",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/1tckurrksd",
+							"expanded_url": "http://alomran.me",
+							"display_url": "alomran.me",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/i1MM94SRXS",
+							"expanded_url": "http://riyadhbureau.com",
+							"display_url": "riyadhbureau.com",
+							"indices": [
+								121,
+								144
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 150813,
+			"friends_count": 1952,
+			"listed_count": 2373,
+			"created_at": "Mon Sep 04 00:18:12 +0000 2006",
+			"favourites_count": 5327,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 105842,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "CCCCCC",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme5/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme5/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1325223421966479360/DJnkAtqN_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1325223421966479360/DJnkAtqN_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/5242/1569089262",
+			"profile_link_color": "002FA7",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "99CC33",
+			"profile_text_color": "3E4415",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1325434323621834800,
+		"quoted_status_id_str": "1325434323621834752",
+		"quoted_status_permalink": {
+			"url": "https://t.co/do6uSfkXtb",
+			"expanded": "https://twitter.com/ahmed/status/1325434323621834752",
+			"display": "twitter.com/ahmed/status/1…"
+		},
+		"quoted_status": {
+			"created_at": "Sun Nov 08 13:45:42 +0000 2020",
+			"id": 1325434323621834800,
+			"id_str": "1325434323621834752",
+			"full_text": "Saudi newspapers today:\n\n@OKAZ_online: Biden new US president.. Trump rejects defeat!\n@aawsat_News: Biden calls for unity in victory speech\n@al_jazirah: Biden master of the White House.. and Trump says: I’m the winner\n@Almadinanews: Biden: I will be a president for all Americans https://t.co/JvmRKWBLba",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				279
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "OKAZ_online",
+						"name": "عكاظ",
+						"id": 166522734,
+						"id_str": "166522734",
+						"indices": [
+							25,
+							37
+						]
+					},
+					{
+						"screen_name": "aawsat_News",
+						"name": "صحيفة الشرق الأوسط",
+						"id": 169108336,
+						"id_str": "169108336",
+						"indices": [
+							86,
+							98
+						]
+					},
+					{
+						"screen_name": "al_jazirah",
+						"name": "صـحـيـفـة الـجـزيـرة",
+						"id": 244775181,
+						"id_str": "244775181",
+						"indices": [
+							140,
+							151
+						]
+					},
+					{
+						"screen_name": "Almadinanews",
+						"name": "صحيفة المدينة",
+						"id": 65707334,
+						"id_str": "65707334",
+						"indices": [
+							218,
+							231
+						]
+					}
+				],
+				"urls": [],
+				"media": [
+					{
+						"id": 1325434132474818600,
+						"id_str": "1325434132474818560",
+						"indices": [
+							280,
+							303
+						],
+						"media_url": "http://pbs.twimg.com/media/EmTjUi9W8AA9llD.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EmTjUi9W8AA9llD.jpg",
+						"url": "https://t.co/JvmRKWBLba",
+						"display_url": "pic.twitter.com/JvmRKWBLba",
+						"expanded_url": "https://twitter.com/ahmed/status/1325434323621834752/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 684,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 388,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1167,
+								"h": 2048,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1325434132474818600,
+						"id_str": "1325434132474818560",
+						"indices": [
+							280,
+							303
+						],
+						"media_url": "http://pbs.twimg.com/media/EmTjUi9W8AA9llD.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EmTjUi9W8AA9llD.jpg",
+						"url": "https://t.co/JvmRKWBLba",
+						"display_url": "pic.twitter.com/JvmRKWBLba",
+						"expanded_url": "https://twitter.com/ahmed/status/1325434323621834752/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 684,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 388,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1167,
+								"h": 2048,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 1325434132609069000,
+						"id_str": "1325434132609069056",
+						"indices": [
+							280,
+							303
+						],
+						"media_url": "http://pbs.twimg.com/media/EmTjUjdXcAA1dVQ.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EmTjUjdXcAA1dVQ.jpg",
+						"url": "https://t.co/JvmRKWBLba",
+						"display_url": "pic.twitter.com/JvmRKWBLba",
+						"expanded_url": "https://twitter.com/ahmed/status/1325434323621834752/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 388,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 685,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1170,
+								"h": 2048,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 1325434132697149400,
+						"id_str": "1325434132697149442",
+						"indices": [
+							280,
+							303
+						],
+						"media_url": "http://pbs.twimg.com/media/EmTjUjyXcAICRCJ.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EmTjUjyXcAICRCJ.jpg",
+						"url": "https://t.co/JvmRKWBLba",
+						"display_url": "pic.twitter.com/JvmRKWBLba",
+						"expanded_url": "https://twitter.com/ahmed/status/1325434323621834752/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 435,
+								"h": 680,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 444,
+								"h": 694,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 444,
+								"h": 694,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 1325434132726509600,
+						"id_str": "1325434132726509568",
+						"indices": [
+							280,
+							303
+						],
+						"media_url": "http://pbs.twimg.com/media/EmTjUj5XcAAiB8b.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EmTjUj5XcAAiB8b.jpg",
+						"url": "https://t.co/JvmRKWBLba",
+						"display_url": "pic.twitter.com/JvmRKWBLba",
+						"expanded_url": "https://twitter.com/ahmed/status/1325434323621834752/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 747,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 424,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1276,
+								"h": 2048,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 5242,
+				"id_str": "5242",
+				"name": "Ahmed Al Omran",
+				"screen_name": "ahmed",
+				"location": "the internet",
+				"description": "Saudi journalist · Formerly with @FT, @WSJ and @NPR · Email: alomran@hey.com · Subscribe to my @riyadhbureau newsletter: https://t.co/i1MM94SRXS",
+				"url": "http://t.co/1tckurrksd",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/1tckurrksd",
+								"expanded_url": "http://alomran.me",
+								"display_url": "alomran.me",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/i1MM94SRXS",
+								"expanded_url": "http://riyadhbureau.com",
+								"display_url": "riyadhbureau.com",
+								"indices": [
+									121,
+									144
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 150813,
+				"friends_count": 1952,
+				"listed_count": 2373,
+				"created_at": "Mon Sep 04 00:18:12 +0000 2006",
+				"favourites_count": 5327,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 105842,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "CCCCCC",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme5/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme5/bg.gif",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1325223421966479360/DJnkAtqN_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1325223421966479360/DJnkAtqN_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/5242/1569089262",
+				"profile_link_color": "002FA7",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "99CC33",
+				"profile_text_color": "3E4415",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "regular"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 12,
+			"favorite_count": 25,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 7,
+		"favorite_count": 24,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@nycjim From Saudi Arabia: https://t.co/do6uSfkXtb"
+	},
+	{
+		"created_at": "Sun Nov 08 13:48:41 +0000 2020",
+		"id": 1325435075278893000,
+		"id_str": "1325435075278893062",
+		"full_text": "Front page of Abu Dhabi-based @TheNationalNews four years ago and today https://t.co/UsJCcZZDku",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			71
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "TheNationalNews",
+					"name": "The National",
+					"id": 20583993,
+					"id_str": "20583993",
+					"indices": [
+						30,
+						46
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1325435060267475000,
+					"id_str": "1325435060267474944",
+					"indices": [
+						72,
+						95
+					],
+					"media_url": "http://pbs.twimg.com/media/EmTkKjQXYAAbsds.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EmTkKjQXYAAbsds.jpg",
+					"url": "https://t.co/UsJCcZZDku",
+					"display_url": "pic.twitter.com/UsJCcZZDku",
+					"expanded_url": "https://twitter.com/ahmed/status/1325435075278893062/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 700,
+							"h": 1289,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 652,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 369,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1325435060267475000,
+					"id_str": "1325435060267474944",
+					"indices": [
+						72,
+						95
+					],
+					"media_url": "http://pbs.twimg.com/media/EmTkKjQXYAAbsds.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EmTkKjQXYAAbsds.jpg",
+					"url": "https://t.co/UsJCcZZDku",
+					"display_url": "pic.twitter.com/UsJCcZZDku",
+					"expanded_url": "https://twitter.com/ahmed/status/1325435075278893062/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 700,
+							"h": 1289,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 652,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 369,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1325435060309405700,
+					"id_str": "1325435060309405696",
+					"indices": [
+						72,
+						95
+					],
+					"media_url": "http://pbs.twimg.com/media/EmTkKjaXMAADrAP.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EmTkKjaXMAADrAP.jpg",
+					"url": "https://t.co/UsJCcZZDku",
+					"display_url": "pic.twitter.com/UsJCcZZDku",
+					"expanded_url": "https://twitter.com/ahmed/status/1325435075278893062/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1191,
+							"h": 1776,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 805,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 456,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 5242,
+			"id_str": "5242",
+			"name": "Ahmed Al Omran",
+			"screen_name": "ahmed",
+			"location": "the internet",
+			"description": "Saudi journalist · Formerly with @FT, @WSJ and @NPR · Email: alomran@hey.com · Subscribe to my @riyadhbureau newsletter: https://t.co/i1MM94SRXS",
+			"url": "http://t.co/1tckurrksd",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/1tckurrksd",
+							"expanded_url": "http://alomran.me",
+							"display_url": "alomran.me",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/i1MM94SRXS",
+							"expanded_url": "http://riyadhbureau.com",
+							"display_url": "riyadhbureau.com",
+							"indices": [
+								121,
+								144
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 150813,
+			"friends_count": 1952,
+			"listed_count": 2373,
+			"created_at": "Mon Sep 04 00:18:12 +0000 2006",
+			"favourites_count": 5327,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 105842,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "CCCCCC",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme5/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme5/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1325223421966479360/DJnkAtqN_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1325223421966479360/DJnkAtqN_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/5242/1569089262",
+			"profile_link_color": "002FA7",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "99CC33",
+			"profile_text_color": "3E4415",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 60,
+		"favorite_count": 328,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Front page of Abu Dhabi-based @TheNationalNews four years ago and today https://t.co/UsJCcZZDku"
+	},
+	{
+		"created_at": "Sun Nov 08 13:45:42 +0000 2020",
+		"id": 1325434323621834800,
+		"id_str": "1325434323621834752",
+		"full_text": "Saudi newspapers today:\n\n@OKAZ_online: Biden new US president.. Trump rejects defeat!\n@aawsat_News: Biden calls for unity in victory speech\n@al_jazirah: Biden master of the White House.. and Trump says: I’m the winner\n@Almadinanews: Biden: I will be a president for all Americans https://t.co/JvmRKWBLba",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			279
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "OKAZ_online",
+					"name": "عكاظ",
+					"id": 166522734,
+					"id_str": "166522734",
+					"indices": [
+						25,
+						37
+					]
+				},
+				{
+					"screen_name": "aawsat_News",
+					"name": "صحيفة الشرق الأوسط",
+					"id": 169108336,
+					"id_str": "169108336",
+					"indices": [
+						86,
+						98
+					]
+				},
+				{
+					"screen_name": "al_jazirah",
+					"name": "صـحـيـفـة الـجـزيـرة",
+					"id": 244775181,
+					"id_str": "244775181",
+					"indices": [
+						140,
+						151
+					]
+				},
+				{
+					"screen_name": "Almadinanews",
+					"name": "صحيفة المدينة",
+					"id": 65707334,
+					"id_str": "65707334",
+					"indices": [
+						218,
+						231
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1325434132474818600,
+					"id_str": "1325434132474818560",
+					"indices": [
+						280,
+						303
+					],
+					"media_url": "http://pbs.twimg.com/media/EmTjUi9W8AA9llD.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EmTjUi9W8AA9llD.jpg",
+					"url": "https://t.co/JvmRKWBLba",
+					"display_url": "pic.twitter.com/JvmRKWBLba",
+					"expanded_url": "https://twitter.com/ahmed/status/1325434323621834752/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 684,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 388,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1167,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1325434132474818600,
+					"id_str": "1325434132474818560",
+					"indices": [
+						280,
+						303
+					],
+					"media_url": "http://pbs.twimg.com/media/EmTjUi9W8AA9llD.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EmTjUi9W8AA9llD.jpg",
+					"url": "https://t.co/JvmRKWBLba",
+					"display_url": "pic.twitter.com/JvmRKWBLba",
+					"expanded_url": "https://twitter.com/ahmed/status/1325434323621834752/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 684,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 388,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1167,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1325434132609069000,
+					"id_str": "1325434132609069056",
+					"indices": [
+						280,
+						303
+					],
+					"media_url": "http://pbs.twimg.com/media/EmTjUjdXcAA1dVQ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EmTjUjdXcAA1dVQ.jpg",
+					"url": "https://t.co/JvmRKWBLba",
+					"display_url": "pic.twitter.com/JvmRKWBLba",
+					"expanded_url": "https://twitter.com/ahmed/status/1325434323621834752/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 388,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 685,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1170,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1325434132697149400,
+					"id_str": "1325434132697149442",
+					"indices": [
+						280,
+						303
+					],
+					"media_url": "http://pbs.twimg.com/media/EmTjUjyXcAICRCJ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EmTjUjyXcAICRCJ.jpg",
+					"url": "https://t.co/JvmRKWBLba",
+					"display_url": "pic.twitter.com/JvmRKWBLba",
+					"expanded_url": "https://twitter.com/ahmed/status/1325434323621834752/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 435,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 444,
+							"h": 694,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 444,
+							"h": 694,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1325434132726509600,
+					"id_str": "1325434132726509568",
+					"indices": [
+						280,
+						303
+					],
+					"media_url": "http://pbs.twimg.com/media/EmTjUj5XcAAiB8b.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EmTjUj5XcAAiB8b.jpg",
+					"url": "https://t.co/JvmRKWBLba",
+					"display_url": "pic.twitter.com/JvmRKWBLba",
+					"expanded_url": "https://twitter.com/ahmed/status/1325434323621834752/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 747,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 424,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1276,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 5242,
+			"id_str": "5242",
+			"name": "Ahmed Al Omran",
+			"screen_name": "ahmed",
+			"location": "the internet",
+			"description": "Saudi journalist · Formerly with @FT, @WSJ and @NPR · Email: alomran@hey.com · Subscribe to my @riyadhbureau newsletter: https://t.co/i1MM94SRXS",
+			"url": "http://t.co/1tckurrksd",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/1tckurrksd",
+							"expanded_url": "http://alomran.me",
+							"display_url": "alomran.me",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/i1MM94SRXS",
+							"expanded_url": "http://riyadhbureau.com",
+							"display_url": "riyadhbureau.com",
+							"indices": [
+								121,
+								144
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 150813,
+			"friends_count": 1952,
+			"listed_count": 2373,
+			"created_at": "Mon Sep 04 00:18:12 +0000 2006",
+			"favourites_count": 5327,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 105842,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "CCCCCC",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme5/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme5/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1325223421966479360/DJnkAtqN_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1325223421966479360/DJnkAtqN_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/5242/1569089262",
+			"profile_link_color": "002FA7",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "99CC33",
+			"profile_text_color": "3E4415",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 12,
+		"favorite_count": 25,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Saudi newspapers today:\n\n@OKAZ_online: Biden new US president.. Trump rejects defeat!\n@aawsat_News: Biden calls for unity in victory speech\n@al_jazirah: Biden master of the White House.. and Trump says: I’m the winner\n@Almadinanews: Biden: I will be a president for all Americans https://t.co/JvmRKWBLba"
+	},
+	{
+		"created_at": "Sun Nov 08 03:00:27 +0000 2020",
+		"id": 1325271938466517000,
+		"id_str": "1325271938466516994",
+		"full_text": "“That Trump was pummeling drives off a tee box as Biden made the transition from former vice president to president-elect was a fitting coda for a leader who craved the perks and power of the office but often seemed reluctant to do the job.” https://t.co/gx95zD94BN",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			265
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/gx95zD94BN",
+					"expanded_url": "https://www.washingtonpost.com/politics/trump-election-lose/2020/11/07/27b627ce-2123-11eb-b532-05c751cd5dc2_story.html",
+					"display_url": "washingtonpost.com/politics/trump…",
+					"indices": [
+						242,
+						265
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 5242,
+			"id_str": "5242",
+			"name": "Ahmed Al Omran",
+			"screen_name": "ahmed",
+			"location": "the internet",
+			"description": "Saudi journalist · Formerly with @FT, @WSJ and @NPR · Email: alomran@hey.com · Subscribe to my @riyadhbureau newsletter: https://t.co/i1MM94SRXS",
+			"url": "http://t.co/1tckurrksd",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/1tckurrksd",
+							"expanded_url": "http://alomran.me",
+							"display_url": "alomran.me",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/i1MM94SRXS",
+							"expanded_url": "http://riyadhbureau.com",
+							"display_url": "riyadhbureau.com",
+							"indices": [
+								121,
+								144
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 150813,
+			"friends_count": 1952,
+			"listed_count": 2373,
+			"created_at": "Mon Sep 04 00:18:12 +0000 2006",
+			"favourites_count": 5327,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 105842,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "CCCCCC",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme5/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme5/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1325223421966479360/DJnkAtqN_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1325223421966479360/DJnkAtqN_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/5242/1569089262",
+			"profile_link_color": "002FA7",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "99CC33",
+			"profile_text_color": "3E4415",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 5,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "“That Trump was pummeling drives off a tee box as Biden made the transition from former vice president to president-elect was a fitting coda for a leader who craved the perks and power of the office but often seemed reluctant to do the job.” https://t.co/gx95zD94BN"
+	},
+	{
+		"created_at": "Sun Nov 08 02:01:01 +0000 2020",
+		"id": 1325256985068138500,
+		"id_str": "1325256985068138499",
+		"full_text": "You can even say.. normal?",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			26
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 1325256854352564200,
+		"in_reply_to_status_id_str": "1325256854352564224",
+		"in_reply_to_user_id": 5242,
+		"in_reply_to_user_id_str": "5242",
+		"in_reply_to_screen_name": "ahmed",
+		"user": {
+			"id": 5242,
+			"id_str": "5242",
+			"name": "Ahmed Al Omran",
+			"screen_name": "ahmed",
+			"location": "the internet",
+			"description": "Saudi journalist · Formerly with @FT, @WSJ and @NPR · Email: alomran@hey.com · Subscribe to my @riyadhbureau newsletter: https://t.co/i1MM94SRXS",
+			"url": "http://t.co/1tckurrksd",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/1tckurrksd",
+							"expanded_url": "http://alomran.me",
+							"display_url": "alomran.me",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/i1MM94SRXS",
+							"expanded_url": "http://riyadhbureau.com",
+							"display_url": "riyadhbureau.com",
+							"indices": [
+								121,
+								144
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 150813,
+			"friends_count": 1952,
+			"listed_count": 2373,
+			"created_at": "Mon Sep 04 00:18:12 +0000 2006",
+			"favourites_count": 5327,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 105842,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "CCCCCC",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme5/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme5/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1325223421966479360/DJnkAtqN_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1325223421966479360/DJnkAtqN_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/5242/1569089262",
+			"profile_link_color": "002FA7",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "99CC33",
+			"profile_text_color": "3E4415",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 12,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "You can even say.. normal?"
+	},
+	{
 		"created_at": "Sat Nov 07 21:07:16 +0000 2020",
 		"id": 1325183059474309000,
 		"id_str": "1325183059474309128",
