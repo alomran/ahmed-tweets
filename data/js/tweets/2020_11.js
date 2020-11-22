@@ -1,6 +1,791 @@
 Grailbird.data.tweets_2020_11 = 
 [
 	{
+		"created_at": "Sun Nov 22 21:14:56 +0000 2020",
+		"id": 1330620803818414000,
+		"id_str": "1330620803818414083",
+		"full_text": "Pompeo meets Saudi crown prince in Neom —SPA https://t.co/TJ2XwwpP7i https://t.co/MY9Fgcb9kn",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			68
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/TJ2XwwpP7i",
+					"expanded_url": "https://www.spa.gov.sa/2160475",
+					"display_url": "spa.gov.sa/2160475",
+					"indices": [
+						45,
+						68
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1330620673945968600,
+					"id_str": "1330620673945968640",
+					"indices": [
+						69,
+						92
+					],
+					"media_url": "http://pbs.twimg.com/media/EndQc_lXIAAvsOz.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EndQc_lXIAAvsOz.jpg",
+					"url": "https://t.co/MY9Fgcb9kn",
+					"display_url": "pic.twitter.com/MY9Fgcb9kn",
+					"expanded_url": "https://twitter.com/ahmed/status/1330620803818414083/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 693,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 393,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 739,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1330620673945968600,
+					"id_str": "1330620673945968640",
+					"indices": [
+						69,
+						92
+					],
+					"media_url": "http://pbs.twimg.com/media/EndQc_lXIAAvsOz.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EndQc_lXIAAvsOz.jpg",
+					"url": "https://t.co/MY9Fgcb9kn",
+					"display_url": "pic.twitter.com/MY9Fgcb9kn",
+					"expanded_url": "https://twitter.com/ahmed/status/1330620803818414083/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 693,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 393,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 739,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 5242,
+			"id_str": "5242",
+			"name": "Ahmed Al Omran",
+			"screen_name": "ahmed",
+			"location": "the internet",
+			"description": "Saudi journalist · Formerly with @FT, @WSJ and @NPR · Email: alomran@hey.com · Subscribe to my @riyadhbureau newsletter: https://t.co/n4l70Swyzv",
+			"url": "http://t.co/1tckurrksd",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/1tckurrksd",
+							"expanded_url": "http://alomran.me",
+							"display_url": "alomran.me",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/n4l70Swyzv",
+							"expanded_url": "https://www.riyadhbureau.com/",
+							"display_url": "riyadhbureau.com",
+							"indices": [
+								121,
+								144
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 150770,
+			"friends_count": 1952,
+			"listed_count": 2372,
+			"created_at": "Mon Sep 04 00:18:12 +0000 2006",
+			"favourites_count": 5321,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 105932,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "CCCCCC",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme5/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme5/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1325223421966479360/DJnkAtqN_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1325223421966479360/DJnkAtqN_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/5242/1569089262",
+			"profile_link_color": "002FA7",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "99CC33",
+			"profile_text_color": "3E4415",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Pompeo meets Saudi crown prince in Neom —SPA https://t.co/TJ2XwwpP7i https://t.co/MY9Fgcb9kn"
+	},
+	{
+		"created_at": "Sun Nov 22 19:30:35 +0000 2020",
+		"id": 1330594543834706000,
+		"id_str": "1330594543834705922",
+		"full_text": "“Isolation that preceded the pandemic cannot be lifted with the ease of a stay-at-home order. But the pandemic, in its obvious externality, usefully illustrates how loneliness so often arises from conditions divorced from our personal worth.” https://t.co/Ms2o8eW92W",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			266
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Ms2o8eW92W",
+					"expanded_url": "https://www.ft.com/content/408afd90-7f25-49b9-a10d-253c5b29e743",
+					"display_url": "ft.com/content/408afd…",
+					"indices": [
+						243,
+						266
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 5242,
+			"id_str": "5242",
+			"name": "Ahmed Al Omran",
+			"screen_name": "ahmed",
+			"location": "the internet",
+			"description": "Saudi journalist · Formerly with @FT, @WSJ and @NPR · Email: alomran@hey.com · Subscribe to my @riyadhbureau newsletter: https://t.co/n4l70Swyzv",
+			"url": "http://t.co/1tckurrksd",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/1tckurrksd",
+							"expanded_url": "http://alomran.me",
+							"display_url": "alomran.me",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/n4l70Swyzv",
+							"expanded_url": "https://www.riyadhbureau.com/",
+							"display_url": "riyadhbureau.com",
+							"indices": [
+								121,
+								144
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 150770,
+			"friends_count": 1952,
+			"listed_count": 2372,
+			"created_at": "Mon Sep 04 00:18:12 +0000 2006",
+			"favourites_count": 5321,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 105932,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "CCCCCC",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme5/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme5/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1325223421966479360/DJnkAtqN_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1325223421966479360/DJnkAtqN_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/5242/1569089262",
+			"profile_link_color": "002FA7",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "99CC33",
+			"profile_text_color": "3E4415",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 6,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "“Isolation that preceded the pandemic cannot be lifted with the ease of a stay-at-home order. But the pandemic, in its obvious externality, usefully illustrates how loneliness so often arises from conditions divorced from our personal worth.” https://t.co/Ms2o8eW92W"
+	},
+	{
+		"created_at": "Sun Nov 22 18:58:29 +0000 2020",
+		"id": 1330586466527928300,
+		"id_str": "1330586466527928322",
+		"full_text": "People respond to policy a lot more than we assume, and cultural dynamics are then fused with this policy https://t.co/Ub3VqEJVb6",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			129
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Ub3VqEJVb6",
+					"expanded_url": "https://zeynep.substack.com/p/when-politics-isnt-all-personal",
+					"display_url": "zeynep.substack.com/p/when-politic…",
+					"indices": [
+						106,
+						129
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 5242,
+			"id_str": "5242",
+			"name": "Ahmed Al Omran",
+			"screen_name": "ahmed",
+			"location": "the internet",
+			"description": "Saudi journalist · Formerly with @FT, @WSJ and @NPR · Email: alomran@hey.com · Subscribe to my @riyadhbureau newsletter: https://t.co/n4l70Swyzv",
+			"url": "http://t.co/1tckurrksd",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/1tckurrksd",
+							"expanded_url": "http://alomran.me",
+							"display_url": "alomran.me",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/n4l70Swyzv",
+							"expanded_url": "https://www.riyadhbureau.com/",
+							"display_url": "riyadhbureau.com",
+							"indices": [
+								121,
+								144
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 150770,
+			"friends_count": 1952,
+			"listed_count": 2372,
+			"created_at": "Mon Sep 04 00:18:12 +0000 2006",
+			"favourites_count": 5321,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 105932,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "CCCCCC",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme5/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme5/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1325223421966479360/DJnkAtqN_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1325223421966479360/DJnkAtqN_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/5242/1569089262",
+			"profile_link_color": "002FA7",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "99CC33",
+			"profile_text_color": "3E4415",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "People respond to policy a lot more than we assume, and cultural dynamics are then fused with this policy https://t.co/Ub3VqEJVb6"
+	},
+	{
+		"created_at": "Sat Nov 21 22:15:14 +0000 2020",
+		"id": 1330273592429392000,
+		"id_str": "1330273592429391872",
+		"full_text": "$704m was invested across 564 different Middle East startups in 2019, compared to only $15m in five venture deals in 2009 https://t.co/UzMiMajD8h",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			145
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/UzMiMajD8h",
+					"expanded_url": "https://www.zdnet.com/article/covid-hit-startups-badly-but-something-surprising-is-happening/",
+					"display_url": "zdnet.com/article/covid-…",
+					"indices": [
+						122,
+						145
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 5242,
+			"id_str": "5242",
+			"name": "Ahmed Al Omran",
+			"screen_name": "ahmed",
+			"location": "the internet",
+			"description": "Saudi journalist · Formerly with @FT, @WSJ and @NPR · Email: alomran@hey.com · Subscribe to my @riyadhbureau newsletter: https://t.co/n4l70Swyzv",
+			"url": "http://t.co/1tckurrksd",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/1tckurrksd",
+							"expanded_url": "http://alomran.me",
+							"display_url": "alomran.me",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/n4l70Swyzv",
+							"expanded_url": "https://www.riyadhbureau.com/",
+							"display_url": "riyadhbureau.com",
+							"indices": [
+								121,
+								144
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 150770,
+			"friends_count": 1952,
+			"listed_count": 2372,
+			"created_at": "Mon Sep 04 00:18:12 +0000 2006",
+			"favourites_count": 5321,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 105932,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "CCCCCC",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme5/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme5/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1325223421966479360/DJnkAtqN_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1325223421966479360/DJnkAtqN_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/5242/1569089262",
+			"profile_link_color": "002FA7",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "99CC33",
+			"profile_text_color": "3E4415",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 15,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "$704m was invested across 564 different Middle East startups in 2019, compared to only $15m in five venture deals in 2009 https://t.co/UzMiMajD8h"
+	},
+	{
+		"created_at": "Sat Nov 21 22:04:07 +0000 2020",
+		"id": 1330270795264880600,
+		"id_str": "1330270795264880640",
+		"full_text": "“It is one thing to counter received wisdom by posing a counterfactual. It is another to spend hours of reporting, gathering facts, calling in experts, putting everything on the record, and then deciding that none of that matters.” https://t.co/P1HEFkWRmA",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			255
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/P1HEFkWRmA",
+					"expanded_url": "https://kottke.org/20/11/the-moral-calculus-of-covid-19",
+					"display_url": "kottke.org/20/11/the-mora…",
+					"indices": [
+						232,
+						255
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 5242,
+			"id_str": "5242",
+			"name": "Ahmed Al Omran",
+			"screen_name": "ahmed",
+			"location": "the internet",
+			"description": "Saudi journalist · Formerly with @FT, @WSJ and @NPR · Email: alomran@hey.com · Subscribe to my @riyadhbureau newsletter: https://t.co/n4l70Swyzv",
+			"url": "http://t.co/1tckurrksd",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/1tckurrksd",
+							"expanded_url": "http://alomran.me",
+							"display_url": "alomran.me",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/n4l70Swyzv",
+							"expanded_url": "https://www.riyadhbureau.com/",
+							"display_url": "riyadhbureau.com",
+							"indices": [
+								121,
+								144
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 150770,
+			"friends_count": 1952,
+			"listed_count": 2372,
+			"created_at": "Mon Sep 04 00:18:12 +0000 2006",
+			"favourites_count": 5321,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 105932,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "CCCCCC",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme5/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme5/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1325223421966479360/DJnkAtqN_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1325223421966479360/DJnkAtqN_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/5242/1569089262",
+			"profile_link_color": "002FA7",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "99CC33",
+			"profile_text_color": "3E4415",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 7,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "“It is one thing to counter received wisdom by posing a counterfactual. It is another to spend hours of reporting, gathering facts, calling in experts, putting everything on the record, and then deciding that none of that matters.” https://t.co/P1HEFkWRmA"
+	},
+	{
+		"created_at": "Sat Nov 21 21:41:13 +0000 2020",
+		"id": 1330265032102453200,
+		"id_str": "1330265032102453248",
+		"full_text": "It’s confounding that, almost a year into the pandemic, the @COVID19Tracking project is doing what might be expected of the US government https://t.co/20DY9CcePO",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			161
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "COVID19Tracking",
+					"name": "The COVID Tracking Project",
+					"id": 1236557193752658000,
+					"id_str": "1236557193752657926",
+					"indices": [
+						60,
+						76
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/20DY9CcePO",
+					"expanded_url": "https://www.bloomberg.com/news/features/2020-11-20/covid-tracking-project-volunteers-step-up-as-u-s-fails-during-pandemic",
+					"display_url": "bloomberg.com/news/features/…",
+					"indices": [
+						138,
+						161
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 5242,
+			"id_str": "5242",
+			"name": "Ahmed Al Omran",
+			"screen_name": "ahmed",
+			"location": "the internet",
+			"description": "Saudi journalist · Formerly with @FT, @WSJ and @NPR · Email: alomran@hey.com · Subscribe to my @riyadhbureau newsletter: https://t.co/n4l70Swyzv",
+			"url": "http://t.co/1tckurrksd",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/1tckurrksd",
+							"expanded_url": "http://alomran.me",
+							"display_url": "alomran.me",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/n4l70Swyzv",
+							"expanded_url": "https://www.riyadhbureau.com/",
+							"display_url": "riyadhbureau.com",
+							"indices": [
+								121,
+								144
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 150770,
+			"friends_count": 1952,
+			"listed_count": 2372,
+			"created_at": "Mon Sep 04 00:18:12 +0000 2006",
+			"favourites_count": 5321,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 105932,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "CCCCCC",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme5/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme5/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1325223421966479360/DJnkAtqN_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1325223421966479360/DJnkAtqN_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/5242/1569089262",
+			"profile_link_color": "002FA7",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "99CC33",
+			"profile_text_color": "3E4415",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "It’s confounding that, almost a year into the pandemic, the @COVID19Tracking project is doing what might be expected of the US government https://t.co/20DY9CcePO"
+	},
+	{
 		"created_at": "Sat Nov 21 20:39:06 +0000 2020",
 		"id": 1330249400220852200,
 		"id_str": "1330249400220852237",
