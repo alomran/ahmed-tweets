@@ -1,6 +1,2301 @@
 Grailbird.data.tweets_2020_11 = 
 [
 	{
+		"created_at": "Wed Nov 25 20:40:29 +0000 2020",
+		"id": 1331691426065866800,
+		"id_str": "1331699301454667780",
+		"full_text": "⚽️ DIEGO ARMANDO MARADONA (30.10.1960 - 25.11.2020). Info in: https://t.co/0JPith1hzI #Philately #Stamps #Philatelie #Timbres #Filatelia #Maradona #MaradonaRIP https://t.co/sYt11iugG9",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			159
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Philately",
+					"indices": [
+						86,
+						96
+					]
+				},
+				{
+					"text": "Stamps",
+					"indices": [
+						97,
+						104
+					]
+				},
+				{
+					"text": "Philatelie",
+					"indices": [
+						105,
+						116
+					]
+				},
+				{
+					"text": "Timbres",
+					"indices": [
+						117,
+						125
+					]
+				},
+				{
+					"text": "Filatelia",
+					"indices": [
+						126,
+						136
+					]
+				},
+				{
+					"text": "Maradona",
+					"indices": [
+						137,
+						146
+					]
+				},
+				{
+					"text": "MaradonaRIP",
+					"indices": [
+						147,
+						159
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/0JPith1hzI",
+					"expanded_url": "https://facebook.com/Libyan.Stamps",
+					"display_url": "facebook.com/Libyan.Stamps",
+					"indices": [
+						62,
+						85
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1331688393160470500,
+					"id_str": "1331688393160470541",
+					"indices": [
+						160,
+						183
+					],
+					"media_url": "http://pbs.twimg.com/media/EnsbibnXMA0j_w6.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EnsbibnXMA0j_w6.jpg",
+					"url": "https://t.co/sYt11iugG9",
+					"display_url": "pic.twitter.com/sYt11iugG9",
+					"expanded_url": "https://twitter.com/LibyanStamps/status/1331691426065866752/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 519,
+							"h": 600,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 519,
+							"h": 600,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 519,
+							"h": 600,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1331688393160470500,
+					"id_str": "1331688393160470541",
+					"indices": [
+						160,
+						183
+					],
+					"media_url": "http://pbs.twimg.com/media/EnsbibnXMA0j_w6.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EnsbibnXMA0j_w6.jpg",
+					"url": "https://t.co/sYt11iugG9",
+					"display_url": "pic.twitter.com/sYt11iugG9",
+					"expanded_url": "https://twitter.com/LibyanStamps/status/1331691426065866752/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 519,
+							"h": 600,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 519,
+							"h": 600,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 519,
+							"h": 600,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 560934527,
+			"id_str": "560934527",
+			"name": "Libyan Stamps",
+			"screen_name": "LibyanStamps",
+			"location": "",
+			"description": "Home of the Postal Stamps of Libya",
+			"url": "http://t.co/9ee5gS1Bko",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/9ee5gS1Bko",
+							"expanded_url": "http://facebook.com/Libyan.Stamps",
+							"display_url": "facebook.com/Libyan.Stamps",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 955,
+			"friends_count": 113,
+			"listed_count": 14,
+			"created_at": "Mon Apr 23 08:23:23 +0000 2012",
+			"favourites_count": 2,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 2287,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/2158712002/LOGO_map_OKfinale_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/2158712002/LOGO_map_OKfinale_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/560934527/1401698653",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 9,
+		"favorite_count": 16,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "es",
+		"text": "⚽️ DIEGO ARMANDO MARADONA (30.10.1960 - 25.11.2020). Info in: https://t.co/0JPith1hzI #Philately #Stamps #Philatelie #Timbres #Filatelia #Maradona #MaradonaRIP https://t.co/sYt11iugG9"
+	},
+	{
+		"created_at": "Wed Nov 25 20:02:08 +0000 2020",
+		"id": 1331689648511475700,
+		"id_str": "1331689648511475715",
+		"full_text": "UAE halts new visas to citizens of 13 mostly Muslim states. List includes Iran, Syria, Somalia, Libya, Yemen, Algeria, Kenya, Iraq, Lebanon, Tunisia, Turkey, Afghanistan and Pakistan https://t.co/918oW1IG9b",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			206
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/918oW1IG9b",
+					"expanded_url": "https://www.reuters.com/article/emirates-immigration-int/uae-halts-new-visas-to-citizens-of-13-mostly-muslim-states-document-idUSKBN2850OW",
+					"display_url": "reuters.com/article/emirat…",
+					"indices": [
+						183,
+						206
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 5242,
+			"id_str": "5242",
+			"name": "Ahmed Al Omran",
+			"screen_name": "ahmed",
+			"location": "the internet",
+			"description": "Saudi journalist · Formerly with @FT, @WSJ and @NPR · Email: alomran@hey.com · Subscribe to my @riyadhbureau newsletter: https://t.co/n4l70Swyzv",
+			"url": "http://t.co/1tckurrksd",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/1tckurrksd",
+							"expanded_url": "http://alomran.me",
+							"display_url": "alomran.me",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/n4l70Swyzv",
+							"expanded_url": "https://www.riyadhbureau.com/",
+							"display_url": "riyadhbureau.com",
+							"indices": [
+								121,
+								144
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 150768,
+			"friends_count": 1955,
+			"listed_count": 2371,
+			"created_at": "Mon Sep 04 00:18:12 +0000 2006",
+			"favourites_count": 5323,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 105967,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "CCCCCC",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme5/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme5/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1325223421966479360/DJnkAtqN_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1325223421966479360/DJnkAtqN_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/5242/1569089262",
+			"profile_link_color": "002FA7",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "99CC33",
+			"profile_text_color": "3E4415",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "UAE halts new visas to citizens of 13 mostly Muslim states. List includes Iran, Syria, Somalia, Libya, Yemen, Algeria, Kenya, Iraq, Lebanon, Tunisia, Turkey, Afghanistan and Pakistan https://t.co/918oW1IG9b"
+	},
+	{
+		"created_at": "Wed Nov 25 19:56:23 +0000 2020",
+		"id": 1331688202730692600,
+		"id_str": "1331688202730692611",
+		"full_text": "A mine in the Red Sea off Saudi Arabia’s coast near Yemen exploded and damaged an oil tanker https://t.co/FQ7jdOXyZg",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			116
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/FQ7jdOXyZg",
+					"expanded_url": "https://apnews.com/article/dubai-saudi-arabia-united-arab-emirates-jiddah-yemen-79ab505c8576520935bf3e757e2d2b80",
+					"display_url": "apnews.com/article/dubai-…",
+					"indices": [
+						93,
+						116
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 5242,
+			"id_str": "5242",
+			"name": "Ahmed Al Omran",
+			"screen_name": "ahmed",
+			"location": "the internet",
+			"description": "Saudi journalist · Formerly with @FT, @WSJ and @NPR · Email: alomran@hey.com · Subscribe to my @riyadhbureau newsletter: https://t.co/n4l70Swyzv",
+			"url": "http://t.co/1tckurrksd",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/1tckurrksd",
+							"expanded_url": "http://alomran.me",
+							"display_url": "alomran.me",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/n4l70Swyzv",
+							"expanded_url": "https://www.riyadhbureau.com/",
+							"display_url": "riyadhbureau.com",
+							"indices": [
+								121,
+								144
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 150768,
+			"friends_count": 1955,
+			"listed_count": 2371,
+			"created_at": "Mon Sep 04 00:18:12 +0000 2006",
+			"favourites_count": 5323,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 105967,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "CCCCCC",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme5/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme5/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1325223421966479360/DJnkAtqN_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1325223421966479360/DJnkAtqN_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/5242/1569089262",
+			"profile_link_color": "002FA7",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "99CC33",
+			"profile_text_color": "3E4415",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "A mine in the Red Sea off Saudi Arabia’s coast near Yemen exploded and damaged an oil tanker https://t.co/FQ7jdOXyZg"
+	},
+	{
+		"created_at": "Wed Nov 25 19:36:31 +0000 2020",
+		"id": 1331683204042993700,
+		"id_str": "1331683204042993669",
+		"full_text": "/cc @elliot__ross",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			17
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "elliot__ross",
+					"name": "elliot ross",
+					"id": 1711403796,
+					"id_str": "1711403796",
+					"indices": [
+						4,
+						17
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 1331677754207703000,
+		"in_reply_to_status_id_str": "1331677754207703040",
+		"in_reply_to_user_id": 5242,
+		"in_reply_to_user_id_str": "5242",
+		"in_reply_to_screen_name": "ahmed",
+		"user": {
+			"id": 5242,
+			"id_str": "5242",
+			"name": "Ahmed Al Omran",
+			"screen_name": "ahmed",
+			"location": "the internet",
+			"description": "Saudi journalist · Formerly with @FT, @WSJ and @NPR · Email: alomran@hey.com · Subscribe to my @riyadhbureau newsletter: https://t.co/n4l70Swyzv",
+			"url": "http://t.co/1tckurrksd",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/1tckurrksd",
+							"expanded_url": "http://alomran.me",
+							"display_url": "alomran.me",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/n4l70Swyzv",
+							"expanded_url": "https://www.riyadhbureau.com/",
+							"display_url": "riyadhbureau.com",
+							"indices": [
+								121,
+								144
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 150768,
+			"friends_count": 1955,
+			"listed_count": 2371,
+			"created_at": "Mon Sep 04 00:18:12 +0000 2006",
+			"favourites_count": 5323,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 105967,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "CCCCCC",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme5/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme5/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1325223421966479360/DJnkAtqN_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1325223421966479360/DJnkAtqN_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/5242/1569089262",
+			"profile_link_color": "002FA7",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "99CC33",
+			"profile_text_color": "3E4415",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "und",
+		"text": "/cc @elliot__ross"
+	},
+	{
+		"created_at": "Wed Nov 25 19:14:52 +0000 2020",
+		"id": 1331677754207703000,
+		"id_str": "1331677754207703040",
+		"full_text": "Maradona was 19 when he scored his first international goal in this friendly match against Scotland in Hampden Park in 1979 https://t.co/Qzl1tL5e3c",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			123
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1331677537999712300,
+					"id_str": "1331677537999712260",
+					"indices": [
+						124,
+						147
+					],
+					"media_url": "http://pbs.twimg.com/media/EnsRqk_W8AQc9KD.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EnsRqk_W8AQc9KD.jpg",
+					"url": "https://t.co/Qzl1tL5e3c",
+					"display_url": "pic.twitter.com/Qzl1tL5e3c",
+					"expanded_url": "https://twitter.com/ahmed/status/1331677754207703040/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 720,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 408,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1152,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1331677537999712300,
+					"id_str": "1331677537999712260",
+					"indices": [
+						124,
+						147
+					],
+					"media_url": "http://pbs.twimg.com/media/EnsRqk_W8AQc9KD.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EnsRqk_W8AQc9KD.jpg",
+					"url": "https://t.co/Qzl1tL5e3c",
+					"display_url": "pic.twitter.com/Qzl1tL5e3c",
+					"expanded_url": "https://twitter.com/ahmed/status/1331677754207703040/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 720,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 408,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1152,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1331677537987129300,
+					"id_str": "1331677537987129352",
+					"indices": [
+						124,
+						147
+					],
+					"media_url": "http://pbs.twimg.com/media/EnsRqk8W8Agau-f.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EnsRqk8W8Agau-f.jpg",
+					"url": "https://t.co/Qzl1tL5e3c",
+					"display_url": "pic.twitter.com/Qzl1tL5e3c",
+					"expanded_url": "https://twitter.com/ahmed/status/1331677754207703040/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 481,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 849,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1440,
+							"h": 2036,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1331677537987162000,
+					"id_str": "1331677537987162114",
+					"indices": [
+						124,
+						147
+					],
+					"media_url": "http://pbs.twimg.com/media/EnsRqk8XcAIwWRt.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EnsRqk8XcAIwWRt.jpg",
+					"url": "https://t.co/Qzl1tL5e3c",
+					"display_url": "pic.twitter.com/Qzl1tL5e3c",
+					"expanded_url": "https://twitter.com/ahmed/status/1331677754207703040/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1440,
+							"h": 1429,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1191,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 675,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1331677537991274500,
+					"id_str": "1331677537991274499",
+					"indices": [
+						124,
+						147
+					],
+					"media_url": "http://pbs.twimg.com/media/EnsRqk9WMAMPDug.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EnsRqk9WMAMPDug.jpg",
+					"url": "https://t.co/Qzl1tL5e3c",
+					"display_url": "pic.twitter.com/Qzl1tL5e3c",
+					"expanded_url": "https://twitter.com/ahmed/status/1331677754207703040/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1440,
+							"h": 1775,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 552,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 974,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 5242,
+			"id_str": "5242",
+			"name": "Ahmed Al Omran",
+			"screen_name": "ahmed",
+			"location": "the internet",
+			"description": "Saudi journalist · Formerly with @FT, @WSJ and @NPR · Email: alomran@hey.com · Subscribe to my @riyadhbureau newsletter: https://t.co/n4l70Swyzv",
+			"url": "http://t.co/1tckurrksd",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/1tckurrksd",
+							"expanded_url": "http://alomran.me",
+							"display_url": "alomran.me",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/n4l70Swyzv",
+							"expanded_url": "https://www.riyadhbureau.com/",
+							"display_url": "riyadhbureau.com",
+							"indices": [
+								121,
+								144
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 150768,
+			"friends_count": 1955,
+			"listed_count": 2371,
+			"created_at": "Mon Sep 04 00:18:12 +0000 2006",
+			"favourites_count": 5323,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 105967,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "CCCCCC",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme5/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme5/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1325223421966479360/DJnkAtqN_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1325223421966479360/DJnkAtqN_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/5242/1569089262",
+			"profile_link_color": "002FA7",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "99CC33",
+			"profile_text_color": "3E4415",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 8,
+		"favorite_count": 29,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Maradona was 19 when he scored his first international goal in this friendly match against Scotland in Hampden Park in 1979 https://t.co/Qzl1tL5e3c"
+	},
+	{
+		"created_at": "Wed Nov 25 18:55:09 +0000 2020",
+		"id": 1331672791570133000,
+		"id_str": "1331672791570132993",
+		"full_text": "The fact that Americans haven’t rallied against the coronavirus speaks to the tenacity of the individualist ethos in this moment in the US https://t.co/3AczIWu6O8",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			162
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/3AczIWu6O8",
+					"expanded_url": "https://annehelen.substack.com/p/you-still-need-to-have-the-conversation",
+					"display_url": "annehelen.substack.com/p/you-still-ne…",
+					"indices": [
+						139,
+						162
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 5242,
+			"id_str": "5242",
+			"name": "Ahmed Al Omran",
+			"screen_name": "ahmed",
+			"location": "the internet",
+			"description": "Saudi journalist · Formerly with @FT, @WSJ and @NPR · Email: alomran@hey.com · Subscribe to my @riyadhbureau newsletter: https://t.co/n4l70Swyzv",
+			"url": "http://t.co/1tckurrksd",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/1tckurrksd",
+							"expanded_url": "http://alomran.me",
+							"display_url": "alomran.me",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/n4l70Swyzv",
+							"expanded_url": "https://www.riyadhbureau.com/",
+							"display_url": "riyadhbureau.com",
+							"indices": [
+								121,
+								144
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 150768,
+			"friends_count": 1955,
+			"listed_count": 2371,
+			"created_at": "Mon Sep 04 00:18:12 +0000 2006",
+			"favourites_count": 5323,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 105967,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "CCCCCC",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme5/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme5/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1325223421966479360/DJnkAtqN_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1325223421966479360/DJnkAtqN_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/5242/1569089262",
+			"profile_link_color": "002FA7",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "99CC33",
+			"profile_text_color": "3E4415",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "The fact that Americans haven’t rallied against the coronavirus speaks to the tenacity of the individualist ethos in this moment in the US https://t.co/3AczIWu6O8"
+	},
+	{
+		"created_at": "Wed Nov 25 18:02:40 +0000 2020",
+		"id": 1331659584684044300,
+		"id_str": "1331659584684044290",
+		"full_text": "While Maradona’s dribbling prowess was world renowned, fewer people know that his skills were used to construct one of the most memorable monetary policy analogies of all time https://t.co/N4PHoOyKFz",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			199
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/N4PHoOyKFz",
+					"expanded_url": "https://www.ft.com/content/a30d00a9-1172-4e88-a913-5898b0c2eeab",
+					"display_url": "ft.com/content/a30d00…",
+					"indices": [
+						176,
+						199
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 5242,
+			"id_str": "5242",
+			"name": "Ahmed Al Omran",
+			"screen_name": "ahmed",
+			"location": "the internet",
+			"description": "Saudi journalist · Formerly with @FT, @WSJ and @NPR · Email: alomran@hey.com · Subscribe to my @riyadhbureau newsletter: https://t.co/n4l70Swyzv",
+			"url": "http://t.co/1tckurrksd",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/1tckurrksd",
+							"expanded_url": "http://alomran.me",
+							"display_url": "alomran.me",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/n4l70Swyzv",
+							"expanded_url": "https://www.riyadhbureau.com/",
+							"display_url": "riyadhbureau.com",
+							"indices": [
+								121,
+								144
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 150768,
+			"friends_count": 1955,
+			"listed_count": 2371,
+			"created_at": "Mon Sep 04 00:18:12 +0000 2006",
+			"favourites_count": 5323,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 105967,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "CCCCCC",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme5/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme5/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1325223421966479360/DJnkAtqN_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1325223421966479360/DJnkAtqN_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/5242/1569089262",
+			"profile_link_color": "002FA7",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "99CC33",
+			"profile_text_color": "3E4415",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 9,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "While Maradona’s dribbling prowess was world renowned, fewer people know that his skills were used to construct one of the most memorable monetary policy analogies of all time https://t.co/N4PHoOyKFz"
+	},
+	{
+		"created_at": "Wed Nov 25 17:58:14 +0000 2020",
+		"id": 1331658467191480300,
+		"id_str": "1331658467191480320",
+		"full_text": "FT Editorial Board: Western governments say Egypt is an important partner whose stability is vital, but their silence has emboldened one of the region’s most oppressive regimes https://t.co/mg2cbdXfQ1",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			200
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/mg2cbdXfQ1",
+					"expanded_url": "https://www.ft.com/content/6372107c-274a-4fd3-8d5b-571c15748057",
+					"display_url": "ft.com/content/637210…",
+					"indices": [
+						177,
+						200
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 5242,
+			"id_str": "5242",
+			"name": "Ahmed Al Omran",
+			"screen_name": "ahmed",
+			"location": "the internet",
+			"description": "Saudi journalist · Formerly with @FT, @WSJ and @NPR · Email: alomran@hey.com · Subscribe to my @riyadhbureau newsletter: https://t.co/n4l70Swyzv",
+			"url": "http://t.co/1tckurrksd",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/1tckurrksd",
+							"expanded_url": "http://alomran.me",
+							"display_url": "alomran.me",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/n4l70Swyzv",
+							"expanded_url": "https://www.riyadhbureau.com/",
+							"display_url": "riyadhbureau.com",
+							"indices": [
+								121,
+								144
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 150768,
+			"friends_count": 1955,
+			"listed_count": 2371,
+			"created_at": "Mon Sep 04 00:18:12 +0000 2006",
+			"favourites_count": 5323,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 105967,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "CCCCCC",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme5/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme5/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1325223421966479360/DJnkAtqN_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1325223421966479360/DJnkAtqN_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/5242/1569089262",
+			"profile_link_color": "002FA7",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "99CC33",
+			"profile_text_color": "3E4415",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "FT Editorial Board: Western governments say Egypt is an important partner whose stability is vital, but their silence has emboldened one of the region’s most oppressive regimes https://t.co/mg2cbdXfQ1"
+	},
+	{
+		"created_at": "Wed Nov 25 17:38:35 +0000 2020",
+		"id": 1331653521566032000,
+		"id_str": "1331653521566031875",
+		"full_text": "As the coronavirus pandemic gives cover to governments to get more hard line against dissent, Morocco’s leadership is using it to complete its reversal of reforms that won it praise from the West and made the country a standout in a turbulent region https://t.co/KMJfoSI0F4",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			273
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/KMJfoSI0F4",
+					"expanded_url": "https://www.bloomberg.com/news/articles/2020-07-24/covid-crackdown-snuffs-out-flickering-embers-of-the-arab-spring",
+					"display_url": "bloomberg.com/news/articles/…",
+					"indices": [
+						250,
+						273
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 5242,
+			"id_str": "5242",
+			"name": "Ahmed Al Omran",
+			"screen_name": "ahmed",
+			"location": "the internet",
+			"description": "Saudi journalist · Formerly with @FT, @WSJ and @NPR · Email: alomran@hey.com · Subscribe to my @riyadhbureau newsletter: https://t.co/n4l70Swyzv",
+			"url": "http://t.co/1tckurrksd",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/1tckurrksd",
+							"expanded_url": "http://alomran.me",
+							"display_url": "alomran.me",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/n4l70Swyzv",
+							"expanded_url": "https://www.riyadhbureau.com/",
+							"display_url": "riyadhbureau.com",
+							"indices": [
+								121,
+								144
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 150768,
+			"friends_count": 1955,
+			"listed_count": 2371,
+			"created_at": "Mon Sep 04 00:18:12 +0000 2006",
+			"favourites_count": 5323,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 105967,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "CCCCCC",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme5/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme5/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1325223421966479360/DJnkAtqN_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1325223421966479360/DJnkAtqN_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/5242/1569089262",
+			"profile_link_color": "002FA7",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "99CC33",
+			"profile_text_color": "3E4415",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 8,
+		"favorite_count": 27,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "As the coronavirus pandemic gives cover to governments to get more hard line against dissent, Morocco’s leadership is using it to complete its reversal of reforms that won it praise from the West and made the country a standout in a turbulent region https://t.co/KMJfoSI0F4"
+	},
+	{
+		"created_at": "Wed Nov 25 16:37:30 +0000 2020",
+		"id": 1331638151039815700,
+		"id_str": "1331638151039815680",
+		"full_text": "Maradona during a visit to play a friendly match in Jeddah, Saudi Arabia in 1987. Rest in peace. https://t.co/j1zqW5bEJN",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			96
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1331638082035208200,
+					"id_str": "1331638082035208199",
+					"indices": [
+						97,
+						120
+					],
+					"media_url": "http://pbs.twimg.com/media/Enrtx8EXUAchMzz.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Enrtx8EXUAchMzz.jpg",
+					"url": "https://t.co/j1zqW5bEJN",
+					"display_url": "pic.twitter.com/j1zqW5bEJN",
+					"expanded_url": "https://twitter.com/ahmed/status/1331638151039815680/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 312,
+							"h": 396,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 312,
+							"h": 396,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 312,
+							"h": 396,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1331638082035208200,
+					"id_str": "1331638082035208199",
+					"indices": [
+						97,
+						120
+					],
+					"media_url": "http://pbs.twimg.com/media/Enrtx8EXUAchMzz.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Enrtx8EXUAchMzz.jpg",
+					"url": "https://t.co/j1zqW5bEJN",
+					"display_url": "pic.twitter.com/j1zqW5bEJN",
+					"expanded_url": "https://twitter.com/ahmed/status/1331638151039815680/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 312,
+							"h": 396,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 312,
+							"h": 396,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 312,
+							"h": 396,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1331638082035216400,
+					"id_str": "1331638082035216384",
+					"indices": [
+						97,
+						120
+					],
+					"media_url": "http://pbs.twimg.com/media/Enrtx8EXcAAGGZE.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Enrtx8EXcAAGGZE.jpg",
+					"url": "https://t.co/j1zqW5bEJN",
+					"display_url": "pic.twitter.com/j1zqW5bEJN",
+					"expanded_url": "https://twitter.com/ahmed/status/1331638151039815680/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 546,
+							"h": 304,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 546,
+							"h": 304,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 546,
+							"h": 304,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1331638082010046500,
+					"id_str": "1331638082010046466",
+					"indices": [
+						97,
+						120
+					],
+					"media_url": "http://pbs.twimg.com/media/Enrtx7-XYAIgq2V.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Enrtx7-XYAIgq2V.jpg",
+					"url": "https://t.co/j1zqW5bEJN",
+					"display_url": "pic.twitter.com/j1zqW5bEJN",
+					"expanded_url": "https://twitter.com/ahmed/status/1331638151039815680/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 840,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 476,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 840,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1331638082014236700,
+					"id_str": "1331638082014236675",
+					"indices": [
+						97,
+						120
+					],
+					"media_url": "http://pbs.twimg.com/media/Enrtx7_XUAMZ1qV.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Enrtx7_XUAMZ1qV.jpg",
+					"url": "https://t.co/j1zqW5bEJN",
+					"display_url": "pic.twitter.com/j1zqW5bEJN",
+					"expanded_url": "https://twitter.com/ahmed/status/1331638151039815680/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 430,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 937,
+							"h": 592,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 937,
+							"h": 592,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 5242,
+			"id_str": "5242",
+			"name": "Ahmed Al Omran",
+			"screen_name": "ahmed",
+			"location": "the internet",
+			"description": "Saudi journalist · Formerly with @FT, @WSJ and @NPR · Email: alomran@hey.com · Subscribe to my @riyadhbureau newsletter: https://t.co/n4l70Swyzv",
+			"url": "http://t.co/1tckurrksd",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/1tckurrksd",
+							"expanded_url": "http://alomran.me",
+							"display_url": "alomran.me",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/n4l70Swyzv",
+							"expanded_url": "https://www.riyadhbureau.com/",
+							"display_url": "riyadhbureau.com",
+							"indices": [
+								121,
+								144
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 150768,
+			"friends_count": 1955,
+			"listed_count": 2371,
+			"created_at": "Mon Sep 04 00:18:12 +0000 2006",
+			"favourites_count": 5323,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 105967,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "CCCCCC",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme5/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme5/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1325223421966479360/DJnkAtqN_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1325223421966479360/DJnkAtqN_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/5242/1569089262",
+			"profile_link_color": "002FA7",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "99CC33",
+			"profile_text_color": "3E4415",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 21,
+		"favorite_count": 69,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Maradona during a visit to play a friendly match in Jeddah, Saudi Arabia in 1987. Rest in peace. https://t.co/j1zqW5bEJN"
+	},
+	{
+		"created_at": "Wed Nov 25 10:26:10 +0000 2020",
+		"id": 1331544701720256500,
+		"id_str": "1331544701720256512",
+		"full_text": "The infamous boat building at the end of Jeddah’s Tahlia Street is being demolished https://t.co/J0W3Z5ipPR",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			83
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/J0W3Z5ipPR",
+					"expanded_url": "https://twitter.com/JeddahAmanah/status/1331460923161186304",
+					"display_url": "twitter.com/JeddahAmanah/s…",
+					"indices": [
+						84,
+						107
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 5242,
+			"id_str": "5242",
+			"name": "Ahmed Al Omran",
+			"screen_name": "ahmed",
+			"location": "the internet",
+			"description": "Saudi journalist · Formerly with @FT, @WSJ and @NPR · Email: alomran@hey.com · Subscribe to my @riyadhbureau newsletter: https://t.co/n4l70Swyzv",
+			"url": "http://t.co/1tckurrksd",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/1tckurrksd",
+							"expanded_url": "http://alomran.me",
+							"display_url": "alomran.me",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/n4l70Swyzv",
+							"expanded_url": "https://www.riyadhbureau.com/",
+							"display_url": "riyadhbureau.com",
+							"indices": [
+								121,
+								144
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 150768,
+			"friends_count": 1955,
+			"listed_count": 2371,
+			"created_at": "Mon Sep 04 00:18:12 +0000 2006",
+			"favourites_count": 5323,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 105967,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "CCCCCC",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme5/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme5/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1325223421966479360/DJnkAtqN_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1325223421966479360/DJnkAtqN_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/5242/1569089262",
+			"profile_link_color": "002FA7",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "99CC33",
+			"profile_text_color": "3E4415",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1331460923161186300,
+		"quoted_status_id_str": "1331460923161186304",
+		"quoted_status_permalink": {
+			"url": "https://t.co/J0W3Z5ipPR",
+			"expanded": "https://twitter.com/JeddahAmanah/status/1331460923161186304",
+			"display": "twitter.com/JeddahAmanah/s…"
+		},
+		"quoted_status": {
+			"created_at": "Wed Nov 25 04:53:16 +0000 2020",
+			"id": 1331460923161186300,
+			"id_str": "1331460923161186304",
+			"full_text": "#أمانة_جدة تزيل مبنى السفينة على طريق الملك عبدالعزيز بسبب عدة مخالفات وعدم الوفاء بالتعهدات النظامية اللازمة. https://t.co/KUp68uWVyA",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				110
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "أمانة_جدة",
+						"indices": [
+							0,
+							10
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1331460916387459000,
+						"id_str": "1331460916387459072",
+						"indices": [
+							111,
+							134
+						],
+						"media_url": "http://pbs.twimg.com/media/EnpMpimXMAAHMh1.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EnpMpimXMAAHMh1.jpg",
+						"url": "https://t.co/KUp68uWVyA",
+						"display_url": "pic.twitter.com/KUp68uWVyA",
+						"expanded_url": "https://twitter.com/JeddahAmanah/status/1331460923161186304/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 436,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 770,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1280,
+								"h": 821,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1331460916387459000,
+						"id_str": "1331460916387459072",
+						"indices": [
+							111,
+							134
+						],
+						"media_url": "http://pbs.twimg.com/media/EnpMpimXMAAHMh1.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EnpMpimXMAAHMh1.jpg",
+						"url": "https://t.co/KUp68uWVyA",
+						"display_url": "pic.twitter.com/KUp68uWVyA",
+						"expanded_url": "https://twitter.com/JeddahAmanah/status/1331460923161186304/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 436,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 770,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1280,
+								"h": 821,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 1331460916379082800,
+						"id_str": "1331460916379082752",
+						"indices": [
+							111,
+							134
+						],
+						"media_url": "http://pbs.twimg.com/media/EnpMpikXYAAQaAH.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EnpMpikXYAAQaAH.jpg",
+						"url": "https://t.co/KUp68uWVyA",
+						"display_url": "pic.twitter.com/KUp68uWVyA",
+						"expanded_url": "https://twitter.com/JeddahAmanah/status/1331460923161186304/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 441,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 778,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1280,
+								"h": 830,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 1331460916379062300,
+						"id_str": "1331460916379062274",
+						"indices": [
+							111,
+							134
+						],
+						"media_url": "http://pbs.twimg.com/media/EnpMpikXEAIB2df.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EnpMpikXEAIB2df.jpg",
+						"url": "https://t.co/KUp68uWVyA",
+						"display_url": "pic.twitter.com/KUp68uWVyA",
+						"expanded_url": "https://twitter.com/JeddahAmanah/status/1331460923161186304/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1280,
+								"h": 822,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 771,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 437,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 1331460916379050000,
+						"id_str": "1331460916379049985",
+						"indices": [
+							111,
+							134
+						],
+						"media_url": "http://pbs.twimg.com/media/EnpMpikW4AEelQ3.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EnpMpikW4AEelQ3.jpg",
+						"url": "https://t.co/KUp68uWVyA",
+						"display_url": "pic.twitter.com/KUp68uWVyA",
+						"expanded_url": "https://twitter.com/JeddahAmanah/status/1331460923161186304/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 441,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1280,
+								"h": 830,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 778,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 58427580,
+				"id_str": "58427580",
+				"name": "أمانة محافظة جدة",
+				"screen_name": "JeddahAmanah",
+				"location": "Jeddah, Saudi Arabia",
+				"description": "الحساب الرسمي لـ #أمانة_جدة | للطوارئ والبلاغات (بلدي940) | لمتابعة البلاغات @AmanahSupport تلقرام https://t.co/0YSqBJWaFw",
+				"url": "https://t.co/m2TXTn0xsF",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/m2TXTn0xsF",
+								"expanded_url": "http://www.jeddah.gov.sa",
+								"display_url": "jeddah.gov.sa",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/0YSqBJWaFw",
+								"expanded_url": "https://t.me/joinchat/AAAAAFZILd22IOFzPO1SS",
+								"display_url": "t.me/joinchat/AAAAA…",
+								"indices": [
+									99,
+									122
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 2092148,
+				"friends_count": 10,
+				"listed_count": 617,
+				"created_at": "Mon Jul 20 08:45:57 +0000 2009",
+				"favourites_count": 183,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 44792,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "3F2F86",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1312025018709225473/NmNTpCtp_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1312025018709225473/NmNTpCtp_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/58427580/1605693290",
+				"profile_link_color": "009999",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "D5EEFA",
+				"profile_text_color": "071404",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "regular"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 288,
+			"favorite_count": 637,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "ar"
+		},
+		"retweet_count": 4,
+		"favorite_count": 10,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "The infamous boat building at the end of Jeddah’s Tahlia Street is being demolished https://t.co/J0W3Z5ipPR"
+	},
+	{
+		"created_at": "Wed Nov 25 10:20:21 +0000 2020",
+		"id": 1331543240139530200,
+		"id_str": "1331543240139530240",
+		"full_text": "Snapchat releases new tool to feature popular videos, called Spotlight, says it will pay out $1 million a day to creators of the top-performing posts. To earn the money, video submitters to don’t have to have large followers -- or even have public profiles https://t.co/WLoGn4J8u0",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			280
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/WLoGn4J8u0",
+					"expanded_url": "https://www.bloomberg.com/news/articles/2020-11-23/snap-to-pay-1-million-a-day-to-creators-for-spotlight-videos",
+					"display_url": "bloomberg.com/news/articles/…",
+					"indices": [
+						257,
+						280
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 5242,
+			"id_str": "5242",
+			"name": "Ahmed Al Omran",
+			"screen_name": "ahmed",
+			"location": "the internet",
+			"description": "Saudi journalist · Formerly with @FT, @WSJ and @NPR · Email: alomran@hey.com · Subscribe to my @riyadhbureau newsletter: https://t.co/n4l70Swyzv",
+			"url": "http://t.co/1tckurrksd",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/1tckurrksd",
+							"expanded_url": "http://alomran.me",
+							"display_url": "alomran.me",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/n4l70Swyzv",
+							"expanded_url": "https://www.riyadhbureau.com/",
+							"display_url": "riyadhbureau.com",
+							"indices": [
+								121,
+								144
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 150768,
+			"friends_count": 1955,
+			"listed_count": 2371,
+			"created_at": "Mon Sep 04 00:18:12 +0000 2006",
+			"favourites_count": 5323,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 105967,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "CCCCCC",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme5/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme5/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1325223421966479360/DJnkAtqN_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1325223421966479360/DJnkAtqN_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/5242/1569089262",
+			"profile_link_color": "002FA7",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "99CC33",
+			"profile_text_color": "3E4415",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Snapchat releases new tool to feature popular videos, called Spotlight, says it will pay out $1 million a day to creators of the top-performing posts. To earn the money, video submitters to don’t have to have large followers -- or even have public profiles https://t.co/WLoGn4J8u0"
+	},
+	{
+		"created_at": "Wed Nov 25 10:09:08 +0000 2020",
+		"id": 1331540416441839600,
+		"id_str": "1331540416441839616",
+		"full_text": "يسأل @t_saif: هل الزي (بما فيه الشكل المسمى حجاباً شرعياً) وبقية المظاهر، وكذلك الأعراف الحياتية، هل هذه جميعاً من جوهر الدين، وأن الدين لا يقوم إلا بها، أم إنها من أعراض الحياة التي اكتسبت لوناً دينياً، أو احتملت لوناً دينياً، مع أنها ليست من جوهر الدين؟ https://t.co/0g6gi3mfSn",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			279
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "t_saif",
+					"name": "توفيق السيف",
+					"id": 229007287,
+					"id_str": "229007287",
+					"indices": [
+						5,
+						12
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/0g6gi3mfSn",
+					"expanded_url": "https://aawsat.com/node/2645236/",
+					"display_url": "aawsat.com/node/2645236/",
+					"indices": [
+						256,
+						279
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 5242,
+			"id_str": "5242",
+			"name": "Ahmed Al Omran",
+			"screen_name": "ahmed",
+			"location": "the internet",
+			"description": "Saudi journalist · Formerly with @FT, @WSJ and @NPR · Email: alomran@hey.com · Subscribe to my @riyadhbureau newsletter: https://t.co/n4l70Swyzv",
+			"url": "http://t.co/1tckurrksd",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/1tckurrksd",
+							"expanded_url": "http://alomran.me",
+							"display_url": "alomran.me",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/n4l70Swyzv",
+							"expanded_url": "https://www.riyadhbureau.com/",
+							"display_url": "riyadhbureau.com",
+							"indices": [
+								121,
+								144
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 150768,
+			"friends_count": 1955,
+			"listed_count": 2371,
+			"created_at": "Mon Sep 04 00:18:12 +0000 2006",
+			"favourites_count": 5323,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 105967,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "CCCCCC",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme5/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme5/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1325223421966479360/DJnkAtqN_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1325223421966479360/DJnkAtqN_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/5242/1569089262",
+			"profile_link_color": "002FA7",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "99CC33",
+			"profile_text_color": "3E4415",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ar",
+		"text": "يسأل @t_saif: هل الزي (بما فيه الشكل المسمى حجاباً شرعياً) وبقية المظاهر، وكذلك الأعراف الحياتية، هل هذه جميعاً من جوهر الدين، وأن الدين لا يقوم إلا بها، أم إنها من أعراض الحياة التي اكتسبت لوناً دينياً، أو احتملت لوناً دينياً، مع أنها ليست من جوهر الدين؟ https://t.co/0g6gi3mfSn"
+	},
+	{
 		"created_at": "Tue Nov 24 20:57:24 +0000 2020",
 		"id": 1331341169985540000,
 		"id_str": "1331341169985540097",
