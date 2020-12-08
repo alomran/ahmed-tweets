@@ -1,6 +1,1016 @@
 Grailbird.data.tweets_2020_12 = 
 [
 	{
+		"created_at": "Tue Dec 08 21:17:05 +0000 2020",
+		"id": 1336419551135797200,
+		"id_str": "1336419551135797252",
+		"full_text": "Qatar will play in European qualifiers for the 2022 World Cup to give the hosts essential preparation games ahead of the tournament https://t.co/I8ibeNlWjM",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			155
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/I8ibeNlWjM",
+					"expanded_url": "https://www.independent.co.uk/sport/football/international/qatar-world-cup-2022-qualifying-b1768149.html",
+					"display_url": "independent.co.uk/sport/football…",
+					"indices": [
+						132,
+						155
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 5242,
+			"id_str": "5242",
+			"name": "Ahmed Al Omran",
+			"screen_name": "ahmed",
+			"location": "the internet",
+			"description": "Saudi journalist · Formerly with @FT, @WSJ and @NPR · Email: alomran@hey.com · Subscribe to my @riyadhbureau newsletter: https://t.co/n4l70Swyzv",
+			"url": "http://t.co/1tckurrksd",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/1tckurrksd",
+							"expanded_url": "http://alomran.me",
+							"display_url": "alomran.me",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/n4l70Swyzv",
+							"expanded_url": "https://www.riyadhbureau.com/",
+							"display_url": "riyadhbureau.com",
+							"indices": [
+								121,
+								144
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 150811,
+			"friends_count": 1953,
+			"listed_count": 2370,
+			"created_at": "Mon Sep 04 00:18:12 +0000 2006",
+			"favourites_count": 5336,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 106038,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "CCCCCC",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme5/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme5/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1325223421966479360/DJnkAtqN_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1325223421966479360/DJnkAtqN_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/5242/1569089262",
+			"profile_link_color": "002FA7",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "99CC33",
+			"profile_text_color": "3E4415",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Qatar will play in European qualifiers for the 2022 World Cup to give the hosts essential preparation games ahead of the tournament https://t.co/I8ibeNlWjM"
+	},
+	{
+		"created_at": "Tue Dec 08 12:43:41 +0000 2020",
+		"id": 1336290352697905200,
+		"id_str": "1336290352697905152",
+		"full_text": "My latest on the Gulf crisis: how we got here, and what’s next? Subscribe now and get 20% off &gt;&gt;  https://t.co/UhXoUItx9B",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			127
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/UhXoUItx9B",
+					"expanded_url": "https://www.riyadhbureau.com/p/saudi-qatar-rift",
+					"display_url": "riyadhbureau.com/p/saudi-qatar-…",
+					"indices": [
+						104,
+						127
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 5242,
+			"id_str": "5242",
+			"name": "Ahmed Al Omran",
+			"screen_name": "ahmed",
+			"location": "the internet",
+			"description": "Saudi journalist · Formerly with @FT, @WSJ and @NPR · Email: alomran@hey.com · Subscribe to my @riyadhbureau newsletter: https://t.co/n4l70Swyzv",
+			"url": "http://t.co/1tckurrksd",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/1tckurrksd",
+							"expanded_url": "http://alomran.me",
+							"display_url": "alomran.me",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/n4l70Swyzv",
+							"expanded_url": "https://www.riyadhbureau.com/",
+							"display_url": "riyadhbureau.com",
+							"indices": [
+								121,
+								144
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 150811,
+			"friends_count": 1953,
+			"listed_count": 2370,
+			"created_at": "Mon Sep 04 00:18:12 +0000 2006",
+			"favourites_count": 5336,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 106038,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "CCCCCC",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme5/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme5/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1325223421966479360/DJnkAtqN_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1325223421966479360/DJnkAtqN_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/5242/1569089262",
+			"profile_link_color": "002FA7",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "99CC33",
+			"profile_text_color": "3E4415",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 8,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "My latest on the Gulf crisis: how we got here, and what’s next? Subscribe now and get 20% off &gt;&gt;  https://t.co/UhXoUItx9B"
+	},
+	{
+		"created_at": "Tue Dec 08 12:39:35 +0000 2020",
+		"id": 1336289319770841000,
+		"id_str": "1336289319770841089",
+		"full_text": "Abu Dhabi Media signs MoU with Israel’s i24News for content and production https://t.co/lvYM3K61PR",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			98
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/lvYM3K61PR",
+					"expanded_url": "https://www.broadcastprome.com/news/abu-dhabi-media-signs-mou-with-israels-i24news-for-content-and-production/",
+					"display_url": "broadcastprome.com/news/abu-dhabi…",
+					"indices": [
+						75,
+						98
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 5242,
+			"id_str": "5242",
+			"name": "Ahmed Al Omran",
+			"screen_name": "ahmed",
+			"location": "the internet",
+			"description": "Saudi journalist · Formerly with @FT, @WSJ and @NPR · Email: alomran@hey.com · Subscribe to my @riyadhbureau newsletter: https://t.co/n4l70Swyzv",
+			"url": "http://t.co/1tckurrksd",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/1tckurrksd",
+							"expanded_url": "http://alomran.me",
+							"display_url": "alomran.me",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/n4l70Swyzv",
+							"expanded_url": "https://www.riyadhbureau.com/",
+							"display_url": "riyadhbureau.com",
+							"indices": [
+								121,
+								144
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 150811,
+			"friends_count": 1953,
+			"listed_count": 2370,
+			"created_at": "Mon Sep 04 00:18:12 +0000 2006",
+			"favourites_count": 5336,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 106038,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "CCCCCC",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme5/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme5/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1325223421966479360/DJnkAtqN_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1325223421966479360/DJnkAtqN_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/5242/1569089262",
+			"profile_link_color": "002FA7",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "99CC33",
+			"profile_text_color": "3E4415",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 5,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Abu Dhabi Media signs MoU with Israel’s i24News for content and production https://t.co/lvYM3K61PR"
+	},
+	{
+		"created_at": "Tue Dec 08 11:11:57 +0000 2020",
+		"id": 1336267265063456800,
+		"id_str": "1336267265063456771",
+		"full_text": "Kuwait ruler re-appoints Sheikh Sabah al-Khalid as prime minister https://t.co/HAiyna7tSR",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			89
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/HAiyna7tSR",
+					"expanded_url": "https://www.kuna.net.kw/ArticleDetails.aspx?id=2944645&language=en",
+					"display_url": "kuna.net.kw/ArticleDetails…",
+					"indices": [
+						66,
+						89
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 5242,
+			"id_str": "5242",
+			"name": "Ahmed Al Omran",
+			"screen_name": "ahmed",
+			"location": "the internet",
+			"description": "Saudi journalist · Formerly with @FT, @WSJ and @NPR · Email: alomran@hey.com · Subscribe to my @riyadhbureau newsletter: https://t.co/n4l70Swyzv",
+			"url": "http://t.co/1tckurrksd",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/1tckurrksd",
+							"expanded_url": "http://alomran.me",
+							"display_url": "alomran.me",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/n4l70Swyzv",
+							"expanded_url": "https://www.riyadhbureau.com/",
+							"display_url": "riyadhbureau.com",
+							"indices": [
+								121,
+								144
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 150811,
+			"friends_count": 1953,
+			"listed_count": 2370,
+			"created_at": "Mon Sep 04 00:18:12 +0000 2006",
+			"favourites_count": 5336,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 106038,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "CCCCCC",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme5/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme5/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1325223421966479360/DJnkAtqN_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1325223421966479360/DJnkAtqN_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/5242/1569089262",
+			"profile_link_color": "002FA7",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "99CC33",
+			"profile_text_color": "3E4415",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Kuwait ruler re-appoints Sheikh Sabah al-Khalid as prime minister https://t.co/HAiyna7tSR"
+	},
+	{
+		"created_at": "Tue Dec 08 10:45:54 +0000 2020",
+		"id": 1336260711849353200,
+		"id_str": "1336260711849353221",
+		"full_text": "So basically @AppMrsool? https://t.co/tCUrCJFiDp",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			24
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "AppMrsool",
+					"name": "مـرسول | MRSOOL",
+					"id": 3949793296,
+					"id_str": "3949793296",
+					"indices": [
+						13,
+						23
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/tCUrCJFiDp",
+					"expanded_url": "https://twitter.com/sarahoconnor_/status/1336259826263977994",
+					"display_url": "twitter.com/sarahoconnor_/…",
+					"indices": [
+						25,
+						48
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 5242,
+			"id_str": "5242",
+			"name": "Ahmed Al Omran",
+			"screen_name": "ahmed",
+			"location": "the internet",
+			"description": "Saudi journalist · Formerly with @FT, @WSJ and @NPR · Email: alomran@hey.com · Subscribe to my @riyadhbureau newsletter: https://t.co/n4l70Swyzv",
+			"url": "http://t.co/1tckurrksd",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/1tckurrksd",
+							"expanded_url": "http://alomran.me",
+							"display_url": "alomran.me",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/n4l70Swyzv",
+							"expanded_url": "https://www.riyadhbureau.com/",
+							"display_url": "riyadhbureau.com",
+							"indices": [
+								121,
+								144
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 150811,
+			"friends_count": 1953,
+			"listed_count": 2370,
+			"created_at": "Mon Sep 04 00:18:12 +0000 2006",
+			"favourites_count": 5336,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 106038,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "CCCCCC",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme5/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme5/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1325223421966479360/DJnkAtqN_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1325223421966479360/DJnkAtqN_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/5242/1569089262",
+			"profile_link_color": "002FA7",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "99CC33",
+			"profile_text_color": "3E4415",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1336259826263978000,
+		"quoted_status_id_str": "1336259826263977994",
+		"quoted_status_permalink": {
+			"url": "https://t.co/tCUrCJFiDp",
+			"expanded": "https://twitter.com/sarahoconnor_/status/1336259826263977994",
+			"display": "twitter.com/sarahoconnor_/…"
+		},
+		"quoted_status": {
+			"created_at": "Tue Dec 08 10:42:23 +0000 2020",
+			"id": 1336259826263978000,
+			"id_str": "1336259826263977994",
+			"full_text": "Uber has abandoned its own self-driving car project. Another nail in the coffin for the Uber bull argument on how they'll become profitable. Khosrowshahi's vision for the future is a bit more mundane, &amp; involves low-paid humans doing things for you... https://t.co/fAGatfBJub https://t.co/zNDeopKEd3",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				279
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/fAGatfBJub",
+						"expanded_url": "https://www.ft.com/content/e55ce767-0ede-4096-aa3b-1d26671f3772I",
+						"display_url": "ft.com/content/e55ce7…",
+						"indices": [
+							256,
+							279
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1336259814670950400,
+						"id_str": "1336259814670950400",
+						"indices": [
+							280,
+							303
+						],
+						"media_url": "http://pbs.twimg.com/media/EotZOL0XYAAsGoo.png",
+						"media_url_https": "https://pbs.twimg.com/media/EotZOL0XYAAsGoo.png",
+						"url": "https://t.co/zNDeopKEd3",
+						"display_url": "pic.twitter.com/zNDeopKEd3",
+						"expanded_url": "https://twitter.com/sarahoconnor_/status/1336259826263977994/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 99,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1107,
+								"h": 161,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1107,
+								"h": 161,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1336259814670950400,
+						"id_str": "1336259814670950400",
+						"indices": [
+							280,
+							303
+						],
+						"media_url": "http://pbs.twimg.com/media/EotZOL0XYAAsGoo.png",
+						"media_url_https": "https://pbs.twimg.com/media/EotZOL0XYAAsGoo.png",
+						"url": "https://t.co/zNDeopKEd3",
+						"display_url": "pic.twitter.com/zNDeopKEd3",
+						"expanded_url": "https://twitter.com/sarahoconnor_/status/1336259826263977994/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 99,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1107,
+								"h": 161,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1107,
+								"h": 161,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 316348903,
+				"id_str": "316348903",
+				"name": "Sarah O'Connor",
+				"screen_name": "sarahoconnor_",
+				"location": "United Kingdom",
+				"description": "FT columnist, writer and associate editor, focused on the world of work. Bootstrappy regional. Opinions mine, not the FT's https://t.co/BG7DzZDteh",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/BG7DzZDteh",
+								"expanded_url": "http://ft.com/sarah-o-connor",
+								"display_url": "ft.com/sarah-o-connor",
+								"indices": [
+									123,
+									146
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 45729,
+				"friends_count": 2813,
+				"listed_count": 804,
+				"created_at": "Mon Jun 13 09:42:27 +0000 2011",
+				"favourites_count": 9458,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 11256,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/469511111813787648/BH2r3HjD_normal.jpeg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/469511111813787648/BH2r3HjD_normal.jpeg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/316348903/1495790302",
+				"profile_link_color": "E81C4F",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 65,
+			"favorite_count": 226,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 1,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "So basically @AppMrsool? https://t.co/tCUrCJFiDp"
+	},
+	{
+		"created_at": "Tue Dec 08 10:42:59 +0000 2020",
+		"id": 1336259974599684000,
+		"id_str": "1336259974599684097",
+		"full_text": "Saudi foreign minister is in Sudan for the first time since al-Bashir ouster https://t.co/btCkEePQq4",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			100
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/btCkEePQq4",
+					"expanded_url": "https://www.spa.gov.sa/2166247",
+					"display_url": "spa.gov.sa/2166247",
+					"indices": [
+						77,
+						100
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 5242,
+			"id_str": "5242",
+			"name": "Ahmed Al Omran",
+			"screen_name": "ahmed",
+			"location": "the internet",
+			"description": "Saudi journalist · Formerly with @FT, @WSJ and @NPR · Email: alomran@hey.com · Subscribe to my @riyadhbureau newsletter: https://t.co/n4l70Swyzv",
+			"url": "http://t.co/1tckurrksd",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/1tckurrksd",
+							"expanded_url": "http://alomran.me",
+							"display_url": "alomran.me",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/n4l70Swyzv",
+							"expanded_url": "https://www.riyadhbureau.com/",
+							"display_url": "riyadhbureau.com",
+							"indices": [
+								121,
+								144
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 150811,
+			"friends_count": 1953,
+			"listed_count": 2370,
+			"created_at": "Mon Sep 04 00:18:12 +0000 2006",
+			"favourites_count": 5336,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 106038,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "CCCCCC",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme5/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme5/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1325223421966479360/DJnkAtqN_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1325223421966479360/DJnkAtqN_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/5242/1569089262",
+			"profile_link_color": "002FA7",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "99CC33",
+			"profile_text_color": "3E4415",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 10,
+		"favorite_count": 12,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Saudi foreign minister is in Sudan for the first time since al-Bashir ouster https://t.co/btCkEePQq4"
+	},
+	{
+		"created_at": "Mon Dec 07 22:45:20 +0000 2020",
+		"id": 1336079375058559000,
+		"id_str": "1336079375058558976",
+		"full_text": "OnlyFans has 85 million users, upward of 1 million creators, and will generate more than $2 billion in sales this year, of which it keeps about 20%. That puts the site on track for $400 million in annual net sales https://t.co/wUje2IAgmG",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			237
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/wUje2IAgmG",
+					"expanded_url": "https://www.bloomberg.com/news/articles/2020-12-05/celebrities-like-cardi-b-could-turn-onlyfans-into-a-billion-dollar-media-company",
+					"display_url": "bloomberg.com/news/articles/…",
+					"indices": [
+						214,
+						237
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 5242,
+			"id_str": "5242",
+			"name": "Ahmed Al Omran",
+			"screen_name": "ahmed",
+			"location": "the internet",
+			"description": "Saudi journalist · Formerly with @FT, @WSJ and @NPR · Email: alomran@hey.com · Subscribe to my @riyadhbureau newsletter: https://t.co/n4l70Swyzv",
+			"url": "http://t.co/1tckurrksd",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/1tckurrksd",
+							"expanded_url": "http://alomran.me",
+							"display_url": "alomran.me",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/n4l70Swyzv",
+							"expanded_url": "https://www.riyadhbureau.com/",
+							"display_url": "riyadhbureau.com",
+							"indices": [
+								121,
+								144
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 150811,
+			"friends_count": 1953,
+			"listed_count": 2370,
+			"created_at": "Mon Sep 04 00:18:12 +0000 2006",
+			"favourites_count": 5336,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 106038,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "CCCCCC",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme5/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme5/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1325223421966479360/DJnkAtqN_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1325223421966479360/DJnkAtqN_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/5242/1569089262",
+			"profile_link_color": "002FA7",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "99CC33",
+			"profile_text_color": "3E4415",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "OnlyFans has 85 million users, upward of 1 million creators, and will generate more than $2 billion in sales this year, of which it keeps about 20%. That puts the site on track for $400 million in annual net sales https://t.co/wUje2IAgmG"
+	},
+	{
 		"created_at": "Mon Dec 07 12:29:14 +0000 2020",
 		"id": 1335924326797881300,
 		"id_str": "1335924326797881344",
