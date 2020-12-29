@@ -1,6 +1,236 @@
 Grailbird.data.tweets_2020_12 = 
 [
 	{
+		"created_at": "Tue Dec 29 09:45:23 +0000 2020",
+		"id": 1343855626586353700,
+		"id_str": "1343855626586353664",
+		"full_text": "Saudi Arabia’s National Museum is now led by a woman: Laila Alfaddagh. She comes from Saudi Aramco, where she was head of museums and exhibits at Ithra https://t.co/2iSIXElD79 https://t.co/ucpZxxSDAj",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			175
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/2iSIXElD79",
+					"expanded_url": "https://www.spa.gov.sa/2173110",
+					"display_url": "spa.gov.sa/2173110",
+					"indices": [
+						152,
+						175
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1343855506922872800,
+					"id_str": "1343855506922872832",
+					"indices": [
+						176,
+						199
+					],
+					"media_url": "http://pbs.twimg.com/media/EqZVdqeXIAAz7oW.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EqZVdqeXIAAz7oW.jpg",
+					"url": "https://t.co/ucpZxxSDAj",
+					"display_url": "pic.twitter.com/ucpZxxSDAj",
+					"expanded_url": "https://twitter.com/ahmed/status/1343855626586353664/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 760,
+							"h": 760,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 760,
+							"h": 760,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1343855506922872800,
+					"id_str": "1343855506922872832",
+					"indices": [
+						176,
+						199
+					],
+					"media_url": "http://pbs.twimg.com/media/EqZVdqeXIAAz7oW.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EqZVdqeXIAAz7oW.jpg",
+					"url": "https://t.co/ucpZxxSDAj",
+					"display_url": "pic.twitter.com/ucpZxxSDAj",
+					"expanded_url": "https://twitter.com/ahmed/status/1343855626586353664/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 760,
+							"h": 760,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 760,
+							"h": 760,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1343855506922856400,
+					"id_str": "1343855506922856448",
+					"indices": [
+						176,
+						199
+					],
+					"media_url": "http://pbs.twimg.com/media/EqZVdqeW4AAgDEX.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EqZVdqeW4AAgDEX.jpg",
+					"url": "https://t.co/ucpZxxSDAj",
+					"display_url": "pic.twitter.com/ucpZxxSDAj",
+					"expanded_url": "https://twitter.com/ahmed/status/1343855626586353664/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 197,
+							"h": 204,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 197,
+							"h": 204,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 197,
+							"h": 204,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 5242,
+			"id_str": "5242",
+			"name": "Ahmed Al Omran",
+			"screen_name": "ahmed",
+			"location": "the internet",
+			"description": "Saudi journalist ⦙ Formerly with @FT, @WSJ and @NPR ⦙ Email alomran@hey.com ⦙ Subscribe to my @riyadhbureau newsletter https://t.co/i1MM94SRXS",
+			"url": "http://t.co/1tckurrksd",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/1tckurrksd",
+							"expanded_url": "http://alomran.me",
+							"display_url": "alomran.me",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/i1MM94SRXS",
+							"expanded_url": "http://riyadhbureau.com",
+							"display_url": "riyadhbureau.com",
+							"indices": [
+								119,
+								142
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 150802,
+			"friends_count": 1956,
+			"listed_count": 2363,
+			"created_at": "Mon Sep 04 00:18:12 +0000 2006",
+			"favourites_count": 5336,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 106226,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "CCCCCC",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme5/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme5/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1325223421966479360/DJnkAtqN_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1325223421966479360/DJnkAtqN_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/5242/1569089262",
+			"profile_link_color": "002FA7",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "99CC33",
+			"profile_text_color": "3E4415",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 32,
+		"favorite_count": 98,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Saudi Arabia’s National Museum is now led by a woman: Laila Alfaddagh. She comes from Saudi Aramco, where she was head of museums and exhibits at Ithra https://t.co/2iSIXElD79 https://t.co/ucpZxxSDAj"
+	},
+	{
 		"created_at": "Mon Dec 28 15:08:14 +0000 2020",
 		"id": 1343574486549999600,
 		"id_str": "1343574486549999617",
