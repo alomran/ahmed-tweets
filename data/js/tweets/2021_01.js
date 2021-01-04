@@ -1,6 +1,912 @@
 Grailbird.data.tweets_2021_01 = 
 [
 	{
+		"created_at": "Mon Jan 04 20:29:56 +0000 2021",
+		"id": 1346192160899661800,
+		"id_str": "1346192160899661826",
+		"full_text": "Here’s my piece on @riyadhbureau last month about resolving the Gulf crisis and the latest breakthrough: https://t.co/UhXoUItx9B",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			128
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "riyadhbureau",
+					"name": "Riyadh Bureau",
+					"id": 7686182,
+					"id_str": "7686182",
+					"indices": [
+						19,
+						32
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/UhXoUItx9B",
+					"expanded_url": "https://www.riyadhbureau.com/p/saudi-qatar-rift",
+					"display_url": "riyadhbureau.com/p/saudi-qatar-…",
+					"indices": [
+						105,
+						128
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 1346176530481877000,
+		"in_reply_to_status_id_str": "1346176530481876993",
+		"in_reply_to_user_id": 5242,
+		"in_reply_to_user_id_str": "5242",
+		"in_reply_to_screen_name": "ahmed",
+		"user": {
+			"id": 5242,
+			"id_str": "5242",
+			"name": "Ahmed Al Omran",
+			"screen_name": "ahmed",
+			"location": "the internet",
+			"description": "Saudi journalist ⦙ Formerly with @FT, @WSJ and @NPR ⦙ Email alomran@hey.com ⦙ Subscribe to my @riyadhbureau newsletter https://t.co/i1MM94SRXS",
+			"url": "http://t.co/1tckurrksd",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/1tckurrksd",
+							"expanded_url": "http://alomran.me",
+							"display_url": "alomran.me",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/i1MM94SRXS",
+							"expanded_url": "http://riyadhbureau.com",
+							"display_url": "riyadhbureau.com",
+							"indices": [
+								119,
+								142
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 150832,
+			"friends_count": 1954,
+			"listed_count": 2364,
+			"created_at": "Mon Sep 04 00:18:12 +0000 2006",
+			"favourites_count": 5328,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 106268,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "CCCCCC",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme5/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme5/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1325223421966479360/DJnkAtqN_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1325223421966479360/DJnkAtqN_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/5242/1569089262",
+			"profile_link_color": "002FA7",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "99CC33",
+			"profile_text_color": "3E4415",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 7,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Here’s my piece on @riyadhbureau last month about resolving the Gulf crisis and the latest breakthrough: https://t.co/UhXoUItx9B"
+	},
+	{
+		"created_at": "Mon Jan 04 20:24:46 +0000 2021",
+		"id": 1346190859251933200,
+		"id_str": "1346190859251933186",
+		"full_text": "@matthewddsg Bit of both: parting gift to Trump and a warming gift for Biden. Worth noting though this is just a first step, still seems like a long way to go before full resolution",
+		"truncated": false,
+		"display_text_range": [
+			13,
+			181
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "matthewddsg",
+					"name": "Matthew Gomes",
+					"id": 86613492,
+					"id_str": "86613492",
+					"indices": [
+						0,
+						12
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 1346183293000167400,
+		"in_reply_to_status_id_str": "1346183293000167428",
+		"in_reply_to_user_id": 86613492,
+		"in_reply_to_user_id_str": "86613492",
+		"in_reply_to_screen_name": "matthewddsg",
+		"user": {
+			"id": 5242,
+			"id_str": "5242",
+			"name": "Ahmed Al Omran",
+			"screen_name": "ahmed",
+			"location": "the internet",
+			"description": "Saudi journalist ⦙ Formerly with @FT, @WSJ and @NPR ⦙ Email alomran@hey.com ⦙ Subscribe to my @riyadhbureau newsletter https://t.co/i1MM94SRXS",
+			"url": "http://t.co/1tckurrksd",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/1tckurrksd",
+							"expanded_url": "http://alomran.me",
+							"display_url": "alomran.me",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/i1MM94SRXS",
+							"expanded_url": "http://riyadhbureau.com",
+							"display_url": "riyadhbureau.com",
+							"indices": [
+								119,
+								142
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 150832,
+			"friends_count": 1954,
+			"listed_count": 2364,
+			"created_at": "Mon Sep 04 00:18:12 +0000 2006",
+			"favourites_count": 5328,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 106268,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "CCCCCC",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme5/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme5/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1325223421966479360/DJnkAtqN_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1325223421966479360/DJnkAtqN_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/5242/1569089262",
+			"profile_link_color": "002FA7",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "99CC33",
+			"profile_text_color": "3E4415",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@matthewddsg Bit of both: parting gift to Trump and a warming gift for Biden. Worth noting though this is just a first step, still seems like a long way to go before full resolution"
+	},
+	{
+		"created_at": "Mon Jan 04 19:27:50 +0000 2021",
+		"id": 1346176530481877000,
+		"id_str": "1346176530481876993",
+		"full_text": "Qatar confirms that ruler Sheikh Tamim will attend the GCC summit in Saudi Arabia tomorrow",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			90
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 1346167734204313600,
+		"in_reply_to_status_id_str": "1346167734204313600",
+		"in_reply_to_user_id": 5242,
+		"in_reply_to_user_id_str": "5242",
+		"in_reply_to_screen_name": "ahmed",
+		"user": {
+			"id": 5242,
+			"id_str": "5242",
+			"name": "Ahmed Al Omran",
+			"screen_name": "ahmed",
+			"location": "the internet",
+			"description": "Saudi journalist ⦙ Formerly with @FT, @WSJ and @NPR ⦙ Email alomran@hey.com ⦙ Subscribe to my @riyadhbureau newsletter https://t.co/i1MM94SRXS",
+			"url": "http://t.co/1tckurrksd",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/1tckurrksd",
+							"expanded_url": "http://alomran.me",
+							"display_url": "alomran.me",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/i1MM94SRXS",
+							"expanded_url": "http://riyadhbureau.com",
+							"display_url": "riyadhbureau.com",
+							"indices": [
+								119,
+								142
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 150832,
+			"friends_count": 1954,
+			"listed_count": 2364,
+			"created_at": "Mon Sep 04 00:18:12 +0000 2006",
+			"favourites_count": 5328,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 106268,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "CCCCCC",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme5/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme5/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1325223421966479360/DJnkAtqN_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1325223421966479360/DJnkAtqN_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/5242/1569089262",
+			"profile_link_color": "002FA7",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "99CC33",
+			"profile_text_color": "3E4415",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 13,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "Qatar confirms that ruler Sheikh Tamim will attend the GCC summit in Saudi Arabia tomorrow"
+	},
+	{
+		"created_at": "Mon Jan 04 18:52:53 +0000 2021",
+		"id": 1346167734204313600,
+		"id_str": "1346167734204313600",
+		"full_text": "Jared Kushner en route to attend the GCC summit in al-Ula after helping negotiating deal to end Gulf crisis —Reuters",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			116
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 1346163051096105000,
+		"in_reply_to_status_id_str": "1346163051096104962",
+		"in_reply_to_user_id": 5242,
+		"in_reply_to_user_id_str": "5242",
+		"in_reply_to_screen_name": "ahmed",
+		"user": {
+			"id": 5242,
+			"id_str": "5242",
+			"name": "Ahmed Al Omran",
+			"screen_name": "ahmed",
+			"location": "the internet",
+			"description": "Saudi journalist ⦙ Formerly with @FT, @WSJ and @NPR ⦙ Email alomran@hey.com ⦙ Subscribe to my @riyadhbureau newsletter https://t.co/i1MM94SRXS",
+			"url": "http://t.co/1tckurrksd",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/1tckurrksd",
+							"expanded_url": "http://alomran.me",
+							"display_url": "alomran.me",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/i1MM94SRXS",
+							"expanded_url": "http://riyadhbureau.com",
+							"display_url": "riyadhbureau.com",
+							"indices": [
+								119,
+								142
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 150832,
+			"friends_count": 1954,
+			"listed_count": 2364,
+			"created_at": "Mon Sep 04 00:18:12 +0000 2006",
+			"favourites_count": 5328,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 106268,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "CCCCCC",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme5/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme5/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1325223421966479360/DJnkAtqN_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1325223421966479360/DJnkAtqN_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/5242/1569089262",
+			"profile_link_color": "002FA7",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "99CC33",
+			"profile_text_color": "3E4415",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 8,
+		"favorite_count": 10,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "Jared Kushner en route to attend the GCC summit in al-Ula after helping negotiating deal to end Gulf crisis —Reuters"
+	},
+	{
+		"created_at": "Mon Jan 04 18:34:16 +0000 2021",
+		"id": 1346163051096105000,
+		"id_str": "1346163051096104962",
+		"full_text": "Saudi crown prince says kingdom’s policy based on achieving “greater interests of GCC” countries —statement",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			107
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 1346161544388898800,
+		"in_reply_to_status_id_str": "1346161544388898822",
+		"in_reply_to_user_id": 5242,
+		"in_reply_to_user_id_str": "5242",
+		"in_reply_to_screen_name": "ahmed",
+		"user": {
+			"id": 5242,
+			"id_str": "5242",
+			"name": "Ahmed Al Omran",
+			"screen_name": "ahmed",
+			"location": "the internet",
+			"description": "Saudi journalist ⦙ Formerly with @FT, @WSJ and @NPR ⦙ Email alomran@hey.com ⦙ Subscribe to my @riyadhbureau newsletter https://t.co/i1MM94SRXS",
+			"url": "http://t.co/1tckurrksd",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/1tckurrksd",
+							"expanded_url": "http://alomran.me",
+							"display_url": "alomran.me",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/i1MM94SRXS",
+							"expanded_url": "http://riyadhbureau.com",
+							"display_url": "riyadhbureau.com",
+							"indices": [
+								119,
+								142
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 150832,
+			"friends_count": 1954,
+			"listed_count": 2364,
+			"created_at": "Mon Sep 04 00:18:12 +0000 2006",
+			"favourites_count": 5328,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 106268,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "CCCCCC",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme5/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme5/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1325223421966479360/DJnkAtqN_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1325223421966479360/DJnkAtqN_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/5242/1569089262",
+			"profile_link_color": "002FA7",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "99CC33",
+			"profile_text_color": "3E4415",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 5,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "Saudi crown prince says kingdom’s policy based on achieving “greater interests of GCC” countries —statement"
+	},
+	{
+		"created_at": "Mon Jan 04 18:28:17 +0000 2021",
+		"id": 1346161544388898800,
+		"id_str": "1346161544388898822",
+		"full_text": "Saudi Arabia and Qatar agree to re-open airspace and borders, Kuwait foreign minister says",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			90
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 5242,
+			"id_str": "5242",
+			"name": "Ahmed Al Omran",
+			"screen_name": "ahmed",
+			"location": "the internet",
+			"description": "Saudi journalist ⦙ Formerly with @FT, @WSJ and @NPR ⦙ Email alomran@hey.com ⦙ Subscribe to my @riyadhbureau newsletter https://t.co/i1MM94SRXS",
+			"url": "http://t.co/1tckurrksd",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/1tckurrksd",
+							"expanded_url": "http://alomran.me",
+							"display_url": "alomran.me",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/i1MM94SRXS",
+							"expanded_url": "http://riyadhbureau.com",
+							"display_url": "riyadhbureau.com",
+							"indices": [
+								119,
+								142
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 150832,
+			"friends_count": 1954,
+			"listed_count": 2364,
+			"created_at": "Mon Sep 04 00:18:12 +0000 2006",
+			"favourites_count": 5328,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 106268,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "CCCCCC",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme5/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme5/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1325223421966479360/DJnkAtqN_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1325223421966479360/DJnkAtqN_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/5242/1569089262",
+			"profile_link_color": "002FA7",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "99CC33",
+			"profile_text_color": "3E4415",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 49,
+		"favorite_count": 105,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "Saudi Arabia and Qatar agree to re-open airspace and borders, Kuwait foreign minister says"
+	},
+	{
+		"created_at": "Mon Jan 04 17:32:27 +0000 2021",
+		"id": 1346147493910896600,
+		"id_str": "1346147493910896647",
+		"full_text": "@Jayesh_Khabar You can find more data on the dashboard: https://t.co/749fYN7Cps",
+		"truncated": false,
+		"display_text_range": [
+			15,
+			79
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Jayesh_Khabar",
+					"name": "Jayesh Khabar",
+					"id": 20356825,
+					"id_str": "20356825",
+					"indices": [
+						0,
+						14
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/749fYN7Cps",
+					"expanded_url": "https://covid19.moh.gov.sa",
+					"display_url": "covid19.moh.gov.sa",
+					"indices": [
+						56,
+						79
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 1346146280771354600,
+		"in_reply_to_status_id_str": "1346146280771354626",
+		"in_reply_to_user_id": 20356825,
+		"in_reply_to_user_id_str": "20356825",
+		"in_reply_to_screen_name": "Jayesh_Khabar",
+		"user": {
+			"id": 5242,
+			"id_str": "5242",
+			"name": "Ahmed Al Omran",
+			"screen_name": "ahmed",
+			"location": "the internet",
+			"description": "Saudi journalist ⦙ Formerly with @FT, @WSJ and @NPR ⦙ Email alomran@hey.com ⦙ Subscribe to my @riyadhbureau newsletter https://t.co/i1MM94SRXS",
+			"url": "http://t.co/1tckurrksd",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/1tckurrksd",
+							"expanded_url": "http://alomran.me",
+							"display_url": "alomran.me",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/i1MM94SRXS",
+							"expanded_url": "http://riyadhbureau.com",
+							"display_url": "riyadhbureau.com",
+							"indices": [
+								119,
+								142
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 150832,
+			"friends_count": 1954,
+			"listed_count": 2364,
+			"created_at": "Mon Sep 04 00:18:12 +0000 2006",
+			"favourites_count": 5328,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 106268,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "CCCCCC",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme5/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme5/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1325223421966479360/DJnkAtqN_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1325223421966479360/DJnkAtqN_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/5242/1569089262",
+			"profile_link_color": "002FA7",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "99CC33",
+			"profile_text_color": "3E4415",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@Jayesh_Khabar You can find more data on the dashboard: https://t.co/749fYN7Cps"
+	},
+	{
+		"created_at": "Mon Jan 04 12:46:51 +0000 2021",
+		"id": 1346075620841836500,
+		"id_str": "1346075620841836545",
+		"full_text": "New daily coronavirus cases in Saudi Arabia dip below 100 https://t.co/34EAc3DYf0",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			81
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/34EAc3DYf0",
+					"expanded_url": "https://saudigazette.com.sa/article/602092/SAUDI-ARABIA/New-coronavirus-cases-in-Kingdom-dip-below-100",
+					"display_url": "saudigazette.com.sa/article/602092…",
+					"indices": [
+						58,
+						81
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 5242,
+			"id_str": "5242",
+			"name": "Ahmed Al Omran",
+			"screen_name": "ahmed",
+			"location": "the internet",
+			"description": "Saudi journalist ⦙ Formerly with @FT, @WSJ and @NPR ⦙ Email alomran@hey.com ⦙ Subscribe to my @riyadhbureau newsletter https://t.co/i1MM94SRXS",
+			"url": "http://t.co/1tckurrksd",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/1tckurrksd",
+							"expanded_url": "http://alomran.me",
+							"display_url": "alomran.me",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/i1MM94SRXS",
+							"expanded_url": "http://riyadhbureau.com",
+							"display_url": "riyadhbureau.com",
+							"indices": [
+								119,
+								142
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 150832,
+			"friends_count": 1954,
+			"listed_count": 2364,
+			"created_at": "Mon Sep 04 00:18:12 +0000 2006",
+			"favourites_count": 5328,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 106268,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "CCCCCC",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme5/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme5/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1325223421966479360/DJnkAtqN_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1325223421966479360/DJnkAtqN_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/5242/1569089262",
+			"profile_link_color": "002FA7",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "99CC33",
+			"profile_text_color": "3E4415",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 5,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "in",
+		"text": "New daily coronavirus cases in Saudi Arabia dip below 100 https://t.co/34EAc3DYf0"
+	},
+	{
 		"created_at": "Sun Jan 03 15:00:49 +0000 2021",
 		"id": 1345746946942767000,
 		"id_str": "1345746946942767104",
