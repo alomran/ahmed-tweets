@@ -1,6 +1,122 @@
 Grailbird.data.tweets_2021_01 = 
 [
 	{
+		"created_at": "Tue Jan 19 14:08:44 +0000 2021",
+		"id": 1351532043277119500,
+		"id_str": "1351532043277119490",
+		"full_text": "“Today, we have no reason to celebrate any big successes, but we do have not only the right but the obligation to be hopeful that what we have started will eventually win.” https://t.co/eFFSRvlclc",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			196
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/eFFSRvlclc",
+					"expanded_url": "https://www.cjr.org/the_media_today/arab_spring_press_freedom_10_years.php",
+					"display_url": "cjr.org/the_media_toda…",
+					"indices": [
+						173,
+						196
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 5242,
+			"id_str": "5242",
+			"name": "Ahmed Al Omran",
+			"screen_name": "ahmed",
+			"location": "the internet",
+			"description": "Saudi journalist ❒ Formerly with @FT, @WSJ and @NPR ❒ Email alomran@hey.com ❒ Subscribe to my @riyadhbureau newsletter https://t.co/i1MM94SRXS",
+			"url": "http://t.co/1tckurrksd",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/1tckurrksd",
+							"expanded_url": "http://alomran.me",
+							"display_url": "alomran.me",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/i1MM94SRXS",
+							"expanded_url": "http://riyadhbureau.com",
+							"display_url": "riyadhbureau.com",
+							"indices": [
+								119,
+								142
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 151001,
+			"friends_count": 1953,
+			"listed_count": 2368,
+			"created_at": "Mon Sep 04 00:18:12 +0000 2006",
+			"favourites_count": 5288,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 106394,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "CCCCCC",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme5/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme5/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1325223421966479360/DJnkAtqN_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1325223421966479360/DJnkAtqN_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/5242/1569089262",
+			"profile_link_color": "002FA7",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "99CC33",
+			"profile_text_color": "3E4415",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "“Today, we have no reason to celebrate any big successes, but we do have not only the right but the obligation to be hopeful that what we have started will eventually win.” https://t.co/eFFSRvlclc"
+	},
+	{
 		"created_at": "Mon Jan 18 20:56:50 +0000 2021",
 		"id": 1351272360117219300,
 		"id_str": "1351272360117219335",
@@ -594,7 +710,7 @@ Grailbird.data.tweets_2021_01 =
 		"created_at": "Mon Jan 18 17:16:55 +0000 2021",
 		"id": 1351217015646793700,
 		"id_str": "1351217015646793741",
-		"full_text": "Sorry skipped number 13 by mistake 🤦🏻‍♂️",
+		"full_text": "Sorry skipped number 13 by mistake 🤦🏻♂️",
 		"truncated": false,
 		"display_text_range": [
 			0,
@@ -693,7 +809,7 @@ Grailbird.data.tweets_2021_01 =
 		"favorited": false,
 		"retweeted": false,
 		"lang": "en",
-		"text": "Sorry skipped number 13 by mistake 🤦🏻‍♂️"
+		"text": "Sorry skipped number 13 by mistake 🤦🏻♂️"
 	},
 	{
 		"created_at": "Mon Jan 18 17:13:28 +0000 2021",
