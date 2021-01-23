@@ -1,6 +1,984 @@
 Grailbird.data.tweets_2021_01 = 
 [
 	{
+		"created_at": "Sat Jan 23 21:09:07 +0000 2021",
+		"id": 1353087390861176800,
+		"id_str": "1353087390861176832",
+		"full_text": "“It is a common misconception that supporting a team is about trophies and championships and glory. It is not. If it were, millions of us would simply not bother. It is, instead, about memories of moments.” https://t.co/INfkaLVELe",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			230
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/INfkaLVELe",
+					"expanded_url": "https://www.nytimes.com/2021/01/22/sports/soccer/mesut-ozil-fenerbahce-arsenal.html",
+					"display_url": "nytimes.com/2021/01/22/spo…",
+					"indices": [
+						207,
+						230
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 5242,
+			"id_str": "5242",
+			"name": "Ahmed Al Omran",
+			"screen_name": "ahmed",
+			"location": "the internet",
+			"description": "Saudi journalist ❒ Formerly with @FT, @WSJ and @NPR ❒ Email alomran@hey.com ❒ Subscribe to my @riyadhbureau newsletter https://t.co/i1MM94SRXS",
+			"url": "http://t.co/1tckurrksd",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/1tckurrksd",
+							"expanded_url": "http://alomran.me",
+							"display_url": "alomran.me",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/i1MM94SRXS",
+							"expanded_url": "http://riyadhbureau.com",
+							"display_url": "riyadhbureau.com",
+							"indices": [
+								119,
+								142
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 150984,
+			"friends_count": 1952,
+			"listed_count": 2368,
+			"created_at": "Mon Sep 04 00:18:12 +0000 2006",
+			"favourites_count": 5290,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 106427,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "CCCCCC",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme5/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme5/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1325223421966479360/DJnkAtqN_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1325223421966479360/DJnkAtqN_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/5242/1569089262",
+			"profile_link_color": "002FA7",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "99CC33",
+			"profile_text_color": "3E4415",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 5,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "“It is a common misconception that supporting a team is about trophies and championships and glory. It is not. If it were, millions of us would simply not bother. It is, instead, about memories of moments.” https://t.co/INfkaLVELe"
+	},
+	{
+		"created_at": "Sat Jan 23 13:56:44 +0000 2021",
+		"id": 1352978578242216000,
+		"id_str": "1352978578242215938",
+		"full_text": "King Abdullah passed away on this day 6 years ago. Biden was initially expected to lead the US delegation to the funeral, but Obama decided to cut short his visit to India and came to Riyadh to personally pay his respect https://t.co/cCl16pN5PG",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			220
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/cCl16pN5PG",
+					"expanded_url": "https://twitter.com/ahmed/status/558464534633906176",
+					"display_url": "twitter.com/ahmed/status/5…",
+					"indices": [
+						221,
+						244
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 5242,
+			"id_str": "5242",
+			"name": "Ahmed Al Omran",
+			"screen_name": "ahmed",
+			"location": "the internet",
+			"description": "Saudi journalist ❒ Formerly with @FT, @WSJ and @NPR ❒ Email alomran@hey.com ❒ Subscribe to my @riyadhbureau newsletter https://t.co/i1MM94SRXS",
+			"url": "http://t.co/1tckurrksd",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/1tckurrksd",
+							"expanded_url": "http://alomran.me",
+							"display_url": "alomran.me",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/i1MM94SRXS",
+							"expanded_url": "http://riyadhbureau.com",
+							"display_url": "riyadhbureau.com",
+							"indices": [
+								119,
+								142
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 150984,
+			"friends_count": 1952,
+			"listed_count": 2368,
+			"created_at": "Mon Sep 04 00:18:12 +0000 2006",
+			"favourites_count": 5290,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 106427,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "CCCCCC",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme5/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme5/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1325223421966479360/DJnkAtqN_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1325223421966479360/DJnkAtqN_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/5242/1569089262",
+			"profile_link_color": "002FA7",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "99CC33",
+			"profile_text_color": "3E4415",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 558464534633906200,
+		"quoted_status_id_str": "558464534633906176",
+		"quoted_status_permalink": {
+			"url": "https://t.co/cCl16pN5PG",
+			"expanded": "https://twitter.com/ahmed/status/558464534633906176",
+			"display": "twitter.com/ahmed/status/5…"
+		},
+		"quoted_status": {
+			"created_at": "Fri Jan 23 03:21:35 +0000 2015",
+			"id": 558464534633906200,
+			"id_str": "558464534633906176",
+			"full_text": "Saudi newspapers update their front pages this morning after the King Abdullah’s death http://t.co/eNgJl4ve9w",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				109
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 558464523254779900,
+						"id_str": "558464523254779906",
+						"indices": [
+							87,
+							109
+						],
+						"media_url": "http://pbs.twimg.com/media/B8AQhmhCUAIgR44.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/B8AQhmhCUAIgR44.jpg",
+						"url": "http://t.co/eNgJl4ve9w",
+						"display_url": "pic.twitter.com/eNgJl4ve9w",
+						"expanded_url": "https://twitter.com/ahmed/status/558464534633906176/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 599,
+								"h": 990,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 599,
+								"h": 990,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 411,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 558464523254779900,
+						"id_str": "558464523254779906",
+						"indices": [
+							87,
+							109
+						],
+						"media_url": "http://pbs.twimg.com/media/B8AQhmhCUAIgR44.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/B8AQhmhCUAIgR44.jpg",
+						"url": "http://t.co/eNgJl4ve9w",
+						"display_url": "pic.twitter.com/eNgJl4ve9w",
+						"expanded_url": "https://twitter.com/ahmed/status/558464534633906176/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 599,
+								"h": 990,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 599,
+								"h": 990,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 411,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 558464532150906900,
+						"id_str": "558464532150906880",
+						"indices": [
+							87,
+							109
+						],
+						"media_url": "http://pbs.twimg.com/media/B8AQiHqCcAA5_p9.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/B8AQiHqCcAA5_p9.jpg",
+						"url": "http://t.co/eNgJl4ve9w",
+						"display_url": "pic.twitter.com/eNgJl4ve9w",
+						"expanded_url": "https://twitter.com/ahmed/status/558464534633906176/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 600,
+								"h": 1050,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 600,
+								"h": 1050,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 389,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 558464533287551000,
+						"id_str": "558464533287550976",
+						"indices": [
+							87,
+							109
+						],
+						"media_url": "http://pbs.twimg.com/media/B8AQiL5CQAAD9mE.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/B8AQiL5CQAAD9mE.jpg",
+						"url": "http://t.co/eNgJl4ve9w",
+						"display_url": "pic.twitter.com/eNgJl4ve9w",
+						"expanded_url": "https://twitter.com/ahmed/status/558464534633906176/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 427,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 600,
+								"h": 955,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 600,
+								"h": 955,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 558464527700750340,
+						"id_str": "558464527700750336",
+						"indices": [
+							87,
+							109
+						],
+						"media_url": "http://pbs.twimg.com/media/B8AQh3FCcAARYHi.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/B8AQh3FCcAARYHi.jpg",
+						"url": "http://t.co/eNgJl4ve9w",
+						"display_url": "pic.twitter.com/eNgJl4ve9w",
+						"expanded_url": "https://twitter.com/ahmed/status/558464534633906176/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 458,
+								"h": 720,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 458,
+								"h": 720,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 433,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 5242,
+				"id_str": "5242",
+				"name": "Ahmed Al Omran",
+				"screen_name": "ahmed",
+				"location": "the internet",
+				"description": "Saudi journalist ❒ Formerly with @FT, @WSJ and @NPR ❒ Email alomran@hey.com ❒ Subscribe to my @riyadhbureau newsletter https://t.co/i1MM94SRXS",
+				"url": "http://t.co/1tckurrksd",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/1tckurrksd",
+								"expanded_url": "http://alomran.me",
+								"display_url": "alomran.me",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/i1MM94SRXS",
+								"expanded_url": "http://riyadhbureau.com",
+								"display_url": "riyadhbureau.com",
+								"indices": [
+									119,
+									142
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 150984,
+				"friends_count": 1952,
+				"listed_count": 2368,
+				"created_at": "Mon Sep 04 00:18:12 +0000 2006",
+				"favourites_count": 5290,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 106427,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "CCCCCC",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme5/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme5/bg.gif",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1325223421966479360/DJnkAtqN_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1325223421966479360/DJnkAtqN_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/5242/1569089262",
+				"profile_link_color": "002FA7",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "99CC33",
+				"profile_text_color": "3E4415",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "regular"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 166,
+			"favorite_count": 36,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 14,
+		"favorite_count": 25,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "King Abdullah passed away on this day 6 years ago. Biden was initially expected to lead the US delegation to the funeral, but Obama decided to cut short his visit to India and came to Riyadh to personally pay his respect https://t.co/cCl16pN5PG"
+	},
+	{
+		"created_at": "Sat Jan 23 13:16:29 +0000 2021",
+		"id": 1352968445760073700,
+		"id_str": "1352968445760073729",
+		"full_text": "Larry King dead after being hospitalised earlier this month with Covid-19 https://t.co/TxZ9KsMMlI",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			73
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/TxZ9KsMMlI",
+					"expanded_url": "https://twitter.com/kingsthings/status/1352960673978880000",
+					"display_url": "twitter.com/kingsthings/st…",
+					"indices": [
+						74,
+						97
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 5242,
+			"id_str": "5242",
+			"name": "Ahmed Al Omran",
+			"screen_name": "ahmed",
+			"location": "the internet",
+			"description": "Saudi journalist ❒ Formerly with @FT, @WSJ and @NPR ❒ Email alomran@hey.com ❒ Subscribe to my @riyadhbureau newsletter https://t.co/i1MM94SRXS",
+			"url": "http://t.co/1tckurrksd",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/1tckurrksd",
+							"expanded_url": "http://alomran.me",
+							"display_url": "alomran.me",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/i1MM94SRXS",
+							"expanded_url": "http://riyadhbureau.com",
+							"display_url": "riyadhbureau.com",
+							"indices": [
+								119,
+								142
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 150984,
+			"friends_count": 1952,
+			"listed_count": 2368,
+			"created_at": "Mon Sep 04 00:18:12 +0000 2006",
+			"favourites_count": 5290,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 106427,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "CCCCCC",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme5/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme5/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1325223421966479360/DJnkAtqN_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1325223421966479360/DJnkAtqN_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/5242/1569089262",
+			"profile_link_color": "002FA7",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "99CC33",
+			"profile_text_color": "3E4415",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1352960673978880000,
+		"quoted_status_id_str": "1352960673978880000",
+		"quoted_status_permalink": {
+			"url": "https://t.co/TxZ9KsMMlI",
+			"expanded": "https://twitter.com/kingsthings/status/1352960673978880000",
+			"display": "twitter.com/kingsthings/st…"
+		},
+		"quoted_status": {
+			"created_at": "Sat Jan 23 12:45:36 +0000 2021",
+			"id": 1352960673978880000,
+			"id_str": "1352960673978880000",
+			"full_text": "https://t.co/x0Hl0X6vqU",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				0
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1352960670875050000,
+						"id_str": "1352960670875049985",
+						"indices": [
+							0,
+							23
+						],
+						"media_url": "http://pbs.twimg.com/media/Esauj9aU4AEfGB2.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Esauj9aU4AEfGB2.jpg",
+						"url": "https://t.co/x0Hl0X6vqU",
+						"display_url": "pic.twitter.com/x0Hl0X6vqU",
+						"expanded_url": "https://twitter.com/kingsthings/status/1352960673978880000/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 755,
+								"h": 879,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 755,
+								"h": 879,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 584,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1352960670875050000,
+						"id_str": "1352960670875049985",
+						"indices": [
+							0,
+							23
+						],
+						"media_url": "http://pbs.twimg.com/media/Esauj9aU4AEfGB2.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Esauj9aU4AEfGB2.jpg",
+						"url": "https://t.co/x0Hl0X6vqU",
+						"display_url": "pic.twitter.com/x0Hl0X6vqU",
+						"expanded_url": "https://twitter.com/kingsthings/status/1352960673978880000/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 755,
+								"h": 879,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 755,
+								"h": 879,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 584,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 1352960670866710500,
+						"id_str": "1352960670866710528",
+						"indices": [
+							0,
+							23
+						],
+						"media_url": "http://pbs.twimg.com/media/Esauj9YVoAAZfGY.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/Esauj9YVoAAZfGY.jpg",
+						"url": "https://t.co/x0Hl0X6vqU",
+						"display_url": "pic.twitter.com/x0Hl0X6vqU",
+						"expanded_url": "https://twitter.com/kingsthings/status/1352960673978880000/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 768,
+								"h": 1024,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 510,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 768,
+								"h": 1024,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 22685200,
+				"id_str": "22685200",
+				"name": "Larry King",
+				"screen_name": "kingsthings",
+				"location": "Los Angeles, California",
+				"description": "Love suspenders & interviewing people. Watch #LarryKingNow & #PoliticKING. Airs Monday, Wednesday and Friday on @Hulu and @OraTV. Go Dodgers! ⚾️",
+				"url": "https://t.co/bMKJoN59fF",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/bMKJoN59fF",
+								"expanded_url": "http://ora.tv/larrykingnow",
+								"display_url": "ora.tv/larrykingnow",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 2454240,
+				"friends_count": 901,
+				"listed_count": 19063,
+				"created_at": "Tue Mar 03 21:44:20 +0000 2009",
+				"favourites_count": 6593,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 16524,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "0F1633",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/789627562733383680/RGSugDqU_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/789627562733383680/RGSugDqU_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/22685200/1507595873",
+				"profile_link_color": "1B95E0",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "EFEFEF",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 106111,
+			"favorite_count": 368231,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "und"
+		},
+		"retweet_count": 14,
+		"favorite_count": 10,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Larry King dead after being hospitalised earlier this month with Covid-19 https://t.co/TxZ9KsMMlI"
+	},
+	{
+		"created_at": "Sat Jan 23 10:42:09 +0000 2021",
+		"id": 1352929608786714600,
+		"id_str": "1352929608786714625",
+		"full_text": "Hometown ♥️ https://t.co/P6IeHnCg1G",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			35
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/P6IeHnCg1G",
+					"expanded_url": "https://arab.news/gsat8",
+					"display_url": "arab.news/gsat8",
+					"indices": [
+						12,
+						35
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 5242,
+			"id_str": "5242",
+			"name": "Ahmed Al Omran",
+			"screen_name": "ahmed",
+			"location": "the internet",
+			"description": "Saudi journalist ❒ Formerly with @FT, @WSJ and @NPR ❒ Email alomran@hey.com ❒ Subscribe to my @riyadhbureau newsletter https://t.co/i1MM94SRXS",
+			"url": "http://t.co/1tckurrksd",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/1tckurrksd",
+							"expanded_url": "http://alomran.me",
+							"display_url": "alomran.me",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/i1MM94SRXS",
+							"expanded_url": "http://riyadhbureau.com",
+							"display_url": "riyadhbureau.com",
+							"indices": [
+								119,
+								142
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 150984,
+			"friends_count": 1952,
+			"listed_count": 2368,
+			"created_at": "Mon Sep 04 00:18:12 +0000 2006",
+			"favourites_count": 5290,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 106427,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "CCCCCC",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme5/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme5/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1325223421966479360/DJnkAtqN_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1325223421966479360/DJnkAtqN_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/5242/1569089262",
+			"profile_link_color": "002FA7",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "99CC33",
+			"profile_text_color": "3E4415",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 15,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Hometown ♥️ https://t.co/P6IeHnCg1G"
+	},
+	{
 		"created_at": "Fri Jan 22 20:56:19 +0000 2021",
 		"id": 1352240585684430800,
 		"id_str": "1352721782520897539",
