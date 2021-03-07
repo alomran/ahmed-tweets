@@ -1,6 +1,1013 @@
 Grailbird.data.tweets_2021_03 = 
 [
 	{
+		"created_at": "Sun Mar 07 20:19:22 +0000 2021",
+		"id": 1368657549906612200,
+		"id_str": "1368657549906612224",
+		"full_text": "Saudi oil tanks in Ras Tanura Port hit in drone attack and Aramco facilities targeted with ballistic missile —energy ministry statement https://t.co/KttTG8DHc1",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			159
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/KttTG8DHc1",
+					"expanded_url": "https://www.spa.gov.sa/2197888",
+					"display_url": "spa.gov.sa/2197888",
+					"indices": [
+						136,
+						159
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 5242,
+			"id_str": "5242",
+			"name": "Ahmed Al Omran",
+			"screen_name": "ahmed",
+			"location": "the internet",
+			"description": "Saudi journalist ❒ Formerly with @FT, @WSJ and @NPR ❒ Email alomran@hey.com ❒ Subscribe to my @riyadhbureau newsletter https://t.co/i1MM94SRXS",
+			"url": "http://t.co/1tckurrksd",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/1tckurrksd",
+							"expanded_url": "http://alomran.me",
+							"display_url": "alomran.me",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/i1MM94SRXS",
+							"expanded_url": "http://riyadhbureau.com",
+							"display_url": "riyadhbureau.com",
+							"indices": [
+								119,
+								142
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 151161,
+			"friends_count": 1950,
+			"listed_count": 2364,
+			"created_at": "Mon Sep 04 00:18:12 +0000 2006",
+			"favourites_count": 5320,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 106682,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "CCCCCC",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme5/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme5/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1325223421966479360/DJnkAtqN_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1325223421966479360/DJnkAtqN_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/5242/1569089262",
+			"profile_link_color": "002FA7",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "99CC33",
+			"profile_text_color": "3E4415",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 128,
+		"favorite_count": 186,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Saudi oil tanks in Ras Tanura Port hit in drone attack and Aramco facilities targeted with ballistic missile —energy ministry statement https://t.co/KttTG8DHc1"
+	},
+	{
+		"created_at": "Sun Mar 07 18:10:52 +0000 2021",
+		"id": 1368625211139121200,
+		"id_str": "1368625211139121160",
+		"full_text": "@atossaaraxia why are they missing with my memories like this??",
+		"truncated": false,
+		"display_text_range": [
+			14,
+			63
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "atossaaraxia",
+					"name": "Atossa Araxia Abrahamian",
+					"id": 228437800,
+					"id_str": "228437800",
+					"indices": [
+						0,
+						13
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 1368625024270221300,
+		"in_reply_to_status_id_str": "1368625024270221320",
+		"in_reply_to_user_id": 228437800,
+		"in_reply_to_user_id_str": "228437800",
+		"in_reply_to_screen_name": "atossaaraxia",
+		"user": {
+			"id": 5242,
+			"id_str": "5242",
+			"name": "Ahmed Al Omran",
+			"screen_name": "ahmed",
+			"location": "the internet",
+			"description": "Saudi journalist ❒ Formerly with @FT, @WSJ and @NPR ❒ Email alomran@hey.com ❒ Subscribe to my @riyadhbureau newsletter https://t.co/i1MM94SRXS",
+			"url": "http://t.co/1tckurrksd",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/1tckurrksd",
+							"expanded_url": "http://alomran.me",
+							"display_url": "alomran.me",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/i1MM94SRXS",
+							"expanded_url": "http://riyadhbureau.com",
+							"display_url": "riyadhbureau.com",
+							"indices": [
+								119,
+								142
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 151161,
+			"friends_count": 1950,
+			"listed_count": 2364,
+			"created_at": "Mon Sep 04 00:18:12 +0000 2006",
+			"favourites_count": 5320,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 106682,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "CCCCCC",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme5/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme5/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1325223421966479360/DJnkAtqN_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1325223421966479360/DJnkAtqN_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/5242/1569089262",
+			"profile_link_color": "002FA7",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "99CC33",
+			"profile_text_color": "3E4415",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@atossaaraxia why are they missing with my memories like this??"
+	},
+	{
+		"created_at": "Sun Mar 07 14:17:38 +0000 2021",
+		"id": 1368566513326784500,
+		"id_str": "1368566513326784516",
+		"full_text": "Tuchel was asked about his plan for Chelsea against Liverpool before the game. “Speed. Speed. Speed. Speed against the high line,” he said. It worked perfectly https://t.co/x4ONxKdxvB",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			183
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/x4ONxKdxvB",
+					"expanded_url": "https://theathletic.com/2429300/2021/03/05/cox-liverpool-need-to-abandon-their-disastrous-high-defensive-line/",
+					"display_url": "theathletic.com/2429300/2021/0…",
+					"indices": [
+						160,
+						183
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 5242,
+			"id_str": "5242",
+			"name": "Ahmed Al Omran",
+			"screen_name": "ahmed",
+			"location": "the internet",
+			"description": "Saudi journalist ❒ Formerly with @FT, @WSJ and @NPR ❒ Email alomran@hey.com ❒ Subscribe to my @riyadhbureau newsletter https://t.co/i1MM94SRXS",
+			"url": "http://t.co/1tckurrksd",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/1tckurrksd",
+							"expanded_url": "http://alomran.me",
+							"display_url": "alomran.me",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/i1MM94SRXS",
+							"expanded_url": "http://riyadhbureau.com",
+							"display_url": "riyadhbureau.com",
+							"indices": [
+								119,
+								142
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 151161,
+			"friends_count": 1950,
+			"listed_count": 2364,
+			"created_at": "Mon Sep 04 00:18:12 +0000 2006",
+			"favourites_count": 5320,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 106682,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "CCCCCC",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme5/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme5/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1325223421966479360/DJnkAtqN_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1325223421966479360/DJnkAtqN_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/5242/1569089262",
+			"profile_link_color": "002FA7",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "99CC33",
+			"profile_text_color": "3E4415",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Tuchel was asked about his plan for Chelsea against Liverpool before the game. “Speed. Speed. Speed. Speed against the high line,” he said. It worked perfectly https://t.co/x4ONxKdxvB"
+	},
+	{
+		"created_at": "Sun Mar 07 14:11:16 +0000 2021",
+		"id": 1368564913812217900,
+		"id_str": "1368564913812217857",
+		"full_text": "Saudi-led coalition launches a new air campaign on Yemen’s capital and other provinces in retaliation for missile and drone attacks against the kingdom https://t.co/TESRjThPRV",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			175
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/TESRjThPRV",
+					"expanded_url": "https://apnews.com/article/yemen-iran-saudi-arabia-13c6f89094bedee59cd7008eeaacc809",
+					"display_url": "apnews.com/article/yemen-…",
+					"indices": [
+						152,
+						175
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 5242,
+			"id_str": "5242",
+			"name": "Ahmed Al Omran",
+			"screen_name": "ahmed",
+			"location": "the internet",
+			"description": "Saudi journalist ❒ Formerly with @FT, @WSJ and @NPR ❒ Email alomran@hey.com ❒ Subscribe to my @riyadhbureau newsletter https://t.co/i1MM94SRXS",
+			"url": "http://t.co/1tckurrksd",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/1tckurrksd",
+							"expanded_url": "http://alomran.me",
+							"display_url": "alomran.me",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/i1MM94SRXS",
+							"expanded_url": "http://riyadhbureau.com",
+							"display_url": "riyadhbureau.com",
+							"indices": [
+								119,
+								142
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 151161,
+			"friends_count": 1950,
+			"listed_count": 2364,
+			"created_at": "Mon Sep 04 00:18:12 +0000 2006",
+			"favourites_count": 5320,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 106682,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "CCCCCC",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme5/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme5/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1325223421966479360/DJnkAtqN_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1325223421966479360/DJnkAtqN_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/5242/1569089262",
+			"profile_link_color": "002FA7",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "99CC33",
+			"profile_text_color": "3E4415",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 8,
+		"favorite_count": 9,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Saudi-led coalition launches a new air campaign on Yemen’s capital and other provinces in retaliation for missile and drone attacks against the kingdom https://t.co/TESRjThPRV"
+	},
+	{
+		"created_at": "Sun Mar 07 13:54:39 +0000 2021",
+		"id": 1368560730912534500,
+		"id_str": "1368560730912534531",
+		"full_text": "@ShurouqAM 1Q84 is long but worth the time",
+		"truncated": false,
+		"display_text_range": [
+			11,
+			42
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "ShurouqAM",
+					"name": "Shurouq",
+					"id": 1227651017023594500,
+					"id_str": "1227651017023594496",
+					"indices": [
+						0,
+						10
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 1368461294974734300,
+		"in_reply_to_status_id_str": "1368461294974734337",
+		"in_reply_to_user_id": 1227651017023594500,
+		"in_reply_to_user_id_str": "1227651017023594496",
+		"in_reply_to_screen_name": "ShurouqAM",
+		"user": {
+			"id": 5242,
+			"id_str": "5242",
+			"name": "Ahmed Al Omran",
+			"screen_name": "ahmed",
+			"location": "the internet",
+			"description": "Saudi journalist ❒ Formerly with @FT, @WSJ and @NPR ❒ Email alomran@hey.com ❒ Subscribe to my @riyadhbureau newsletter https://t.co/i1MM94SRXS",
+			"url": "http://t.co/1tckurrksd",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/1tckurrksd",
+							"expanded_url": "http://alomran.me",
+							"display_url": "alomran.me",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/i1MM94SRXS",
+							"expanded_url": "http://riyadhbureau.com",
+							"display_url": "riyadhbureau.com",
+							"indices": [
+								119,
+								142
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 151161,
+			"friends_count": 1950,
+			"listed_count": 2364,
+			"created_at": "Mon Sep 04 00:18:12 +0000 2006",
+			"favourites_count": 5320,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 106682,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "CCCCCC",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme5/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme5/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1325223421966479360/DJnkAtqN_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1325223421966479360/DJnkAtqN_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/5242/1569089262",
+			"profile_link_color": "002FA7",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "99CC33",
+			"profile_text_color": "3E4415",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@ShurouqAM 1Q84 is long but worth the time"
+	},
+	{
+		"created_at": "Sun Mar 07 11:22:44 +0000 2021",
+		"id": 1368522497684078600,
+		"id_str": "1368522497684078595",
+		"full_text": "@Larksy my IG account has been under assault for days now",
+		"truncated": false,
+		"display_text_range": [
+			8,
+			57
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Larksy",
+					"name": "إلهام الدوسري",
+					"id": 232329598,
+					"id_str": "232329598",
+					"indices": [
+						0,
+						7
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 1368522263935455200,
+		"in_reply_to_status_id_str": "1368522263935455235",
+		"in_reply_to_user_id": 232329598,
+		"in_reply_to_user_id_str": "232329598",
+		"in_reply_to_screen_name": "Larksy",
+		"user": {
+			"id": 5242,
+			"id_str": "5242",
+			"name": "Ahmed Al Omran",
+			"screen_name": "ahmed",
+			"location": "the internet",
+			"description": "Saudi journalist ❒ Formerly with @FT, @WSJ and @NPR ❒ Email alomran@hey.com ❒ Subscribe to my @riyadhbureau newsletter https://t.co/i1MM94SRXS",
+			"url": "http://t.co/1tckurrksd",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/1tckurrksd",
+							"expanded_url": "http://alomran.me",
+							"display_url": "alomran.me",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/i1MM94SRXS",
+							"expanded_url": "http://riyadhbureau.com",
+							"display_url": "riyadhbureau.com",
+							"indices": [
+								119,
+								142
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 151161,
+			"friends_count": 1950,
+			"listed_count": 2364,
+			"created_at": "Mon Sep 04 00:18:12 +0000 2006",
+			"favourites_count": 5320,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 106682,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "CCCCCC",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme5/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme5/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1325223421966479360/DJnkAtqN_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1325223421966479360/DJnkAtqN_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/5242/1569089262",
+			"profile_link_color": "002FA7",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "99CC33",
+			"profile_text_color": "3E4415",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@Larksy my IG account has been under assault for days now"
+	},
+	{
+		"created_at": "Sun Mar 07 07:10:46 +0000 2021",
+		"id": 1368459090142331000,
+		"id_str": "1368459090142330881",
+		"full_text": "@ShurouqAM Funny you mention that.. https://t.co/bezUs9FyTv",
+		"truncated": false,
+		"display_text_range": [
+			11,
+			35
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "ShurouqAM",
+					"name": "Shurouq",
+					"id": 1227651017023594500,
+					"id_str": "1227651017023594496",
+					"indices": [
+						0,
+						10
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1368459081921466400,
+					"id_str": "1368459081921466368",
+					"indices": [
+						36,
+						59
+					],
+					"media_url": "http://pbs.twimg.com/media/Ev2-SNuWEAAxYrf.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ev2-SNuWEAAxYrf.jpg",
+					"url": "https://t.co/bezUs9FyTv",
+					"display_url": "pic.twitter.com/bezUs9FyTv",
+					"expanded_url": "https://twitter.com/ahmed/status/1368459090142330881/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 750,
+							"h": 881,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 750,
+							"h": 881,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 579,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1368459081921466400,
+					"id_str": "1368459081921466368",
+					"indices": [
+						36,
+						59
+					],
+					"media_url": "http://pbs.twimg.com/media/Ev2-SNuWEAAxYrf.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ev2-SNuWEAAxYrf.jpg",
+					"url": "https://t.co/bezUs9FyTv",
+					"display_url": "pic.twitter.com/bezUs9FyTv",
+					"expanded_url": "https://twitter.com/ahmed/status/1368459090142330881/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 750,
+							"h": 881,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 750,
+							"h": 881,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 579,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1368457153837678600,
+		"in_reply_to_status_id_str": "1368457153837678592",
+		"in_reply_to_user_id": 1227651017023594500,
+		"in_reply_to_user_id_str": "1227651017023594496",
+		"in_reply_to_screen_name": "ShurouqAM",
+		"user": {
+			"id": 5242,
+			"id_str": "5242",
+			"name": "Ahmed Al Omran",
+			"screen_name": "ahmed",
+			"location": "the internet",
+			"description": "Saudi journalist ❒ Formerly with @FT, @WSJ and @NPR ❒ Email alomran@hey.com ❒ Subscribe to my @riyadhbureau newsletter https://t.co/i1MM94SRXS",
+			"url": "http://t.co/1tckurrksd",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/1tckurrksd",
+							"expanded_url": "http://alomran.me",
+							"display_url": "alomran.me",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/i1MM94SRXS",
+							"expanded_url": "http://riyadhbureau.com",
+							"display_url": "riyadhbureau.com",
+							"indices": [
+								119,
+								142
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 151161,
+			"friends_count": 1950,
+			"listed_count": 2364,
+			"created_at": "Mon Sep 04 00:18:12 +0000 2006",
+			"favourites_count": 5320,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 106682,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "CCCCCC",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme5/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme5/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1325223421966479360/DJnkAtqN_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1325223421966479360/DJnkAtqN_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/5242/1569089262",
+			"profile_link_color": "002FA7",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "99CC33",
+			"profile_text_color": "3E4415",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@ShurouqAM Funny you mention that.. https://t.co/bezUs9FyTv"
+	},
+	{
+		"created_at": "Sat Mar 06 22:25:20 +0000 2021",
+		"id": 1368326858803150800,
+		"id_str": "1368326858803150854",
+		"full_text": "Trump sends a cease-and-desist letter to the Republican Party for using his name and image on fundraising emails and merchandise https://t.co/V1A5NpI5hk",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			152
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/V1A5NpI5hk",
+					"expanded_url": "https://www.politico.com/newsletters/playbook/2021/03/06/scoop-trump-sends-legal-notice-to-gop-to-stop-using-his-name-492021",
+					"display_url": "politico.com/newsletters/pl…",
+					"indices": [
+						129,
+						152
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 5242,
+			"id_str": "5242",
+			"name": "Ahmed Al Omran",
+			"screen_name": "ahmed",
+			"location": "the internet",
+			"description": "Saudi journalist ❒ Formerly with @FT, @WSJ and @NPR ❒ Email alomran@hey.com ❒ Subscribe to my @riyadhbureau newsletter https://t.co/i1MM94SRXS",
+			"url": "http://t.co/1tckurrksd",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/1tckurrksd",
+							"expanded_url": "http://alomran.me",
+							"display_url": "alomran.me",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/i1MM94SRXS",
+							"expanded_url": "http://riyadhbureau.com",
+							"display_url": "riyadhbureau.com",
+							"indices": [
+								119,
+								142
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 151161,
+			"friends_count": 1950,
+			"listed_count": 2364,
+			"created_at": "Mon Sep 04 00:18:12 +0000 2006",
+			"favourites_count": 5320,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 106682,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "CCCCCC",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme5/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme5/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1325223421966479360/DJnkAtqN_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1325223421966479360/DJnkAtqN_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/5242/1569089262",
+			"profile_link_color": "002FA7",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "99CC33",
+			"profile_text_color": "3E4415",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 5,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Trump sends a cease-and-desist letter to the Republican Party for using his name and image on fundraising emails and merchandise https://t.co/V1A5NpI5hk"
+	},
+	{
 		"created_at": "Sat Mar 06 18:09:07 +0000 2021",
 		"id": 1368262382234054700,
 		"id_str": "1368262382234054664",
