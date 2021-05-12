@@ -1,6 +1,1073 @@
 Grailbird.data.tweets_2021_05 = 
 [
 	{
+		"created_at": "Wed May 12 17:47:58 +0000 2021",
+		"id": 1392537045436878800,
+		"id_str": "1392537045436878853",
+		"full_text": "Coronavirus didn’t allow it last year, but looking forward to return to Columbia again this Fall 🦁 https://t.co/IiT0OjfrPz",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			98
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/IiT0OjfrPz",
+					"expanded_url": "https://twitter.com/columbiajourn/status/1392533530287038465",
+					"display_url": "twitter.com/columbiajourn/…",
+					"indices": [
+						99,
+						122
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 5242,
+			"id_str": "5242",
+			"name": "Ahmed Al Omran",
+			"screen_name": "ahmed",
+			"location": "the internet",
+			"description": "Saudi journalist 📰 Formerly with @FT, @WSJ and @NPR 📩 Email: alomran@hey.com 📝 Subscribe to my @riyadhbureau newsletter: https://t.co/oe6r4OMmMT",
+			"url": "http://t.co/1tckurrksd",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/1tckurrksd",
+							"expanded_url": "http://alomran.me",
+							"display_url": "alomran.me",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/oe6r4OMmMT",
+							"expanded_url": "http://riyadhbureau.com",
+							"display_url": "riyadhbureau.com",
+							"indices": [
+								121,
+								144
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 151216,
+			"friends_count": 1952,
+			"listed_count": 2364,
+			"created_at": "Mon Sep 04 00:18:12 +0000 2006",
+			"favourites_count": 5345,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 107037,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "CCCCCC",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme5/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme5/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1325223421966479360/DJnkAtqN_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1325223421966479360/DJnkAtqN_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/5242/1569089262",
+			"profile_link_color": "002FA7",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "99CC33",
+			"profile_text_color": "3E4415",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1392533530287038500,
+		"quoted_status_id_str": "1392533530287038465",
+		"quoted_status_permalink": {
+			"url": "https://t.co/IiT0OjfrPz",
+			"expanded": "https://twitter.com/columbiajourn/status/1392533530287038465",
+			"display": "twitter.com/columbiajourn/…"
+		},
+		"quoted_status": {
+			"created_at": "Wed May 12 17:34:00 +0000 2021",
+			"id": 1392533530287038500,
+			"id_str": "1392533530287038465",
+			"full_text": ".@Bagehots, the largest mid-career business journalism fellowship, announces its 2021-22 Fellows: @ahmed, @AnujChopra, @MihirDTweets, @v_dendrinou, @estherfung, @lailakearney, @shurufu, @christopherotts, @coryweinberg and @Kzalan.\n\nRead more: https://t.co/Ywk4Ya64Qu https://t.co/orGaP4GTSr",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				266
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "Bagehots",
+						"name": "Knight-Bagehot Fellowships",
+						"id": 216469311,
+						"id_str": "216469311",
+						"indices": [
+							1,
+							10
+						]
+					},
+					{
+						"screen_name": "ahmed",
+						"name": "Ahmed Al Omran",
+						"id": 5242,
+						"id_str": "5242",
+						"indices": [
+							98,
+							104
+						]
+					},
+					{
+						"screen_name": "AnujChopra",
+						"name": "Anuj Chopra",
+						"id": 46101453,
+						"id_str": "46101453",
+						"indices": [
+							106,
+							117
+						]
+					},
+					{
+						"screen_name": "MihirDTweets",
+						"name": "Mihir Dalal",
+						"id": 312099686,
+						"id_str": "312099686",
+						"indices": [
+							119,
+							132
+						]
+					},
+					{
+						"screen_name": "v_dendrinou",
+						"name": "Viktoria Dendrinou",
+						"id": 314132586,
+						"id_str": "314132586",
+						"indices": [
+							134,
+							146
+						]
+					},
+					{
+						"screen_name": "estherfung",
+						"name": "Esther Fung 方心恩",
+						"id": 21575534,
+						"id_str": "21575534",
+						"indices": [
+							148,
+							159
+						]
+					},
+					{
+						"screen_name": "lailakearney",
+						"name": "Laila Kearney",
+						"id": 21375974,
+						"id_str": "21375974",
+						"indices": [
+							161,
+							174
+						]
+					},
+					{
+						"screen_name": "shurufu",
+						"name": "Omar Mohammed",
+						"id": 19176547,
+						"id_str": "19176547",
+						"indices": [
+							176,
+							184
+						]
+					},
+					{
+						"screen_name": "christopherotts",
+						"name": "Chris Otts",
+						"id": 67075260,
+						"id_str": "67075260",
+						"indices": [
+							186,
+							202
+						]
+					},
+					{
+						"screen_name": "coryweinberg",
+						"name": "Cory Weinberg",
+						"id": 198324177,
+						"id_str": "198324177",
+						"indices": [
+							204,
+							217
+						]
+					},
+					{
+						"screen_name": "Kzalan",
+						"name": "Kira Zalan",
+						"id": 386320760,
+						"id_str": "386320760",
+						"indices": [
+							222,
+							229
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/Ywk4Ya64Qu",
+						"expanded_url": "https://bit.ly/3y7NxiT",
+						"display_url": "bit.ly/3y7NxiT",
+						"indices": [
+							243,
+							266
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1392531788350857200,
+						"id_str": "1392531788350857222",
+						"indices": [
+							267,
+							290
+						],
+						"media_url": "http://pbs.twimg.com/amplify_video_thumb/1392531788350857222/img/Q7Z0GilKNGhX0xPU.jpg",
+						"media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1392531788350857222/img/Q7Z0GilKNGhX0xPU.jpg",
+						"url": "https://t.co/orGaP4GTSr",
+						"display_url": "pic.twitter.com/orGaP4GTSr",
+						"expanded_url": "https://twitter.com/columbiajourn/status/1392533530287038465/video/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 940,
+								"h": 940,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 940,
+								"h": 940,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1392531788350857200,
+						"id_str": "1392531788350857222",
+						"indices": [
+							267,
+							290
+						],
+						"media_url": "http://pbs.twimg.com/amplify_video_thumb/1392531788350857222/img/Q7Z0GilKNGhX0xPU.jpg",
+						"media_url_https": "https://pbs.twimg.com/amplify_video_thumb/1392531788350857222/img/Q7Z0GilKNGhX0xPU.jpg",
+						"url": "https://t.co/orGaP4GTSr",
+						"display_url": "pic.twitter.com/orGaP4GTSr",
+						"expanded_url": "https://twitter.com/columbiajourn/status/1392533530287038465/video/1",
+						"type": "video",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 940,
+								"h": 940,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 940,
+								"h": 940,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								1,
+								1
+							],
+							"duration_millis": 50000,
+							"variants": [
+								{
+									"bitrate": 432000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/amplify_video/1392531788350857222/vid/320x320/mxfe_dVToNCc712M.mp4?tag=14"
+								},
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/amplify_video/1392531788350857222/pl/NdzZ2y7orhUjeSJU.m3u8?tag=14"
+								},
+								{
+									"bitrate": 832000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/amplify_video/1392531788350857222/vid/540x540/rAULogsDyvQFz_YR.mp4?tag=14"
+								},
+								{
+									"bitrate": 1280000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/amplify_video/1392531788350857222/vid/720x720/IgOvcYIMRkvWSwny.mp4?tag=14"
+								}
+							]
+						},
+						"additional_media_info": {
+							"title": "2021-22 Knight-Bagehot Fellows",
+							"description": "",
+							"embeddable": true,
+							"monetizable": false
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 16369150,
+				"id_str": "16369150",
+				"name": "Columbia Journalism",
+				"screen_name": "columbiajourn",
+				"location": "New York, NY",
+				"description": "Founded in 1912, our mission is to educate the next generation of journalists and uphold standards of excellence in journalism. https://t.co/XpKAKHuAUN",
+				"url": "https://t.co/fbAvzn99uY",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/fbAvzn99uY",
+								"expanded_url": "http://journalism.columbia.edu",
+								"display_url": "journalism.columbia.edu",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/XpKAKHuAUN",
+								"expanded_url": "https://journalism.columbia.edu",
+								"display_url": "journalism.columbia.edu",
+								"indices": [
+									128,
+									151
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 80926,
+				"friends_count": 1403,
+				"listed_count": 2519,
+				"created_at": "Fri Sep 19 19:49:35 +0000 2008",
+				"favourites_count": 4006,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 15547,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "002664",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/378800000120489911/fd97e4435944df1284661f5f044c5574_normal.jpeg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000120489911/fd97e4435944df1284661f5f044c5574_normal.jpeg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/16369150/1513617769",
+				"profile_link_color": "0039A6",
+				"profile_sidebar_border_color": "051DF5",
+				"profile_sidebar_fill_color": "D2D3D9",
+				"profile_text_color": "080808",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 2,
+			"favorite_count": 24,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 1,
+		"favorite_count": 18,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Coronavirus didn’t allow it last year, but looking forward to return to Columbia again this Fall 🦁 https://t.co/IiT0OjfrPz"
+	},
+	{
+		"created_at": "Wed May 12 16:17:36 +0000 2021",
+		"id": 1392514305397035000,
+		"id_str": "1392514305397035009",
+		"full_text": "For Gulf watchers, @Turki_albalushi has launched a newsletter on Oman: https://t.co/JTLBDiSml3",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			94
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Turki_albalushi",
+					"name": "تركي البلوشي | Turki Albalushi",
+					"id": 255483284,
+					"id_str": "255483284",
+					"indices": [
+						19,
+						35
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/JTLBDiSml3",
+					"expanded_url": "https://968newsletter.substack.com/p/welcome-to-968-newsletter-weekly-updates-from-oman-594434",
+					"display_url": "968newsletter.substack.com/p/welcome-to-9…",
+					"indices": [
+						71,
+						94
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 5242,
+			"id_str": "5242",
+			"name": "Ahmed Al Omran",
+			"screen_name": "ahmed",
+			"location": "the internet",
+			"description": "Saudi journalist 📰 Formerly with @FT, @WSJ and @NPR 📩 Email: alomran@hey.com 📝 Subscribe to my @riyadhbureau newsletter: https://t.co/oe6r4OMmMT",
+			"url": "http://t.co/1tckurrksd",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/1tckurrksd",
+							"expanded_url": "http://alomran.me",
+							"display_url": "alomran.me",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/oe6r4OMmMT",
+							"expanded_url": "http://riyadhbureau.com",
+							"display_url": "riyadhbureau.com",
+							"indices": [
+								121,
+								144
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 151216,
+			"friends_count": 1952,
+			"listed_count": 2364,
+			"created_at": "Mon Sep 04 00:18:12 +0000 2006",
+			"favourites_count": 5345,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 107037,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "CCCCCC",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme5/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme5/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1325223421966479360/DJnkAtqN_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1325223421966479360/DJnkAtqN_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/5242/1569089262",
+			"profile_link_color": "002FA7",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "99CC33",
+			"profile_text_color": "3E4415",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 8,
+		"favorite_count": 30,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "For Gulf watchers, @Turki_albalushi has launched a newsletter on Oman: https://t.co/JTLBDiSml3"
+	},
+	{
+		"created_at": "Wed May 12 16:03:24 +0000 2021",
+		"id": 1392510731673915400,
+		"id_str": "1392510731673915394",
+		"full_text": "Ajax melt down league trophy to make small star mementoes for 42,000 season-ticket holders https://t.co/wnMsX5gdZs https://t.co/1mopxb3IvE",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			114
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/wnMsX5gdZs",
+					"expanded_url": "https://www.skysports.com/football/news/11913/12304216/ajax-melt-down-eredivisie-trophy-to-make-mementoes-for-season-ticket-holders",
+					"display_url": "skysports.com/football/news/…",
+					"indices": [
+						91,
+						114
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1392510679651954700,
+					"id_str": "1392510679651954688",
+					"indices": [
+						115,
+						138
+					],
+					"media_url": "http://pbs.twimg.com/media/E1MxFdaXsAA9DFx.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E1MxFdaXsAA9DFx.jpg",
+					"url": "https://t.co/1mopxb3IvE",
+					"display_url": "pic.twitter.com/1mopxb3IvE",
+					"expanded_url": "https://twitter.com/ahmed/status/1392510731673915394/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1392510679651954700,
+					"id_str": "1392510679651954688",
+					"indices": [
+						115,
+						138
+					],
+					"media_url": "http://pbs.twimg.com/media/E1MxFdaXsAA9DFx.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E1MxFdaXsAA9DFx.jpg",
+					"url": "https://t.co/1mopxb3IvE",
+					"display_url": "pic.twitter.com/1mopxb3IvE",
+					"expanded_url": "https://twitter.com/ahmed/status/1392510731673915394/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1392510702980681700,
+					"id_str": "1392510702980681734",
+					"indices": [
+						115,
+						138
+					],
+					"media_url": "http://pbs.twimg.com/media/E1MxG0UX0AY6ruN.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E1MxG0UX0AY6ruN.jpg",
+					"url": "https://t.co/1mopxb3IvE",
+					"display_url": "pic.twitter.com/1mopxb3IvE",
+					"expanded_url": "https://twitter.com/ahmed/status/1392510731673915394/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 5242,
+			"id_str": "5242",
+			"name": "Ahmed Al Omran",
+			"screen_name": "ahmed",
+			"location": "the internet",
+			"description": "Saudi journalist 📰 Formerly with @FT, @WSJ and @NPR 📩 Email: alomran@hey.com 📝 Subscribe to my @riyadhbureau newsletter: https://t.co/oe6r4OMmMT",
+			"url": "http://t.co/1tckurrksd",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/1tckurrksd",
+							"expanded_url": "http://alomran.me",
+							"display_url": "alomran.me",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/oe6r4OMmMT",
+							"expanded_url": "http://riyadhbureau.com",
+							"display_url": "riyadhbureau.com",
+							"indices": [
+								121,
+								144
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 151216,
+			"friends_count": 1952,
+			"listed_count": 2364,
+			"created_at": "Mon Sep 04 00:18:12 +0000 2006",
+			"favourites_count": 5345,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 107037,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "CCCCCC",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme5/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme5/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1325223421966479360/DJnkAtqN_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1325223421966479360/DJnkAtqN_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/5242/1569089262",
+			"profile_link_color": "002FA7",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "99CC33",
+			"profile_text_color": "3E4415",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Ajax melt down league trophy to make small star mementoes for 42,000 season-ticket holders https://t.co/wnMsX5gdZs https://t.co/1mopxb3IvE"
+	},
+	{
+		"created_at": "Wed May 12 15:45:52 +0000 2021",
+		"id": 1392506316632035300,
+		"id_str": "1392506316632035341",
+		"full_text": "UEFA Champions League final is set to be moved from Istanbul to Portugal just like last year due to pandemic issues in Turkey https://t.co/bQaF1XZ8iy",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			149
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/bQaF1XZ8iy",
+					"expanded_url": "https://apnews.com/article/premier-league-porto-middle-east-europe-health-9a9b4608a37bac154290205c12f21a89",
+					"display_url": "apnews.com/article/premie…",
+					"indices": [
+						126,
+						149
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 5242,
+			"id_str": "5242",
+			"name": "Ahmed Al Omran",
+			"screen_name": "ahmed",
+			"location": "the internet",
+			"description": "Saudi journalist 📰 Formerly with @FT, @WSJ and @NPR 📩 Email: alomran@hey.com 📝 Subscribe to my @riyadhbureau newsletter: https://t.co/oe6r4OMmMT",
+			"url": "http://t.co/1tckurrksd",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/1tckurrksd",
+							"expanded_url": "http://alomran.me",
+							"display_url": "alomran.me",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/oe6r4OMmMT",
+							"expanded_url": "http://riyadhbureau.com",
+							"display_url": "riyadhbureau.com",
+							"indices": [
+								121,
+								144
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 151216,
+			"friends_count": 1952,
+			"listed_count": 2364,
+			"created_at": "Mon Sep 04 00:18:12 +0000 2006",
+			"favourites_count": 5345,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 107037,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "CCCCCC",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme5/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme5/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1325223421966479360/DJnkAtqN_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1325223421966479360/DJnkAtqN_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/5242/1569089262",
+			"profile_link_color": "002FA7",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "99CC33",
+			"profile_text_color": "3E4415",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "UEFA Champions League final is set to be moved from Istanbul to Portugal just like last year due to pandemic issues in Turkey https://t.co/bQaF1XZ8iy"
+	},
+	{
+		"created_at": "Wed May 12 15:39:38 +0000 2021",
+		"id": 1392504748121657300,
+		"id_str": "1392504748121657350",
+		"full_text": "Today’s @riyadhbureau ☞ Saudi Arabia says hajj to again be held under special conditions; KSA condemns Israeli attacks in Jerusalem; Non-oil GDP rebounds. No paywall: https://t.co/tIKIJoEaji",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			190
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "riyadhbureau",
+					"name": "Riyadh Bureau",
+					"id": 7686182,
+					"id_str": "7686182",
+					"indices": [
+						8,
+						21
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/tIKIJoEaji",
+					"expanded_url": "https://www.riyadhbureau.com/p/saudi-economy-hajj-jerusalem",
+					"display_url": "riyadhbureau.com/p/saudi-econom…",
+					"indices": [
+						167,
+						190
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 5242,
+			"id_str": "5242",
+			"name": "Ahmed Al Omran",
+			"screen_name": "ahmed",
+			"location": "the internet",
+			"description": "Saudi journalist 📰 Formerly with @FT, @WSJ and @NPR 📩 Email: alomran@hey.com 📝 Subscribe to my @riyadhbureau newsletter: https://t.co/oe6r4OMmMT",
+			"url": "http://t.co/1tckurrksd",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/1tckurrksd",
+							"expanded_url": "http://alomran.me",
+							"display_url": "alomran.me",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/oe6r4OMmMT",
+							"expanded_url": "http://riyadhbureau.com",
+							"display_url": "riyadhbureau.com",
+							"indices": [
+								121,
+								144
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 151216,
+			"friends_count": 1952,
+			"listed_count": 2364,
+			"created_at": "Mon Sep 04 00:18:12 +0000 2006",
+			"favourites_count": 5345,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 107037,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "CCCCCC",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme5/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme5/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1325223421966479360/DJnkAtqN_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1325223421966479360/DJnkAtqN_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/5242/1569089262",
+			"profile_link_color": "002FA7",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "99CC33",
+			"profile_text_color": "3E4415",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Today’s @riyadhbureau ☞ Saudi Arabia says hajj to again be held under special conditions; KSA condemns Israeli attacks in Jerusalem; Non-oil GDP rebounds. No paywall: https://t.co/tIKIJoEaji"
+	},
+	{
 		"created_at": "Tue May 11 20:23:16 +0000 2021",
 		"id": 1392213738598457300,
 		"id_str": "1392213738598457345",
