@@ -1,6 +1,481 @@
 Grailbird.data.tweets_2021_05 = 
 [
 	{
+		"created_at": "Sun May 16 19:53:31 +0000 2021",
+		"id": 1394018191941197800,
+		"id_str": "1394018191941197824",
+		"full_text": "Saudi FM and Blinken discuss the situation in Palestine in telephone call today —SPA https://t.co/huj9cGJCwN",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			108
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/huj9cGJCwN",
+					"expanded_url": "https://www.spa.gov.sa/2228693",
+					"display_url": "spa.gov.sa/2228693",
+					"indices": [
+						85,
+						108
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 5242,
+			"id_str": "5242",
+			"name": "Ahmed Al Omran",
+			"screen_name": "ahmed",
+			"location": "the internet",
+			"description": "Saudi journalist 📰 Formerly with @FT, @WSJ and @NPR 📩 Email: alomran@hey.com 📝 Subscribe to my @riyadhbureau newsletter: https://t.co/oe6r4OMmMT",
+			"url": "http://t.co/1tckurrksd",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/1tckurrksd",
+							"expanded_url": "http://alomran.me",
+							"display_url": "alomran.me",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/oe6r4OMmMT",
+							"expanded_url": "http://riyadhbureau.com",
+							"display_url": "riyadhbureau.com",
+							"indices": [
+								121,
+								144
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 151135,
+			"friends_count": 1952,
+			"listed_count": 2361,
+			"created_at": "Mon Sep 04 00:18:12 +0000 2006",
+			"favourites_count": 5352,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 107050,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "CCCCCC",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme5/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme5/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1325223421966479360/DJnkAtqN_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1325223421966479360/DJnkAtqN_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/5242/1569089262",
+			"profile_link_color": "002FA7",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "99CC33",
+			"profile_text_color": "3E4415",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Saudi FM and Blinken discuss the situation in Palestine in telephone call today —SPA https://t.co/huj9cGJCwN"
+	},
+	{
+		"created_at": "Sun May 16 10:52:34 +0000 2021",
+		"id": 1393882056837451800,
+		"id_str": "1393882056837451777",
+		"full_text": "💉💉💉 https://t.co/9rJA4IRDBO",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			3
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/9rJA4IRDBO",
+					"expanded_url": "https://twitter.com/FabrizioRomano/status/1393879654587674624",
+					"display_url": "twitter.com/FabrizioRomano…",
+					"indices": [
+						4,
+						27
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 5242,
+			"id_str": "5242",
+			"name": "Ahmed Al Omran",
+			"screen_name": "ahmed",
+			"location": "the internet",
+			"description": "Saudi journalist 📰 Formerly with @FT, @WSJ and @NPR 📩 Email: alomran@hey.com 📝 Subscribe to my @riyadhbureau newsletter: https://t.co/oe6r4OMmMT",
+			"url": "http://t.co/1tckurrksd",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/1tckurrksd",
+							"expanded_url": "http://alomran.me",
+							"display_url": "alomran.me",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/oe6r4OMmMT",
+							"expanded_url": "http://riyadhbureau.com",
+							"display_url": "riyadhbureau.com",
+							"indices": [
+								121,
+								144
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 151135,
+			"friends_count": 1952,
+			"listed_count": 2361,
+			"created_at": "Mon Sep 04 00:18:12 +0000 2006",
+			"favourites_count": 5352,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 107050,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "CCCCCC",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme5/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme5/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1325223421966479360/DJnkAtqN_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1325223421966479360/DJnkAtqN_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/5242/1569089262",
+			"profile_link_color": "002FA7",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "99CC33",
+			"profile_text_color": "3E4415",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1393879654587674600,
+		"quoted_status_id_str": "1393879654587674624",
+		"quoted_status_permalink": {
+			"url": "https://t.co/9rJA4IRDBO",
+			"expanded": "https://twitter.com/FabrizioRomano/status/1393879654587674624",
+			"display": "twitter.com/FabrizioRomano…"
+		},
+		"quoted_status": {
+			"created_at": "Sun May 16 10:43:01 +0000 2021",
+			"id": 1393879654587674600,
+			"id_str": "1393879654587674624",
+			"full_text": "After David Luiz, also Willian is expected to leave Arsenal this summer. ⚪️🔴 #AFC \n\nThere’s interest from European clubs and from MLS - Inter Miami wanted him last summer. Arsenal are waiting for official bids. 🇧🇷 #Willian #transfers",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				233
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "AFC",
+						"indices": [
+							77,
+							81
+						]
+					},
+					{
+						"text": "Willian",
+						"indices": [
+							214,
+							222
+						]
+					},
+					{
+						"text": "transfers",
+						"indices": [
+							223,
+							233
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 330262748,
+				"id_str": "330262748",
+				"name": "Fabrizio Romano",
+				"screen_name": "FabrizioRomano",
+				"location": "Milano, Italia",
+				"description": "Here we go! ©",
+				"url": "https://t.co/YVhqbxyvfN",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/YVhqbxyvfN",
+								"expanded_url": "https://www.instagram.com/fabriziorom/?hl=it",
+								"display_url": "instagram.com/fabriziorom/?h…",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 2706130,
+				"friends_count": 1135,
+				"listed_count": 6887,
+				"created_at": "Wed Jul 06 10:58:55 +0000 2011",
+				"favourites_count": 3939,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 6932,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1382113754817658880/XrBPPlfT_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1382113754817658880/XrBPPlfT_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/330262748/1549488915",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 5251,
+			"favorite_count": 42607,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "💉💉💉 https://t.co/9rJA4IRDBO"
+	},
+	{
+		"created_at": "Sat May 15 22:07:47 +0000 2021",
+		"id": 1393689593749418000,
+		"id_str": "1393689593749417994",
+		"full_text": "Zero coronavirus deaths have been announced in England, Scotland and Northern Ireland on Monday https://t.co/OwQ8gVnIW3",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			119
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/OwQ8gVnIW3",
+					"expanded_url": "https://www.bbc.com/news/health-57055340",
+					"display_url": "bbc.com/news/health-57…",
+					"indices": [
+						96,
+						119
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 5242,
+			"id_str": "5242",
+			"name": "Ahmed Al Omran",
+			"screen_name": "ahmed",
+			"location": "the internet",
+			"description": "Saudi journalist 📰 Formerly with @FT, @WSJ and @NPR 📩 Email: alomran@hey.com 📝 Subscribe to my @riyadhbureau newsletter: https://t.co/oe6r4OMmMT",
+			"url": "http://t.co/1tckurrksd",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/1tckurrksd",
+							"expanded_url": "http://alomran.me",
+							"display_url": "alomran.me",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/oe6r4OMmMT",
+							"expanded_url": "http://riyadhbureau.com",
+							"display_url": "riyadhbureau.com",
+							"indices": [
+								121,
+								144
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 151135,
+			"friends_count": 1952,
+			"listed_count": 2361,
+			"created_at": "Mon Sep 04 00:18:12 +0000 2006",
+			"favourites_count": 5352,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 107050,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "CCCCCC",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme5/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme5/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1325223421966479360/DJnkAtqN_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1325223421966479360/DJnkAtqN_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/5242/1569089262",
+			"profile_link_color": "002FA7",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "99CC33",
+			"profile_text_color": "3E4415",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Zero coronavirus deaths have been announced in England, Scotland and Northern Ireland on Monday https://t.co/OwQ8gVnIW3"
+	},
+	{
 		"created_at": "Sat May 15 19:34:38 +0000 2021",
 		"id": 1393651051954331600,
 		"id_str": "1393651051954331650",
