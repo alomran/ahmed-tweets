@@ -1,6 +1,714 @@
 Grailbird.data.tweets_2021_05 = 
 [
 	{
+		"created_at": "Thu May 20 19:53:21 +0000 2021",
+		"id": 1395467704191135700,
+		"id_str": "1395467704191135744",
+		"full_text": "Israel and Hamas agree ceasefire https://t.co/kumMpIXdvJ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			56
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/kumMpIXdvJ",
+					"expanded_url": "https://www.reuters.com/world/middle-east/israeli-cabinet-approves-gaza-truce-yedioth-ahronoth-reporter-says-2021-05-20/",
+					"display_url": "reuters.com/world/middle-e…",
+					"indices": [
+						33,
+						56
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 5242,
+			"id_str": "5242",
+			"name": "Ahmed Al Omran",
+			"screen_name": "ahmed",
+			"location": "the internet",
+			"description": "Saudi journalist 📰 Formerly with @FT, @WSJ and @NPR 📩 Email: alomran@hey.com 📝 Subscribe to my @riyadhbureau newsletter: https://t.co/oe6r4OMmMT",
+			"url": "http://t.co/1tckurrksd",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/1tckurrksd",
+							"expanded_url": "http://alomran.me",
+							"display_url": "alomran.me",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/oe6r4OMmMT",
+							"expanded_url": "http://riyadhbureau.com",
+							"display_url": "riyadhbureau.com",
+							"indices": [
+								121,
+								144
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 150995,
+			"friends_count": 1949,
+			"listed_count": 2361,
+			"created_at": "Mon Sep 04 00:18:12 +0000 2006",
+			"favourites_count": 5360,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 107079,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "CCCCCC",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme5/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme5/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1325223421966479360/DJnkAtqN_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1325223421966479360/DJnkAtqN_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/5242/1569089262",
+			"profile_link_color": "002FA7",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "99CC33",
+			"profile_text_color": "3E4415",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 7,
+		"favorite_count": 12,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Israel and Hamas agree ceasefire https://t.co/kumMpIXdvJ"
+	},
+	{
+		"created_at": "Thu May 20 12:21:48 +0000 2021",
+		"id": 1395354067036164000,
+		"id_str": "1395354067036164105",
+		"full_text": "Saudi Aramco is expected to refinance a $10 billion debt facility raised in 2015 in what would be the oil giant’s third major foray into the loan market this year https://t.co/Y4jqV0qcps",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			186
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Y4jqV0qcps",
+					"expanded_url": "https://www.reuters.com/business/energy/saudi-aramco-refinance-10-billion-revolving-loans-sources-2021-04-22/",
+					"display_url": "reuters.com/business/energ…",
+					"indices": [
+						163,
+						186
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 5242,
+			"id_str": "5242",
+			"name": "Ahmed Al Omran",
+			"screen_name": "ahmed",
+			"location": "the internet",
+			"description": "Saudi journalist 📰 Formerly with @FT, @WSJ and @NPR 📩 Email: alomran@hey.com 📝 Subscribe to my @riyadhbureau newsletter: https://t.co/oe6r4OMmMT",
+			"url": "http://t.co/1tckurrksd",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/1tckurrksd",
+							"expanded_url": "http://alomran.me",
+							"display_url": "alomran.me",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/oe6r4OMmMT",
+							"expanded_url": "http://riyadhbureau.com",
+							"display_url": "riyadhbureau.com",
+							"indices": [
+								121,
+								144
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 150995,
+			"friends_count": 1949,
+			"listed_count": 2361,
+			"created_at": "Mon Sep 04 00:18:12 +0000 2006",
+			"favourites_count": 5360,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 107079,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "CCCCCC",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme5/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme5/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1325223421966479360/DJnkAtqN_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1325223421966479360/DJnkAtqN_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/5242/1569089262",
+			"profile_link_color": "002FA7",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "99CC33",
+			"profile_text_color": "3E4415",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5,
+		"favorite_count": 15,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Saudi Aramco is expected to refinance a $10 billion debt facility raised in 2015 in what would be the oil giant’s third major foray into the loan market this year https://t.co/Y4jqV0qcps"
+	},
+	{
+		"created_at": "Thu May 20 10:44:38 +0000 2021",
+		"id": 1395329613631533000,
+		"id_str": "1395329613631533057",
+		"full_text": "To put this in perspective: more than 100,000 Saudis travelled abroad for the same Eid holiday period two years ago https://t.co/1RJpfdkiYD",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			115
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/1RJpfdkiYD",
+					"expanded_url": "https://twitter.com/ahmed/status/1395316656109404161",
+					"display_url": "twitter.com/ahmed/status/1…",
+					"indices": [
+						116,
+						139
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 5242,
+			"id_str": "5242",
+			"name": "Ahmed Al Omran",
+			"screen_name": "ahmed",
+			"location": "the internet",
+			"description": "Saudi journalist 📰 Formerly with @FT, @WSJ and @NPR 📩 Email: alomran@hey.com 📝 Subscribe to my @riyadhbureau newsletter: https://t.co/oe6r4OMmMT",
+			"url": "http://t.co/1tckurrksd",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/1tckurrksd",
+							"expanded_url": "http://alomran.me",
+							"display_url": "alomran.me",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/oe6r4OMmMT",
+							"expanded_url": "http://riyadhbureau.com",
+							"display_url": "riyadhbureau.com",
+							"indices": [
+								121,
+								144
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 150995,
+			"friends_count": 1949,
+			"listed_count": 2361,
+			"created_at": "Mon Sep 04 00:18:12 +0000 2006",
+			"favourites_count": 5360,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 107079,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "CCCCCC",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme5/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme5/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1325223421966479360/DJnkAtqN_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1325223421966479360/DJnkAtqN_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/5242/1569089262",
+			"profile_link_color": "002FA7",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "99CC33",
+			"profile_text_color": "3E4415",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1395316656109404200,
+		"quoted_status_id_str": "1395316656109404161",
+		"quoted_status_permalink": {
+			"url": "https://t.co/1RJpfdkiYD",
+			"expanded": "https://twitter.com/ahmed/status/1395316656109404161",
+			"display": "twitter.com/ahmed/status/1…"
+		},
+		"quoted_status": {
+			"created_at": "Thu May 20 09:53:09 +0000 2021",
+			"id": 1395316656109404200,
+			"id_str": "1395316656109404161",
+			"full_text": "18,675 Saudis left the country in the first 36 hours after the kingdom finally lifted its ban on citizens travelling abroad https://t.co/xhPKJ1O8dH",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				147
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/xhPKJ1O8dH",
+						"expanded_url": "https://www.riyadhbureau.com/p/saudi-coronavirus-travel",
+						"display_url": "riyadhbureau.com/p/saudi-corona…",
+						"indices": [
+							124,
+							147
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 5242,
+				"id_str": "5242",
+				"name": "Ahmed Al Omran",
+				"screen_name": "ahmed",
+				"location": "the internet",
+				"description": "Saudi journalist 📰 Formerly with @FT, @WSJ and @NPR 📩 Email: alomran@hey.com 📝 Subscribe to my @riyadhbureau newsletter: https://t.co/oe6r4OMmMT",
+				"url": "http://t.co/1tckurrksd",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/1tckurrksd",
+								"expanded_url": "http://alomran.me",
+								"display_url": "alomran.me",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/oe6r4OMmMT",
+								"expanded_url": "http://riyadhbureau.com",
+								"display_url": "riyadhbureau.com",
+								"indices": [
+									121,
+									144
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 150995,
+				"friends_count": 1949,
+				"listed_count": 2361,
+				"created_at": "Mon Sep 04 00:18:12 +0000 2006",
+				"favourites_count": 5360,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 107079,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "CCCCCC",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme5/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme5/bg.gif",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1325223421966479360/DJnkAtqN_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1325223421966479360/DJnkAtqN_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/5242/1569089262",
+				"profile_link_color": "002FA7",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "99CC33",
+				"profile_text_color": "3E4415",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "regular",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 8,
+			"favorite_count": 12,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 4,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "To put this in perspective: more than 100,000 Saudis travelled abroad for the same Eid holiday period two years ago https://t.co/1RJpfdkiYD"
+	},
+	{
+		"created_at": "Thu May 20 10:14:35 +0000 2021",
+		"id": 1395322049728548900,
+		"id_str": "1395322049728548867",
+		"full_text": "Saudi Arabia committed to help Sudan with debt relief, finance minister says https://t.co/8iPqrUfUkc",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			100
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/8iPqrUfUkc",
+					"expanded_url": "https://suna-sd.net/read?id=712644",
+					"display_url": "suna-sd.net/read?id=712644",
+					"indices": [
+						77,
+						100
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 5242,
+			"id_str": "5242",
+			"name": "Ahmed Al Omran",
+			"screen_name": "ahmed",
+			"location": "the internet",
+			"description": "Saudi journalist 📰 Formerly with @FT, @WSJ and @NPR 📩 Email: alomran@hey.com 📝 Subscribe to my @riyadhbureau newsletter: https://t.co/oe6r4OMmMT",
+			"url": "http://t.co/1tckurrksd",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/1tckurrksd",
+							"expanded_url": "http://alomran.me",
+							"display_url": "alomran.me",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/oe6r4OMmMT",
+							"expanded_url": "http://riyadhbureau.com",
+							"display_url": "riyadhbureau.com",
+							"indices": [
+								121,
+								144
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 150995,
+			"friends_count": 1949,
+			"listed_count": 2361,
+			"created_at": "Mon Sep 04 00:18:12 +0000 2006",
+			"favourites_count": 5360,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 107079,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "CCCCCC",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme5/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme5/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1325223421966479360/DJnkAtqN_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1325223421966479360/DJnkAtqN_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/5242/1569089262",
+			"profile_link_color": "002FA7",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "99CC33",
+			"profile_text_color": "3E4415",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Saudi Arabia committed to help Sudan with debt relief, finance minister says https://t.co/8iPqrUfUkc"
+	},
+	{
+		"created_at": "Thu May 20 09:53:09 +0000 2021",
+		"id": 1395316656109404200,
+		"id_str": "1395316656109404161",
+		"full_text": "18,675 Saudis left the country in the first 36 hours after the kingdom finally lifted its ban on citizens travelling abroad https://t.co/xhPKJ1O8dH",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			147
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/xhPKJ1O8dH",
+					"expanded_url": "https://www.riyadhbureau.com/p/saudi-coronavirus-travel",
+					"display_url": "riyadhbureau.com/p/saudi-corona…",
+					"indices": [
+						124,
+						147
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 5242,
+			"id_str": "5242",
+			"name": "Ahmed Al Omran",
+			"screen_name": "ahmed",
+			"location": "the internet",
+			"description": "Saudi journalist 📰 Formerly with @FT, @WSJ and @NPR 📩 Email: alomran@hey.com 📝 Subscribe to my @riyadhbureau newsletter: https://t.co/oe6r4OMmMT",
+			"url": "http://t.co/1tckurrksd",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/1tckurrksd",
+							"expanded_url": "http://alomran.me",
+							"display_url": "alomran.me",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/oe6r4OMmMT",
+							"expanded_url": "http://riyadhbureau.com",
+							"display_url": "riyadhbureau.com",
+							"indices": [
+								121,
+								144
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 150995,
+			"friends_count": 1949,
+			"listed_count": 2361,
+			"created_at": "Mon Sep 04 00:18:12 +0000 2006",
+			"favourites_count": 5360,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 107079,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "CCCCCC",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme5/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme5/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1325223421966479360/DJnkAtqN_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1325223421966479360/DJnkAtqN_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/5242/1569089262",
+			"profile_link_color": "002FA7",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "99CC33",
+			"profile_text_color": "3E4415",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 8,
+		"favorite_count": 12,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "18,675 Saudis left the country in the first 36 hours after the kingdom finally lifted its ban on citizens travelling abroad https://t.co/xhPKJ1O8dH"
+	},
+	{
 		"created_at": "Wed May 19 17:36:30 +0000 2021",
 		"id": 1395070877419675600,
 		"id_str": "1395070877419675653",
