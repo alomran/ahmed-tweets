@@ -1,6 +1,357 @@
 Grailbird.data.tweets_2021_06 = 
 [
 	{
+		"created_at": "Fri Jun 18 20:28:13 +0000 2021",
+		"id": 1405985725447819300,
+		"id_str": "1405985725447819264",
+		"full_text": "@KarlreMarks Team Tierney 🏴󠁧󠁢󠁳󠁣󠁴󠁿",
+		"truncated": false,
+		"display_text_range": [
+			13,
+			33
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "KarlreMarks",
+					"name": "Karl Sharro",
+					"id": 25058787,
+					"id_str": "25058787",
+					"indices": [
+						0,
+						12
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 1405985192049885200,
+		"in_reply_to_status_id_str": "1405985192049885184",
+		"in_reply_to_user_id": 25058787,
+		"in_reply_to_user_id_str": "25058787",
+		"in_reply_to_screen_name": "KarlreMarks",
+		"user": {
+			"id": 5242,
+			"id_str": "5242",
+			"name": "Ahmed Al Omran",
+			"screen_name": "ahmed",
+			"location": "the internet",
+			"description": "Saudi journalist 📰 Formerly with @FT, @WSJ and @NPR 📩 Email: alomran@hey.com 📝 Subscribe to my @riyadhbureau newsletter: https://t.co/oe6r4OMmMT",
+			"url": "http://t.co/1tckurrksd",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/1tckurrksd",
+							"expanded_url": "http://alomran.me",
+							"display_url": "alomran.me",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/oe6r4OMmMT",
+							"expanded_url": "http://riyadhbureau.com",
+							"display_url": "riyadhbureau.com",
+							"indices": [
+								121,
+								144
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 150590,
+			"friends_count": 1951,
+			"listed_count": 2361,
+			"created_at": "Mon Sep 04 00:18:12 +0000 2006",
+			"favourites_count": 5351,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 672,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "CCCCCC",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme5/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme5/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1325223421966479360/DJnkAtqN_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1325223421966479360/DJnkAtqN_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/5242/1621595997",
+			"profile_link_color": "002FA7",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "99CC33",
+			"profile_text_color": "3E4415",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@KarlreMarks Team Tierney 🏴󠁧󠁢󠁳󠁣󠁴󠁿"
+	},
+	{
+		"created_at": "Fri Jun 18 16:54:58 +0000 2021",
+		"id": 1405932057746935800,
+		"id_str": "1405932057746935810",
+		"full_text": "Ideas to make Apple’s iOS more humane https://t.co/fWOdiUPOYM",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			61
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/fWOdiUPOYM",
+					"expanded_url": "https://potential.app/ios-15-humane",
+					"display_url": "potential.app/ios-15-humane",
+					"indices": [
+						38,
+						61
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 5242,
+			"id_str": "5242",
+			"name": "Ahmed Al Omran",
+			"screen_name": "ahmed",
+			"location": "the internet",
+			"description": "Saudi journalist 📰 Formerly with @FT, @WSJ and @NPR 📩 Email: alomran@hey.com 📝 Subscribe to my @riyadhbureau newsletter: https://t.co/oe6r4OMmMT",
+			"url": "http://t.co/1tckurrksd",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/1tckurrksd",
+							"expanded_url": "http://alomran.me",
+							"display_url": "alomran.me",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/oe6r4OMmMT",
+							"expanded_url": "http://riyadhbureau.com",
+							"display_url": "riyadhbureau.com",
+							"indices": [
+								121,
+								144
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 150590,
+			"friends_count": 1951,
+			"listed_count": 2361,
+			"created_at": "Mon Sep 04 00:18:12 +0000 2006",
+			"favourites_count": 5351,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 672,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "CCCCCC",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme5/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme5/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1325223421966479360/DJnkAtqN_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1325223421966479360/DJnkAtqN_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/5242/1621595997",
+			"profile_link_color": "002FA7",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "99CC33",
+			"profile_text_color": "3E4415",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Ideas to make Apple’s iOS more humane https://t.co/fWOdiUPOYM"
+	},
+	{
+		"created_at": "Fri Jun 18 14:06:27 +0000 2021",
+		"id": 1405889652314235000,
+		"id_str": "1405889652314234884",
+		"full_text": "NYTimes and The Athletic end acquisition talks without reaching a deal after the two sides failed to agree on price https://t.co/13VLRXyied",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			139
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/13VLRXyied",
+					"expanded_url": "https://www.theinformation.com/articles/the-new-york-times-and-the-athletic-end-acquisition-talks",
+					"display_url": "theinformation.com/articles/the-n…",
+					"indices": [
+						116,
+						139
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 5242,
+			"id_str": "5242",
+			"name": "Ahmed Al Omran",
+			"screen_name": "ahmed",
+			"location": "the internet",
+			"description": "Saudi journalist 📰 Formerly with @FT, @WSJ and @NPR 📩 Email: alomran@hey.com 📝 Subscribe to my @riyadhbureau newsletter: https://t.co/oe6r4OMmMT",
+			"url": "http://t.co/1tckurrksd",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/1tckurrksd",
+							"expanded_url": "http://alomran.me",
+							"display_url": "alomran.me",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/oe6r4OMmMT",
+							"expanded_url": "http://riyadhbureau.com",
+							"display_url": "riyadhbureau.com",
+							"indices": [
+								121,
+								144
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 150590,
+			"friends_count": 1951,
+			"listed_count": 2361,
+			"created_at": "Mon Sep 04 00:18:12 +0000 2006",
+			"favourites_count": 5351,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 672,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "CCCCCC",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme5/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme5/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1325223421966479360/DJnkAtqN_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1325223421966479360/DJnkAtqN_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/5242/1621595997",
+			"profile_link_color": "002FA7",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "99CC33",
+			"profile_text_color": "3E4415",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "NYTimes and The Athletic end acquisition talks without reaching a deal after the two sides failed to agree on price https://t.co/13VLRXyied"
+	},
+	{
 		"created_at": "Wed Jun 16 19:53:51 +0000 2021",
 		"id": 1405252299136684000,
 		"id_str": "1405252299136684032",
