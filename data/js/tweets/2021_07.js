@@ -1,6 +1,732 @@
 Grailbird.data.tweets_2021_07 = 
 [
 	{
+		"created_at": "Mon Jul 05 15:41:31 +0000 2021",
+		"id": 1412074168842080300,
+		"id_str": "1412074168842080258",
+		"full_text": "Opec+ meeting cancelled —Saudi state TV https://t.co/Dp0X6IBGui",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			39
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Dp0X6IBGui",
+					"expanded_url": "https://twitter.com/EKH_brk/status/1412073580758700032",
+					"display_url": "twitter.com/EKH_brk/status…",
+					"indices": [
+						40,
+						63
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 5242,
+			"id_str": "5242",
+			"name": "Ahmed Al Omran",
+			"screen_name": "ahmed",
+			"location": "the internet",
+			"description": "Saudi journalist 📰 Formerly with @FT, @WSJ and @NPR 📩 Email: alomran@hey.com 📝 Subscribe to my @riyadhbureau newsletter: https://t.co/oe6r4OMmMT",
+			"url": "http://t.co/1tckurrksd",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/1tckurrksd",
+							"expanded_url": "http://alomran.me",
+							"display_url": "alomran.me",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/oe6r4OMmMT",
+							"expanded_url": "http://riyadhbureau.com",
+							"display_url": "riyadhbureau.com",
+							"indices": [
+								121,
+								144
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 150562,
+			"friends_count": 1953,
+			"listed_count": 2361,
+			"created_at": "Mon Sep 04 00:18:12 +0000 2006",
+			"favourites_count": 5358,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 626,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "CCCCCC",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme5/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme5/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1325223421966479360/DJnkAtqN_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1325223421966479360/DJnkAtqN_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/5242/1621595997",
+			"profile_link_color": "002FA7",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "99CC33",
+			"profile_text_color": "3E4415",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1412073580758700000,
+		"quoted_status_id_str": "1412073580758700032",
+		"quoted_status_permalink": {
+			"url": "https://t.co/Dp0X6IBGui",
+			"expanded": "https://twitter.com/EKH_brk/status/1412073580758700032",
+			"display": "twitter.com/EKH_brk/status…"
+		},
+		"quoted_status": {
+			"created_at": "Mon Jul 05 15:39:11 +0000 2021",
+			"id": 1412073580758700000,
+			"id_str": "1412073580758700032",
+			"full_text": "مصادر #الإخبارية: إلغاء اجتماع أوبك+ المقرر اليوم وتحديد الاجتماع المقبل لاحقاً\n#الإخبارية_عاجل",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				95
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "الإخبارية",
+						"indices": [
+							6,
+							16
+						]
+					},
+					{
+						"text": "الإخبارية_عاجل",
+						"indices": [
+							80,
+							95
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 4349033200,
+				"id_str": "4349033200",
+				"name": "الإخبارية عاجل",
+				"screen_name": "EKH_brk",
+				"location": "",
+				"description": "خدمة #الإخبارية للأخبار العاجلة على مدار الساعة، تابعوا حسابنا @alekhbariyatv",
+				"url": "https://t.co/D6k8Dv78ts",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/D6k8Dv78ts",
+								"expanded_url": "http://www.ekhbariyatv.sa/",
+								"display_url": "ekhbariyatv.sa",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 226832,
+				"friends_count": 15,
+				"listed_count": 478,
+				"created_at": "Wed Dec 02 09:05:49 +0000 2015",
+				"favourites_count": 0,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 20060,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1259543166048448514/czRoVpZW_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1259543166048448514/czRoVpZW_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/4349033200/1570340101",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 40,
+			"favorite_count": 35,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "ar"
+		},
+		"retweet_count": 5,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Opec+ meeting cancelled —Saudi state TV https://t.co/Dp0X6IBGui"
+	},
+	{
+		"created_at": "Mon Jul 05 08:36:56 +0000 2021",
+		"id": 1411967320675737600,
+		"id_str": "1411967320675737600",
+		"full_text": "@Prof_Chadwick Al Ahli were originally sponsored by Qatar Airways. Saudia only became a sponsor after QA sponsorship deal was cancelled due to the Gulf dispute",
+		"truncated": false,
+		"display_text_range": [
+			15,
+			159
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Prof_Chadwick",
+					"name": "Professor Simon Chadwick",
+					"id": 19999266,
+					"id_str": "19999266",
+					"indices": [
+						0,
+						14
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 1411966611934875600,
+		"in_reply_to_status_id_str": "1411966611934875649",
+		"in_reply_to_user_id": 19999266,
+		"in_reply_to_user_id_str": "19999266",
+		"in_reply_to_screen_name": "Prof_Chadwick",
+		"user": {
+			"id": 5242,
+			"id_str": "5242",
+			"name": "Ahmed Al Omran",
+			"screen_name": "ahmed",
+			"location": "the internet",
+			"description": "Saudi journalist 📰 Formerly with @FT, @WSJ and @NPR 📩 Email: alomran@hey.com 📝 Subscribe to my @riyadhbureau newsletter: https://t.co/oe6r4OMmMT",
+			"url": "http://t.co/1tckurrksd",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/1tckurrksd",
+							"expanded_url": "http://alomran.me",
+							"display_url": "alomran.me",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/oe6r4OMmMT",
+							"expanded_url": "http://riyadhbureau.com",
+							"display_url": "riyadhbureau.com",
+							"indices": [
+								121,
+								144
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 150562,
+			"friends_count": 1953,
+			"listed_count": 2361,
+			"created_at": "Mon Sep 04 00:18:12 +0000 2006",
+			"favourites_count": 5358,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 626,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "CCCCCC",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme5/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme5/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1325223421966479360/DJnkAtqN_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1325223421966479360/DJnkAtqN_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/5242/1621595997",
+			"profile_link_color": "002FA7",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "99CC33",
+			"profile_text_color": "3E4415",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@Prof_Chadwick Al Ahli were originally sponsored by Qatar Airways. Saudia only became a sponsor after QA sponsorship deal was cancelled due to the Gulf dispute"
+	},
+	{
+		"created_at": "Mon Jul 05 08:15:36 +0000 2021",
+		"id": 1411961949299130400,
+		"id_str": "1411961949299130373",
+		"full_text": "Now _this_ is how you announce your team for the Olympics https://t.co/fjfGWBC5sP",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			57
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/fjfGWBC5sP",
+					"expanded_url": "https://twitter.com/DFB_Junioren/status/1411958024953122816",
+					"display_url": "twitter.com/DFB_Junioren/s…",
+					"indices": [
+						58,
+						81
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 5242,
+			"id_str": "5242",
+			"name": "Ahmed Al Omran",
+			"screen_name": "ahmed",
+			"location": "the internet",
+			"description": "Saudi journalist 📰 Formerly with @FT, @WSJ and @NPR 📩 Email: alomran@hey.com 📝 Subscribe to my @riyadhbureau newsletter: https://t.co/oe6r4OMmMT",
+			"url": "http://t.co/1tckurrksd",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/1tckurrksd",
+							"expanded_url": "http://alomran.me",
+							"display_url": "alomran.me",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/oe6r4OMmMT",
+							"expanded_url": "http://riyadhbureau.com",
+							"display_url": "riyadhbureau.com",
+							"indices": [
+								121,
+								144
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 150562,
+			"friends_count": 1953,
+			"listed_count": 2361,
+			"created_at": "Mon Sep 04 00:18:12 +0000 2006",
+			"favourites_count": 5358,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 626,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "CCCCCC",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme5/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme5/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1325223421966479360/DJnkAtqN_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1325223421966479360/DJnkAtqN_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/5242/1621595997",
+			"profile_link_color": "002FA7",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "99CC33",
+			"profile_text_color": "3E4415",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1411958024953122800,
+		"quoted_status_id_str": "1411958024953122816",
+		"quoted_status_permalink": {
+			"url": "https://t.co/fjfGWBC5sP",
+			"expanded": "https://twitter.com/DFB_Junioren/status/1411958024953122816",
+			"display": "twitter.com/DFB_Junioren/s…"
+		},
+		"quoted_status": {
+			"created_at": "Mon Jul 05 08:00:00 +0000 2021",
+			"id": 1411958024953122800,
+			"id_str": "1411958024953122816",
+			"full_text": "UNSER TEAM FÜR TOKIO! 🇯🇵\n\nWir sind richtig stolz, mit diesen Jungs ein Teil von @TeamD zu sein 🖤❤️💛 心を込めて - #HERZZEIGEN!\n\n#WirfuerD #roadtotokyo https://t.co/E6J2Y6djJj",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				144
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "HERZZEIGEN",
+						"indices": [
+							108,
+							119
+						]
+					},
+					{
+						"text": "WirfuerD",
+						"indices": [
+							122,
+							131
+						]
+					},
+					{
+						"text": "roadtotokyo",
+						"indices": [
+							132,
+							144
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "TeamD",
+						"name": "Team Deutschland",
+						"id": 4118757023,
+						"id_str": "4118757023",
+						"indices": [
+							80,
+							86
+						]
+					}
+				],
+				"urls": [],
+				"media": [
+					{
+						"id": 1411947171256144000,
+						"id_str": "1411947171256143873",
+						"indices": [
+							145,
+							168
+						],
+						"media_url": "http://pbs.twimg.com/media/E5hBggwWYAEmoQa.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/E5hBggwWYAEmoQa.jpg",
+						"url": "https://t.co/E6J2Y6djJj",
+						"display_url": "pic.twitter.com/E6J2Y6djJj",
+						"expanded_url": "https://twitter.com/DFB_Junioren/status/1411958024953122816/video/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 640,
+								"h": 360,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 640,
+								"h": 360,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 640,
+								"h": 360,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1411947171256144000,
+						"id_str": "1411947171256143873",
+						"indices": [
+							145,
+							168
+						],
+						"media_url": "http://pbs.twimg.com/media/E5hBggwWYAEmoQa.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/E5hBggwWYAEmoQa.jpg",
+						"url": "https://t.co/E6J2Y6djJj",
+						"display_url": "pic.twitter.com/E6J2Y6djJj",
+						"expanded_url": "https://twitter.com/DFB_Junioren/status/1411958024953122816/video/1",
+						"type": "video",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 640,
+								"h": 360,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 640,
+								"h": 360,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 640,
+								"h": 360,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								16,
+								9
+							],
+							"duration_millis": 106333,
+							"variants": [
+								{
+									"bitrate": 288000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/amplify_video/1411947171256143873/vid/480x270/hmFH_DivG_N_QeiH.mp4?tag=14"
+								},
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/amplify_video/1411947171256143873/pl/bUBjJPgG4ulXnaUg.m3u8?tag=14"
+								},
+								{
+									"bitrate": 2176000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/amplify_video/1411947171256143873/vid/1280x720/H-bVU4E6OOoNsMMi.mp4?tag=14"
+								},
+								{
+									"bitrate": 832000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/amplify_video/1411947171256143873/vid/640x360/UOWUN6E2G28B4BDk.mp4?tag=14"
+								}
+							]
+						},
+						"additional_media_info": {
+							"title": "Der Olympia-Kader",
+							"description": "",
+							"embeddable": true,
+							"monetizable": false
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 80858631,
+				"id_str": "80858631",
+				"name": "Team Deutschland | Fußball 🇩🇪",
+				"screen_name": "DFB_Junioren",
+				"location": "Frankfurt am Main",
+				"description": "Offizieller Account der Junioren-Teams des @DFB, der A- und B-Junioren-Bundesligen sowie des DFB-Pokals der Junioren. #U15-#U21. Impressum: https://t.co/w6rLLj170g",
+				"url": "https://t.co/xa1d1JuL73",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/xa1d1JuL73",
+								"expanded_url": "http://www.dfb.de",
+								"display_url": "dfb.de",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/w6rLLj170g",
+								"expanded_url": "http://bit.ly/TYm2jQ",
+								"display_url": "bit.ly/TYm2jQ",
+								"indices": [
+									140,
+									163
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 100767,
+				"friends_count": 180,
+				"listed_count": 570,
+				"created_at": "Thu Oct 08 14:18:59 +0000 2009",
+				"favourites_count": 1389,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 16981,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0C0C0",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1411938603241033728/k6SRY9LK_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1411938603241033728/k6SRY9LK_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/80858631/1625475177",
+				"profile_link_color": "009A64",
+				"profile_sidebar_border_color": "DFDFDF",
+				"profile_sidebar_fill_color": "FFFFFF",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 2828,
+			"favorite_count": 14937,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "ja"
+		},
+		"retweet_count": 2,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Now _this_ is how you announce your team for the Olympics https://t.co/fjfGWBC5sP"
+	},
+	{
 		"created_at": "Sun Jul 04 20:05:07 +0000 2021",
 		"id": 1411778117622972400,
 		"id_str": "1411778117622972419",
