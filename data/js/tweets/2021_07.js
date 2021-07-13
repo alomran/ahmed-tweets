@@ -1,6 +1,225 @@
 Grailbird.data.tweets_2021_07 = 
 [
 	{
+		"created_at": "Tue Jul 13 17:54:12 +0000 2021",
+		"id": 1415006661077524500,
+		"id_str": "1415006661077524483",
+		"full_text": "Being the first “Ahmed” on Twitter https://t.co/Wd3ucClAFg",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			34
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Wd3ucClAFg",
+					"expanded_url": "https://twitter.com/officialPdotH/status/1414652049711587328",
+					"display_url": "twitter.com/officialPdotH/…",
+					"indices": [
+						35,
+						58
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 5242,
+			"id_str": "5242",
+			"name": "Ahmed Al Omran",
+			"screen_name": "ahmed",
+			"location": "the internet",
+			"description": "Saudi journalist 📰 Formerly with @FT, @WSJ and @NPR 📩 Email: alomran@hey.com 📝 Subscribe to my @riyadhbureau newsletter: https://t.co/oe6r4OMmMT",
+			"url": "http://t.co/1tckurrksd",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/1tckurrksd",
+							"expanded_url": "http://alomran.me",
+							"display_url": "alomran.me",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/oe6r4OMmMT",
+							"expanded_url": "http://riyadhbureau.com",
+							"display_url": "riyadhbureau.com",
+							"indices": [
+								121,
+								144
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 150516,
+			"friends_count": 1949,
+			"listed_count": 2358,
+			"created_at": "Mon Sep 04 00:18:12 +0000 2006",
+			"favourites_count": 5359,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 603,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "CCCCCC",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme5/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme5/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1325223421966479360/DJnkAtqN_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1325223421966479360/DJnkAtqN_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/5242/1621595997",
+			"profile_link_color": "002FA7",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "99CC33",
+			"profile_text_color": "3E4415",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1414652049711587300,
+		"quoted_status_id_str": "1414652049711587328",
+		"quoted_status_permalink": {
+			"url": "https://t.co/Wd3ucClAFg",
+			"expanded": "https://twitter.com/officialPdotH/status/1414652049711587328",
+			"display": "twitter.com/officialPdotH/…"
+		},
+		"quoted_status": {
+			"created_at": "Mon Jul 12 18:25:06 +0000 2021",
+			"id": 1414652049711587300,
+			"id_str": "1414652049711587328",
+			"full_text": "What are you Twitter “famous” for?",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				34
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1196222749024362500,
+				"id_str": "1196222749024362497",
+				"name": "Simply P: Not From Concentrate",
+				"screen_name": "officialPdotH",
+				"location": "Houston 🐼",
+				"description": "I Tweet Jokes. #LakeShow #OnePride @ohyesitseve beats me. Entry Level Baby Maker. Fitness Coach @phfitnessga . Podcaster. Saginaw 🏡",
+				"url": "https://t.co/bkhNIDy0Hw",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/bkhNIDy0Hw",
+								"expanded_url": "https://anchor.fm/patrick-harrell",
+								"display_url": "anchor.fm/patrick-harrell",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 7812,
+				"friends_count": 8053,
+				"listed_count": 4,
+				"created_at": "Mon Nov 18 00:25:14 +0000 2019",
+				"favourites_count": 116615,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 127775,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1402488796827037698/asSnx5Tv_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1402488796827037698/asSnx5Tv_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1196222749024362497/1622502561",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 71,
+			"favorite_count": 1144,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 35,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Being the first “Ahmed” on Twitter https://t.co/Wd3ucClAFg"
+	},
+	{
 		"created_at": "Mon Jul 12 20:19:19 +0000 2021",
 		"id": 1414680795059478500,
 		"id_str": "1414680795059478528",
